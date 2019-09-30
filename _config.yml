@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -19,15 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Kevin Y.S. Wong
-email: your-email@nd.edu
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a first year PhD student at the University of Notre Dame,
-  where I am working wtith Nitesh Chawla in the DIAL lab. Prior 
-  to graduate school, I spent several years in industry. Before
-  that, I did my undergraduate studies at NYU. My research interests
-  are in machine learning and natural language processing.
+  PhD student at the University of Notre Dame
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kevinyswong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kevinyswong.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username:  kevinyswong
 github_username:    kevinyswong
 
