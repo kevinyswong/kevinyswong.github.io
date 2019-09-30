@@ -5,7 +5,7 @@ title: Ruminations
 
 <h4>2019-09-30, 一. Towards Mundanity.</h4>
 <p>
-It seems to me that there is a a misplaced importance in the glittery and special,
+It seems to me that there is a misplaced importance in the glittery and special,
 the infrequent and towering. Consider for a minute what we deem noteworthy,
 the occasions, the people, the excursions we wish to record in some form so we may
 later remember the original instance. Imagine what tempts us to take a photo: family
