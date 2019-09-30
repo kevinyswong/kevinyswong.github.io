@@ -5,13 +5,10 @@
 layout: default
 ---
 
-<div style="width: 200px; height:1000px;float: left; padding-right: 50px;">
+<div style="width: 200px; height: 300px;float: left; padding-right: 50px;">
   <img src="photo.jpeg" style="padding-bottom: 20px;">
-  <ul class="social-media-list">
 
-  {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">GitHub</span></a></li>{%- endif -%}
-  {%- if site.linkedin_username -%}<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">LinkedIn</span></a></li>{%- endif -%}
-</ul>
+  {%- include social.html -%}
 </div>
 
 <div>
