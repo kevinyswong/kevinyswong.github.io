@@ -3,6 +3,31 @@ layout: page
 title: Ruminations
 ---
 
+<h4>2019-10-02, 三.</h4>
+<p>
+this morning’s decadence<br>
+peanut butter from the jar<br>
+expanding slowly on my bagel<br>
+</p>
+
+<p>
+absorbed in thought<br>
+I look up, recontextualizing myself<br>
+glancing down two seconds later<br>
+a blank mind<br>
+I’ve lost my place<br>
+</p>
+
+<p>
+walking in hurried strides<br>
+pause for a moment, let the rush subside<br>
+immerse in the anonymous<br>
+project your focus outside<br>
+view yourself from the sky<br>
+lost in the heaping crowd<br>
+that old city life<br>
+</p>
+
 <h4>2019-09-30, 一. Towards Mundanity.</h4>
 <p>
 It seems to me that there is a misplaced importance in the glittery and special,
@@ -102,6 +127,12 @@ because I know it in advance as a matter of weekly routine. The laws of nature a
 difficult, but so is the human psyche. If this private, continual journey delves
 further and further inwards, it is in pursuit of eventual self-discovery. We are
 each of us, if given proper consideration, our own worlds waiting to be unveiled.
+</p>
+
+<p>
+I’m not the only one buying them after all<br>
+none left at my supplier<br>
+my bagels ran out last night<br>
 </p>
 
 <h4>2019-09-23, 一. Excerpt from the little black book.</h4>
