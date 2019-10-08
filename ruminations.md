@@ -3,6 +3,15 @@ layout: page
 title: Ruminations
 ---
 
+<h4>2019-10-07, 一.</h4>
+<p>
+having reconciled with the dread<br>
+that I'd lost them with my move<br>
+I encounter the tribe again<br>
+in my lab's cohort<br>
+staring down the years ahead
+</p>
+
 <h4>2019-10-02, 三.</h4>
 <p>
 this morning’s decadence<br>
