@@ -2,6 +2,14 @@
 layout: page
 title: Ruminations
 ---
+<h4>2019-10-18, 五</h4>
+<p>
+my campus footpath at the start of fall break<br>
+under the early evening sun<br>
+that eerie feeling<br>
+emptiness where people should be<br>
+like parts of the city, late at night
+</p>
 
 <h4>2019-10-07, 一.</h4>
 <p>
