@@ -2,7 +2,99 @@
 layout: page
 title: Ruminations
 ---
-<h4>2019-10-18, 五</h4>
+<h4>2019-10-19, 六. On Humility.</h4>
+<p>
+I came across some old archives from my college. In them, photos—I'll provide
+the links at the end of this entry, but it is my hope that the reader resist
+the itch to scroll down. The plague of modernity, fragmented, interrupting,
+dispersed across screens, paper, devices, copies and versions, scrambled notes
+and secluded apps, cross-referencing links, bold images and billboard pizzazz,
+chaos and dementia all vying for attention, is not the lack of information but
+the senseless deluge of it. In these old archives, photos: a past era spread across
+decades, from the early to late 1900s. The exact dates, just one window among many,
+are not important. Age is apparent in the photos: black-and-white, the box desktop
+monitor, the oversized eyeglasses common in a bygone era. An image of the building
+facade I know so well, that entrance colonnade, the familiar study rooms and
+library stacks, the exposed brick in the background whose texture I can still
+feel on my fingertips, whose varying shades of deep tan at the front of a
+lecture hall I can still see from the back row. Photos of students and professors,
+angled over a book, gesturing against a blackboard, a chin resting on a palm. These
+are images of contemplation. I see my former professor too; he is young, the dawn
+of the present's grey hair still on the unforeseeable horizon, and I am reminded of his
+soft-spoken, deliberate words, his liberal smiles. Here in these images is an
+ethos, a generation that has had its day. I ask: where has the time gone?
+A day will come when my own present, captured in its 4K ultra-high definition,
+its 60 FPS videos, its surround sound, will seem the same way the image my
+former professor does to me.
+</p>
+
+<p>
+Why am I consistently struck by images like these? They check me and my
+obsessions, my principles and remorseless ventures, my defiances and rages, my
+deep subversion and antipathy, my irreverence and disregard, my high
+expectation, my absurdism  which proclaims with all its bared conviction the
+active pursuit of personal meaning, hinged on individualism and suffering. Who
+can't revel when resources abound, when surplus is assured? Who can't lounge
+at the resort, the tropical vacation, under the canopy of a beach umbrella? How
+can you measure a man's worth without plunging him into confusion, without testing
+his willpower, without questioning his premises, without first casting him into
+continual self-doubt, without subjecting him to arduous probing, without seeing
+what comes of him at the end, without the final analysis? How can you understand
+him if you only broach the surface? Does not our brittle sentience oblige us to
+something higher? Begin thus: shut the eyes, lock the world out, and create
+your own. There is naive happiness: contagiously distracting, wholly irrelevant,
+easy happiness. And yet is joy and elation not written in the eyes in those photos,
+snapshots of once-luminous years now laid to rest, encrusted in digitized stone?
+What justifies this morbid preoccupation, this pathological vexation? Who wanders
+on the distant shore? There is immortality, transcendence, a surge for meaning,
+the soaring spirit, and what but a mere few decades collapses a firestorm into
+flickering vestiges, a reality no longer ignorable, a whirling intensity and dire
+flame abated by universal inevitability? Push enough in one direction, and the
+path converges on the other end, the whole ordeal turning out to be nothing more
+than a simple circle. Is not man waking contradiction, lucid paradox? What lies in
+the periphery erodes, our own constructions crumbling away, when we, at our silent,
+inconsequential ends, rejoin the dust clouds. I remember the broad strokes of an
+algorithm book's preface I chanced upon some years ago, encapsulated in these words:
+"We are all born into this world grasping for comprehension. We leave it in much
+the same way." As I gaze at these photos and am forced to confront the fate of our
+collective humanity, I cave in to the flash of overwhelming sympathy, inspired
+to the depths towards pure union, and am convinced that this is the veritable truth,
+but do I not soon regain the call to existence? Am I not at every moment of ease
+restless? And when among friends at an evening gathering, among companions
+enjoying company, am I not suspicious of communal comfort, and am I not asking
+myself whether I shouldn't be doing something productive? Perhaps I do not
+see past youthful illusion, and I remain the perpetual sourpuss, the unyielding
+killjoy. Perhaps the matter of fact is this habit of mine is needless exertion,
+because—you, me, and everyone else—we're all just wasting time. A part of me,
+down to its very blood and bones, its beating heart and spiritual core, longs
+for transcendence. Another, which surfaces infrequently, and always with cataclysmic
+delirium, crumbles down to earth, grovelling on its knees, defeated and repenting.
+In me are disjoint visions, distal opposites, a fervent intensity which hardly
+anyone can detect beneath a serene appearance and pliable demeanor, much less for
+a people known far more for amenability than audacity, the orient's deep-rooted
+harmony, because the strength of the outward thrust is paired with a stronger
+restraint, dimpled by over-sensitive nerves quickly overwhelmed from multiple commotion.
+</p>
+
+<p>
+I had come across the archive photos a while ago but was reminded of them after
+I was, in the unpredicatable network of the internet, linked to the late
+Jack Schwartz's In Memoriam site. Browsing the photos, I felt grounded, anchored.
+The fact that the camera is not as sharp as contemporary ones dates the photos,
+contextualizing them. Though I never met Jack, I saw in these images a life in
+retrospect, countries I've also visited, travels I can relate to, and which,
+as they appear in those images, seem to belong to Jack's time. To linger over the
+past is an undiluted view—somber, yes—but it is a fate which not too far in the
+future will be our own and which should evoke in us not only relation to another
+time and how we are situated against it, but also emphasize what is at stake
+when we live ours. The greatest divides are the boundaries across generations,
+life experience locked away in the written word or the still photograph.
+</p>
+
+<a href="https://cims.nyu.edu/gallery/index.html">College photo archives</a><br>
+<a href="https://cs.nyu.edu/cs/faculty/schwartz/Links.html">Jack Schwartz</a>
+
+<h4>2019-10-18, 五.</h4>
 <p>
 my campus footpath at the start of fall break<br>
 under the early evening sun<br>
