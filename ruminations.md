@@ -92,7 +92,7 @@ life experience locked away in the written word or the still photograph.
 </p>
 
 <a href="https://cims.nyu.edu/gallery/index.html">College photo archives</a><br>
-<a href="https://cs.nyu.edu/cs/faculty/schwartz/Links.html">Jack Schwartz</a>
+<a href="https://cs.nyu.edu/cs/faculty/schwartz/In_Memoriam.html">Jack Schwartz</a>
 
 <h4>2019-10-18, 五.</h4>
 <p>
@@ -108,7 +108,7 @@ like parts of the city, late at night
 having reconciled with the dread<br>
 that I'd lost them with my move<br>
 I encounter the tribe again<br>
-in my lab's cohort<br>
+in my cohort<br>
 staring down the years ahead
 </p>
 
