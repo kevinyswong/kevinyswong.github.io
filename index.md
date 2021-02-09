@@ -274,6 +274,18 @@ reflection, but I am also fatigued, aghast that my redoubled effort at
 socialization competes with my very nature.
 </p>
 
+<h4>2018-05-21, 一.</h4>
+<p>
+I like firm showerheads with delightful pressure, no-sugar-added cheesecake,
+unscented handsoap, pens that don't smear my hand's belly as it slides across
+the page, pleasant saxophonists lighting up the subway with jazzy melodies,
+dark humor, deep conversation, lightweight banter, naughter sarcasm, vulnerable
+confessions, playful teasing, spending time sharing strange stories, mistakes
+made, lingering and unresolved grievances, revealing and then laughing,
+remaining sincere and faithful to the layered nuances of living, breathing, and
+feeling.
+</p>
+
 <h4>2018-05-08, 二.</h4>
 <p>
 I've been told on multiple occasions I look like a student. People notice it,
