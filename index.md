@@ -223,7 +223,7 @@ know how to answer in a way that satisfies me, much less in the immediacy of
 casual small-talk: how was my weekend? What may strike others as unfruitful,
 uneventful, wallowing, unhealthy, and invented difficulty are what permeate the
 time I have on my own, my home life, which is difficult not only because it
-does not lend itself to communication and relability, but also because it is
+does not lend itself to communication and relatability, but also because it is
 ethereal, lost even to myself unless I write these ruminations down. This is,
 I suppose, what defines my home life, my little adventures: unpalatable difficulty.
 But isn't this my default state? To step outside and mingle is easy, comforting,
