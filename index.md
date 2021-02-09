@@ -274,6 +274,84 @@ reflection, but I am also fatigued, aghast that my redoubled effort at
 socialization competes with my very nature.
 </p>
 
+<h4>2018-05-08, 二.</h4>
+<p>
+I've been told on multiple occasions I look like a student. People notice it,
+though it's not true. It seems that I give off the impression that I'm younger
+than my years. Recently at the post office I was asked, by a cashier with
+greying hair and a suspicious hesitation gleaming from his eyes, how old I was.
+Sometimes the waitress at the bar cards me, because my charming youth unsettles
+even the general appearance of maturity from amongst a group of exclusively
+older friends, none of them less than half a decade my senior, who had all
+already ordered and all without provoking the matron's protective instinct. I
+was once reading diligently in the park when a woman, despite my ostensibly
+studious posture nonetheless insisted on striking up a conversation, promptly
+asked whether I'm a high school student, and I later had to convince myself
+that it was not my choice of reading, whose cover was conveniently hidden in its
+seated prostration on my lap, but whose hefty size could only have indicated
+otherwise, that suggested the question. Also in recent memory is a treasure
+hunt for the UPS drop box at the Presbyterian Hospital on 68th, the sole option
+at that time in the evening still open for services that was also reasonably
+close by, when I, in my youthful impatience, could not wait until the following
+day to ship a package. It seems those hospital folk don't ship packages often
+because their directions to some secluded hallway in the basement must've been
+rooted in that UPS drop box's heydays when it was formerly in demand, because
+it has since moved, and the basement folk, who must've been informed of the
+move of such a promising and cherished protégé which had proven, in time's
+merciless onslaught, to not live up to anticipated popularity and had now been
+cast away in disappointment to some back corner, pointed to the nearby stairs
+back up to the first floor, across the corridor, down another hallway, and, in
+the course of navigating so ingeniously designed a hospital, I passed the
+entrance lobby from which I arrived, coming full circle, realizing that the
+two directions were hopelessly misaligned, and in the ensuing flurry in search
+of the holy land, the secret sanctum, the yogi's peace, nirvana in a box, it
+slowly dawned on me that, really, no one knew where the UPS drop-off was. Or,
+perhaps more accurately, they were simply directing this little, uncomprehending
+youth in meandering circles, round and about, until he gave up on his own
+accord, the hospital masterminds acting as one, collectively and telepathically
+amusing themselves with their devious tricks and medical humor, because who but
+a malicious miscreant with hidden motives shows up at the hospital so late at
+night and with nothing better to do than to drop off a dainty cardboard box—
+who knows what's in there and what he plans to do? Long story short, the UPS
+box is indeed in the basement, but cloistered at the flank of the cafeteria
+known as the Garden Cafe—maybe the eponymous garden is no measly, nameless
+garden of harmless shrubs and idle tulips, but rather a minefield of treacherous
+strife, a religious rite of passage, the Garden of Eden lost, corrupted,
+blighted, and man, searching for his return to bliss, must navigate its deadly
+swamps under the guise of heartwarming food and lull the senses with its
+lunchtime decor. I stood by the doors at the cafe's entrance, evaluating the
+danger, thinking, this garden must be the last obstacle, the final precipice,
+the most trying test. Needless to say, this is where many a sailor who, weary
+and exhausted from sailing the unforgiving high seas, the mind-bogging and
+labyrinthine hospital, content themselves with an easy, filling meal, call it
+a day, and turn their backs on their original, noble mission. But not this
+seasoned sailor. To reach the fabled treasure trove, I bolted into a Rocky-dash
+up a flight of stairs with exactly four steps, pummeled past twin doors with no
+comforting EXIT sign in red neon above—there's no exit in this one—actually
+there might have been but at that moment I was at the height of my powers, a
+car on seventh gear, too focused to divert my attention on anything but the
+end goal, so let's go with the story—and, as if by intuited scent, made an
+immediate sharp left, and there it was: the storied UPS box, hugging the wall,
+next to its second cousin the Fedex box, in a messy bed of cardboard dangling
+on the floor. I found myself in the middle of a dimly lit hall, and I glanced
+quickly both ways, left then right, then left again to eye my proper reward,
+the haloed UPS offshoot, and I saw in this hall a ghostly post-apocalyptic
+world just a door beyond, as silent and harrowing as the two abandoned
+blue-leathered stretchers standing in the background, with only each other for
+company in their dilapidated, forgotten, eternal melancholy, an early image of
+the end to come. Anyways, back to the reason I brought this story up: one of the
+security guards I inquired on my adventure was a young lass, late twenties at
+most, who at the end of our encounter made a note of appending the endearing
+label of "darling" to "have a good evening", the sort of diminutive affection
+that one adult would not share with another, particularly with a stranger,
+particularly from a lady when the stranger is a grown man, but only with
+someone deemed juvenile and adolescent, and I, walking away, wondered if it was
+my demure, solicitous earnesty that reminded her of a child holding out his
+hands, pleading for his allowance, and provoked her to reveal, as she saw it,
+the state of affairs. I deserve the credit of my years! I've weathered a quarter
+of a century! That's hard work!
+</p>
+
 <h4>2018-02-19, 一.</h4>
 <p>
 In my field, there's a concentration of analytical, rational, and fiercely
