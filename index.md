@@ -383,7 +383,7 @@ actions, because there's a greater satisfaction in touching a dimension beyond
 the fabric of physical existence. I get this feeling sometimes too at the movie
 theatre when the credits roll, and you hear the sound of those cinema seats
 springing back to their upright positions, the audience emptying out, and I
-remain seated, gazing at the twilight finale. I usedd to get it too in school,
+remain seated, gazing at the twilight finale. I used to get it too in school,
 when class ends and everyone is rushing to depart, and I'd think, isn't it a
 wonder that just a minute ago the room was filled with eager youth, that only
 a moment's passing as quick as the flip of a coin can so transform a room
