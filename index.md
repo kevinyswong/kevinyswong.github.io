@@ -273,3 +273,65 @@ my present disorientation, whose back-filling demands recallibration and
 reflection, but I am also fatigued, aghast that my redoubled effort at
 socialization competes with my very nature.
 </p>
+
+<h4>2018-02-19, 一.</h4>
+<p>
+In my field, there's a concentration of analytical, rational, and fiercely
+logical types, which I supposes in only fitting, considering this line of work,
+and though I can spar toe-to-toe with my coworkers, I frequently find myself
+left unsatisfied with the interactions, that though tasks a, b, and c may be
+completed double-quick, I have a lingering malaise nudging at my insides, as if
+I'm missing something I can't exactly pinpoint, as if moving rapidly through
+to-do lists and completing the day's tasks is not quite enough. So while my
+colleagues may no sooner remove the last item off their stack than they fling
+themselves wholly to another concrete pursuit, I am almost always dawdling
+behind, wondering in a trance about this strange incompleteness and, in brief
+intervals, why I feel this way. I've grown fairly accustomed to this feeling
+by now, and I think I know the reason: deep down I have a yearning that life is
+not simply a procession of successive objectives, bullet points, and graspable
+actions, because there's a greater satisfaction in touching a dimension beyond
+the fabric of physical existence. I get this feeling sometimes too at the movie
+theatre when the credits roll, and you hear the sound of those cinema seats
+springing back to their upright positions, the audience emptying out, and I
+remain seated, gazing at the twilight finale. I usedd to get it too in school,
+when class ends and everyone is rushing to depart, and I'd think, isn't it a
+wonder that just a minute ago the room was filled with eager youth, that only
+a moment's passing as quick as the flip of a coin can so transform a room
+from brimming, untamable energy to nostalgic quietude, that even now the chairs
+are still warm. I don't think many of my colleagues will appreciate one of
+my strange ruminations—listen: water droplets at the faucet are slowly dripping
+into the wash basin!
+</p>
+
+<p>
+Maybe I'm just coming up with excuses for my habitual daydreaming, though I
+insist that I have a preoccupation with transcendence. You'll understand if the
+following excerpt from Pablo Neruda's CON ELLA (WITH HER) unsuspectingly disarms
+you, sends you to the clouds for the brief moments you're reading it, and you
+stop in your tracks, seized by its beckoning call:
+</p>
+
+<p>
+-In the original Spanish:
+</p>
+
+<p>
+Como es duro este tiempo, espérame:<br>
+vamos a vivirlo con ganas<br>
+Dame tu pequeña mano:<br>
+vamos a subir y sufrir<br>
+vamos a sentir y saltar
+</p>
+
+<p>
+-In English:
+</p>
+
+<p>
+This time is difficult. Wait for me.<br>
+We will live it out vividly.<br>
+Give me your small hand:<br>
+we will rise and suffer<br>
+we will feel, we will fly
+</p>
+
