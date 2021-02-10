@@ -38,25 +38,25 @@ I was pulled to it as if by a magnet, drawn up close to the life-sized red
 canvas, the red consuming my entire field of vision, and I felt shivers running
 down my spine. Staring straight ahead, I felt transported to another realm, and
 what ran through me for a full minute was a whole world of sensory saturation.
-The canvas encased all passion, all desire, all rage, all triumph, surging
-excitement, jubilation: the sublime. What I felt was nothing less than the chaos
-of the universe, human folly, birth and death, our meaningless motions, coming
-together in a form so simple. It is an overflowing power even though the
-painting does not labor over enumerating all human mistakes under the sky, it
-does not have any semblance of a character or story, it doesn't have any
-material substance other than color and size, for this is what we have in the
-end: nothing. And this sensory experience is the meaning of the work, needing no
-other indication than the title: Man Heroic Sublime. I've seen some attempt to
-approach the painting using the traditional methods, examining its construction
-and the artist's background. To do so is to have missed the point. They place
-undue emphasis on the vertical lines, the zips, and deconstruct the order in
-which Newman painted them—it's a rather simple exercise of withholding some
-vertical space with tape and then either painting between a pair or painting
-around one. But this is not the right way to look at the painting, and we do not
-understand the painting through its technicalities any more than we get closer
-to understanding what enables life by analyzing the brain's atomic makeup. The
-zips merely serve to provide a sense of size for a painting that stands taller
-than any viewer.
+The canvas encased all passion, all desire, all rage, all triumph, and it was
+surging excitement, jubilation: the sublime. What I felt was nothing less than
+the chaos of the universe, human folly, birth and death, our meaningless
+motions, coming together in a form so simple. It is an overflowing power even
+though the painting does not laboriously enumerate all human mistakes under the
+sky, it does not have any semblance of a character or story, it doesn't have any
+material substance other than color and size, for this impalpability mirrors
+what we have in the end: nothing. And this sensory experience is the meaning of
+the work, needing no other indication than the title: Man Heroic Sublime. Some
+attempt to approach the painting using traditional methods, examining its
+construction and the artist's background. To do so is to have missed the point.
+They place undue emphasis on the vertical lines, the zips, and deconstruct the
+order in which Newman painted them—it's a rather simple exercise of withholding
+some vertical space with tape and then either painting between a pair or
+painting around one. But this is not the right way to look at the painting, and
+we do not understand the painting through its technicalities any more than we
+get closer to understanding what enables life by analyzing the brain's atomic
+makeup. The zips merely serve to provide a sense of size for a painting that
+stands taller than any viewer.
 </p>
 
 <p>
@@ -73,9 +73,13 @@ voluntarily steps. Or the same concept rendered more explicit in Edvard Munch's
 THE SCREAM, which unlike the former cannot be misinterpreted as just a pretty
 picture. What I am saying is abstraction's poignance arises from its simplicity
 that is too often overlooked, a simplicity that not only enhances a painting's
-lyric capacity but elevates the art by inflects upon its very medium so that the
-artist, the process, the art meld into one. Why should a Ronnie Landfield be
-less relatable than Vermeer's GIRL WITH A PEARL EARRING?
+lyric capacity but elevates the art by inflecting upon its very medium so that
+the artist, the process, the art meld into one. Why should a Ronnie Landfield
+stare at us less directly and speak to us from further away than Vermeer's GIRL
+WITH A PEARL EARRING? In one brush stroke dashing across the surface, one color
+reaching upwards, dancing among many in our human dynamism, we see not a
+landscape or a portrait but a visual ode singing the tune of our inner
+complexity.
 </p>
 
 <p>
@@ -101,18 +105,19 @@ billionaires who patronize rogue artists like Damien Hirst and Jeff Koons. Why
 do some artists fetch handsome sums at Christie's or Sotheby's while many of
 their peers struggle, forced to sell their work on the street? There is a market
 whose taste is determined by an exclusive community, and the clients, keen on
-entertaining guests of similar standing, patting themselves on the back for
-procuring a rarefied treasure for the spouse, viewing a painting as an
-investment, transact in prestige. The truth is that a the chief executive
-officers, the hedge fund managers, and those in the professional class whose
-wealth has passed the threshold where capital allocation alone suffices for
-comfortable living have not, over the course of their upward career trajectory,
-had the time to explore and calibrate artistic taste. The real artist, dedicated
-to his craft, is at the mercy of the taste-makers, the curators, the established
-critics. Such is the art market. But American capitalism, ever eager to place
-its hand on every exchange, distorts the market to its own morality. This is not
-art for art's sake but raw capitalism. Let us appreciate art on its own accord,
-art for all. As Jerry Saltz says, anyone can look at art—including abstract art.
+entertaining guests of similar standing, viewing a painting as an investment,
+patting themselves on the back for procuring a rarefied treasure for the spouse,
+transact in prestige. The truth is that a the chief executive officers, the
+hedge fund managers, and those in the professional class whose wealth has passed
+the threshold where capital allocation alone suffices for comfortable living
+have not, over the course of their upward career trajectory, had the time to
+explore and calibrate artistic taste. The real artist, dedicated to his craft as
+a parent to a child, for whom art is a means of living, is at the mercy of the
+taste-makers, the curators, the established critics. Such is the art market. But
+American capitalism, ever eager to place its hand on every exchange, bends the
+market to its own morality. This is not art for art's sake but raw capitalism.
+Let us appreciate art on its own accord, art for all. As Jerry Saltz says,
+anyone can look at art—including abstract art.
 </p>
 
 <p>
