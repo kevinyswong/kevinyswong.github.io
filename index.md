@@ -5,6 +5,111 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-02-09, 二. In Defense of Abstract Art.</h4>
+<p>
+Why view abstract art? When we stand before an abstract painting, what is it
+that we're looking at in the indeterminate swirls that don't even remotely
+resemble a person, a place, or anything familiar? I wish to address why I prefer
+abstraction.
+</p>
+
+<p>
+If we can represent nature by reducing it into a set of equations, why not too
+visual expression into art's purest form? And what is visual art on the canvas
+but the strokes of a brush painting in the four variables of color, shape, size,
+and space? Consider Mondrian, Rothko, and Kandinsky. They use these variables to
+their own vision, and even with such a small arsenal, how can we say their
+compositions are anything but wholly unlike each other? It is often mentioned
+that abstract paintings lack technical difficulty. To this I say that the
+difficulty of abstraction is in the conception which requires a certain
+maturity, not in the elitist sense, but in the capacity to grasp symbolism to
+its devastating potential. One way to conceive of the world is to view nature
+and the universe as the eternal constants in which we measly humans flicker by,
+but another, equally valid one is to place ourselves at the central vantage
+point because what will it all have mattered if we don't exist? To appreciate
+abstraction is to take the leap from merely mimicking reality, scrupulously
+copying down its concretized distinctions and its various shades of light, to
+human expression, the crux of what it means to be alive.
+</p>
+
+<p>
+I remember the first time I encountered Barnett Newman's VIR HEROICUS SUBLIMIS.
+I was pulled to it as if by a magnet, drawn up close to the life-sized red
+canvas, the red consuming my entire field of vision, and I felt shivers running
+down my spine. Staring straight ahead, I felt transported to another realm, and
+what ran through me for a full minute was a whole world of sensory saturation.
+The canvas encased all passion, desire, rage, triumph, surging excitement,
+jubilation: the sublime. What I felt was nothing less than the chaos of the
+universe, human folly, birth and death, our meaningless motions, coming together
+in a form so simple. It is an overflowing power even though the painting does
+not labor over enumerating all human mistakes under the sky, it does not have
+any semblance of a character or story, it doesn't have any material substance
+other than color and size, for this is what we have in the end: nothing. And
+this sensory experience is the meaning of the work, needing no other indication
+than the title: Man Heroic Sublime. I've seen some attempt to approach the
+painting using the traditional methods, examining its construction and the
+artist's background. To do so is to have missed the point. They place undue
+emphasis on the vertical lines, the zips, and deconstruct the order in which
+Newman painted them—it's a rather simple exercise of withholding some vertical
+space with tape and then either painting between a pair or painting around one.
+But this is not the right way to look at the painting, and we do not understand
+the painting through its technicalities any more than we get closer to
+understanding what enables life by analyzing the brain's atomic makeup. The zips
+merely serve to provide a sense of size for a painting that stands taller than
+any viewer.
+</p>
+
+<p>
+I am not suggesting that expression and meaning is limited to abstraction's
+dominion. Consider Norman Rockwell's undeniably political THE PROBLEM WE ALL
+LIVE WITH, or Caspar David Friedrich's proud WANDERER ABOVE THE SEA OF FOG, or
+Giorgio de Chirico's dreary THE MELANCHOLY OF DEPARTURE, or the contrast of
+human transience and the mountain's unfazed apathy in Hokusai's EJIRI IN THE
+SURUGA. Let's not forget Yayoi Kusama's more visceral infinity mirror
+installations that manifest her internal world, rife with obsessions, a black
+room illuminated by floating lights all around, all receding into the horizon, a
+world on fire from which there is no escape, a world into which the public
+voluntarily steps. Or the same concept rendered more explicit in Edvard
+Munch's THE SCREAM, which unlike the former cannot be misinterpreted as just a
+pretty picture. What I am saying is abstraction's poignance arises from its
+simplicity that is too often overlooked, a simplicity that only enhances a
+painting's lyric capacity. Why should a Ronnie Landfield be less relatable than
+Vermeer's GIRL WITH A PEARL EARRING?
+</p>
+
+<p>
+The regrettable reality is that any mention of art is preceded by its
+reputation. In this sense, art is like wine tasting. Wine tasting and, even more
+importantly, the acquired diction developed to describe it unfortunately connote
+class aspiration, class maintenance, and the whole system of media that
+reinforce wine's continued esteem and consumption. We don't dwell a second on
+wine's unfermented cousin, the unremarkable grape juice, but we go to
+considerable lengths to distinguish between wines by variety, region, year, and
+color. Though we may sensibly separate a heavy malbec from a mild pinot noir,
+when we start throwing around phrases like "flavor of blackberry", "notes of
+earthy vanilla", "hints of seasoned red plum", and "a rich dark chocolate
+lingering in the aftertaste", all the while affecting a poker face as we swirl
+and sniff ourselves into high oblivion, should we not ask ourselves if there
+might not be a more productive use of time than making an impression? Any
+genuine appreciation for wine is quickly extinguished when artifice enters the
+conversation. So too is art when we chase the big name, attach a price tag, and
+enshroud it in undue mystery. The American variety of ruthless capitalism
+transfers even to the art market, and decades of rising economic inequality has
+permitted the rise of rogue billionaires who patronize rogue artists like
+Damien Hirst and Jeff Koons. As Jerry Saltz says, anyone can look at art,
+including abstract art.
+</p>
+
+<p>
+writing fiction is like<br>
+doing pure math<br>
+simply pen and paper<br>
+painting an abstract<br>
+a world within<br>
+color and shape<br>
+size and space
+</p>
+
 <h4>2019-10-19, 六. On Humility.</h4>
 <p>
 I came across some old archives from my college. In them, photos—I'll provide
