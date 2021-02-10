@@ -83,9 +83,9 @@ complexity.
 </p>
 
 <p>
-To stay clear of art's mystique, I must mention that the regrettable reality is
-that any mention of art is preceded by its reputation. In this sense, art is
-like wine tasting. Wine tasting and, even more importantly, the acquired diction
+To stay clear of art's mystique, I must mention the regrettable reality is that
+any mention of art is preceded by its reputation. In this sense, art is like
+wine tasting. Wine tasting and, even more importantly, the acquired diction
 developed to describe it unfortunately connote class aspiration, class
 maintenance, and the whole system of media that reinforce wine's continued
 esteem and consumption. We don't dwell a second on wine's unfermented cousin,
@@ -111,13 +111,13 @@ transact in prestige. The truth is that a the chief executive officers, the
 hedge fund managers, and those in the professional class whose wealth has passed
 the threshold where capital allocation alone suffices for comfortable living
 have not, over the course of their upward career trajectory, had the time to
-explore and calibrate artistic taste. The real artist, dedicated to his craft as
-a parent to a child, for whom art is a means of living, is at the mercy of the
-taste-makers, the curators, the established critics. Such is the art market. But
-American capitalism, ever eager to place its hand on every exchange, bends the
-market to its own morality. This is not art for art's sake but raw capitalism.
-Let us appreciate art on its own accord, art for all. As Jerry Saltz says,
-anyone can look at art—including abstract art.
+calibrate artistic taste. The real artist, dedicated to his craft as a parent to
+a child, for whom art is a means of living, is at the mercy of the taste-makers,
+the curators, the established critics. Such is the art market. But American
+capitalism, ever eager to place its hand on every exchange, bends the market to
+its own morality. This is not art for art's sake but raw capitalism. Let us
+appreciate art on its own accord, art for all. As Jerry Saltz says, anyone can
+look at art—including abstract art.
 </p>
 
 <p>
@@ -128,6 +128,7 @@ painting a world in abstract<br>
 color and shape<br>
 size and space
 </p>
+<br>
 
 <h4>2019-10-19, 六. On Humility.</h4>
 <p>
@@ -219,7 +220,8 @@ life experience locked away in the written word or the still photograph.
 </p>
 
 <a href="https://cims.nyu.edu/gallery/index.html">College photo archives</a><br>
-<a href="https://cs.nyu.edu/cs/faculty/schwartz/In_Memoriam.html">Jack Schwartz</a>
+<a href="https://cs.nyu.edu/cs/faculty/schwartz/In_Memoriam.html">Jack Schwartz</a><br>
+<br>
 
 <h4>2019-10-18, 五.</h4>
 <p>
@@ -229,6 +231,7 @@ that eerie feeling<br>
 emptiness where people should be<br>
 like parts of the city, late at night
 </p>
+<br>
 
 <h4>2019-10-07, 一.</h4>
 <p>
@@ -238,6 +241,7 @@ I encounter the tribe again<br>
 in my cohort<br>
 staring down the years ahead
 </p>
+<br>
 
 <h4>2019-10-02, 三.</h4>
 <p>
@@ -245,6 +249,7 @@ this morning’s decadence<br>
 peanut butter from the jar<br>
 expanding slowly on my bagel<br>
 </p>
+<br>
 
 <p>
 absorbed in thought<br>
@@ -253,6 +258,7 @@ glancing down two seconds later<br>
 a blank mind<br>
 I’ve lost my place<br>
 </p>
+<br>
 
 <p>
 walking in hurried strides<br>
@@ -263,6 +269,7 @@ view yourself from the sky<br>
 lost in the heaping crowd<br>
 that old city life<br>
 </p>
+<br>
 
 <h4>2019-09-30, 一. Towards Mundanity.</h4>
 <p>
@@ -300,6 +307,7 @@ these indispensible considerations, banishing them to nonexistence. Mundane and
 common, yes, though nothing more than an appetite for the taste of existence,
 melancholic and transient.
 </p>
+<br>
 
 <h4>2019-09-29, 日.</h4>
 <p>
@@ -313,6 +321,7 @@ lights in abeyance, left without an announcement when early afternoon
 becomes early evening. Perhaps it is the changing of the seasons. A mild chill
 this morning, headwind of the winter ahead.
 </p>
+<br>
 
 <h4>2019-09-28, 六.</h4>
 <p>
@@ -370,6 +379,7 @@ I’m not the only one buying them after all<br>
 none left at my supplier<br>
 my bagels ran out last night<br>
 </p>
+<br>
 
 <h4>2019-09-23, 一. Excerpt from the little black book.</h4>
 <p>
@@ -397,6 +407,7 @@ my present disorientation, whose back-filling demands recallibration and
 reflection, but I am also fatigued, aghast that my redoubled effort at
 socialization competes with my very nature.
 </p>
+<br>
 
 <h4>2018-05-21, 一.</h4>
 <p>
@@ -409,6 +420,7 @@ made, lingering and unresolved grievances, revealing and then laughing,
 remaining sincere and faithful to the layered nuances of living, breathing, and
 feeling.
 </p>
+<br>
 
 <h4>2018-05-08, 二.</h4>
 <p>
@@ -487,6 +499,7 @@ hands, pleading for his allowance, and provoked her to reveal, as she saw it,
 the state of affairs. I deserve the credit of my years! I've weathered a quarter
 of a century! That's hard work!
 </p>
+<br>
 
 <h4>2018-02-19, 一.</h4>
 <p>
