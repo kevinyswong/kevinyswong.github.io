@@ -107,17 +107,17 @@ their peers struggle, forced to sell their work on the street? There is a market
 whose taste is determined by an exclusive community, and the clients, keen on
 entertaining guests of similar standing, viewing a painting as an investment,
 patting themselves on the back for procuring a rarefied treasure for the spouse,
-transact in prestige. The truth is that a the chief executive officers, the
-hedge fund managers, and those in the professional class whose wealth has passed
-the threshold where capital allocation alone suffices for comfortable living
-have not, over the course of their upward career trajectory, had the time to
-calibrate artistic taste. The real artist, dedicated to his craft as a parent to
-a child, for whom art is a means of living, is at the mercy of the taste-makers,
-the curators, the established critics. Such is the art market. But American
-capitalism, ever eager to place its hand on every exchange, bends the market to
-its own morality. This is not art for art's sake but raw capitalism. Let us
-appreciate art on its own accord, art for all. As Jerry Saltz says, anyone can
-look at art—including abstract art.
+transact in prestige, which too can be bought. The truth is that a the chief
+executive officers, the hedge fund managers, and those in the professional class
+whose wealth has passed the threshold where capital allocation alone suffices
+for comfortable living have not, over the course of their upward career
+trajectory, had the time to calibrate artistic taste. The real artist, dedicated
+to his craft as a parent to a child, for whom art is a means of living, is at
+the mercy of the taste-makers, the curators, the established critics. Such is
+the art market. But American capitalism, ever eager to place its hand on every
+exchange, bends the market to its own morality. This is not art for art's sake
+but raw capitalism. Let us appreciate art on its own accord, art for all. As
+Jerry Saltz says, anyone can look at art—including abstract art.
 </p>
 
 <p>
