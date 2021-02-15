@@ -5,6 +5,285 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-02-11, 四. On Race, Diversity, and Immigration.</h4>
+Today's post is delicate for obvious reasons. Reader be warned, this may make you
+more uncomfortable than my other posts, but this is an important issue to explore.<br>
+___
+
+<p>
+Let's cast aside the political polarization for a moment and have a mature
+conversation on race and the future identity of America. It's not popular these
+days but I don't think it's inherently racist to talk about the race and its
+practical consequences, from both perspectives: the white's and the person of
+color's. There are very real issues that have to be addressed. The recent rise
+of neo-Nazies, conspiracy theories, and white supremacism are not possible under
+a well-functioning democracy. It only happens when people are insecure and under
+threat, and this threat stems from 1) poor white folks who feel the country has
+forgotten them and 2) the rapid demographic changes are altering the country's
+identity. I have nothing insightful to say about the first reason on top of the
+obvious need to address the problem. This post addresses the second reason.
+</p>
+
+<b>Discontent</b>
+
+<p>
+Here are the facts.
+<a href="https://www.brookings.edu/blog/the-avenue/2018/03/14/the-us-will-become-minority-white-in-2045-census-projects/">Estimates</a>
+project that the country will become majority non-white in 2045. It's very soon—I'll likely still be alive when it happens.
+What do whites, who are losing representation, think of this? A
+<a href="https://www.pewresearch.org/social-trends/2019/03/21/views-of-demographic-changes-in-america/">survey</a>
+found nearly as many view it positively (26%) as negatively (28%).
+</p>
+
+<p>
+I'd like to first write a bit with the 28% in mind. At the extreme is the
+far-right. Richard Spencer, Lauren Southern, and Gavin McInnes are saying, "We
+built the wealthiest nation on Earth, we introduced democracy and defended it,
+we created a free state for all, we created the modern world, and who are these
+foreigners coming over and stealing our inheritance from us?" This is indeed the
+reality, and I have to say, they have a point. There's a conversation to be had,
+certainly not one I can settle but let's examine this further. My view in the
+end is that resources, opportunities, and equitable values should not be hoarded
+by within lines as arbitrary as race.
+</p>
+
+<p>
+It's worth repeating: I don't think it's racist to talk about whites wishing to
+preserve Western civilization. It's a matter of defensive self-conservation. The
+far right is the loudest but in today's intolerance that's the only venue to
+voice this defensive stance. Again I don't think this is racist but their
+concern is they're being pushed out. I read this from somewhere online—to my
+fellow liberals, this might be useful to see where the right is coming
+from—consider a white person moving to China and demanding that Chinese culture
+be moved aside, that the Chinese should lose rights for racial equality, and
+that the Chinese should be disarmed and have no option to push back. It's not
+racist but such actions provoke self-defense even by a neutral bystander. The
+question is whether it's fair to believe the dominant culture of the country
+(white culture) would be happy becoming just another minority group and losing
+the power its had since the country's inception. I'd like to believe so because
+the way forward for the country is to accommodate all Americans but I suspect
+many white folks, openly or privately, don't—specifically the 28% in the survey
+who didn't even bother pretending. The question isn't about equality. The
+country's changing racial demographics is like saying: imagine a Britain that's
+not predominantly British or a China that's not predominantly Chinese. And no
+matter our skin color, if any of us takes a stroll along the Seine in Paris and
+see more Muslims in hijabs than the original French, does Paris feel French?
+This is the unsettling reality. Suppose for a moment that we lifted every poor
+white American out of poverty and secured their future prospects. Even then,
+would they be happy with no longer being able to identify with what the country
+is becoming? Conservatives feel their homeland is being hijacked even while we
+progressives see inequality at every turn. It's a problem in Europe too with the
+Syrian refugee crisis. Whiteness, Christianity, and European identity that
+built the country are being threatened and what we're doing is blanket-blocking
+any mention of it as racist when there's a valid point here.
+</p>
+
+<p>
+This problem extends to academia. A very recent vanguard in the humanities has
+essentially been saying: "we" have been oppressed, colonialized,
+underrepresented, and now that we're empowered we're going to take what's ours
+and air our dirty laundry. I'm not saying their push for equality is wrong
+but that they leave no room for the other side in a climate of cancel
+culture. Think of all the academics whose entire careers are based on what is
+now blatantly called imperialist and colonialist. The premise of the country as
+a free state where all are equal is not possible when we are separating
+ourselves into piecemeal subcultures defending our turf. America cannot be an
+either/or but has to be an inclusive both/and. Among other adjustments, the
+required coursework reading may very well have to change from the exclusively
+white Western canon, but this doesn't mean dissolving the discipline, as
+Dan-el Padilla Peralta is open to doing with the classics.
+</p>
+
+<p>
+All I can say is this: everyone pursues his interest, and the country is the
+mediator for all citizens. Let's stop demonizing the other side. It is useful to
+keep in mind John Rawls' veil of ignorance and take a step back from our
+particular place in society to think larger. Now, onto something more
+interesting.
+</p>
+
+<b>Towards a Brighter Future</b>
+
+<p>
+This is sobering: a
+<a href="https://dl.acm.org/doi/10.1145/3313831.3376654">study</a>
+last year found that when people are forming teams and adding members, they
+deliberately reduce diversity when they are shown whether a potential member
+boosts and drops the team's overall diversity. This behavior looms large.
+For all we tout diversity in our public relations messaging, for all the
+apparent diversity in cities, residential neighborhoods are largely segregated
+by race, even in our most diverse cities:
+<a href="https://www.gc.cuny.edu/page-elements/academics-research-centers-initiatives/centers-and-institutes/center-for-urban-research/cur-research-initiatives/the-end-of-segregation-hardly">New York City</a>,
+<a href="https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area">San Francisco</a>, and
+<a href="https://today.uic.edu/new-report-details-chicagos-racial-ethnic-disparities">Chicago</a>.
+And <a href="http://racialdotmap.demographics.coopercenter.org">this</a> map
+shows the race distribution in the country using the 2010 census data, with one
+dot per person, each dot colored by race. This is the undeniable state of
+affairs: de facto segregation. Residential segregation translates to school
+segregation. <a href="https://www.kqed.org/lowdown/30098/why-have-americas-public-schools-gotten-more-racially-segregated">These</a>
+maps show segregation consistent with the country's racialized geography, and
+this is over half a century after <i>Brown v. Board of Education</i>.
+Whatever image of a racially integrated country we may have in mind is not just
+overly optimistic but entirely wrong. PRRI
+<a href="https://www.prri.org/research/poll-race-religion-politics-americans-social-networks/">surveyed</a>
+racial compositions in 2013 of social networks within racial groups and
+revealed shocking homogenity. Among whites, 91% of friends are also white,
+among Blacks, 83% are Black, and among Hispanics, 64% are Hispanic. And Asians?
+No data for us. We're invisible. But these numbers remind me of Beverly
+Daniel Tatum's WHY ARE ALL THE BLACK KIDS SITTING TOGETHER? because of its
+title and how it cuts at the core of the matter. What is disheartening is I have
+not even the slightest instinct to say these numbers are out of touch with
+reality. What about the entertainment we consume? A
+<a href="https://academic.oup.com/joc/article-abstract/61/2/369/4098571">study</a>
+found "[w]hite participants showed significantly less interest in seeing movies
+with mostly Black casts than in seeing movies with mostly [w]hite casts."
+Another
+<a href="https://www.baltimoresun.com/news/bs-xpm-1996-05-02-1996123149-story.html">study</a>
+found that whites and Blacks have few favorite TV shows in common.
+And books? I couldn't find a study on this, but let's be honest. If we can't
+even bring ourselves to watch movies and TV across races, how many do we suppose
+have read James Baldwin, Maya Angelou, or Toni Morrison? Or Zadie Smith, Salman
+Rushdie, Orhan Parmuk?
+</p>
+
+<p>
+So we don't live together, don't go to the same schools, aren't friends with
+each other, don't watch the same movies or TV shows, and if we meet each other
+at work what guides our conversations is a societal restraint from broaching
+race that precludes any serious discussion and mingling. How then are we to make
+friends across racial lines if we don't have much in common, can't point out the
+obvious, and skirt about the issue by talking shop, and when we invite that
+friend to our circle of largely homogenous friends we are also transferring the
+burden of restraint to them? And what are we talking about when we say with such
+conviction that we understand the Black plight or that of other minorities who
+have been less abused and less disenfranchised over the course of the country's
+history if the immensity of our unquestioned confidence comes from—indeed
+betrays—our own realities, our projected mythologies and imaginations exchanged
+among friends, cloistered in our communities where everyone looks and thinks
+like ourselves?
+</p>
+
+<p>
+Racial inequality is something we can't help but pick up on. We adults don't
+talk about it because we've learned restraint, afraid of saying the wrong thing,
+and instead keep quiet or look away. Kids notice it too but are more open to
+speaking their minds. In the podcast NICE WHITE PARENTS, the host Chana
+Joffe-Walt describes this kind of situation when white students, who bring more
+funding power, started enrolling at a predominantly Black and Hispanic middle
+school: "These boys, even at 11 years old, they've absorbed the same messages
+that [the school] wasn't so good before. It was a bad school. He and his
+friends, they've turned the school around. That's what he's learning." This is
+what the boy in question said: "The kids wouldn't pay attention. And they had,
+like--got to, like, zone out every little thing. And I bet they learned very
+little. And now this generation with us, I think we're doing a lot better. And I
+think that we're learning at a much faster pace." This comment isn't racist so
+much as its an innocent observation of a consequence of our education system and
+a history of suppression, and what he is saying is something we all notice it we
+come across it, but the current political and social climate casts over us a
+pall that mutes what we already know as wise silence.
+</p>
+
+<p>
+Here I digress to put in a word on immigration. Like any proper New Yorker, I am
+a flaming liberal. I support the idea of equal opportunity for all whether in
+this country or in any other. In spite of this, I don't think the answer to the
+immigration question is to throw open our doors and let everyone in. There is a
+limit to how many the country can tolerate without bankrupting the social
+system. David Frum
+<a href="https://www.theatlantic.com/magazine/archive/2019/04/david-frum-how-much-immigration-is-too-much/583252/">notes</a>
+the practical concerns of immigration, that immigrants cost the
+government more than they contribute in taxes. A part of me says this is the
+price of an egalitarianism, but this deficit also surfaces a brutal reality. How
+can we accommodate indefinitely more immigrants when our country is already
+steep in debt and millions of our own, those we look in the eye as our fellow
+Americans, are struggling? Frum advocates focusing our immigration policy to
+accept highly skilled immigrants—doctors and engineers—who earn their keep and
+help the country remain innovative. This, of course, means a continual brain
+drain from their home countries, which strangely enough has been found to
+increase wages and democratic values back home. I'm not convinced, however, that
+losing a nation's best and brightest helps a developing country stand on its own
+and catch up rather than merely benefiting indirectly from Western progress. But
+this is the price of supplying American innovation, securing American
+well-being.
+</p>
+
+<p>
+Diversity—why is it so difficult? I'm an atheist, yet I've sat with a Protestant
+as he prayed for me, I've linked hands with Catholics saying grace before a
+meal, I've attended Mass, I've sat in classes full of Catholics. I've joined the
+Muslim retreat at the Blue Mosque as the muezzin called and witnessed the hall's
+worshipers kneeling on the floor in prayer. I put on a kippah in Jerusalem and
+stood face-to-face with the Wailing Wall. I sat among the local community in
+Mumbai at a Hindu engagement ceremony. So what that I'm an atheist? We should
+keep in mind that what feels foreign to one is home to another, and it was the
+arbitrary slight of chance that we ourselves were not born into another's
+community.
+</p>
+
+<p>
+Diversity is the country's future, and it is a future when the landscape of
+writers and directors will have changed, along with the TV-watching and
+movie-going market whose preference commands what the entertainment industry
+produces. One day, this era's fight for social justice, equal representation,
+true equality under law and its enforcement, will have been but one chapter in
+the transition to a more equitable world. And one day, we will not think it out
+of the ordinary that a lead actor is brown though we notice it and are aware of
+the long struggle that made such casting possible, and we will not be
+uncomfortable watching a person of color rejoice or sulk or have the full range
+of experiences of any ordinary human. One day, the unsightly practice will have
+passed when the camera deigns a moment for the diversity shot and then cuts
+away, returning to the default whiteness. The country's future is mixed, and we
+have to accept this as a reality, not boil over with veiled resentment.
+</p>
+
+<p>
+William Buckley Jr. wrote, "A conservative is someone who stands athwart
+history, yelling Stop." What nonsense! How shortsighted is his view of history
+that for him, history extends no further than the past several hundred years
+since the Great Divergence that marked the West's emergence as the world's
+wealthiest and most advanced civilization, and he happened to have lived in the
+period when such self-flattery is possible. The one constant that endures time
+is change, and just as no individual lives forever in his youthful peak, no
+society is immune to its evolving fortunes. How many came before that have met
+worse fates have had to accept change? Russians, Indians, Chinese, Persians,
+Turks, Aztecs, Egyptians, and all those who belonged to once thriving
+civilizations: if it is any consolation, others have been here before, and the
+decline of white power in America is one peaceful tick of change in the ocean of
+our inflated self-importance. How many in those prior civilizations screamed
+that the end is nigh, yet the the world has moved on, and they carry about
+themselves in it as routinely as the Earth revolves around the Sun? It's always
+irked me how any mentioning the fall of the Roman Empire carries an air of
+puritanical nationalism, that it is with resignation that such greatness came to
+an end. It certainly was great, but we give the invaders who brought its fall
+the exceedingly flattering name of barbarians even though they too had families
+and lives, pursuing their interests just as the Romans theirs, and these
+barbaric tribes don't seem barbarians any longer when we name them properly: the
+Franks settling in modern France, the Visigoths in modern Spain. We sympathize
+so intensely with the Romans because we see only one side, and the fact that we
+continue to use the word barbarians descends from this lineage—it's what the
+Romans called outsiders. It is worth reminding ourselves the truth Carl Sagan
+pointed out in COSMOS: "National boundaries are not evident when we view the
+Earth from space. Fanatical ethnic or religious or national chauvinisms are a
+little difficult to maintain when we see our planet as a fragile blue crescent
+fading to become an inconspicuous point of light against the bastion and citadel
+of the stars." That blue crescent formed 4,500,000,000 years ago, of which we
+humans developed agriculture in the last 12,000 and began laying the foundation
+for civilization. It is outright foolish to think that human culture has peaked
+and should change no further. The future of the country is diversity and what
+must happen: acceptance and unity, not separation and exclusion. Why not imagine
+a future where we contain Whitman's multitudes? Across canyons and valleys, lush
+green praries and eroded rock strewn over sand-blown desert, towering mesas and
+redwood forests, we find small towns and major metropolises decorating the land
+under the snow-capped mountains, for we are all of us American: brown and yellow
+and black and white and purple and red, bound not by prescriptions of the
+isolated echo chambers that came before but by a full forward march, hand in
+hand, towards a history that will bear our names in pioneering pride. When we
+were children we saw ourselves as adventurers and explorers, looking out at a
+world full of mystery, curious at everything, unafraid to learn, elated to be
+alive. Where has that sense of awe and wonder gone?
+</p>
+<br>
+
 <h4>2021-02-09, 二. In Defense of Abstract Art.</h4>
 <p>
 Why view abstract art? When we stand before an abstract painting, what is it
@@ -113,7 +392,7 @@ whose wealth has passed the threshold where capital allocation alone suffices
 for comfortable living have not, over the course of their upward career
 trajectory, had the time to calibrate artistic taste. The real artist, dedicated
 to his craft as a parent to a child, for whom art is a means of living, is at
-the mercy of the taste-makers, the curators, the established critics. Such is
+the mercy of the tastemakers, the curators, the established critics. Such is
 the art market. But American capitalism, ever eager to place its hand on every
 exchange, bends the market to its own morality. This is not art for art's sake
 but raw capitalism. Let us appreciate art on its own accord, art for all. As
@@ -126,7 +405,8 @@ doing pure math<br>
 simply pen and paper.<br>
 painting a world in abstract<br>
 color and shape<br>
-size and space
+size and<br>
+space
 </p>
 <br>
 
