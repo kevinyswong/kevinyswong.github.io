@@ -13,7 +13,7 @@ ___
 <p>
 Let's cast aside the political polarization for a moment and have a mature
 conversation on race and the future identity of America. It's not popular these
-days but I don't think it's inherently racist to talk about the race and its
+days but I don't think it's inherently racist to talk about race and its
 practical consequences, from both perspectives: the white's and the person of
 color's. There are very real issues that have to be addressed. The recent rise
 of neo-Nazies, conspiracy theories, and white supremacism are not possible under
