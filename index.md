@@ -178,8 +178,8 @@ like--got to, like, zone out every little thing. And I bet they learned very
 little. And now this generation with us, I think we're doing a lot better. And I
 think that we're learning at a much faster pace." This comment isn't racist so
 much as its an innocent observation of a consequence of our education system and
-a history of suppression, and what he is saying is something we all notice it we
-come across it, but the current political and social climate casts over us a
+a history of suppression, and what he is saying is something we all notice when
+we come across it, but the current political and social climate casts over us a
 pall that mutes what we already know as wise silence.
 </p>
 
