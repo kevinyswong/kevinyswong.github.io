@@ -101,7 +101,8 @@ What is happening is human nature: everyone pursues his interest, and it is the
 country that plays the role of mediator for all citizens. Can we each stop
 demonizing the other side? It is useful to keep in mind John Rawls' veil of
 ignorance and take a step back from our particular place in society to think
-larger. Now, onto something more interesting.
+larger. With America soon to become majority non-white, we have to make peace
+with that fact. Now, onto something more interesting.
 </p>
 
 <b>Towards a Brighter Future</b>
