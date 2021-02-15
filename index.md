@@ -82,24 +82,26 @@ any mention of it as racist when there's a valid point here.
 This problem extends to academia. A very recent vanguard in the humanities has
 essentially been saying: "we" have been oppressed, colonialized,
 underrepresented, and now that we're empowered we're going to take what's ours
-and air our dirty laundry. I'm not saying their push for equality is wrong
-but that they leave no room for the other side in a climate of cancel
-culture. Think of all the academics whose entire careers are based on what is
-now blatantly called imperialist and colonialist. The premise of the country as
-a free state where all are equal is not possible when we are separating
-ourselves into piecemeal subcultures defending our turf. America cannot be an
-either/or but has to be an inclusive both/and. Among other adjustments, the
-required coursework reading may very well have to change from the exclusively
-white Western canon, but this doesn't mean dissolving the discipline, as
-Dan-el Padilla Peralta is open to doing with the classics.
+and air our dirty laundry. I'm not saying their push for equality is wrong but
+that they leave no room for the other side in a climate of cancel culture. Think
+of all the academics whose entire careers are based on what is now blatantly
+called imperialist and colonialist. The premise of the country as a free state
+where all are equal is not possible when we are separating ourselves into
+piecemeal subcultures defending our turf. America cannot be an either/or but has
+to be an inclusive both/and. Among other adjustments, the required coursework
+reading may very well have to change from the exclusively white Western canon,
+but this doesn't mean dissolving the discipline, as Dan-el Padilla Peralta is
+open to doing with the classics. Let's recall that even ideas as radically
+departing from traditional Western perspective as those in Edward Said's
+ORIENTALISM didn't call for destroying the whole field.
 </p>
 
 <p>
-All I can say is this: everyone pursues his interest, and the country is the
-mediator for all citizens. Let's stop demonizing the other side. It is useful to
-keep in mind John Rawls' veil of ignorance and take a step back from our
-particular place in society to think larger. Now, onto something more
-interesting.
+What is happening is human nature: everyone pursues his interest, and it is the
+country that plays the role of mediator for all citizens. Can we each stop
+demonizing the other side? It is useful to keep in mind John Rawls' veil of
+ignorance and take a step back from our particular place in society to think
+larger. Now, onto something more interesting.
 </p>
 
 <b>Towards a Brighter Future</b>
