@@ -98,11 +98,11 @@ ORIENTALISM didn't call for destroying the whole field.
 
 <p>
 What is happening is human nature: everyone pursues his interest, and it is the
-country that plays the role of mediator for all citizens. Can we each stop
-demonizing the other side? It is useful to keep in mind John Rawls' veil of
-ignorance and take a step back from our particular place in society to think
-larger. With America soon to become majority non-white, we have to make peace
-with that fact. Now, onto something more interesting.
+country that plays mediator for all citizens. Can we each stop demonizing the
+other side? It is useful to keep in mind John Rawls' veil of ignorance and take
+a step back from our particular place in society to think larger. With America
+soon to become majority non-white, we have to make peace with that fact. Now,
+onto something more interesting.
 </p>
 
 <b>Towards a Brighter Future</b>
@@ -278,7 +278,7 @@ a future where we contain Whitman's multitudes? Across canyons and valleys, lush
 green praries and eroded rock strewn over sand-blown desert, towering mesas and
 redwood forests, we find small towns and major metropolises decorating the land
 under the snow-capped mountains, for we are all of us American: brown and yellow
-and black and white and purple and red, bound not by prescriptions of the
+and black and white and blue and red, bound not by prescriptions of the
 isolated echo chambers that came before but by a full forward march, hand in
 hand, towards a history that will bear our names in pioneering pride. When we
 were children we saw ourselves as adventurers and explorers, looking out at a
