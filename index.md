@@ -88,12 +88,13 @@ of all the academics whose entire careers are based on what is now blatantly
 called imperialist and colonialist. The premise of the country as a free state
 where all are equal is not possible when we are separating ourselves into
 piecemeal subcultures defending our turf. America cannot be an either/or but has
-to be an inclusive both/and. Among other adjustments, the required coursework
-reading may very well have to change from the exclusively white Western canon,
-but this doesn't mean dissolving the discipline, as Dan-el Padilla Peralta is
-open to doing with the classics. Let's recall that even ideas as radically
-departing from traditional Western perspective as those in Edward Said's
-ORIENTALISM didn't call for destroying the whole field.
+to be an inclusive both/and. Among many other adjustments, the required
+coursework reading may very well have to change from the exclusively white
+Western canon and the field may need some serious reflection on its context and
+history, but this doesn't mean dissolving the discipline, as Dan-el Padilla
+Peralta is open to doing with the classics. Let's recall that even ideas as
+radically departing from traditional Western perspective as those in Edward
+Said's ORIENTALISM didn't call for destroying the whole field.
 </p>
 
 <p>
