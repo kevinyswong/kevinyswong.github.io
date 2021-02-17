@@ -44,7 +44,7 @@ foreigners coming over and stealing our inheritance from us?" This is indeed the
 reality, and I have to say, they have a point. There's a conversation to be had,
 certainly not one I can settle but let's examine this further. My view in the
 end is that resources, opportunities, and equitable values should not be hoarded
-by within lines as arbitrary as race.
+within lines as arbitrary as race.
 </p>
 
 <p>
