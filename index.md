@@ -60,7 +60,7 @@ that the Chinese should be disarmed and have no option to push back. It's not
 racist but such actions provoke self-defense even by a neutral bystander. The
 question is whether it's fair to believe the dominant culture of the country
 (white culture) would be happy becoming just another minority group and losing
-the power its had since the country's inception. I'd like to believe so because
+the power it's had since the country's inception. I'd like to believe so because
 the way forward for the country is to accommodate all Americans but I suspect
 many white folks, openly or privately, don't—specifically the 28% in the survey
 who didn't even bother pretending. The question isn't about equality. The
@@ -390,7 +390,7 @@ their peers struggle, forced to sell their work on the street? There is a market
 whose taste is determined by an exclusive community, and the clients, keen on
 entertaining guests of similar standing, viewing a painting as an investment,
 patting themselves on the back for procuring a rarefied treasure for the spouse,
-transact in prestige which, too, can be bought. The truth is that a the chief
+transact in prestige which, too, can be bought. The truth is that the chief
 executive officers, the hedge fund managers, and those in the professional class
 whose wealth has passed the threshold where capital allocation alone suffices
 for comfortable living have not, over the course of their upward career
