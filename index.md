@@ -26,7 +26,8 @@ life once was. Only the three of them are present, and the ceremony has no music
 or fanfare. Her father will box his mother's remains and bring them to a room
 that also houses others she'd grown up with. A gentle breeze in the air. The
 daughter knows that when she returns to work next week, she will have to rejoin
-her colleagues in the usual office banter. The sun is heavy this afternoon.
+her colleagues in the usual office banter. The sun is heavy this afternoon but
+she knows too the sun does not shine for her.
 </p>
 
 <p>
@@ -37,13 +38,14 @@ this longing may never end.<br>
 might we as parents<br>
 reading to our children<br>
 a book from our yore<br>
-reconcile first memories<br>
+reconcile first memories?<br>
 we, passing them down<br>
 this little person<br>
 half is me<br>
 is this what my mother saw in my blank eyes<br>
 herself reflected<br>
-she had a mother too
+looking at her mother<br>
+she as her
 </p>
 <br>
 
