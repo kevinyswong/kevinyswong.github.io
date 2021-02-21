@@ -8,24 +8,25 @@ layout: default
 <h4>2021-02-20, 六. How it Ends and Elsewhere Begins Anew.</h4>
 <p>
 A daughter returns to Greece with her father who was born there. He is returning
-to exhume is mother. The country's shortage of land means the dead lie in rented
-land, staying for three years before their family must come to retrieve their
-bones to make room for someone else. The uncle hadn't left the small town with
-the father decades ago and is the one digging. He clears away the soil, pulling
-up bits of coffin and bone. The Greeks bury their dead facing west, where the
-sun sets and where life ends. The daughter is next to her father. First comes
-the skull with the hair still brown. Then a shoulder bone, a clavicle, and some
-ribs. The daughter takes a second to look at her father and then back to her
-uncle. More bones come up, and he reached a femur and the feet. The uncle and
-the father put together with their hands the pieces. When they are done, the
-daughter looks at her father who is looking at his mother assembled on the
-ground. The daughter wonders if she might one day stand where her father is. She
-glances at the ground and thinks, that's where life once was. Only the three of
-them are present, and the ceremony has no music or fanfare. Her father will box
-his mother's remains and bring them to a room that also houses others she'd
-grown up with. The daughter knows that when she returns to work next week, she
-will have to entertain her colleagues in the usual office banter. The sun is
-heavy this afternoon.
+to exhume is mother. The country's shortage of burial space means the dead lie
+in rented land, staying for three years before their family must come to
+retrieve their bones to make room for someone else. The uncle hadn't left the
+small town with the father decades ago and is the one digging. He clears away
+the soil, pulling up bits of coffin and bone. The Greeks bury their dead facing
+west, where the sun sets and where life ends. The daughter is next to her
+father. First comes the skull with the hair still brown. Then a shoulder bone, a
+clavicle, and some ribs. The daughter takes a second to look at her father and
+then back to her uncle. More bones come up, and he reaches a femur and the feet.
+The uncle steps out. He and the father put the pieces together with their hands.
+When they are done, the daughter looks at her father who is looking at his
+mother assembled on the ground. The daughter feels guilty when the thought
+occurs to her that she might one day stand where her father is. The thought
+lingers for a second before she glances at the ground and thinks, that's where
+life once was. Only the three of them are present, and the ceremony has no music
+or fanfare. Her father will box his mother's remains and bring them to a room
+that also houses others she'd grown up with. A gentle breeze in the air. The
+daughter knows that when she returns to work next week, she will have to rejoin
+her colleagues in the usual office banter. The sun is heavy this afternoon.
 </p>
 
 <p>
