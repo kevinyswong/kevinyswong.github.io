@@ -5,9 +5,51 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-02-20, 六. How it Ends and Elsewhere Begins Anew.</h4>
+<p>
+A daughter returns to Greece with her father who was born there. He is returning
+to exhume is mother. The country's shortage of land means the dead lie in rented
+land, staying for three years before their family must come to retrieve their
+bones to make room for someone else. The uncle hadn't left the small town with
+the father decades ago and is the one digging. He clears away the soil, pulling
+up bits of coffin and bone. The Greeks bury their dead facing west, where the
+sun sets and where life ends. The daughter is next to her father. First comes
+the skull with the hair still brown. Then a shoulder bone, a clavicle, and some
+ribs. The daughter takes a second to look at her father and then back to her
+uncle. More bones come up, and he reached a femur and the feet. The uncle and
+the father put together with their hands the pieces. When they are done, the
+daughter looks at her father who is looking at his mother assembled on the
+ground. The daughter wonders if she might one day stand where her father is. She
+glances at the ground and thinks, that's where life once was. Only the three of
+them are present, and the ceremony has no music or fanfare. Her father will box
+his mother's remains and bring them to a room that also houses others she'd
+grown up with. The daughter knows that when she returns to work next week, she
+will have to entertain her colleagues in the usual office banter. The sun is
+heavy this afternoon.
+</p>
+
+<p>
+childhood flashbacks<br>
+at unexpected moments<br>
+those beautiful days<br>
+this longing may never end.<br>
+might we as parents<br>
+reading to our children<br>
+a book from our yore<br>
+reconcile first memories<br>
+we, passing them down<br>
+this little person<br>
+half is me<br>
+is this what my mother saw in my blank eyes<br>
+herself reflected<br>
+she had a mother too
+</p>
+<br>
+
 <h4>2021-02-11, 四. On Race, Diversity, and Immigration.</h4>
-Today's post is delicate for obvious reasons. Reader be warned, this may make you
-more uncomfortable than my other posts, but this is an important issue to explore.<br>
+Today's post is delicate for obvious reasons. Reader be warned, this may make
+you more uncomfortable than my other posts, but this is an important issue to
+explore.<br>
 ___
 
 <p>
@@ -16,7 +58,7 @@ conversation on race and the future identity of America. It's not popular these
 days but I don't think it's inherently racist to talk about race and its
 practical consequences, from both perspectives: the white's and the person of
 color's. There are very real issues that have to be addressed. The recent rise
-of neo-Nazies, conspiracy theories, and white supremacism are not possible under
+of neo-Nazies, conspiracy theories, and white supremacism is not possible under
 a well-functioning democracy. It only happens when people are insecure and under
 threat, and this threat stems from 1) poor white folks who feel the country has
 forgotten them and 2) the rapid demographic changes are altering the country's
@@ -29,8 +71,9 @@ obvious need to address the problem. This post addresses the second reason.
 <p>
 Here are the facts.
 <a href="https://www.brookings.edu/blog/the-avenue/2018/03/14/the-us-will-become-minority-white-in-2045-census-projects/">Estimates</a>
-project that the country will become majority non-white in 2045. It's very soon—I'll likely still be alive when it happens.
-What do whites, who are losing representation, think of this? A
+project that the country will become majority non-white in 2045. It's very soon—
+I'll likely still be alive when it happens. What do whites, who are losing
+representation, think of this? A
 <a href="https://www.pewresearch.org/social-trends/2019/03/21/views-of-demographic-changes-in-america/">survey</a>
 found nearly as many view it positively (26%) as negatively (28%).
 </p>
@@ -248,43 +291,44 @@ since the Great Divergence that marked the West's emergence as the world's
 wealthiest and most advanced civilization, and he happened to have lived in the
 period when such self-flattery is possible. The one constant that endures time
 is change, and just as no individual lives forever in his youthful peak, no
-society is immune to its evolving fortunes. How many came before that have met
-worse fates have had to accept change? Russians, Indians, Chinese, Persians,
-Turks, Aztecs, Egyptians, and all those who belonged to once thriving
-civilizations: if it is any consolation, others have been here before, and the
-decline of white power in America is one peaceful tick of change in the ocean of
-our inflated self-importance. How many in those prior civilizations screamed
-that the end is nigh, yet the the world has moved on, and they carry about
-themselves in it as routinely as the Earth revolves around the Sun? It's always
-irked me how any mentioning the fall of the Roman Empire carries an air of
-puritanical nationalism, that it is with resignation that such greatness came to
-an end. It certainly was great, but we give the invaders who brought its fall
-the exceedingly flattering name of barbarians even though they too had families
-and lives, pursuing their interests just as the Romans theirs, and these
-barbaric tribes don't seem barbarians any longer when we name them properly: the
-Franks settling in modern France, the Visigoths in modern Spain. We sympathize
-so intensely with the Romans because we see only one side, and the fact that we
-continue to use the word barbarians descends from this lineage—it's what the
-Romans called outsiders. It is worth reminding ourselves the truth Carl Sagan
-pointed out in COSMOS: "National boundaries are not evident when we view the
-Earth from space. Fanatical ethnic or religious or national chauvinisms are a
-little difficult to maintain when we see our planet as a fragile blue crescent
-fading to become an inconspicuous point of light against the bastion and citadel
-of the stars." That blue crescent formed 4,500,000,000 years ago, of which we
-humans developed agriculture in the last 12,000 and began laying the foundation
-for civilization. It is outright foolish to think that human culture has peaked
-and should change no further. The future of the country is diversity and what
-must happen: acceptance and unity, not separation and exclusion. Why not imagine
-a future where we contain Whitman's multitudes? Across canyons and valleys, lush
-green praries and eroded rock strewn over sand-blown desert, towering mesas and
-redwood forests, we find small towns and major metropolises decorating the land
-under the snow-capped mountains, for we are all of us American: brown and yellow
-and black and white and blue and red, bound not by prescriptions of the
-isolated echo chambers that came before but by a full forward march, hand in
-hand, towards a history that will bear our names in pioneering pride. When we
-were children we saw ourselves as adventurers and explorers, looking out at a
-world full of mystery, curious at everything, unafraid to learn, elated to be
-alive. Where has that sense of awe and wonder gone?
+society is immune to its evolving fortunes. How many came before who met worse
+fates have had to accept change? Russians, Indians, Chinese, Persians, Turks,
+Aztecs, Egyptians, and all those who belonged to once thriving civilizations: if
+it is any consolation, others have been here before, and the decline of white
+power in America is one peaceful tick of change in the ocean of our inflated
+self-importance. How many in those prior civilizations screamed that the end is
+nigh, yet the the world has moved on, and they carry about themselves in it as
+routinely as the Earth revolves around the Sun? It's always irked me how any
+mentioning the fall of the Roman Empire carries an air of puritanical
+nationalism, that it is with resignation that such greatness came to an end. It
+certainly was great, but we give the invaders who brought its fall the
+exceedingly flattering name of barbarians even though they too had families and
+lives, pursuing their interests just as the Romans theirs, and these barbaric
+tribes don't seem barbarians any longer when we name them properly: the Franks
+settling in modern France, the Visigoths in modern Spain, the ancestors of the
+moderns. We sympathize so intensely with the Romans because we see only one
+side, and the fact that we continue to use the word barbarians descends from
+this lineage—it's what the Romans called outsiders. It is worth reminding
+ourselves the truth Carl Sagan pointed out in COSMOS: "National boundaries are
+not evident when we view the Earth from space. Fanatical ethnic or religious or
+national chauvinisms are a little difficult to maintain when we see our planet
+as a fragile blue crescent fading to become an inconspicuous point of light
+against the bastion and citadel of the stars." That blue crescent formed
+4,500,000,000 years ago, of which we humans developed agriculture in the last
+12,000 and began laying the foundation for civilization. It is outright foolish
+to think that human culture has peaked and should change no further. The future
+of the country is diversity and what must happen: acceptance and unity, not
+separation and exclusion. Why not imagine a future where we contain Whitman's
+multitudes? Across canyons and valleys, lush green praries and eroded rock
+strewn over sand-blown desert, towering mesas and redwood forests, we find small
+towns and major metropolises decorating the land under the snow-capped
+mountains, for we are all of us American: brown and yellow and black and white
+and blue and red, bound not by prescriptions of the isolated echo chambers that
+came before but by a full forward march, hand in hand, towards a history that
+will bear our names in pioneering pride. When we were children we saw ourselves
+as adventurers and explorers, looking out at a world full of mystery, curious at
+everything, unafraid to learn, elated to be alive. Where has that sense of awe
+and wonder gone?
 </p>
 <br>
 
@@ -558,37 +602,38 @@ that old city life<br>
 <h4>2019-09-30, 一. Towards Mundanity.</h4>
 <p>
 It seems to me that there is a misplaced importance in the glittery and special,
-the infrequent and towering. Consider for a minute what we deem noteworthy,
-the occasions, the people, the excursions we wish to record in some form so we may
-later remember the original instance. Imagine what tempts us to take a photo: family
-reunions, smiles at the museum next to Starry Night, a friend's birthday party,
-a beached whale, scuba diving in the lagoon, gazing outwards at the dappled skyscraper
-lights in the twilight cityscape from top of the Empire State Building. Imagine
-what we write about: intrigue, mystery, cataclysm, swashbuckling drama, romance,
-adventure, fantasy, conjured fiction. The objects and events which atract our
-remembrances are not those that embody our lived experience which bears the bulk
-of our hours and days but which are instead the rogue anomalies, sparkling and
-fanciful yet sparse and detached, unrealistic and unrepresentative. Why is it
-that we pay almost exclusive attention to those infrequent moments and overlook
-what occupies the bulk of our daily lives, the very things that go unnoticed
-for the simple fact that the evening commute, the season's pantry selections, the
-foible during Wednesday's thunderstorm, the arrangement of books, papers, furnishings
-in the apartment, the brittle morning quietude, are common and invariant? These
-elements of our present context, the details of our facticity, should be cherished
-and appreciated precisely because we tend not to see them, and we cannot see their
-value when we've acclimated to the certainty of their presence in the periphery
-because they acquire contrast and nostalgic meaning only in the years afterwards
-when the familiarity we had once taken for granted which had, without thought,
-colored our backgrounds and habituated motions are no longer accessible  beyond
-vague and, by then, certainly distorted memory, in those moments when we long
-that time also flows backwards.
+the infrequent and towering. Consider for a minute what we deem noteworthy, the
+occasions, the people, the excursions we wish to record in some form so we may
+later remember the original instance. Imagine what tempts us to take a photo:
+family reunions, smiles at the museum next to Starry Night, a friend's birthday
+party, a beached whale, scuba diving in the lagoon, gazing outwards at the
+dappled skyscraper lights in the twilight cityscape from top of the Empire State
+Building. Imagine what we write about: intrigue, mystery, cataclysm,
+swashbuckling drama, romance, adventure, fantasy, conjured fiction. The objects
+and events which atract our remembrances are not those that embody our lived
+experience which bears the bulk of our hours and days but which are instead the
+rogue anomalies, sparkling and fanciful yet sparse and detached, unrealistic and
+unrepresentative. Why is it that we pay almost exclusive attention to those
+infrequent moments and overlook what occupies the bulk of our daily lives, the
+very things that go unnoticed for the simple fact that the evening commute, the
+season's pantry selections, the foible during Wednesday's thunderstorm, the
+arrangement of books, papers, furnishings in the apartment, the brittle morning
+quietude, are common and invariant? These elements of our present context, the
+details of our facticity, should be cherished and appreciated precisely because
+we tend not to see them, and we cannot see their value when we've acclimated to
+the certainty of their presence in the periphery because they acquire contrast
+and nostalgic meaning only in the years afterwards when the familiarity and
+habituated motions we had once taken for granted which had, without thought,
+colored our backgrounds are no longer accessible beyond vague and, by then,
+certainly distorted memory, in those moments when we long that time also flows
+backwards.
 </p>
 
 <p>
 To each his own chosen delights and dissipation. What is revolting is when
 natural complexity is buried by a pacifying smile which disregards and invalidates
 these indispensible considerations, banishing them to nonexistence. Mundane and
-common, yes, though nothing more than an appetite for the taste of existence,
+common, yes, though nothing less than an appetite for the taste of existence,
 melancholic and transient.
 </p>
 <br>
@@ -750,13 +795,13 @@ known as the Garden Cafe—maybe the eponymous garden is no measly, nameless
 garden of harmless shrubs and idle tulips, but rather a minefield of treacherous
 strife, a religious rite of passage, the Garden of Eden lost, corrupted,
 blighted, and man, searching for his return to bliss, must navigate its deadly
-swamps under the guise of heartwarming food and lull the senses with its
+swamps under the guise of heartwarming food that lull the senses with its
 lunchtime decor. I stood by the doors at the cafe's entrance, evaluating the
 danger, thinking, this garden must be the last obstacle, the final precipice,
 the most trying test. Needless to say, this is where many a sailor who, weary
 and exhausted from sailing the unforgiving high seas, the mind-bogging and
 labyrinthine hospital, content themselves with an easy, filling meal, call it
-a day, and turn their backs on their original, noble mission. But not this
+a day, and turn their backs on their original noble mission. But not this
 seasoned sailor. To reach the fabled treasure trove, I bolted into a Rocky-dash
 up a flight of stairs with exactly four steps, pummeled past twin doors with no
 comforting EXIT sign in red neon above—there's no exit in this one—actually
