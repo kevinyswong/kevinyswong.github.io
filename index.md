@@ -159,7 +159,7 @@ This is sobering: a
 <a href="https://dl.acm.org/doi/10.1145/3313831.3376654">study</a>
 last year found that when people are forming teams and adding members, they
 deliberately reduce diversity when they are shown whether a potential member
-boosts and drops the team's overall diversity. This behavior looms large.
+boosts or drops the team's overall diversity. This behavior looms large.
 For all we tout diversity in our public relations messaging, for all the
 apparent diversity in cities, residential neighborhoods are largely segregated
 by race, even in our most diverse cities:
@@ -300,7 +300,7 @@ Aztecs, Egyptians, and all those who belonged to once thriving civilizations: if
 it is any consolation, others have been here before, and the decline of white
 power in America is one peaceful tick of change in the ocean of our inflated
 self-importance. How many in those prior civilizations screamed that the end is
-nigh, yet the the world has moved on, and they carry about themselves in it as
+nigh, yet the world has moved on, and they carry about themselves in it as
 routinely as the Earth revolves around the Sun? It's always irked me how any
 mentioning the fall of the Roman Empire carries an air of puritanical
 nationalism, that it is with resignation that such greatness came to an end. It
