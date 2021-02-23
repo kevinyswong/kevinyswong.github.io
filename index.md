@@ -8,7 +8,7 @@ layout: default
 <h4>2021-02-20, 六. How it Ends and Elsewhere Begins Anew.</h4>
 <p>
 A daughter returns to Greece with her father who was born there. He is returning
-to exhume is mother. The country's shortage of burial space means the dead lie
+to exhume his mother. The country's shortage of burial space means the dead lie
 in rented land, staying for three years before their family must come to
 retrieve their bones to make room for someone else. The uncle hadn't left the
 small town with the father decades ago and is the one digging. He clears away
@@ -119,7 +119,7 @@ white American out of poverty and secured their future prospects. Even then,
 would they be happy with no longer being able to identify with what the country
 is becoming? Conservatives feel their homeland is being hijacked even while we
 progressives see inequality at every turn. It's a problem in Europe too with the
-Syrian refugee crisis. Whiteness, Christianity, and European identity that
+Syrian refugee crisis. Whiteness, Christianity, and the European identity that
 built the country are being threatened and what we're doing is blanket-blocking
 any mention of it as racist when there's a valid point here.
 </p>
