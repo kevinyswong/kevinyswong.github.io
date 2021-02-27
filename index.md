@@ -97,7 +97,7 @@ there." The common thread in people who live as individuals who have their own
 thoughts, be they artists, scientists, or intellectuals, those whose vocations
 and particular ideas could not be more different from each other, is that they
 are themselves rather than reiterations of the cookie-cutter norm of conformity.
-Someone healthy and functional are amenable and pleasant and may be
+Someone healthy and functional is amenable and pleasant and may be
 unconditionally kind and deserving of kindness in return, yet these traits of
 rigid regularity are but conforming, voiceless, sterile, and lacking a unique
 vantage. Such a person is normal, to be treated the customary courtesy but it
@@ -114,13 +114,13 @@ draped in the season's designer advertisement, could not but be genuine. She
 lives remotely, modestly, saying, "I get to live my more authentic self here,
 and I don’t have to pretend to be anybody else." Why do we suppose hardly anyone
 has seen Thomas Pynchon? The idea is the same as when Thoreau sought to confront
-only "the essential facts of life." Rousseau wrote a book called REVERIES OF THE
-SOLITARY WALKER. And do we fault William Blake for his singular vision? Or
-Proust who retired from the world to write his novel, the man who, having lived
-life, sat down to write about it? Or Aaron Swartz for abhorring the white noise
-in the office? Rilke wrote, "We are solitary. We can delude ourselves about this
-and act as if it were not true. That is all. But how much better it is to
-recognize that we are alone; yes, even to begin from this realization."
+only "the essential facts of life." Rousseau wrote REVERIES OF THE SOLITARY
+WALKER. And do we fault William Blake for his singular vision? Or Proust who
+retired from the world to write his novel, the man who, having lived life, sat
+down to write about it? Or Aaron Swartz for abhorring the white noise in the
+office? Rilke wrote, "We are solitary. We can delude ourselves about this and
+act as if it were not true. That is all. But how much better it is to recognize
+that we are alone; yes, even to begin from this realization."
 
 The artist, accustomed to time alone, dedicated to communicating through his
 work, does not have the habit of doing so in person. When his interviewer
