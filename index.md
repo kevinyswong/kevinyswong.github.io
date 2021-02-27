@@ -9,7 +9,7 @@ layout: default
 Why is it so common to find among creatives intolerable stubbornness,
 intractable visions, beings who not only create uncanny works but also live in
 aberration? The roaring litany of writers and artists, comedians and activists,
-philosphers and actors, all those whose independence demanded they be
+philosphers and actors, all those whose independence demand they be
 uncompromisingly themselves, count among their ranks disproportionately
 tumultuous lives where madness, passion, obsession, ailment, and insanity
 correlate with ingenuity—so much so that this observation can be made: the more
