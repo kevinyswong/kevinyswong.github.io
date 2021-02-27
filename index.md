@@ -41,7 +41,7 @@ thing you can experience? It is the hour of great contempt. The hour in which
 even your happiness becomes loathsome to you, and so also your reason and
 virtue. The hour when you say: 'What good is my happiness? It is poverty and
 pollution and wretched self-complacency.'" It is not without reason that
-Tolstoy's ANNA KARENINA opens with "All happy families are alike; every unhappy
+Tolstoy's ANNA KARENINA opens with, "All happy families are alike; every unhappy
 family is unhappy in its own way". What story is there to tell that ends with
 smiles all around? It is finished at the full stop. The principal trouble isn't
 that there is a lack of content but that any such story does not even intend to
@@ -174,8 +174,8 @@ He is asking MBAs, whose primary value proposition is to stand before an
 audience and sell fancy numbers tacked onto colorful pictures, to use skillsets
 they don't have and be engineers and designers, thinkers and experimentalists,
 to give themselves over to late nights in the office, putting off family duties,
-placing the product above themselves. Erving Goffman calls it "body glossing"
-when someone explicitly signaling to others of his activity that is otherwise
+placing the product above themselves. Erving Goffman called it "body glossing"
+when someone explicitly signals to others his activity that is otherwise
 indiscernible—checking our phone as we wait in a lobby to inform passersby that
 we're waiting for someone. When an MBA stands in front of a slide deck, the
 entire body is glossing. Title and formality, power and position, capital and
