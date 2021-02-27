@@ -198,7 +198,7 @@ we seen the apocalypse and returned to live our days knowing we've reached the
 end, that there was no more, have we tapped into the wavelength of what it means
 to be alive, a fragile collection of stardust that wonders its place among the
 stars? Writing's music cannot express cataclysmic paroxysms as purely as music
-in the plain, heard over shut eyes—I am reminded of Michael Nyman TIME LAPSE.
+in the plain, heard over shut eyes—I am reminded of Michael Nyman's TIME LAPSE.
 And so too I am reminded of Hesse: "Eternity is a mere moment, just long enough
 for a joke."
 
