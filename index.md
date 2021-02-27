@@ -5,8 +5,206 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-02-26, 五. On the Artist as Eccentric.</h4>
+Why is it so common to find among creatives intolerable stubbornness,
+intractable visions, beings who not only create uncanny works but also live in
+aberration? The roaring litany of writers and artists, comedians and activists,
+philosphers and actors, all those whose independence demanded they be
+uncompromisingly themselves, count among their ranks disproportionately
+tumultuous lives where madness, passion, obsession, ailment, and insanity
+correlate with ingenuity—so much so that this observation can be made: the more
+eccentric the artist, the more productive and outstanding. This is as it must
+be. The nature of art does not call for reason, health, normalcy, or sustainable
+living, but rather an open embrace of the vivacity of life, whether they be
+struck by calamity, malady, treason, failure, despair, subject entirely to
+factors beyond their control, and then having the wisdom to recognize it in the
+mirror and follow it.
+
+The artist does not concern himself with the illusory promise of happiness and
+joy because his muse never appears when happy. Rather, the artist does not
+resist and even pursues the experimental, the new, the traces of suffering that
+lead further and further into himself. How do we explain this trait that artists
+take for granted as dearly as life's motto? Others have written about this
+potent capacity. Keats called it negative capability. Martha Nussbaum said of
+Mahler's KINDERTOTENLIEDER (tr. Songs on the Death of Children): "That music is
+consoling because it brings you to terms with the finality of loss in such an
+eloquent way. Now, I wouldn't have said of the KINDERTOTELIEDER, that's a
+beautiful work. I think most listeners wouldn't use that word. It's a harrowing
+work, but it's precisely for that reason that it's consoling . . . To me the
+greatness of Mahler is his getting to the depths of the inexorability of loss,
+and the real, deep pain that human life affords, and I think if you can't get to
+the depth of that pain you also can't get to the heights of the joy of human
+life." The artist reeks in Nietzsche's superman who said: "But you, also, my
+brethren, tell me: What does your body say about your soul? Is your soul not
+poverty and pollution and wretched self-complacency? . . . What is the greatest
+thing you can experience? It is the hour of great contempt. The hour in which
+even your happiness becomes loathsome to you, and so also your reason and
+virtue. The hour when you say: 'What good is my happiness? It is poverty and
+pollution and wretched self-complacency.'" It is not without reason that
+Tolstoy's ANNA KARENINA opens with "All happy families are alike; every unhappy
+family is unhappy in its own way". What story is there to tell that ends with
+smiles all around? It is finished at the full stop. The principal trouble isn't
+that there is a lack of content but that any such story does not even intend to
+capture the human experience in any adequate form, real or imagined, but only a
+sorry fantasy. There is a reason no serious artist or critic concerns himself
+with happiness. To have a joyful, gregarious, harmonious life is to sedate those
+impulses of the self that embody the wonderful spectrum of humanity. Happiness
+is pleasing. Happiness fulfills. Happiness quenches. Happiness is indolent
+satisfaction. Happiness does not answer the call to meaning—happiness is boring.
+A happy story represents nothing. It says nothing, it expresses nothing—it is
+nothing. Not every artist can explain what drives him, but all have at least
+this in common, an instinctive understanding of what doesn't work. To be clear,
+I need to add a disclaimer that I am not an elitist. Conventional happy stories
+have a time and place, and the market that caters to it, with public's appetite
+for it, have the purpose of leisure and recreation for normal people who have
+jobs in the day and families at home, and the producers for this market are
+bounds and away more influential than any avant-garde conception sequestered in
+exclusive circles. I enjoyed THE GAME OF THRONES too, but don't expect me to
+take it seriously, or THE HUNGER GAMES, or any superhero amusement park like THE
+AVENGERS coming out of Hollywood. They were not made for the artist and do not
+expand human consciousness, they do not belong in the same category as Proust or
+Hugo, and so do not deserve the  same consideration. Artists are eccentrics for
+a reason. One does not expect a scientist to be without his discipline and
+objectivity, so how can one expect an artist to live in conformity and produce
+mere replicas of what already exists? How can one critique in earnest the
+society in which he lives when he breathes in it, when behind his white lies he
+stands to lose the most from brutal honesty? But also, how does the artist know
+what he's talking about unless he's lived in it?
+
+Difficult childhoods, agitation, disturbed thoughts, and uncommon life
+experiences are also what fuel stand-up comedians for whom reality and society
+as given do not give proper venue to adequate expression. How disaffected were
+Richard Pryor, Lenny Bruce, and Sarah Silverman that they could not look at life
+without also seeing its magnificent comedy, that which doesn't even cross the
+minds of normal people? Such torment is also what strikes a comedian as
+intellectual as Stephen Fry. And it is not only creatives who are capable of an
+alternate view. Jane Goodall, who never planned on becoming a scientist but
+rather thought of herself as an artist who wanted to live among animals in
+Africa and write about them, spent who knows how long on her own in the forest,
+and she said, "Some people will pick out tiny things as beauty. Other people
+won't even notice them. The shape of a wet leaf on the pavement, even in an ugly
+place. A footstep on the sand filling up with water. The whole picture you can
+get—a child's footprint and a dog's paw, and a tide coming in—can be very
+beautiful. Other people might just tramp over them and not see them at all." She
+said too, "A simple fly landed on me—this one was shining green and gold, and it
+had little specks of red— beautiful fly, bristly fur on its abdomen. And I
+looked at it and thought, when a chimpanzee looks at something like this, he
+doesn't have the word, the word 'fly'. So he's looking at it as it is. Now I'm
+imagining myself being in a situation of not having words, so if I can
+categorize it as a fly it takes away from something of the beauty of the
+moment—because it's just a 'fly'—so forget 'fly' and look at this being that's
+there." The common thread in people who live as individuals who have their own
+thoughts, be they artists, scientists, or intellectuals, those whose vocations
+and particular ideas could not be more different from each other, is that they
+are themselves rather than reiterations of the cookie-cutter norm of conformity.
+Someone healthy and functional are amenable and pleasant and may be
+unconditionally kind and deserving of kindness in return, yet these traits of
+rigid regularity are but conforming, voiceless, sterile, and lacking a unique
+vantage. Such a person is normal, to be treated the customary courtesy but it
+would be a mistake to expect this person to take the artist where he wishes to
+go. At the end of the day, an artist can speak his mind only with another
+artist. This notion is crucial, especially for the artist, whose value is his
+vision. The image of the artist as disturbed, reclusive, tormented, is the right
+one. Privacy and seclusion are essential to being oneself. Without his privacy,
+how could Sacha Baron Cohen have concocted his social and political vessel to
+become a ridiculous buffoon like BORAT? Frances McDormand, who shuns the usual
+Hollywood celebrity and lives away from the limelight, unencumbered by
+maintaining an image of propriety, not hidden behind seven layers of makeup, not
+draped in the season's designer advertisement, could not but be genuine. She
+lives remotely, modestly, saying, "I get to live my more authentic self here,
+and I don’t have to pretend to be anybody else." Why do we suppose hardly anyone
+has seen Thomas Pynchon? The idea is the same as when Thoreau sought to confront
+only "the essential facts of life." Rousseau wrote a book called REVERIES OF THE
+SOLITARY WALKER. And do we fault William Blake for his singular vision? Or
+Proust who retired from the world to write his novel, the man who, having lived
+life, sat down to write about it? Or Aaron Swartz for abhorring the white noise
+in the office? Rilke wrote, "We are solitary. We can delude ourselves about this
+and act as if it were not true. That is all. But how much better it is to
+recognize that we are alone; yes, even to begin from this realization."
+
+The artist, accustomed to time alone, dedicated to communicating through his
+work, does not have the habit of doing so in person. When his interviewer
+expressed frustration at eliciting a response, Coetzee said, "The questions you
+have posed to me are, many of them, difficult questions, and it's my habit of
+mind to reflect and revise and try to attain a certain completion and perfection
+in my responses, and that is incompatible with the interview medium. That's why
+I've been so extremely uncomfortable." Coetzee belongs to the category of
+artists who are not outwardly striking but instead modest and unassuming, who
+live largely uneventful lives outside of their work, as do I. I do believe that
+I speak for the artists in this category when I say our ideas come not from
+outside but from within, and any perturbance on our part only distracts us from
+seeing the vision. A painter expressed my experience of artistic creation when
+he said, "I wait till the inner lights to go on. The inner light means it's the
+moment I start to paint. If the inner light goes on in me I start right away to
+paint, everything is there, the paint, the canvas. And I paint till the end, but
+there's no end. I live in a lawless world. There is no law. The end is spiritual
+orgasm . . . You have to sit and wait until the inner light goes on.  It is only
+by sitting and waiting, if you wait for the inner lights to go on, then you can
+talk. Now I have contact with the planet, the surroundings. It has nothing to do
+with logical or practical things. Speaking like practical, logical,
+philosophical people is not the real way. It is the wrong way. Clever, handy,
+routine is the wrong way. You have sit and wait until the inner lights go on in
+you and then we can talk." I don't think myself a kind person, or particularly
+humble, try as I may. When the moment strikes, I sit quietly and write wherever
+I happen to be, and the affair is entirely without spectacle. To watch me
+writing would be beside the point. It is entirely a solitary process and not one
+worth witnessing. What matters is what comes out as a result of subsuming all
+senses, imagination, experience, sentiment, an eye attentive to life, trusting
+an unwavering taste to channel what is worth writing into the written word. It
+would not be productive to ask me how I wrote it either because  I myself do not
+know. Csikszentmihalyi called this experience "flow", but there's a distinction
+to be made between the rational and the creative processes. The throes of
+engagement when writing a computer program does not feel the same as the chaos
+and darkness of writing prose that's at risk of slipping away. I can write
+comments about what I wish to code and come back later; I don't have that luxury
+with prose that runs dry when I've lost how I wanted to write it. The ideas I
+hear from the inner voice in the passing moments that I deem worth writing are
+not easily reproducible and only seem they can after the fact because they sit
+on the page, outside my head. When I finish a coding session I emerge with a
+sense of completion in the head, the kind of lifeless, fading satisfaction that
+comes with overcoming an intellectual puzzle. But with prose, after long hours
+swimming in the night ocean, the weary soul attains a deep satiety that isn't
+quite joy so much as a sense of meaning from having danced with life.
+
+Elon Musk was right when he said that companies should "spend less time on
+finance, spend less time in conference rooms, less time on PowerPoint and more
+time just trying to make [their] product as amazing as possible." But he stops
+short of the reason those in management refuse to do the obvious and innovate.
+He is asking MBAs, whose primary value proposition is to stand before an
+audience and sell fancy numbers tacked onto colorful pictures, to use skillsets
+they don't have and be engineers and designers, thinkers and experimentalists,
+to give themselves over to late nights in the office, putting off family duties,
+placing the product above themselves. Erving Goffman calls it "body glossing"
+when someone explicitly signaling to others of his activity that is otherwise
+indiscernible—checking our phone as we wait in a lobby to inform passersby that
+we're waiting for someone. When an MBA stands in front of a slide deck, the
+entire body is glossing. Title and formality, power and position, capital and
+distance secure a comfort that resists change and new ideas. Who doesn't want to
+be a visionary? But what does it cost? The flip side of this coin is that it is
+unreasonable to expect everyone to be a relentless innovator. Whether it is the
+changing priorities in life as we age, our divergent aspirations due to
+different backgrounds, our accustomed privilege, one cannot expect the bulk of
+the workforce to demand on themselves a rocketship's takeoff protracted to a
+lifetime, exhilarating and glorious but also consuming and precarious.
+Innovators, radicals, and progressives are and will continue to remain a faint
+portion of society, loud and inspiring but few and precious. Most of us, indeed,
+are content being paper pushers, a figurehead talking but not speaking,
+passengers riding along the conveyor belt: a job is just a job. How revolting
+this idea is! and yet how true to human nature! A voice in me bares itself and
+screams: Have we sailed the seven seas, summited K2's peak, unveiled the secrets
+of humanity, pried into the mysteries of the universe, have we become all that
+which we aspired to be, have we pushed the boulder up the mountain enough, have
+we seen the apocalypse and returned to live our days knowing we've reached the
+end, that there was no more, have we tapped into the wavelength of what it means
+to be alive, a fragile collection of stardust that wonders its place among the
+stars? Writing's music cannot express cataclysmic paroxysms as purely as music
+in the plain, heard over shut eyes—I am reminded of Michael Nyman TIME LAPSE.
+And so too I am reminded of Hesse: "Eternity is a mere moment, just long enough
+for a joke."
+
+<br>
+
 <h4>2021-02-20, 六. How it Ends and Elsewhere Begins Anew.</h4>
-<p>
 A daughter returns to Greece with her father who was born there. He is returning
 to exhume his mother. The country's shortage of burial space means the dead lie
 in rented land, staying for three years before their family must come to
@@ -28,9 +226,7 @@ that also houses others she'd grown up with. A gentle breeze in the air. The
 daughter knows that when she returns to work next week, she will have to rejoin
 her colleagues in the usual office banter. The sun is heavy this afternoon but
 she knows too the sun does not shine for her.
-</p>
 
-<p>
 childhood flashbacks<br>
 at unexpected moments<br>
 those beautiful days<br>
@@ -46,7 +242,7 @@ is this what my mother saw in my blank eyes<br>
 herself reflected<br>
 looking at her mother<br>
 she as her
-</p>
+
 <br>
 
 <h4>2021-02-11, 四. On Race, Diversity, and Immigration.</h4>
@@ -55,7 +251,6 @@ you more uncomfortable than my other posts, but this is an important issue to
 explore.<br>
 ___
 
-<p>
 Let's cast aside the political polarization for a moment and have a mature
 conversation on race and the future identity of America. It's not popular these
 days but I don't think it's inherently racist to talk about race and its
@@ -67,11 +262,9 @@ threat, and this threat stems from 1) poor white folks who feel the country has
 forgotten them and 2) the rapid demographic changes are altering the country's
 identity. I have nothing insightful to say about the first reason on top of the
 obvious need to address the problem. This post addresses the second reason.
-</p>
 
 <b>Discontent</b>
 
-<p>
 Here are the facts.
 <a href="https://www.brookings.edu/blog/the-avenue/2018/03/14/the-us-will-become-minority-white-in-2045-census-projects/">Estimates</a>
 project that the country will become majority non-white in 2045. It's very soon—
@@ -79,9 +272,7 @@ I'll likely still be alive when it happens. What do whites, who are losing
 representation, think of this? A
 <a href="https://www.pewresearch.org/social-trends/2019/03/21/views-of-demographic-changes-in-america/">survey</a>
 found nearly as many view it positively (26%) as negatively (28%).
-</p>
 
-<p>
 I'd like to first write a bit with the 28% in mind. At the extreme is the
 far-right. Richard Spencer, Lauren Southern, and Gavin McInnes are saying, "We
 built the wealthiest nation on Earth, we introduced democracy and defended it,
@@ -91,9 +282,7 @@ reality, and I have to say, they have a point. There's a conversation to be had,
 certainly not one I can settle but let's examine this further. My view in the
 end is that resources, opportunities, and equitable values should not be hoarded
 within lines as arbitrary as race.
-</p>
 
-<p>
 It's worth repeating: I don't think it's racist to talk about whites wishing to
 preserve Western civilization. It's a matter of defensive self-conservation. The
 far right is the loudest but in today's intolerance that's the only venue to
@@ -122,9 +311,7 @@ progressives see inequality at every turn. It's a problem in Europe too with the
 Syrian refugee crisis. Whiteness, Christianity, and the European identity that
 built the country are being threatened and what we're doing is blanket-blocking
 any mention of it as racist when there's a valid point here.
-</p>
 
-<p>
 This problem extends to academia. A very recent vanguard in the humanities has
 essentially been saying: "we" have been oppressed, colonialized,
 underrepresented, and now that we're empowered we're going to take what's ours
@@ -141,20 +328,16 @@ history, but this doesn't mean dissolving the discipline, as Dan-el Padilla
 Peralta is open to doing with the classics. Let's recall that even ideas as
 radically departing from traditional Western perspective as those in Edward
 Said's ORIENTALISM didn't call for destroying the whole field.
-</p>
 
-<p>
 What is happening is human nature: everyone pursues his interest, and it is the
 country that plays mediator for all citizens. Can we each stop demonizing the
 other side? It is useful to keep in mind John Rawls' veil of ignorance and take
 a step back from our particular place in society to think larger. With America
 soon to become majority non-white, we have to make peace with that fact. Now,
 onto something more interesting.
-</p>
 
 <b>Towards a Brighter Future</b>
 
-<p>
 This is sobering: a
 <a href="https://dl.acm.org/doi/10.1145/3313831.3376654">study</a>
 last year found that when people are forming teams and adding members, they
@@ -194,9 +377,7 @@ And books? I couldn't find a study on this, but let's be honest. If we can't
 even bring ourselves to watch movies and TV across races, how many do we suppose
 have read James Baldwin, Maya Angelou, or Toni Morrison? Or Zadie Smith, Salman
 Rushdie, Orhan Parmuk?
-</p>
 
-<p>
 So we don't live together, don't go to the same schools, aren't friends with
 each other, don't watch the same movies or TV shows, and if we meet each other
 at work what guides our conversations is a societal restraint from broaching
@@ -211,9 +392,7 @@ history if the immensity of our unquestioned confidence comes from—indeed
 betrays—our own realities, our projected mythologies and imaginations exchanged
 among friends, cloistered in our communities where everyone looks and thinks
 like ourselves?
-</p>
 
-<p>
 Racial inequality is something we can't help but pick up on. We adults don't
 talk about it because we've learned restraint, afraid of saying the wrong thing,
 and instead keep quiet or look away. Kids notice it too but are more open to
@@ -231,9 +410,7 @@ much as it's an innocent observation of a consequence of our education system
 and a history of suppression, and what he is saying is something we all notice
 when we come across it, but the current political and social climate casts over
 us a pall that mutes what we already know as wise silence.
-</p>
 
-<p>
 Here I digress to put in a word on immigration. Like any proper New Yorker, I am
 a flaming liberal. I support the idea of equal opportunity for all whether in
 this country or in any other. In spite of this, I don't think the answer to the
@@ -255,9 +432,7 @@ losing a nation's best and brightest helps a developing country stand on its own
 and catch up rather than merely benefiting indirectly from Western progress. But
 this is the price of supplying American innovation, securing American
 well-being.
-</p>
 
-<p>
 Diversity—why is it so difficult? I'm an atheist, yet I've sat with a Protestant
 as he prayed for me, I've linked hands with Catholics saying grace before a
 meal, I've attended Mass, I've sat in classes full of Catholics. I've joined the
@@ -268,9 +443,7 @@ Mumbai at a Hindu engagement ceremony. So what that I'm an atheist? We should
 keep in mind that what feels foreign to one is home to another, and it was the
 arbitrary slight of chance that we ourselves were not born into another's
 community.
-</p>
 
-<p>
 Diversity is the country's future, and it is a future when the landscape of
 writers and directors will have changed, along with the TV-watching and
 movie-going market whose preference commands what the entertainment industry
@@ -284,9 +457,7 @@ of experiences of any ordinary human. One day, the unsightly practice will have
 passed when the camera deigns a moment for the diversity shot and then cuts
 away, returning to the default whiteness. The country's future is mixed, and we
 have to accept this as a reality, not boil over with veiled resentment.
-</p>
 
-<p>
 William Buckley Jr. wrote, "A conservative is someone who stands athwart
 history, yelling Stop." What nonsense! How shortsighted is his view of history
 that for him, history extends no further than the past several hundred years
@@ -332,18 +503,15 @@ will bear our names in pioneering pride. When we were children we saw ourselves
 as adventurers and explorers, looking out at a world full of mystery, curious at
 everything, unafraid to learn, elated to be alive. Where has that sense of awe
 and wonder gone?
-</p>
+
 <br>
 
 <h4>2021-02-09, 二. In Defense of Abstract Art.</h4>
-<p>
 Why view abstract art? When we stand before an abstract painting, what is it
 that we're looking at in the indeterminate swirls that don't even remotely
 resemble a person, a place, or anything familiar? I wish to address why I prefer
 abstraction.
-</p>
 
-<p>
 If we can represent nature by reducing it into a set of equations, why not too
 visual expression into art's purest form? And what is visual art on the canvas
 but the strokes of a brush painting in the four variables of color, shape, size,
@@ -360,9 +528,7 @@ point because what will it all have mattered if we don't exist? To appreciate
 abstraction is to take the leap from merely mimicking reality, scrupulously
 copying down its concretized distinctions and its various shades of light, to
 human expression, the crux of what it means to be alive.
-</p>
 
-<p>
 I remember the first time I encountered Barnett Newman's VIR HEROICUS SUBLIMIS.
 I was pulled to it as if by a magnet, drawn up close to the life-sized red
 canvas, the red consuming my entire field of vision, and I felt shivers running
@@ -387,9 +553,7 @@ we do not understand the painting through its technicalities any more than we
 get closer to understanding what enables life by analyzing the brain's atomic
 makeup. The zips merely serve to provide a sense of size for a painting that
 stands taller than any viewer.
-</p>
 
-<p>
 I am not suggesting that expression and meaning is limited to abstraction's
 dominion. Consider Norman Rockwell's undeniably political THE PROBLEM WE ALL
 LIVE WITH, or Caspar David Friedrich's proud WANDERER ABOVE THE SEA OF FOG, or
@@ -410,9 +574,7 @@ WITH A PEARL EARRING? In one brush stroke dashing across the surface, one color
 reaching upwards, dancing among many in our human dynamism, we see not a
 landscape or a portrait but a visual ode singing the tune of our inner
 complexity.
-</p>
 
-<p>
 To stay clear of art's mystique, I must mention the regrettable reality is that
 any mention of art is preceded by its reputation. In this sense, art is like
 wine tasting. Wine tasting and, even more importantly, the acquired diction
@@ -448,9 +610,7 @@ the art market. But American capitalism, ever eager to place its hand on every
 exchange, bends the market to its own morality. This is not art for art's sake
 but raw capitalism. Let us appreciate art on its own accord, art for all. As
 Jerry Saltz says, anyone can look at art—including abstract art.
-</p>
 
-<p>
 writing fiction is like<br>
 doing pure math<br>
 simply pen and paper.<br>
@@ -458,11 +618,10 @@ painting a world in abstract<br>
 color and shape<br>
 size and<br>
 space
-</p>
+
 <br>
 
 <h4>2019-10-19, 六. On Humility.</h4>
-<p>
 I came across some old archives from my college. In them, photos—I'll provide
 the links at the end of this entry, but it is my hope that the reader resist
 the itch to scroll down. The plague of modernity, fragmented, interrupting,
@@ -485,9 +644,7 @@ ethos, a generation that has had its day. I ask: where has the time gone?
 A day will come when my own present, captured in its 4K ultra-high definition,
 its 60 FPS videos, its surround sound, will seem the same way the image my
 former professor does to me.
-</p>
 
-<p>
 Why am I consistently struck by images like these? They check me and my
 obsessions, my principles and remorseless ventures, my defiances and rages, my
 deep subversion and antipathy, my irreverence and disregard, my high
@@ -533,9 +690,7 @@ anyone can detect beneath a serene appearance and pliable demeanor, much less fo
 a people known far more for amenability than audacity, the orient's deep-rooted
 harmony, because the strength of the outward thrust is paired with a stronger
 restraint, dimpled by over-sensitive nerves quickly overwhelmed from multiple commotion.
-</p>
 
-<p>
 I had come across the archive photos a while ago but was reminded of them after
 I was, in the unpredicatable network of the internet, linked to the late
 Jack Schwartz's In Memoriam site. Browsing the photos, I felt grounded, anchored.
@@ -548,50 +703,44 @@ future will be our own and which should evoke in us not only relation to another
 time and how we are situated against it, but also emphasize what is at stake
 when we live ours. The greatest divides are the boundaries across generations,
 life experience locked away in the written word or the still photograph.
-</p>
 
 <a href="https://cims.nyu.edu/gallery/index.html">College photo archives</a><br>
 <a href="https://cs.nyu.edu/cs/faculty/schwartz/In_Memoriam.html">Jack Schwartz</a><br>
 <br>
 
 <h4>2019-10-18, 五.</h4>
-<p>
 my campus footpath at the start of fall break<br>
 under the early evening sun<br>
 that eerie feeling<br>
 emptiness where people should be<br>
 like parts of the city, late at night
-</p>
+
 <br>
 
 <h4>2019-10-07, 一.</h4>
-<p>
 having reconciled with the dread<br>
 that I'd lost them with my move<br>
 I encounter the tribe again<br>
 in my cohort<br>
 staring down the years ahead
-</p>
+
 <br>
 
 <h4>2019-10-02, 三.</h4>
-<p>
 this morning’s decadence<br>
 peanut butter from the jar<br>
 expanding slowly on my bagel<br>
-</p>
+
 <br>
 
-<p>
 absorbed in thought<br>
 I look up, recontextualizing myself<br>
 glancing down two seconds later<br>
 a blank mind<br>
 I’ve lost my place<br>
-</p>
+
 <br>
 
-<p>
 walking in hurried strides<br>
 pause for a moment, let the rush subside<br>
 immerse in the anonymous<br>
@@ -599,11 +748,10 @@ project your focus outside<br>
 view yourself from the sky<br>
 lost in the heaping crowd<br>
 that old city life<br>
-</p>
+
 <br>
 
 <h4>2019-09-30, 一. Towards Mundanity.</h4>
-<p>
 It seems to me that there is a misplaced importance in the glittery and special,
 the infrequent and towering. Consider for a minute what we deem noteworthy, the
 occasions, the people, the excursions we wish to record in some form so we may
@@ -630,19 +778,16 @@ habituated motions we had once taken for granted which had, without thought,
 colored our backgrounds are no longer accessible beyond vague and, by then,
 certainly distorted memory, in those moments when we long that time also flows
 backwards.
-</p>
 
-<p>
 To each his own chosen delights and dissipation. What is revolting is when
 natural complexity is buried by a pacifying smile which disregards and invalidates
 these indispensible considerations, banishing them to nonexistence. Mundane and
 common, yes, though nothing less than an appetite for the taste of existence,
 melancholic and transient.
-</p>
+
 <br>
 
 <h4>2019-09-29, 日.</h4>
-<p>
 There is a pond outside, wavelings rippling across the surface, a soft, gentle,
 constant wind billowing over its still mass. Two adolescent geese are floating
 near the edge, wings folded, necks tall and curved like cranes, feathered chests
@@ -652,11 +797,10 @@ looming in the skies above, time seemingly halted, the movements of the guiding
 lights in abeyance, left without an announcement when early afternoon
 becomes early evening. Perhaps it is the changing of the seasons. A mild chill
 this morning, headwind of the winter ahead.
-</p>
+
 <br>
 
 <h4>2019-09-28, 六.</h4>
-<p>
 I am sitting in the driver's seat. My mind is frazzled, in disarray, inklings
 of flickering thoughts branching in remorseless rampance, so many, so variable,
 too disorganized to pursue. A sense of loss. I am driving down Douglas Road,
@@ -704,17 +848,14 @@ because I know it in advance as a matter of weekly routine. The laws of nature a
 difficult, but so is the human psyche. If this private, continual journey delves
 further and further inwards, it is in pursuit of eventual self-discovery. We are
 each of us, if given proper consideration, our own worlds waiting to be unveiled.
-</p>
 
-<p>
 I’m not the only one buying them after all<br>
 none left at my supplier<br>
 my bagels ran out last night<br>
-</p>
+
 <br>
 
 <h4>2019-09-23, 一. Excerpt from the little black book.</h4>
-<p>
 Even the presence of company somehow siphons my energy. How can this be?
 It is enervating, debilitating, constraining, as if my creative latitude has
 contracted, my exploratory freedom diminished. A sense of companionship gives me
@@ -738,11 +879,10 @@ open, almost an unknown void between the moment I was last aware of myself and
 my present disorientation, whose back-filling demands recallibration and
 reflection, but I am also fatigued, aghast that my redoubled effort at
 socialization competes with my very nature.
-</p>
+
 <br>
 
 <h4>2018-05-21, 一.</h4>
-<p>
 I like firm showerheads with delightful pressure, no-sugar-added cheesecake,
 unscented handsoap, pens that don't smear my hand's belly as it slides across
 the page, pleasant saxophonists lighting up the subway with jazzy melodies,
@@ -751,11 +891,10 @@ confessions, playful teasing, spending time sharing strange stories, mistakes
 made, lingering and unresolved grievances, revealing and then laughing,
 remaining sincere and faithful to the layered nuances of living, breathing, and
 feeling.
-</p>
+
 <br>
 
 <h4>2018-05-08, 二.</h4>
-<p>
 I've been told on multiple occasions I look like a student. People notice it,
 though it's not true. It seems that I give off the impression that I'm younger
 than my years. Recently at the post office I was asked, by a cashier with
@@ -830,11 +969,10 @@ my demure, solicitous earnesty that reminded her of a child holding out his
 hands, pleading for his allowance, and provoked her to reveal, as she saw it,
 the state of affairs. I deserve the credit of my years! I've weathered a quarter
 of a century! That's hard work!
-</p>
+
 <br>
 
 <h4>2018-02-19, 一.</h4>
-<p>
 In my field, there's a concentration of analytical, rational, and fiercely
 logical types, which I supposes in only fitting, considering this line of work,
 and though I can spar toe-to-toe with my coworkers, I frequently find myself
@@ -860,37 +998,27 @@ from brimming, untamable energy to nostalgic quietude, that even now the chairs
 are still warm. I don't think many of my colleagues will appreciate one of
 my strange ruminations—listen: water droplets at the faucet are slowly dripping
 into the wash basin!
-</p>
 
-<p>
 Maybe I'm just coming up with excuses for my habitual daydreaming, though I
 insist that I have a preoccupation with transcendence. You'll understand if the
 following excerpt from Pablo Neruda's CON ELLA (WITH HER) unsuspectingly disarms
 you, sends you to the clouds for the brief moments you're reading it, and you
 stop in your tracks, seized by its beckoning call:
-</p>
 
-<p>
 -In the original Spanish:
-</p>
 
-<p>
 Como es duro este tiempo, espérame:<br>
 vamos a vivirlo con ganas<br>
 Dame tu pequeña mano:<br>
 vamos a subir y sufrir<br>
 vamos a sentir y saltar
-</p>
 
-<p>
 -In English:
-</p>
 
-<p>
 This time is difficult. Wait for me.<br>
 We will live it out vividly.<br>
 Give me your small hand:<br>
 we will rise and suffer<br>
 we will feel, we will fly
-</p>
+
 
