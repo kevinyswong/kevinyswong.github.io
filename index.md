@@ -22,7 +22,7 @@ a bit more, I recognized it was HALLELUJAH. It must've been a student playing
 because of the intermittent missed note and brief halt, but these mishaps
 weren't distracting enough to detract from the music. There is a rawness and
 honesty in live music that is lost when it becomes too practiced, too
-calculating, too professional, or when recorded to perfection and replayed until
+calculated, too professional, or when recorded to perfection and replayed until
 the cows come home. She played HALLELUJAH a few times and then switched to a few
 more with Pachelbel's CANON IN D. Removing a staple from an exam, I thought,
 isn't this nice? There is beauty and delight even in the unprovoked moments when
@@ -50,7 +50,7 @@ like the punch in the gut that it is because she doesn't weigh down her delivery
 with the heavy tones of grand philosophy: "It's all a big nothing. What makes
 you think you're so special?"
 
-You and me both, Livia.
+Aye, Livia. You and me both.
 
 <br>
 
