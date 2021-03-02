@@ -93,34 +93,32 @@ doesn't have the word, the word 'fly'. So he's looking at it as it is. Now I'm
 imagining myself being in a situation of not having words, so if I can
 categorize it as a fly it takes away from something of the beauty of the
 moment—because it's just a 'fly'—so forget 'fly' and look at this being that's
-there." The common thread in people who live as individuals who have their own
-thoughts, be they artists, scientists, or intellectuals, those whose vocations
-and particular ideas could not be more different from each other, is that they
-are themselves rather than reiterations of the cookie-cutter norm of conformity.
-Someone healthy and functional is amenable and pleasant and may be
+there." How can an artist be a reiteration of the cookie-cutter norm of
+conformity? Someone wholesome and functional is amenable and pleasant and may be
 unconditionally kind and deserving of kindness in return, yet these traits of
-rigid regularity are but conforming, voiceless, sterile, and lacking a unique
-vantage. Such a person is normal, to be treated the customary courtesy but it
-would be a mistake to expect this person to take the artist where he wishes to
-go. At the end of the day, an artist can speak his mind only with another
-artist. This notion is crucial, especially for the artist, whose value is his
-vision. The image of the artist as disturbed, reclusive, tormented, is the right
-one. Privacy and seclusion are essential to being oneself. Without his privacy,
-how could Sacha Baron Cohen have concocted his social and political vessel to
-become a ridiculous buffoon like BORAT? Frances McDormand, who shuns the usual
-Hollywood celebrity and lives away from the limelight, unencumbered by
-maintaining an image of propriety, not hidden behind seven layers of makeup, not
-draped in the season's designer advertisement, could not but be genuine. She
-lives remotely, modestly, saying, "I get to live my more authentic self here,
-and I don’t have to pretend to be anybody else." Why do we suppose hardly anyone
-has seen Thomas Pynchon? The idea is the same as when Thoreau sought to confront
-only "the essential facts of life." Rousseau wrote REVERIES OF THE SOLITARY
-WALKER. And do we fault William Blake for his singular vision? Or Proust who
-retired from the world to write his novel, the man who, having lived life, sat
-down to write about it? Or Aaron Swartz for abhorring the white noise in the
-office? Rilke wrote, "We are solitary. We can delude ourselves about this and
-act as if it were not true. That is all. But how much better it is to recognize
-that we are alone; yes, even to begin from this realization."
+rigid regularity are confining and sterile. Normal people, like anyone, are to
+be treated with customary courtesy but it would be a mistake to expect them
+to take the artist where he wishes to go. At the end of the day, an
+artist can speak his mind only with another artist, and separating him from
+everyone else is the unbridgeable gap between forever strangers. This notion is
+crucial, especially for the artist, whose value is his vision. The image of the
+artist as disturbed, reclusive, tormented, is the right one. Privacy and
+seclusion are essential to being oneself. Without his privacy, how could Sacha
+Baron Cohen have concocted his social and political vessel to become a
+ridiculous buffoon like BORAT? Frances McDormand, who shuns the usual Hollywood
+celebrity and lives away from the limelight, unencumbered by maintaining an
+image of propriety, not hidden behind seven layers of makeup, not draped in the
+season's designer advertisement, could not but be genuine. She lives remotely,
+modestly, saying, "I get to live my more authentic self here, and I don’t have
+to pretend to be anybody else." Why do we suppose hardly anyone has seen Thomas
+Pynchon? The idea is the same as when Thoreau sought to confront only "the
+essential facts of life." Rousseau wrote REVERIES OF THE SOLITARY WALKER. And do
+we fault William Blake for his singular vision? Or Proust who retired from the
+world to write his novel, the man who, having lived life, sat down to write
+about it? Or Aaron Swartz for abhorring the white noise in the office? Rilke
+wrote, "We are solitary. We can delude ourselves about this and act as if it
+were not true. That is all. But how much better it is to recognize that we are
+alone; yes, even to begin from this realization."
 
 The artist, accustomed to time alone, dedicated to communicating through his
 work, does not have the habit of doing so in person. When his interviewer
@@ -188,19 +186,18 @@ the workforce to demand on themselves a rocketship's takeoff protracted to a
 lifetime, exhilarating and glorious but also consuming and precarious.
 Innovators, radicals, and progressives are and will continue to remain a faint
 portion of society, loud and inspiring but few and precious. Most of us, indeed,
-are content being paper pushers, a figurehead talking but not speaking,
-passengers riding along the conveyor belt: a job is just a job. How revolting
-this idea is! and yet how true to human nature! A voice in me bares itself and
-screams: Have we sailed the seven seas, summited K2's peak, unveiled the secrets
-of humanity, pried into the mysteries of the universe, have we become all that
-which we aspired to be, have we pushed the boulder up the mountain enough, have
-we seen the apocalypse and returned to live our days knowing we've reached the
-end, that there was no more, have we tapped into the wavelength of what it means
-to be alive, a fragile collection of stardust that wonders its place among the
-stars? Writing's music cannot express cataclysmic paroxysms as purely as music
-in the plain, heard over shut eyes—I am reminded of Michael Nyman's TIME LAPSE.
-And so too I am reminded of Hesse: "Eternity is a mere moment, just long enough
-for a joke."
+are content being normal: a job is just a job. How dispiriting! and yet how true
+to human nature! and I too shall one day fall in place! A voice in me bares
+itself and screams: Have I sailed the seven seas, summited K2's peak, unveiled
+the secrets of humanity, pried into the mysteries of the universe, have I become
+all that which I aspired to be, have I pushed the boulder up the mountain
+enough, have I seen the apocalypse and returned to live my days knowing I've
+reached the end, that there was no more, have I tapped into the wavelength of
+what it means to be alive, a fragile collection of stardust that wonders its
+place among the stars? Writing's music cannot express convulsive pangs as purely
+as music in the plain, heard over shut eyes—I am reminded of Michael Nyman's
+TIME LAPSE. And so too I am reminded of Hesse: "Eternity is a mere moment, just
+long enough for a joke."
 
 <br>
 
