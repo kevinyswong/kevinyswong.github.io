@@ -5,6 +5,53 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-03-02, 二.</h4>
+
+Last night I was in the Jordan Hall of Science scanning midterm exams to grade
+later when I was brought to a pause in the day's motions.  It was that time
+after classes had ended for the day and before what must commonly be dinnertime,
+when the lecture halls and lobbies are empty under the quiet cover of the dark
+night outside. I was standing in front of the scanner when I stopped for a
+second, noticing the music. It was one of those small moments of unexpected
+beauty, a spontaneous, joyful surprise. Someone downstairs was playing the
+piano. Music flowed undisturbed through the multiple floors of the open atrium,
+in that emptiness of an expansive space with high ceilings and a long hall but
+without footsteps, without chatter, without presence. I resumed scanning the
+pile of exams, deciding it was pleasant background music for a chore. Listening
+a bit more, I recognized it was HALLELUJAH. It must've been a student playing
+because of the intermittent missed note and brief halt, but these mishaps
+weren't distracting enough to detract from the music. There is a rawness and
+honesty in live music that is lost when it becomes too practiced, too
+calculating, too professional, or when recorded to perfection and replayed until
+the cows come home. She played HALLELUJAH a few times and then switched to a few
+more with Pachelbel's CANON IN D. Removing a staple from an exam, I thought,
+isn't this nice? There is beauty and delight even in the unprovoked moments when
+I'm not seeking it. At that moment, I was content just being, to go about my day
+doing something as simple as plucking out staples from paper, placing the paper
+on a tray, and hitting two buttons on a screen. Why all my rages and
+resignations? I wondered whether I shouldn't have done something like this
+instead from the start, undemanding, uneventful, so that I may have had more
+time and energy to cultivate inner peace. Maybe a librarian, an office clerk, a
+lab technician? Wittgenstein at one point decided to be a hospital porter, that
+monastic wanderer. A few years ago I planned a two-week trip to Kyoto,
+entertaining the idea of becoming a monk. Needless to say, I didn't end up
+renouncing the world; the visits to the temple were enough of a reality check.
+
+Driving home, the piano's unexpected delight lingered, and I felt the vestiges
+of a scene from THE SOPRANOS. A.J., the grandson, who recently discovered
+existentialism through Nietzsche, visits his grandmother Livia in the hospital.
+Livia, in the wizened brevity of those in old age who know too well the futility
+of beating around the bush, tells the usual consequences of existential dread,
+as cliche and dull as they are true. She says, "If you want my advice, Anthony,
+don't expect happiness. You won't get it, people let you down . . . but in the
+end you die in your own arms." Indeed, the usual boring riff of disillusionment
+with life. So? What's new? And then she ends with a thought that doesn't feel
+like the punch in the gut that it is because she doesn't weigh down her delivery
+with the heavy tones of grand philosophy: "It's all a big nothing. What makes
+you think you're so special?"
+
+<br>
+
 <h4>2021-02-26, 五. On the Artist as Eccentric.</h4>
 Why is it so common to find among creatives intolerable stubbornness,
 intractable visions, beings who not only create uncanny works but also live in
