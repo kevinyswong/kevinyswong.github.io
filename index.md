@@ -50,6 +50,8 @@ like the punch in the gut that it is because she doesn't weigh down her delivery
 with the heavy tones of grand philosophy: "It's all a big nothing. What makes
 you think you're so special?"
 
+You and me both, Livia.
+
 <br>
 
 <h4>2021-02-26, 五. On the Artist as Eccentric.</h4>
