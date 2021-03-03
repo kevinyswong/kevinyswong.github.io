@@ -42,13 +42,14 @@ of a scene from THE SOPRANOS. A.J., the grandson, who recently discovered
 existentialism through Nietzsche, visits his grandmother Livia in the hospital.
 Livia, in the wizened brevity of those in old age who know too well the futility
 of beating around the bush, tells the usual consequences of existential dread,
-as cliche and dull as they are true. She says, "If you want my advice, Anthony,
-don't expect happiness. You won't get it, people let you down . . . but in the
-end you die in your own arms." Indeed, the usual boring riff of disillusionment
-with life. So? What's new? And then she ends with a thought that doesn't feel
-like the punch in the gut that it is because she doesn't weigh down her delivery
-with the heavy tones of grand philosophy: "It's all a big nothing. What makes
-you think you're so special?"
+as cliche and dull as they are true. She says, "Why does everything have to have
+a purpose? . . . If you want my advice, Anthony, don't expect happiness. You
+won't get it, people let you down . . . but in the end you die in your own
+arms." Indeed, the usual boring riff of disillusionment with life. So? What's
+new? And then she ends with a thought that doesn't feel like the punch in the
+gut that it is because she doesn't weigh down her delivery with the heavy tones
+of grand philosophy: "It's all a big nothing. What makes you think you're so
+special?"
 
 Aye, Livia. You and me both.
 
