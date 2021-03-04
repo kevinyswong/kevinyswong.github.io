@@ -238,16 +238,16 @@ Innovators, radicals, and progressives are and will continue to remain a faint
 portion of society, loud and inspiring but few and precious. Most of us, indeed,
 are content being normal: a job is just a job. How dispiriting! and yet how true
 to human nature! and I too shall one day fall in place! A voice in me bares
-itself and screams: Have I sailed the seven seas, summited K2's peak, unveiled
-the secrets of humanity, pried into the mysteries of the universe, have I become
-all that which I aspired to be, have I pushed the boulder up the mountain
-enough, have I seen the apocalypse and returned to live my days knowing I've
-reached the end, that there was no more, have I tapped into the wavelength of
-what it means to be alive, a fragile collection of stardust that wonders its
-place among the stars? Writing's music cannot express convulsive pangs as purely
-as music in the plain, heard over shut eyes—I am reminded of Michael Nyman's
-TIME LAPSE. And so too I am reminded of Hesse: "Eternity is a mere moment, just
-long enough for a joke."
+itself and screams: Have you sailed the seven seas, summited K2's peak, unveiled
+the secrets of humanity, pried into the mysteries of the universe, have you
+become all that which you aspired to be, have you pushed the boulder up the
+mountain enough times, have you seen the apocalypse and returned to live your
+days knowing you've reached the end, that there was no more, have you tapped
+into the wavelength of what it means to be alive, a fragile collection of
+stardust that wonders its place among the stars? Writing's music cannot express
+convulsive pangs as purely as music in the plain, heard over shut eyes—I am
+reminded of Michael Nyman's TIME LAPSE. And so too I am reminded of Hesse:
+"Eternity is a mere moment, just long enough for a joke."
 
 <br>
 
