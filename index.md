@@ -5,6 +5,62 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-03-11, 四. Excerpt from a departing missive, two years ago.</h4>
+drifting in the clouds, continuing<br>
+these wandering years<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            and not<br>
+wading our eternities
+
+<br>
+
+Even above the clouds, in the void of space, a comet used to glide gracefully
+across the night sky at the strike of dusk. On the wintry evening of November
+13, 1877, a budding comet-chaser, convinced he was the first to lay eyes on the
+elusive cosmic jewel, named it Ewelina Hańska, no doubt after the Polish
+aristocrat whose intentional anonymity and sustained distance to a youthful
+admirer resembled the comet's increasingly rare sightings. He wondered in
+frustration why, unlike all the other comets whose periods only shortened, she
+seemed to be defying the unbendable laws of gravity. After grappling at length
+with his formulas, his only conclusion was this: originally appearing with
+nightly certainty, she must have detected that her dances were being watched
+and, for this very reason, altered the course of her elliptical orbit, slightly
+delaying her next approach to earth each time she felt a pair of eyes on her
+scintillating ice, because, in truth, even comets have their moods. The earthly
+youth, condemned to his grounded fate, had no choice but to sit and wait
+patiently under the sea of motionless stars. Never missing a night, he watched
+in horror as the new interval of several days between her appearances not only
+did not abate in mercy but grew steadily as days became weeks, and weeks into
+months. Sitting by his telescope, he would look for her in the vastness of the
+cosmos, along previous trails long ingrained in his memory, in the varied
+constellations where she had never been, probing through misty nebulas and the
+shadows of blinding stars, searching without rest or reason, bargaining with the
+heavens that he would settle into bed if only he had one glimpse of her
+elongated tail of frozen dust. Eventually he had no choice but to give in to his
+desire, resorting to the comfort of rolling ice cubes on his tongue as he waited
+so that he could know the taste of Ewelina Hańska: astral mystery. A tenacious
+lad who had never known defeat, he followed his longing with discipline,
+discovering for himself what many ambitious men before him have had to learn,
+which is that sometimes victory is out of reach even when pursued by sheer force
+of will. A look of perpetual confusion gradually settled on his face, and more
+than once in the marketplace he heard someone describe his anxious expression as
+the bearing of someone who has known great sorrow, but the permanent ridges of
+incomprehension that resembled wrinkles on his cheeks and forehead never
+occurred to him as anything more than the spoils of war. When at last her
+absence had broken all astronomical records, he realized he did not need the
+excitement of an actual sighting or even the regimen of his nightly telescopy,
+for not a day had passed when something did not happen to remind him of her. How
+do I know this? Last week as I was enjoying myself at the library, I found among
+three others this comet-chaser's name in the obituary section in that period's
+premier newspaper, preserved in microfilm, dated five decades after Ewelina
+Hańska's first sighting. It seems that after she stopped returning, he soon
+abandoned the profession. The last thing anyone heard of him was that he had
+left intact his workstation under the open stars, his telescope pointed at the
+direction from which she had always arrived, his folding chair still warm.
+
+<br>
+
 <h4>2021-03-10, 三.</h4>
 a blank page<br>
 a world in my head<br>
