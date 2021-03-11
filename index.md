@@ -5,6 +5,52 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-03-10, 三.</h4>
+a blank page<br>
+a world in my head<br>
+I'm pulled away by work
+
+<br>
+
+it is evening<br>
+depleted after the day<br>
+I can't write<br>
+am I getting old?
+
+<br>
+
+my writing exhausts<br>
+I don't write innocent fiction
+
+<br>
+
+duties and peers<br>
+at least in school<br>
+I wanted to be simple
+
+<br>
+
+traveling abroad<br>
+not different from my country of birth<br>
+I never feel<br>
+I'm not adrift
+
+<br>
+
+I remember a passage I first read years ago. I must've been on the subway on
+some odd afternoon when, seated at one end I saw myself in Mary Oliver's words:
+"It is six A.M., and I am working. I am absentminded, reckless, heedless of
+social obligations, etc. It is as it must be. The tire goes flat, the tooth
+falls out, there will be a hundred meals without mustard. The poem gets written.
+I have wrestled with the angel and I am stained with light and I have no shame.
+Neither do I have guilt. My responsibility is not to the ordinary, or the
+timely. It does not include mustard, or teeth. It does not extend to the lost
+button, or the beans in the pot. My loyalty is to the inner vision, whenever and
+howsoever it may arrive. If I have a meeting with you at three o’clock, rejoice
+if I am late. Rejoice even more if I do not arrive at all."
+
+<br>
+
 <h4>2021-03-02, 二.</h4>
 
 Last night I was in the Jordan Hall of Science scanning midterm exams to grade
@@ -776,7 +822,7 @@ staring down the years ahead
 <h4>2019-10-02, 三.</h4>
 this morning’s decadence<br>
 peanut butter from the jar<br>
-expanding slowly on my bagel<br>
+expanding slowly on my bagel
 
 <br>
 
@@ -784,7 +830,7 @@ absorbed in thought<br>
 I look up, recontextualizing myself<br>
 glancing down two seconds later<br>
 a blank mind<br>
-I’ve lost my place<br>
+I’ve lost my place
 
 <br>
 
@@ -794,7 +840,7 @@ immerse in the anonymous<br>
 project your focus outside<br>
 view yourself from the sky<br>
 lost in the heaping crowd<br>
-that old city life<br>
+that old city life
 
 <br>
 
