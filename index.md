@@ -907,8 +907,8 @@ occasions, the people, the excursions we wish to record in some form so we may
 later remember the original instance. Imagine what tempts us to take a photo:
 family reunions, smiles at the museum next to Starry Night, a friend's birthday
 party, a beached whale, scuba diving in the lagoon, gazing outwards at the
-dappled skyscraper lights in the twilight cityscape from top of the Empire State
-Building. Imagine what we write about: intrigue, mystery, cataclysm,
+dappled skyscraper lights in the twilight cityscape from the top of the Empire
+State Building. Imagine what we write about: intrigue, mystery, cataclysm,
 swashbuckling drama, romance, adventure, fantasy, conjured fiction. The objects
 and events which atract our remembrances are not those that embody our lived
 experience which bears the bulk of our hours and days but which are instead the
@@ -943,7 +943,7 @@ near the edge, wings folded, necks tall and curved like cranes, feathered chests
 thrust out like a hen sitting on her eggs, enticing to the hands like a
 pomeranian's coat. It is a cloudy afternoon, a uniform grey pall, bleak and gloom
 looming in the skies above, time seemingly halted, the movements of the guiding
-lights in abeyance, left without an announcement when early afternoon
+lights in abeyance, left without an announcement when late afternoon
 becomes early evening. Perhaps it is the changing of the seasons. A mild chill
 this morning, headwind of the winter ahead.
 
@@ -1025,7 +1025,7 @@ an accompanied episode, I have not only phased out of touch with my internal
 state, having lost track of my private compass, having left my cloistered
 ecosystem unattended for an interrupting duration, a black chasm gapingly torn
 open, almost an unknown void between the moment I was last aware of myself and
-my present disorientation, whose back-filling demands recallibration and
+my present disorientation, whose back-filling demands recalibration and
 reflection, but I am also fatigued, aghast that my redoubled effort at
 socialization competes with my very nature.
 
