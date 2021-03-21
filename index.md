@@ -49,7 +49,8 @@ it on himself. Or those inhuman cretins who would run in full speed up to a
 91-year-old to push him to the ground. Or those blatant aggressors who in spite
 of ample anti-racist messaging from government, news outlets, and social media,
 in spite of common sense, in spite of any propriety or civility, continue to
-lash out in blind hate.
+lash out in blind hate. Or closeted bigots who so fear justice that they keep
+their hysterical xenophobia to themselves, whatever their walk of life.
 
 I am not surprised whatsoever that Asians are being targeted. I can't help but
 exclaim: How banal and boring! Tell me something new! As soon as the news broke
