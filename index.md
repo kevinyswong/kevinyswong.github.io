@@ -5,6 +5,275 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-03-20, 六. On Asian America's Awakening.</h4>
+
+This post is long overdue and comes in response to this week's shooting of six
+Asians in Atlanta and to the broader issue of rising anti-Asian hate since the
+start of the pandemic. Let's disabuse ourselves of the notion that racism is
+some unprehensile abstraction in which we Asian Americans are not victims. This
+very idea breeds illusions that, naively, it is largely a bygone evil, or,
+falsely, that it doesn't exist, or, immaturely, that someone else will take care
+of it. There's no reason to take it personally because these the symptoms of
+racism are the same everywhere and are just as transferable to the next person.
+They're not willy-nilly, wishy-washy, but persistent, predictable, unvarying,
+systematic.
+
+<b>Degrees of racism</b><br>
+Unconscious bias<br>
+Conscious convictions<br>
+Online bigotry<br>
+Microaggressions<br>
+Institutional discrimination<br>
+Passing comments<br>
+Verbal aggression<br>
+Physical assault<br>
+Murder and genocide
+
+These symptoms come on top of a backdrop of media's unilateral caricature and
+stereotype since the 1800's when Asians first arrived to the country, none of
+which is helped by our small population that leads to scant exposure in the
+public consciousness. Like most things in life, these symptoms are sifted
+through the unignorable influence of class and play out differently depending on
+the stratum of the perpetrator. The struggling do not refrain from taking
+more extreme measures and the privileged express themselves in subtler forms,
+especially when they don’t need to do it themselves.
+
+I'm going to preface the rest of this post by saying that there are genuinely
+decent folks whose only fault is simply that they have not been exposed to
+multiculturalism and diversity and so don't have anything to form an opinion of
+other races than prejudiced and outdated textbooks from school and exaggerated,
+distorted stereotypes gone unchecked. It is not them that I have in mind but
+those blockheads like some 21-year-old who, guilty over his sex addiction,
+turned his gun on someone else rather than the more obvious solution of turning
+it on himself. Or those inhuman cretins who would run in full speed up to a
+91-year-old to push him to the ground. Or those blatant aggressors who in spite
+of ample anti-racist messaging from government, news outlets, and social media,
+in spite of common sense, in spite of any propriety or civility, continue to
+lash out in blind hate.
+
+I am not surprised whatsoever that Asians are being targeted. I can't help but
+exclaim: How banal and boring! Tell me something new! As soon as the news broke
+of covid's origins last year I immediately anticipated such a development. There
+is not the slightest indication in the racial history of this country that
+suggests otherwise. On the contrary I would be surprised if this shooting were
+the last. Count on it: Discrimination and patent racism will continue once
+life returns to normal and people resume congregating in person, in forms subtle
+and explicit, verbal and behavioral, in school admissions, in job applications,
+in fewer appointments for doctor and lawyers, in everyday encounters. We do not
+have it worst; Blacks have had a far longer and bloodier March against
+racism. We Asians have piggy-backed on the civil rights movement and benefited
+from monumental progress towards true equality in the 1960s without bearing
+the brunt of the melee. What makes us think we can surmount racial boundaries if
+Blacks still have not? However, our problem is more akin to the Jewish one: a
+small successful minority that—who knows?—might be wealthier, more educated, and
+more cultured than our assaulters. And yet we do not have power, we do not have
+bite—why? I can't be wrong in saying a large part of the reason is that Asian
+culture obeys authority and doesn't stir trouble, overwhelmingly preferring
+comfort and stability over due process and justice. Perhaps a generation or two
+later, the offspring of this period's doctors, academics, and engineers,
+comfortable enough in their social replication, will have the chutzpah to take
+up the risk of fighting back.
+
+Theresa Hak Kyung Cha, a Korean artist and writer, was raped and murdered in the
+Puck Building in New York in 1982 and received no more news coverage than one
+obituary in The Village Voice. When an Asian dies, the subtext is she was the
+stereotypical passive victim, quickly banished to the side, the details of the
+crime reduced to mere facts, leaving out any semblance of a relatable person.
+Her friend Sandy Flickerman-Lewis recounts, "People only say that she died
+young. The never indicate the horror." She says later, "Theresa was not passive.
+She fought back." And why did Theresa receive such little coverage?
+Flickerman-Lewis says, "She was just another Asian woman. If she were a young
+white artist from the Upper West Side, it would have been all over the news."
+If she were white, all over the news indeed! Seven years later in the same city,
+Trisha Meili, who worked in corporate finance—but let me add the important
+detail—she's white— was raped in Central Park, and what a public outcry! What
+investigations, what litigations, what media coverage that even two decades
+afterwards people were still talking about it! Here's the reason: someone white
+is one of "us".  When asked to talk about Theresa's death, curators and scholars
+reply with such numbing politeness that they come across not as complicit but
+innocent: "We have always tried to focus on Cha's amazing work and not to
+sensationalize her story", and refraining from mentioning her death "out of
+respect for her famly, not to overshadow the work." Of course not. Asians are
+one-dimensional tokens who, as artists, are only artists known through their
+work and not actual humans who have lives outside their role. The record is not
+any better served by the fact that Theresa died and Trisha did not, and she went
+on to publish her memoir so that we the American public can relate to all the
+minutiae of her lovingly concretized life.
+
+An Asian get murdered and no one cares. And still we appeal to someone else! How
+can we not laugh at ourselves! These are any number of the scenarios we may very
+well find ourselves in: someone with a rifle walks into a store and starts
+firing, someone sidles up behind you with a kitchen knife, or you're walking and
+a a car that passed by suddenly stops behind you and someone jumps out and
+charges at you with an axe. Where are our surgeons and professors? History
+repeats itelf: the news flashes the breaking headlines, people signal the
+fashionable politics, and it is erased, we forgotten under a quiet headstone as
+the rest of the country returns to its unhassled business—let's pay lip service,
+mope for two seconds, and continue about our ordinary day!—who cares about some
+Asian? To my fellow Asians who remain meek from the ancestral culture,
+unaccustomed to the reality, I have nothing to say but this: stop running and
+hiding. Your children will not thank you for leaving the world the way it was
+given to you. When someone throws rocks through your house's windows, when a man
+forces himself through your doors, when a random kid runs up and pushes you to
+the ground, when someone opens fire on your family, you stand and reply in kind
+with the full force of rectified self-defense. We cannot remain handcuffed to
+bookish intellentsia but must pick up the proper tools for the challenge.
+Science communicates by theory and evidence. Writers communicate the human
+experience across time and age—the best ones tend to be dead. Painters
+communicate in exhibitions. Investors communicate with supply and demand.
+Entrepreneurs communicate with their products. And violence so singularly
+directed out of blind hatred demands its proper reply, in the language that
+brutes understand. Korean cardiologist, how ludicrous you are to inform your
+assaulter you're Korean and not Chinese. Let me help you realize: he, like most
+white Americans, doesn't care. If our response to this surge of pandemic racism
+is simply overcoming inhibitions and deigning to share our encounters with
+racist incidents, then the inevitable outcome is this: next month people will
+forget because they simply can't be bothered. Has racism gone away for our Black
+brothers and sisters who have been calling out racism in person, in politics, in
+film, in literature, online, in the history books for so much longer? Are you
+sure people care whether you're a Vietnamese refugee or a Korean lawyer, a
+Japanese corporate expatriate or a Chinese software engineer? How do you talk
+reason to someone who pulls a gun on you? Are you serious when you try to teach
+empathy to a vandal in a mad frenzy to set your house on fire? Cry all you wish
+on TV, write as many articles asking people to share their stories, do your best
+to raise awareness, but nothing in the country's history points to any help
+other than from yourself. Malcolm X said in 1963, “When we see our people being
+brutalized by white bigots, white racists, we think they are foolish to be
+beaten and brutalized and do nothing whatsoever to protect themselves. They are
+foolish. They should have the right to defend themselves against any attack make
+against them by anyone . . . There will come a time when Black people wake up
+and become intellectually independent enough to think for themselves . . . then
+the Black man will think like a Black man, and he will feel for other Black
+people, and this new thinking and feeling will cause Black people to stick
+together, and at that point you’ll have a situation where when you attack one
+Black man you are attacking all Black men.” Asian America, where is our Che
+Guevara, our Malcolm X? Our Martin Luther King, our Gandhi? How long can you
+still tolerate bigotry with docile appeals to justice and equality? Careers in
+medicine, law, academia, science, engineering, technology, finance, and business
+yield ample paychecks as you recede into your suburbs, gated communities, and
+bubbles of anonymia.
+
+News articles are written on anything Asian that no one bothers to skim, Asian
+films are released that few watch, Asian books are published that even fewer
+read. Make it anyways. Our problem is our small population that doesn't boast
+the power of market demand and the lack of a cultural identity beyond ethnic
+enclaves that do not command anything more than comfort food. How do we coalesce
+into an identity if we don't create one worth rallying behind and if we won't
+bother with it ourselves? Will we remain perpetually non-belonging? Is this our
+shared fate with the Jewish? Isaac Deutscher wrote, "Trees have roots. Jews have
+legs." But let's not forget that the Jews fought back too in World War II, the
+many resistors like Hannah Senesh who did not simply flee. Or Niuta Teitelbaum
+who stood up to three Nazis: "She blushed, smiled meekly and then pulled out a
+gun and shot each one. Two were killed, one wounded. Niuta, however, wasn’t
+satisfied. She found a physician’s coat, entered the hospital where the injured
+man was being treated, and killed both the Nazi and the police officer who had
+been guarding him."
+
+Asian America does not need more quants, engineers, software developers,
+mathematicians, research scientists, physicists, venture capitalists. Asian
+America cannot lift itself into a veritable tour de force if its members
+consistently pursue money and material comfort in finance, STEM, medicine,
+research. Asian America lacks a gravity uniting the community because there is
+no central culture, no film festivals, no great writers, directors, no proud
+achievement to pass on as cultural heritage. Few of us create, few of us consume
+serious art, few pay attention to what these few produce, and even fewer listen
+to our stories. For good reason: our art has not reached parity. To be taken
+seriously, we must be serious about art and not settle for bubble tea and K-pop,
+martial arts films and farcical comedies. The generation coming of age is paving
+the way, and doing so in earnest, able to hold their own without pulling the
+race card and decrying, "Please look at me, for I am unrepresented; pity me
+because I'm human too." Even still, with this slew of modern artists from among
+us, the story arc is something along the lines of pain, echoing figments of
+immigration, family trauma,  outsiderness. This is a necessary phase, to address
+in proper faith the sorrows and longings, the lost ancestral ties, the real,
+lived exerience of our parents and childhoods, to cement into the collective
+language a history of a people that this time shall not be forgotten. This phase
+is our current state and will continue for years to come. We must however come
+to a point where we change course and stop milking the trauma and claim the full
+richness of what it means to be an ordinary person like any other, to be human,
+unafraid to seize joy and wonder. Our stories must evolve beyond this initial
+reflecting mirror of reverberating helplessness and encompass comedy, elation,
+mischief, pride, community, poverty and wealth, failure and triumph, indeed
+happiness—all on our own terms, in our own channels, in accordance to our own
+morality, history, customs. Community therapy through stories  are but half the
+battle when the only resolve the shame, guilt, regret, dissonance of growing up
+a minority and stop short of the statuary pointing towards a sustainable, bright
+future. We complain of the lack of media representation but where are our
+screenwriters behind the films representing our voice? Why do we expect a white
+writer to see our side when all he has are antiquated stereotypes? Correcting
+media representation is not something that can be given to us but something we
+must take up ourselves; no one but we ourselves is going to present our
+narratives, our artists and film directors and writers, and not just reaching
+parity in merit but exceeding. Where are those among us who will join those
+who've come of age—Cathy Park Hong, Ocean Vuong, Charles Yu, Lee Isaac Chung,
+Chloe Zhao? Where is the Asian American luminary? Who is the Asian American
+voice? Where is our Charlie Kaufman, Aaron Sorkin, Quentin Tarantino? our James
+Baldwin, our Toni Morrison, our fearless rallying architect, our central vision?
+Where are our art industries, our art magnates, our art instructors, our art
+market, our art attendance that isn't just gimmick picture-taking, admittance
+into the gallery out of resigned ignorance? Asian America, upwardly mobile,
+lacks a body to call its own, its doctors, engineers, bankers disperse on their
+own, with no home culture. Where is our unique voice, our prose style, our
+cinematic direction, our elevated lyricism, our vision on our own terms,
+ideated, designed, implemented, propagated, and consumed all by ourselves? The
+rookie mistake is to produce what Jay Caspian Kang calls dignity porn: "The type
+of story that takes the life of a seemingly oppressed person, excavates all the
+differences compared with the dominant culture and then seeks to hold these up
+in a soft, humanizing light. Look, the dignity porno will say: 'Kimchi isn’t
+weird. Ergo, we are as human as you.'" This is what the dominant culture expects
+of the race narrative, and it is precisely what we don't do because such a
+paradigm reaches no higher than the fundamental limits inherent to the form, the
+subaltern deriving his value as a proposition against the hegemony. Just as the
+feminist Germaine Greer did not seek equality with men because she did not gauge
+the woman as a partial against the man, we expect more of ourselves. We do not
+create for the white audience, we do not invent for the dominant culture, we do
+not subject ourselves as targets of that repulsive brand of exoticized slapstick
+comedy relegated to foreigners, uncomprehending and incomprehensible in all ways
+except a clown's incompetence, we do not plead for dignifiying humanity as a
+least common denominator, we do not withdraw into spineless anonymity, we do not
+dance for the white gaze. We create for ourselves, our community, our parents
+who've had no voice, our children who shall find their own among the highest
+culture. Whiteness is not our barometer. If the white audience takes notice, we
+will not resist, but what they encounter will be ours, on our own terms. As Ruth
+Bader Ginsburg said, "What is the difference between a bookkeeper in the Garment
+District and a Supreme Court justice? One generation."
+
+I must be clear: I do not advocate segregation but instead an adequate
+substantiation of one part of the American experience. I'm on the same page as
+Obama when he said, "What makes America America is all the outsiders, the
+misfits, and the folks who try to make something out of nothing. Let me tell you
+about America. We're Lewis and Clark and Sacagawea. We're the pioneers and the
+farmers and the miners and the entrepeneurs and the hucksters—thats our spirit.
+That's who we are. We're Sojourner Truth and Fannie Lou Hamer, women who could
+do as much as any man and then some. And we're Susan B. Anthony who shook the
+system until the law reflected that truth—that is our character. We're the
+immigrants who stowed away on ships to reach these shores, the huddled masses
+yearning to breathe free, Holocaust survivors, Soviet defectors, the Lost Boys
+of Sudan. We're slaves who built the White House and the economy of the South,
+the ranch hands and the cowboys. We're the storytellers, writers, poets,
+artists, who abore unfairness and despise hypocrisy and give voice to the
+voiceless and tell truths that need to be told. We're the inventors of gospel
+and jazz and blues and bluegrass and country and hip-hop—and rock and roll—in
+our very own sound with all the sweet sorrow and reckless joy of freedom. We are
+Jackie Robinson enduring scorn in spiked cleats and pitches coming straight to
+his head and stealing home in the World Series anyway. We are the people
+Langston Hughes wrote of, 'who build our temples for tomorrow's strong as we
+know how.' We are the people Emerson wrote of, 'who for truth and honor's sake
+stand fast and suffer long, who are never tired so long as we can see far
+enough'—that's what America is, not stock photos or airbrushed history, or
+feeble attempts to define some of us as more American than others. We respect
+the past but we do not pine for the past. We do not fear the future; we grab
+for it. America is not some fragile thing—we are large—in the words of Whitman,
+'containing multitudes.' We are boisterous, and diverse, and full of energy,
+perpetually young in spirit. That's why someone like John Lewis at the ripe old
+age of 25 could lead a mighty march. We honor those who walked so we could run.
+We must run so our children soar. And we will not grow weary for we believe in
+the power of an awesome God, and we believe in this country's sacred promise."
+
+How romantic an America. But oh, how so far away.
+
+<br>
+
 <h4>2021-03-11, 四. Excerpt from a departing missive, two years ago.</h4>
 drifting in the clouds, continuing<br>
 these wandering years<br>
