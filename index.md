@@ -53,15 +53,15 @@ lash out in blind hate. Or closeted bigots who so fear justice that they keep
 their hysterical xenophobia to themselves, whatever their walk of life.
 
 I am not surprised whatsoever that Asians are being targeted. I can't help but
-exclaim: How banal and boring! Tell me something new! As soon as the news broke
+exclaim: how banal and boring! Tell me something new! As soon as the news broke
 of covid's origins last year I immediately anticipated such a development. There
 is not the slightest indication in the racial history of this country that
 suggests otherwise. On the contrary I would be surprised if this shooting were
-the last. Count on it: Discrimination and patent racism will continue once
+the last. Count on it: discrimination and patent racism will continue once
 life returns to normal and people resume congregating in person, in forms subtle
 and explicit, verbal and behavioral, in school admissions, in job applications,
 in fewer appointments for doctor and lawyers, in everyday encounters. We do not
-have it worst; Blacks have had a far longer and bloodier March against
+have it worst; Blacks have had a far longer and bloodier march against
 racism. We Asians have piggy-backed on the civil rights movement and benefited
 from monumental progress towards true equality in the 1960s without bearing
 the brunt of the melee. What makes us think we can surmount racial boundaries if
