@@ -54,7 +54,7 @@ their hysterical xenophobia to themselves, whatever their walk of life.
 
 I am not surprised whatsoever that Asians are being targeted. I can't help but
 exclaim: how banal and boring! Tell me something new! As soon as the news broke
-of covid's origins last year I immediately anticipated such a development. There
+of COVID's origins last year I immediately anticipated such a development. There
 is not the slightest indication in the racial history of this country that
 suggests otherwise. On the contrary I would be surprised if this shooting were
 the last. Count on it: discrimination and patent racism will continue once
@@ -87,7 +87,7 @@ Flickerman-Lewis says, "She was just another Asian woman. If she were a young
 white artist from the Upper West Side, it would have been all over the news."
 If she were white, all over the news indeed! Seven years later in the same city,
 Trisha Meili, who worked in corporate finance—but let me add the important
-detail—she's white— was raped in Central Park, and what a public outcry! What
+detail—she's white—was raped in Central Park, and what a public outcry! What
 investigations, what litigations, what media coverage that even two decades
 afterwards people were still talking about it! Here's the reason: someone white
 is one of "us".  When asked to talk about Theresa's death, curators and scholars
@@ -105,10 +105,10 @@ An Asian get murdered and no one cares. And still we appeal to someone else! How
 can we not laugh at ourselves! These are any number of the scenarios we may very
 well find ourselves in: someone with a rifle walks into a store and starts
 firing, someone sidles up behind you with a kitchen knife, or you're walking and
-a a car that passed by suddenly stops behind you and someone jumps out and
-charges at you with an axe. Where are our surgeons and professors? History
-repeats itelf: the news flashes the breaking headlines, people signal the
-fashionable politics, and it is erased, we forgotten under a quiet headstone as
+a car that passes by suddenly stops behind you and someone jumps out, charging
+at you with an axe. Where are our surgeons and professors then? History repeats
+itelf: the news flashes the breaking headlines, people signal the fashionable
+politics, and it is erased all too soon, we forgotten under a quiet headstone as
 the rest of the country returns to its unhassled business—let's pay lip service,
 mope for two seconds, and continue about our ordinary day!—who cares about some
 Asian? To my fellow Asians who remain meek from the ancestral culture,
@@ -123,25 +123,25 @@ Science communicates by theory and evidence. Writers communicate the human
 experience across time and age—the best ones tend to be dead. Painters
 communicate in exhibitions. Investors communicate with supply and demand.
 Entrepreneurs communicate with their products. And violence so singularly
-directed out of blind hatred demands its proper reply, in the language that
+directed out of blind hatred demands its proper reply, in the only language that
 brutes understand. Korean cardiologist, how ludicrous you are to inform your
 assaulter you're Korean and not Chinese. Let me help you realize: he, like most
 white Americans, doesn't care. If our response to this surge of pandemic racism
-is simply overcoming inhibitions and deigning to share our encounters with
-racist incidents, then the inevitable outcome is this: next month people will
-forget because they simply can't be bothered. Has racism gone away for our Black
-brothers and sisters who have been calling out racism in person, in politics, in
-film, in literature, online, in the history books for so much longer? Are you
-sure people care whether you're a Vietnamese refugee or a Korean lawyer, a
-Japanese corporate expatriate or a Chinese software engineer? How do you talk
-reason to someone who pulls a gun on you? Are you serious when you try to teach
-empathy to a vandal in a mad frenzy to set your house on fire? Cry all you wish
-on TV, write as many articles asking people to share their stories, do your best
-to raise awareness, but nothing in the country's history points to any help
-other than from yourself. Malcolm X said in 1963, “When we see our people being
-brutalized by white bigots, white racists, we think they are foolish to be
+is simply overcoming personal inhibitions and deigning to share our encounters
+with racist incidents, then the inevitable outcome is this: next month people
+will forget because they simply can't be bothered. Has racism gone away for our
+Black brothers and sisters who have been calling out racism in person, in
+politics, in film, in literature, online, in the history books for so much
+longer? Are you sure people care whether you're a Vietnamese refugee or a Korean
+lawyer, a Japanese corporate expatriate or a Chinese software engineer? How do
+you talk reason to someone who pulls a gun on you? Are you serious when you try
+to teach empathy to a vandal in a mad frenzy to set your house on fire? Cry all
+you wish on TV, write as many articles asking people to share their stories, do
+your best to raise awareness, but nothing in the country's history points to any
+help other than from yourself. Malcolm X said in 1963, “When we see our people
+being brutalized by white bigots, white racists, we think they are foolish to be
 beaten and brutalized and do nothing whatsoever to protect themselves. They are
-foolish. They should have the right to defend themselves against any attack make
+foolish. They should have the right to defend themselves against any attack made
 against them by anyone . . . There will come a time when Black people wake up
 and become intellectually independent enough to think for themselves . . . then
 the Black man will think like a Black man, and he will feel for other Black
@@ -208,35 +208,36 @@ narratives, our artists and film directors and writers, and not just reaching
 parity in merit but exceeding. Where are those among us who will join those
 who've come of age—Cathy Park Hong, Ocean Vuong, Charles Yu, Lee Isaac Chung,
 Chloe Zhao? Where is the Asian American luminary? Who is the Asian American
-voice? Where is our Charlie Kaufman, Aaron Sorkin, Quentin Tarantino? our James
-Baldwin, our Toni Morrison, our fearless rallying architect, our central vision?
-Where are our art industries, our art magnates, our art instructors, our art
-market, our art attendance that isn't just gimmick picture-taking, admittance
-into the gallery out of resigned ignorance? Asian America, upwardly mobile,
-lacks a body to call its own, its doctors, engineers, bankers disperse on their
-own, with no home culture. Where is our unique voice, our prose style, our
-cinematic direction, our elevated lyricism, our vision on our own terms,
-ideated, designed, implemented, propagated, and consumed all by ourselves? The
-rookie mistake is to produce what Jay Caspian Kang calls dignity porn: "The type
-of story that takes the life of a seemingly oppressed person, excavates all the
-differences compared with the dominant culture and then seeks to hold these up
-in a soft, humanizing light. Look, the dignity porno will say: 'Kimchi isn’t
-weird. Ergo, we are as human as you.'" This is what the dominant culture expects
-of the race narrative, and it is precisely what we don't do because such a
-paradigm reaches no higher than the fundamental limits inherent to the form, the
-subaltern deriving his value as a proposition against the hegemony. Just as the
-feminist Germaine Greer did not seek equality with men because she did not gauge
-the woman as a partial against the man, we expect more of ourselves. We do not
-create for the white audience, we do not invent for the dominant culture, we do
-not subject ourselves as targets of that repulsive brand of exoticized slapstick
-comedy relegated to foreigners, uncomprehending and incomprehensible in all ways
-except a clown's incompetence, we do not plead for dignifiying humanity as a
-least common denominator, we do not withdraw into spineless anonymity, we do not
-dance for the white gaze. We create for ourselves, our community, our parents
-who've had no voice, our children who shall find their own among the highest
-culture. Whiteness is not our barometer. If the white audience takes notice, we
-will not resist, but what they encounter will be ours, on our own terms. As Ruth
-Bader Ginsburg said, "What is the difference between a bookkeeper in the Garment
+voice? Where is our Charlie Kaufman, Aaron Sorkin, Quentin Tarantino, our
+Tarkovsky, our Bergman? our James Baldwin, our Toni Morrison, our fearless
+rallying architect, our central vision? Where are our art industries, our art
+magnates, our art instructors, our art market, our art attendance that isn't
+just gimmick picture-taking, admittance into the gallery out of resigned
+ignorance? Asian America, upwardly mobile, lacks a body to call its own, its
+doctors, engineers, bankers disperse on their own, with no home culture. Where
+is our unique voice, our prose style, our cinematic direction, our elevated
+lyricism, our vision on our own terms, ideated, designed, implemented,
+propagated, and consumed all by ourselves? The rookie mistake is to produce what
+Jay Caspian Kang calls dignity porn: "The type of story that takes the life of a
+seemingly oppressed person, excavates all the differences compared with the
+dominant culture and then seeks to hold these up in a soft, humanizing light.
+Look, the dignity porno will say: 'Kimchi isn’t weird. Ergo, we are as human as
+you.'" This is what the dominant culture expects of the race narrative, and it
+is precisely what we don't do because such a paradigm reaches no higher than the
+fundamental limits inherent to the form, the subaltern deriving his value as a
+proposition against the hegemony. Just as the feminist Germaine Greer did not
+seek equality with men because she did not gauge the woman as a partial against
+the man, we expect more of ourselves. We do not create for the white audience,
+we do not invent for the dominant culture, we do not subject ourselves as
+targets of that repulsive brand of exoticized slapstick comedy relegated to
+foreigners, uncomprehending and incomprehensible in all ways except a clown's
+incompetence, we do not plead for dignifiying humanity as a least common
+denominator, we do not withdraw into spineless anonymity, we do not dance for
+the white gaze. We create for ourselves, our community, our parents who've had
+no voice, our children who shall find their own among the highest culture.
+Whiteness is not our barometer. If the white audience takes notice, we will not
+resist, but what they encounter will be ours, on our own terms. As Ruth Bader
+Ginsburg said, "What is the difference between a bookkeeper in the Garment
 District and a Supreme Court justice? One generation."
 
 I must be clear: I do not advocate segregation but instead an adequate
@@ -271,7 +272,7 @@ age of 25 could lead a mighty march. We honor those who walked so we could run.
 We must run so our children soar. And we will not grow weary for we believe in
 the power of an awesome God, and we believe in this country's sacred promise."
 
-How romantic an America. But oh, how so far away.
+How romantic an America! But oh, how so far away.
 
 <br>
 
