@@ -185,7 +185,7 @@ the way, and doing so in earnest, able to hold their own without pulling the
 race card and decrying, "Please look at me, for I am unrepresented; pity me
 because I'm human too." Even still, with this slew of modern artists from among
 us, the story arc is something along the lines of pain, echoing figments of
-immigration, family trauma,  outsiderness. This is a necessary phase, to address
+immigration, family trauma, outsiderness. This is a necessary phase, to address
 in proper faith the sorrows and longings, the lost ancestral ties, the real,
 lived exerience of our parents and childhoods, to cement into the collective
 language a history of a people that this time shall not be forgotten. This phase
@@ -196,8 +196,8 @@ unafraid to seize joy and wonder. Our stories must evolve beyond this initial
 reflecting mirror of reverberating helplessness and encompass comedy, elation,
 mischief, pride, community, poverty and wealth, failure and triumph, indeed
 happiness—all on our own terms, in our own channels, in accordance to our own
-morality, history, customs. Community therapy through stories  are but half the
-battle when the only resolve the shame, guilt, regret, dissonance of growing up
+morality, history, customs. Community therapy through stories are but half the
+battle when they only resolve the shame, guilt, regret, dissonance of growing up
 a minority and stop short of the statuary pointing towards a sustainable, bright
 future. We complain of the lack of media representation but where are our
 screenwriters behind the films representing our voice? Why do we expect a white
@@ -236,9 +236,10 @@ denominator, we do not withdraw into spineless anonymity, we do not dance for
 the white gaze. We create for ourselves, our community, our parents who've had
 no voice, our children who shall find their own among the highest culture.
 Whiteness is not our barometer. If the white audience takes notice, we will not
-resist, but what they encounter will be ours, on our own terms. As Ruth Bader
-Ginsburg said, "What is the difference between a bookkeeper in the Garment
-District and a Supreme Court justice? One generation."
+turn anyone away because we do not discriminate, but what they encounter will be
+ours, on our own terms. As Ruth Bader Ginsburg said, "What is the difference
+between a bookkeeper in the Garment District and a Supreme Court justice? One
+generation."
 
 I must be clear: I do not advocate segregation but instead an adequate
 substantiation of one part of the American experience. I'm on the same page as
