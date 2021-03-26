@@ -5,8 +5,30 @@ layout: default
 
 <h2>Ruminations</h2>
 
-<h4>2021-03-20, 六. On Asian America's Awakening.</h4>
+<h4>2021-03-25, 四. The Lifespan of Things, Or: The Duration of Memory.</h4>
+<pre style="padding:0; border:0; background-color:white;">
+<u>Sustenance                             Years</u>
+Website, average                           3
+Smartphone, average                        3
+Laptop, average                            5
+Hard disk                                 10
+Acidic Paper                              20
+Oil painting, unpreserved                 40
+<b>Life Expectancy, America 2021             79</b>
+Leather                                  100
+Building, unmaintained                   100
+Acid-free paper                          200
+Plastic                                  500
+High-grade acid-free paper             1,000
+Parchment                              1,000
+Glass                              1,000,000
+Life on Earth                  7,500,000,000
+Earth                         12,000,000,000
+</pre>
 
+<br>
+
+<h4>2021-03-20, 六. On Asian America's Awakening.</h4>
 This post is long overdue and comes in response to this week's shooting of six
 Asians in Atlanta and to the broader issue of rising anti-Asian hate since the
 start of the pandemic. Let's disabuse ourselves of the notion that racism is
