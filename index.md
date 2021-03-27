@@ -9,22 +9,22 @@ layout: default
 The great pessimist Emil Cioran once wrote, "Nothingness may well have been more
 convenient. How difficult it is to dissolve oneself in Being!" With that, he
 ended his essay, THE TEMPTATION TO EXIST. It is a revelation to read Cioran, who
-also wrote books whose titles convey his essence such as THE HEIGHTS OF DESPAIR
-and THE TROUBLE WITH BEING BORN, not to convert to nihilism, but to bear witness
-to the pits of the philosophical abyss of life taken to the extreme so that one
-no longer fears facing the dark unknown, for one has already seen it and knows
-it and can say, "Ah, is that all?" I'm not a nihilist, but I do think it is
-crucial to conceive the various avenues others have taken to grasp upwards
+also wrote books whose titles convey his essence such as ON THE HEIGHTS OF
+DESPAIR and THE TROUBLE WITH BEING BORN, not to convert to nihilism, but to bear
+witness to the pits of the philosophical abyss of life taken to the extreme so
+that one no longer fears facing the dark unknown, for one has already seen it
+and knows it and can say, "Ah, is that all?" I'm not a nihilist, but I do think
+it is crucial to conceive the various avenues others have taken to grasp upwards
 towards meaning, perhaps especially so when it fails, perhaps because we will
 also recognize bits of nihilism in ourselves. Of course, the intellectual
-resolution to nihilism is simple: life should have meaning, even if it doesn't;
-what's the alternative? But what is such a meaning? Better to address the
-fundamental questions of life than to duck the head into the sand, ignoring the
-necessity of truth, and blasting music at full volume in a buoyed state of
+resolution to nihilism is simple: life should have meaning, even though it
+doesn't; what's the alternative? But what is such a meaning? Better to address
+the fundamental questions of life than to duck the head into the sand, ignoring
+the necessity of truth, and blasting music at full volume in a buoyed state of
 walking denial. How many times I've mused the question of life in a
 conversation, to be redirected to a sudden distraction cropped up in avoidance.
 Or a long book that spins itself in circles of words, occasionally reaching for
-the famous name in an effort in vain, bedazzled by its own verbosity that I
+the famous name in an effort in vain, so bedazzled by its own verbosity that I
 can't help but notice that the author may be more lost than me, so bloated in
 conceit that he may no longer realize he's driven himself into irrelevance. But:
 you're not answering my question. It's my most important one. I'll give you all
