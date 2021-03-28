@@ -18,9 +18,22 @@ it is crucial to conceive the various avenues others have taken to grasp upwards
 towards meaning, perhaps especially so when it fails, perhaps because we will
 also recognize bits of nihilism in ourselves. Of course, the intellectual
 resolution to nihilism is simple: life should have meaning, even though it
-doesn't; what's the alternative? But what is such a meaning? Better to address
-the fundamental questions of life than to duck the head into the sand, ignoring
-the necessity of truth, and blasting music at full volume in a buoyed state of
+doesn't and the meaning itself is meaningless; what's the alternative? But what
+is such a meaning worth pursuing in spite of its emptiness known from the
+outset?  What makes a life not just a toy put together on an assembly line,
+robot arms scheduled to add parts as the toy moves through its decades and
+phases, the script and social constructs mandating the school years, the working
+years, a family, retirement, and finally its end  when the toy is completed,
+fully fabricated to specification as it is dropped off with its glorious
+splendor in the dumpster with every other toy that has come before and will come
+after, the toy smiling that it's been carried along the mechanization's selfsame
+routine as it croaks its last breath, smiling the whole way because that's what
+the toy has imagined to be its purpose. What makes a life worthy? The fact is we
+all die one day. How hilarious! How lovely! But how disappointingly human. This
+is the game we're playing, the time remaining on our turn ticking away, and when
+it all ends it will have been oh so meaningless. It is better to address the
+fundamental questions of life than to duck the head into the sand, ignoring the
+necessity of truth, and blasting music at full volume in a buoyed state of
 walking denial. How many times I've mused the question of life in a
 conversation, to be redirected to a sudden distraction cropped up in avoidance.
 Or a long book that spins itself in circles of words, occasionally reaching for
