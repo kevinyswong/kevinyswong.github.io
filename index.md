@@ -161,40 +161,42 @@ equilibrium"—and there is more  in Scruton that I can respect not only because
 of his unmitigated journey towards authenticity, but because the underlying
 ideas guiding the way he lived his life are also mine.
 
-Scruton defended Heidegger's notion of dwelling: "Every serious idea is
-dangerous. In a civilized mind it is not. It is an instrument of peace. I'm
-talking about peaceful existence in a single place, an unthreatening form of
-being"—Scruton not only agrees with it as an intellectual idea but lived by it.
-Scruton expands on this idea with Hegel's homecoming spirit: "In all of us there
-is a desire for homecoming, where we find ourselves having ventured out into all
-these dangerous experiments of individual living, at last coming back,
-swallowing all our pride, and humbly acquiesing in a social order which is
-bigger than ourselves." In these words Scruton also captured the trajectory of
-his life, as he recounted his early years: "I was very fortunate in having an
-unhappy childhood so that my desire from the very beginning was to escape from
-it . . . I was very much aware of the difference between me and everybody else,
-that there was something in me that needed to be addressed. I had a question in
-my life. I didn't know what the question was, but I knew that it needed an
-answer, and I had first to identify what the question was. So the things that my
-contemporaries took pleasure in, like football, cinema, whatever it might be,
-pop music, had very little significance for me, even though like all my
-contemporaries of course I played the guitar, a bit of bass guitar, and all the
-usual—things one had to do. But even while doing it I regarded myself just as
-ridiculous as the people around me." It was only later that Scruton gradually
-came upon how to pose the question: "Someone like Heidegger would say it was the
-question of Being. What and why am I? What is this soul doing in this
-environment, and how can  it possibly come to be in that environment in a way
-that will bring peace to itself?" In middle age, Scruton described his fear of
-choosing to abandon his position as a professor as "being afraid to give up a
-career that I thought to be certain and secure, but I knew that I should give it
-up because it was not me, my career as a teacher. I finally got the courage to
-give it up, but I left it very late." In describing the broader fear of living,
-Scruton said, "When you're confronted with this sort of fear, you might run from
-it into false consolations, things which are not real consolations because they
-involve no overcoming . . . I can see what it would be to take refuge in wine
-completely,  and allow that to sooth one through one's day and to soothe one
-through one's inadequacies, to enable one to put this fear to one side.  That is
-not a consolation. A consolation to me comes from having confronted trouble, and
+Scruton defended Heidegger's notion of dwelling as "this attempt to reaffirm
+with your connection with a particular place at a particular time and a
+particular social web . . . Every serious idea is dangerous. In a civilized mind
+it is not. It is an instrument of peace. I'm talking about peaceful existence in
+a single place, an unthreatening form of being"—Scruton not only agrees with
+this as an intellectual idea but lived by it. Scruton expands on this idea with
+Hegel's homecoming spirit: "In all of us there is a desire for homecoming, where
+we find ourselves having ventured out into all these dangerous experiments of
+individual living, at last coming back, swallowing all our pride, and humbly
+acquiesing in a social order which is bigger than ourselves." In these words
+Scruton also captured the trajectory of his life, as he recounted his early
+years: "I was very fortunate in having an unhappy childhood so that my desire
+from the very beginning was to escape from it . . . I was very much aware of the
+difference between me and everybody else, that there was something in me that
+needed to be addressed. I had a question in my life. I didn't know what the
+question was, but I knew that it needed an answer, and I had first to identify
+what the question was. So the things that my contemporaries took pleasure in,
+like football, cinema, whatever it might be, pop music, had very little
+significance for me, even though like all my contemporaries of course I played
+the guitar, a bit of bass guitar, and all the usual—things one had to do. But
+even while doing it I regarded myself just as ridiculous as the people around
+me." It was only later that Scruton gradually came upon how to pose the
+question: "Someone like Heidegger would say it was the question of Being. What
+and why am I? What is this soul doing in this environment, and how can  it
+possibly come to be in that environment in a way that will bring peace to
+itself?" In middle age, Scruton described his fear of choosing to abandon his
+position as a professor as "being afraid to give up a career that I thought to
+be certain and secure, but I knew that I should give it up because it was not
+me, my career as a teacher. I finally got the courage to give it up, but I left
+it very late." In describing the broader fear of living, Scruton said, "When
+you're confronted with this sort of fear, you might run from it into false
+consolations, things which are not real consolations because they involve no
+overcoming . . . I can see what it would be to take refuge in wine completely,
+and allow that to sooth one through one's day and to soothe one through one's
+inadequacies, to enable one to put this fear to one side.  That is not a
+consolation. A consolation to me comes from having confronted trouble, and
 eliciting from the heart of the trouble the resolution of it."
 
 His first marriage failed, but his second marriage, at 52, to Sophie Jeffreys,
