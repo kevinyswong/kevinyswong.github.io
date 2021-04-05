@@ -26,7 +26,7 @@ identification with that community and not out of true belief.
 
 I'm not speaking of religion in the way Alan Watts did when he used a marketing
 ploy to slip God under the cover of mesmerizing rhetoric. The God he spoke of
-was not the omnipotent deity of the Judeo-Christian tradition but a God embedded
+was not the omnipotent deity of the Judeo-Christian tradition but a god embedded
 in the personal and everyday, everywhere and needing no more worship than a
 spiritual awareness. What a great cheat! How he committed the intellectual
 laziness of conflating one God with another by using the same terminology! And
@@ -54,10 +54,10 @@ thought of annihilation. Happiness is none the less true happiness because it
 must come to an end, nor do thought and love lose their value because they are
 not everlasting. Many a man has borne himself proudly on the scaffold; surely
 the same pride should teach us to think truly about a man's place in the world.
-Even if the open windows of science at first make shiver after the cosy indoor
-warmth of traditional humanising myths, in the end the fresh air brings out
-vigour, and the great spaces have a splendour of their own." One can enter the
-sublime by sitting in church in the front pew, enjoying Bach's music playing
+Even if the open windows of science at first make us shiver after the cosy
+indoor warmth of traditional humanising myths, in the end the fresh air brings
+out vigour, and the great spaces have a splendour of their own." One can enter
+the sublime by sitting in church in the front pew, enjoying Bach's music playing
 under the towering apse just as one can enter it by lying back on the open
 grass, under the constellations of the night sky, all on one's own,
 contemplating  the stars whence one came; one can be spiritual without a god.
@@ -94,7 +94,7 @@ If you lose it yourself, then of course that could be regarded as a misfortune,
 or you might regard it a great liberation, as Nietzsche tried to do. But that's
 your problem. You deal with it. I have my own way of dealing with it, and I
 think I have dealt with it. I worked my way back to something, not really the
-God of organized religion, but I worked my way back to something like a God
+God of organized religion, but I worked my way back to something like a god
 idea. I'm giving it a place in my life which enables me to stand to some extent
 in judgement of myself, as I think I should." Fair enough. This answer satisfies
 me, and I can respect Scruton for it. The necessary consequence, of course, is
