@@ -207,20 +207,20 @@ called it BOREAS BLOWS NOT, referencing Herodotus: "Boreas blows not through the
 young virgin who lives alone in the house with her mother. Because at the time,
 Sophie was living alone in her house with her mother. So it was a description of
 Boreas the north wind refusing to blow, or unable to blow, through this secure
-little cottage." In this little cottage in the countryside of Wiltshire, on a
-plot of land he bought that he named Scrutopia, Scruton lived with a yard in the
-front for the horses, where he spent lived out his years with his wife among
-books lining the walls and a grand piano in the center of the living room. True
-to his word, Scruton dwelled, playing Bach in his village's church every Sunday.
-Scruton dwelled, returning to the countryside into which he was born: "My
-childhood was in a semi-detached house by a railway line in which we were, you
-know, very poor, very much living in the old class resentment of the English . .
-. It has nothing to do with this. This here is created by books and music in the
-middle of a countryside which I love and among people doing innocent
-old-fashioned things with animals. That's as far as one can get." In Wiltshire,
-Scruton lived until his death in January 2020. May he rest in the peace of
-eternity that I too will one day join, hopefully having attained the same peace
-in human terms.
+little cottage." Scruton made for himself and his wife a version of this little
+cottage, with a yard in the front for the horses he kept for fox-hunting. In his
+cottage in the countryside of Wiltshire, on a plot of land he bought that he
+named Scrutopia, Scruton lived out his years with his wife among books lining
+the walls and a grand piano in the center of the living room. True to his word,
+Scruton dwelled, playing Bach in his village's church every Sunday. Scruton
+dwelled, returning to the countryside into which he was born: "My childhood was
+in a semi-detached house by a railway line in which we were, you know, very
+poor, very much living in the old class resentment of the English . . . It has
+nothing to do with this. This here is created by books and music in the middle
+of a countryside which I love and among people doing innocent old-fashioned
+things with animals. That's as far as one can get." In Wiltshire, Scruton lived
+until his death in January 2020. May he rest in the peace of eternity that I too
+will one day join, hopefully having attained the same peace in human terms.
 
 <br>
 
