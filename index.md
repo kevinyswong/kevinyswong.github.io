@@ -44,30 +44,28 @@ earns you a one-way ticket to eternal condemnation seems to me immensely
 self-centered because such a guiding principle suggests we have an eye towards
 our own fates when we choose how to behave  towards others, and that propriety
 is not a self-evident principle derivable from common sense and reason. How low
-does this suggest of us and our fellow men that we can't be decent without
-fear of punishment?
-
-Bertrand Russell wrote, "Religion, since it has its source in terror, has
-dignified certain kinds of fear, and made people think them not disgraceful. In
-this it has done mankind a great disservice: all fear is bad. I believe that
-when I die I shall rot, and nothing of my ego will survive. I am not young, and
-I love life. But I should scorn to shiver with terror at the thought of
-annihilation. Happiness is none the less true happiness because it must come to
-an end, nor do thought and love lose their value because they are not
-everlasting. Many a man has borne himself proudly on the scaffold; surely the
-same pride should teach us to think truly about a man's place in the world. Even
-if the open windows of science at first make shiver after the cosy indoor warmth
-of traditional humanising myths, in the end the fresh air brings out vigour, and
-the great spaces have a splendour of their own."
-
-One can enter the sublime by sitting in church in the front pew, enjoying Bach's
-music playing under the towering apse just as one can enter it by lying back on
-the open grass, under the constellations of the night sky, all on one's own,
+does this suggest of us and our fellow men that we can't be decent without fear
+of punishment? Bertrand Russell wrote, "Religion, since it has its source in
+terror, has dignified certain kinds of fear, and made people think them not
+disgraceful. In this it has done mankind a great disservice: all fear is bad. I
+believe that when I die I shall rot, and nothing of my ego will survive. I am
+not young, and I love life. But I should scorn to shiver with terror at the
+thought of annihilation. Happiness is none the less true happiness because it
+must come to an end, nor do thought and love lose their value because they are
+not everlasting. Many a man has borne himself proudly on the scaffold; surely
+the same pride should teach us to think truly about a man's place in the world.
+Even if the open windows of science at first make shiver after the cosy indoor
+warmth of traditional humanising myths, in the end the fresh air brings out
+vigour, and the great spaces have a splendour of their own." One can enter the
+sublime by sitting in church in the front pew, enjoying Bach's music playing
+under the towering apse just as one can enter it by lying back on the open
+grass, under the constellations of the night sky, all on one's own,
 contemplating  the stars whence one came; one can be spiritual without a god.
 Humanity's pursuits—reaching for transcendence, enjoying music, living
 virtuously, seeking meaning and purpose—what does God have to do with them?
+Everything we've done, we've done without Him.
 
-The most convincing argument for believing in God I've come across is Roger
+The most compelling argument for believing in God I've come across is Roger
 Scruton's. Scruton did not dodge the hard questions, did not consider his views
 an obvious truth, was not intolerant to conflicting views, and was not so
 deluded in his own beliefs that he couldn't accommodate cross-examination.
@@ -190,39 +188,55 @@ itself?" In middle age, Scruton described his fear of choosing to abandon his
 position as a professor as "being afraid to give up a career that I thought to
 be certain and secure, but I knew that I should give it up because it was not
 me, my career as a teacher. I finally got the courage to give it up, but I left
-it very late." In describing the broader fear of living, Scruton said, "When
+it very late." And in describing the broader fear of living, Scruton said, "When
 you're confronted with this sort of fear, you might run from it into false
 consolations, things which are not real consolations because they involve no
 overcoming . . . I can see what it would be to take refuge in wine completely,
 and allow that to sooth one through one's day and to soothe one through one's
 inadequacies, to enable one to put this fear to one side.  That is not a
 consolation. A consolation to me comes from having confronted trouble, and
-eliciting from the heart of the trouble the resolution of it."
+eliciting from the heart of the trouble the resolution of it." Scruton examines
+himself in the way of someone who has the habit of doing deep reflection: "I
+have always worked very hard at my literary gifts, but in every direction
+they've suggested, philosophical essays, fiction, anything that seems to come to
+my pen, but it's always been enormous work, and I've always connected it
+deliberately with my subjectivity, the peculiar confusion which I inherited by
+being born the thing that I was. And I made them slaves, my literary works, of
+my need, and each of them had the task of unraveling this confusion . . . except
+for a few academic articles, all this has been a completely personal voyage of
+discovery . . . so this was a very personal thing, which had nothing to do with
+the normal <i>Bildung</i> of a normal academic philosopher. My life was a kind
+of <i>Bildungsroman</i> in which the academic part was a sort of continuous and
+enjoyable mistake. I shouldn't have been a teacher, or I shouldn't have been
+locked away in libraries. My heart and soul have always been in other things,
+I've always been involved in other things, which have always been more important
+to feeding what I really think."
 
-His first marriage failed, but his second marriage, at 52, to Sophie Jeffreys,
-after a "slow, quiet, respectful courtship," not in the searing passion of
-thoughtless romance but in the quaint charm, quiet serenity, coquettish allure,
-and mutual attraction hidden beneath preserved dignity so apt to the British
-manner, lasted until his death. Scruton composed a piece for the piano dedicated
-to his wife "which would convey something of her composure and orderliness." He
-called it BOREAS BLOWS NOT, referencing Herodotus: "Boreas blows not through the
-young virgin who lives alone in the house with her mother. Because at the time,
-Sophie was living alone in her house with her mother. So it was a description of
-Boreas the north wind refusing to blow, or unable to blow, through this secure
-little cottage." Scruton made for himself and his wife a version of this little
-cottage, with a yard in the front for the horses he kept for fox-hunting. In his
-cottage in the countryside of Wiltshire, on a plot of land he bought that he
-named Scrutopia, Scruton lived out his years with his wife among books lining
-the walls and a grand piano in the center of the living room. True to his word,
-Scruton dwelled, playing Bach in his village's church every Sunday. Scruton
-dwelled, returning to the countryside into which he was born: "My childhood was
-in a semi-detached house by a railway line in which we were, you know, very
-poor, very much living in the old class resentment of the English . . . It has
-nothing to do with this. This here is created by books and music in the middle
-of a countryside which I love and among people doing innocent old-fashioned
-things with animals. That's as far as one can get." In Wiltshire, Scruton lived
-until his death in January 2020. May he rest in the peace of eternity that I too
-will one day join, hopefully having attained the same peace in human terms.
+Scruton's first marriage failed, but his second marriage, at 52, to Sophie
+Jeffreys, after a "slow, quiet, respectful courtship," not in the searing
+passion of uninhibited romance but in the quaint charm, quiet serenity,
+coquettish allure, and mutual attraction hidden beneath preserved dignity so apt
+to the British manner, lasted until his death. Scruton composed a piece for the
+piano dedicated to his wife "which would convey something of her composure and
+orderliness." He called it BOREAS BLOWS NOT, referencing Herodotus: "Boreas
+blows not through the young virgin who lives alone in the house with her mother.
+Because at the time, Sophie was living alone in her house with her mother. So it
+was a description of Boreas the north wind refusing to blow, or unable to blow,
+through this secure little cottage." Scruton made for himself and his wife a
+version of this little cottage, with a yard in the front for the horses he kept
+for fox-hunting. In his cottage in the countryside of Wiltshire, on a plot of
+land he bought that he named Scrutopia, Scruton lived out his years with his
+wife among books lining the walls and a grand piano in the center of the living
+room. True to his word, Scruton dwelled, playing Bach in his village's church
+every Sunday. Scruton dwelled, returning to the countryside into which he was
+born: "My childhood was in a semi-detached house by a railway line in which we
+were, you know, very poor, very much living in the old class resentment of the
+English . . . It has nothing to do with this. This here is created by books and
+music in the middle of a countryside which I love and among people doing
+innocent old-fashioned things with animals. That's as far as one can get." In
+Wiltshire, Scruton lived until his death in January 2020. May he rest in the
+peace of eternity that I too will one day join, hopefully having attained the
+same peace in human terms.
 
 <br>
 
