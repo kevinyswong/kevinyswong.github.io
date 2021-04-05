@@ -5,6 +5,225 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-04-04, 日. On Religion and Roger Scruton.</h4>
+I'm an atheist, and today's post situates my views in the context of religion,
+and why the religion question largely doesn't matter.
+
+First, I will state some of my doubts. To even begin to convince me to believe
+in God, you must answer this question of mine: why Jesus or Yahweh or Allah when
+I can also chooose Zeus and Hera, Shiva and Brahma, Isis and Osiris, Odin and
+Ymir, Huitzilopochtli and Quetzalcoatl, Ababinili and Agu'gux, Hadad and Anu?
+Why one god and not four hundred? Would God have been the next titular character
+had Joseph Campbell extended his HERO WITH A THOUSAND FACES? I can't shake off
+the observation that those who are religious are religious because of a sense of
+community and not because they are wholly convinced from first principles in the
+existence of God. To convince me to be religious is to show me that faith is not
+just the happenstance religion of the society into which we are born, assigned
+at birth and immured as the sole option when we are too young to resist our
+parents and our friends, too young to think and doubt, too young to realize that
+by adulthood we will be too accustomed to holding on to faith out of nominal
+identification with that community and not out of true belief.
+
+I'm not speaking of religion in the way Alan Watts did when he used a marketing
+ploy to slip God under the cover of mesmerizing rhetoric. The God he spoke of
+was not the omnipotent deity of the Judeo-Christian tradition but a God embedded
+in the personal and everyday, everywhere and needing no more worship than a
+spiritual awareness. What a great cheat! How he committed the intellectual
+laziness of conflating one God with another by using the same terminology! And
+the notion of God is too loosely defined. Do we agree with Maimonides when he
+explained that the Jewish God is such a perfect unity that he could not be
+described in any positive sense, and we cannot say God has arms or legs, or that
+God is omnipotent, or that God has thoughts, for any such statement limits the
+greatness of God? Surely one can follow this description as one can follow a
+thought experiment, but no one can persuade me away from my immediate thought:
+what a wonderful fiction!—though such a character is certainly too dull for my
+book.
+
+To live motivated by the thought that disorderly conduct towards your fellow men
+earns you a one-way ticket to eternal condemnation seems to me immensely
+self-centered because such a guiding principle suggests we have an eye towards
+our own fates when we choose how to behave  towards others, and that propriety
+is not a self-evident principle derivable from common sense and reason. How low
+does this suggest of us and our fellow men that we can't be decent without
+fear of punishment?
+
+Bertrand Russell wrote, "Religion, since it has its source in terror, has dignified
+certain kinds of fear, and made people think them not disgraceful. In this it
+has done mankind a great disservice: all fear is bad. I believe that when I die
+I shall rot, and nothing of my ego will survive. I am not young, and I love
+life. But I should scorn to shiver with terror at the thought of annihilation.
+Happiness is none the less true happiness because it must come to an end, nor do
+thought and love lose their value because they are not everlasting. Many a man
+has borne himself proudly on the scaffold; surely the same pride should teach us
+to think truly about a man's place in the world. Even if the open windows of
+science at first make shiver after the cosy indoor warmth of traditional
+humanising myths, in the end the fresh air brings out vigour, and the great
+spaces have a splendour of their own."
+
+One can enter the sublime by sitting in church in the front pew, enjoying Bach's
+music playing under the towering apse just as one can enter it by lying back on
+the open grass, under the constellations of the night sky, all on one's own,
+contemplating  the stars whence one came; one can be spiritual without a god.
+Humanity's pursuits—reaching for transcendence, enjoying music, living
+virtuously, seeking meaning and purpose—what does God have to do with them?
+
+The most convincing argument for believing in God I've come across is Roger
+Scruton's. Scruton did not dodge the hard questions, did not consider his views
+an obvious truth, was not intolerant to conflicting views, and was not so
+deluded in his own beliefs that he couldn't accommodate cross-examination.
+During an interview he was asked, "God. We got rid of Him, finally. We finally
+recognized we are totally alone in the universe. Oceans of time before us,
+oceans of time after us—Schopenhauer—yeah? And admidst we are, giving meaning to
+our lives, just one little second in eternity. And now you're coming up with God
+again. In three or four minutes you're talking about a <i>moral</i> God." The
+interviewer continued: "If we see our presence in the universe at this very
+moment in time for 60 or 70 or 80 years as one whisper, and we can't give
+meaning to our own lives because there are no preconditions, there is no God,
+there is no moral statement in the universe itself, of the universe itself.
+Isn't that more challenging than returning to the old idea of a moral God?"
+Taken aback for a second from so direct a question, Scruton replied: "If you
+want to live your live being challenged, that's fine. There are lots of things
+more challenging than my worldview, but it doesn't follow they're for that
+reason more true. It's possible for someone like Rilke to live with a kind of
+death of God feeling, to say to himself, 'For God has been taken from the world,
+along with so much else. I will now remake everything according to my own inner
+light and find consolation there.' And to some extent, that's what I do, but not
+everybody is Rilke. Most people, deprived of this kind of consolation, don't
+rise to the challenge at all. They sink a long way beneath it, and they live
+without that aspiration to be something better that they would otherwise have
+had. And so I'm very much opposed to taking this sort of thing away from people.
+If you lose it yourself, then of course that could be regarded as a misfortune,
+or you might regard it a great liberation, as Nietzsche tried to do. But that's
+your problem. You deal with it. I have my own way of dealing with it, and I
+think I have dealt with it. I worked my way back to something, not really the
+God of organized religion, but I worked my way back to something like a God
+idea. I'm giving it a place in my life which enables me to stand to some extent
+in judgement of myself, as I think I should." Fair enough. This answer satisfies
+me, and I can respect Scruton for it. The necessary consequence, of course, is
+that Scruton thinks we were both created in the image of God and that I have
+fallen from favor, while I think his belief in an unprovable deity ludicrous. No
+further word can be said that can change our minds, but this doesn't matter
+because the thwarted conversation is postponed until the infinitude that comes
+after the day when both of us are dead, when, as far as we're concerned,
+everything ceases to matter. I may not agree with Scruton's views, but I can
+respect him for adequately examining his convictions and living by them to the
+very end.
+
+I am not Richward Dawkins. I don't impose atheism on anyone. Freedom of religion
+is one of the founding principles of the country. If you are religious, be
+satsfied in your community, and I mine, which proclaims: We have no god to love,
+and no god loves us, we do not believe in deities whose business it is to lord
+over our miniscule lives, for we believe not in gods but in humanity. I can find
+the religiously devout among those I consider at the pinnacle of humanity:
+Dostoyevsky, Kierkegaard, Wittgenstein, William Blake, just as I can find among
+them atheists. My gripe is not against religion itself but the lack of the
+necessary search and labor to convince oneself beyond, "It's what everyone
+around me believes, and we fear those who don't."
+
+In America, we have a party that knows it is losing power and instead of a
+graceful handover and adapting to times, it resorts to pathetic measures like
+gerrymandering and restricting the voting rights of Americans who are not on
+their side, the whole party patently struggling to hold on to dear life. I can
+respect Scruton, but I can't respect the whole line of Republican senators who
+ride on disinformation, sending the wrong message to working class Americans to
+vote against their interests so the rich can have lower taxes, those Republicans
+who sell religious and national purity like Mitch McConnell—whose wife happens
+to be Chinese and who is responsible for his wealth—and Ted Cruz, and their
+predecessor William Buckley Jr. who would have rather resorted to lies and
+elitism rather than accept progress. Why all the opposition to change? Martin
+Luther posting his NINETY-FIVE THESES on a church's door sounds pretty radical.
+A group of 102 religious pilgrims seeking religious freedom sailing on the
+Mayflower to a new, largely unknown continent sounds pretty radical. The French
+Revolution sounds pretty radical. This is the pattern of human civilization: the
+today's radical is tomorrow's past, as certain and unyieldable as the iron law
+of history. As Schopenhauer put it, "All truth passes through three stages.
+First, it is ridiculed. Second, it is violently opposed. Third, it is accepted
+as being self-evident." For the logical among us, think of it this way: jump
+forward on the timeline and look back; today's radicalism is already the past.
+This is not to say all change is progress. Marxism, Nazism, Communism, Fascism,
+anarchy, populism, nuclear fallout, and nativism are not avenues of progress.
+Progress is determined by what works as a push forward for humanity, not by
+self-interest, power-mongering, greed, and blinkered nationalism.
+
+The remainder of this post discusses Scruton. In considering my differences
+against Scruton, I can't help but also notice the immense similarities, and I
+recall Schopenhauer's  world as illusion, world as appearance, reality as but a
+surface veneer. Schopenhauer took this idea from the ancient Vedic tradition,
+which also had so inspired Hesse that one of his recurring projects was an
+attempt to reconcile the West's dilemma between rationality and the animal
+within against India's amorphous nature of reality. Peel away our differences—he
+a conservative and I a liberal, his Christianity and my atheism, his British
+reserve, stiff upper lip, preoccupation with dignity,  ever aspiring to serenity
+and order, and my fearless charge towards intensity, passion, flame, grabbing
+life by the horns, he who returns ever again to equilibrium when I say, "Why
+bother resting? After this brief stint, we have all eternity for
+equilibrium"—and there is more  in Scruton that I can respect not only because
+of his unmitigated journey towards authenticity, but because the underlying
+ideas guiding the way he lived his life are also mine.
+
+Scruton defended Heidegger's notion of dwelling: "Every serious idea is
+dangerous. In a civilized mind it is not. It is an instrument of peace. I'm
+talking about peaceful existence in a single place, an unthreatening form of
+being"—Scruton not only agrees with it as an intellectual idea but lived by it.
+Scruton expands on this idea with Hegel's homecoming spirit: "In all of us there
+is a desire for homecoming, where we find ourselves having ventured out into all
+these dangerous experiments of individual living, at last coming back,
+swallowing all our pride, and humbly acquiesing in a social order which is
+bigger than ourselves." In these words Scruton also captured the trajectory of
+his life, as he recounted his early years: "I was very fortunate in having an
+unhappy childhood so that my desire from the very beginning was to escape from
+it . . . I was very much aware of the difference between me and everybody else,
+that there was something in me that needed to be addressed. I had a question in
+my life. I didn't know what the question was, but I knew that it needed an
+answer, and I had first to identify what the question was. So the things that my
+contemporaries took pleasure in, like football, cinema, whatever it might be,
+pop music, had very little significance for me, even though like all my
+contemporaries of course I played the guitar, a bit of bass guitar, and all the
+usual—things one had to do. But even while doing it I regarded myself just as
+ridiculous as the people around me." It was only later that Scruton gradually
+came upon how to pose the question: "Someone like Heidegger would say it was the
+question of Being. What and why am I? What is this soul doing in this
+environment, and how can  it possibly come to be in that environment in a way
+that will bring peace to itself?" In middle age, Scruton described his fear of
+choosing to abandon his position as a professor as "being afraid to give up a
+career that I thought to be certain and secure, but I knew that I should give it
+up because it was not me, my career as a teacher. I finally got the courage to
+give it up, but I left it very late." In describing the broader fear of living,
+Scruton said, "When you're confronted with this sort of fear, you might run from
+it into false consolations, things which are not real consolations because they
+involve no overcoming . . . I can see what it would be to take refuge in wine
+completely,  and allow that to sooth one through one's day and to soothe one
+through one's inadequacies, to enable one to put this fear to one side.  That is
+not a consolation. A consolation to me comes from having confronted trouble, and
+eliciting from the heart of the trouble the resolution of it."
+
+His first marriage failed, but his second marriage, at 52, to Sophie Jeffreys,
+after a "slow, quiet, respectful courtship," not in the searing passion of
+thoughtless romance but in the quaint charm, quiet serenity, coquettish allure,
+and mutual attraction hidden beneath preserved dignity so apt to the British
+manner, lasted until his death. Scruton composed a piece for the piano dedicated
+to his wife "which would convey something of her composure and orderliness." He
+called it BOREAS BLOWS NOT, referencing Herodotus: "Boreas blows not through the
+young virgin who lives alone in the house with her mother. Because at the time,
+Sophie was living alone in her house with her mother. So it was a description of
+Boreas the north wind refusing to blow, or unable to blow, through this secure
+little cottage." In this little cottage in the countryside of Wiltshire, on a
+plot of land he bought that he named Scrutopia, Scruton lived with a yard in the
+front for the horses, where he spent lived out his years with his wife among
+books lining the walls and a grand piano in the center of the living room. True
+to his word, Scruton dwelled, playing Bach in his village's church every Sunday.
+Scruton dwelled, returning to the countryside into which he was born: "My
+childhood was in a semi-detached house by a railway line in which we were, you
+know, very poor, very much living in the old class resentment of the English . .
+. It has nothing to do with this. This here is created by books and music in the
+middle of a countryside which I love and among people doing innocent
+old-fashioned things with animals. That's as far as one can get." In Wiltshire,
+Scruton lived until his death in January 2020. May he rest in the peace of
+eternity that I too will one day join, hopefully having attained the same peace
+in human terms.
+
+<br>
+
 <h4>2021-03-26, 五.</h4>
 The great pessimist Emil Cioran once wrote, "Nothingness may well have been more
 convenient. How difficult it is to dissolve oneself in Being!" With that, he
