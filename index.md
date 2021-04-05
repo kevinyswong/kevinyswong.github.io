@@ -47,18 +47,18 @@ is not a self-evident principle derivable from common sense and reason. How low
 does this suggest of us and our fellow men that we can't be decent without
 fear of punishment?
 
-Bertrand Russell wrote, "Religion, since it has its source in terror, has dignified
-certain kinds of fear, and made people think them not disgraceful. In this it
-has done mankind a great disservice: all fear is bad. I believe that when I die
-I shall rot, and nothing of my ego will survive. I am not young, and I love
-life. But I should scorn to shiver with terror at the thought of annihilation.
-Happiness is none the less true happiness because it must come to an end, nor do
-thought and love lose their value because they are not everlasting. Many a man
-has borne himself proudly on the scaffold; surely the same pride should teach us
-to think truly about a man's place in the world. Even if the open windows of
-science at first make shiver after the cosy indoor warmth of traditional
-humanising myths, in the end the fresh air brings out vigour, and the great
-spaces have a splendour of their own."
+Bertrand Russell wrote, "Religion, since it has its source in terror, has
+dignified certain kinds of fear, and made people think them not disgraceful. In
+this it has done mankind a great disservice: all fear is bad. I believe that
+when I die I shall rot, and nothing of my ego will survive. I am not young, and
+I love life. But I should scorn to shiver with terror at the thought of
+annihilation. Happiness is none the less true happiness because it must come to
+an end, nor do thought and love lose their value because they are not
+everlasting. Many a man has borne himself proudly on the scaffold; surely the
+same pride should teach us to think truly about a man's place in the world. Even
+if the open windows of science at first make shiver after the cosy indoor warmth
+of traditional humanising myths, in the end the fresh air brings out vigour, and
+the great spaces have a splendour of their own."
 
 One can enter the sublime by sitting in church in the front pew, enjoying Bach's
 music playing under the towering apse just as one can enter it by lying back on
@@ -121,29 +121,29 @@ necessary search and labor to convince oneself beyond, "It's what everyone
 around me believes, and we fear those who don't."
 
 In America, we have a party that knows it is losing power and instead of a
-graceful handover and adapting to times, it resorts to pathetic measures like
-gerrymandering and restricting the voting rights of Americans who are not on
-their side, the whole party patently struggling to hold on to dear life. I can
-respect Scruton, but I can't respect the whole line of Republican senators who
-ride on disinformation, sending the wrong message to working class Americans to
-vote against their interests so the rich can have lower taxes, those Republicans
-who sell religious and national purity like Mitch McConnell—whose wife happens
-to be Chinese and who is responsible for his wealth—and Ted Cruz, and their
-predecessor William Buckley Jr. who would have rather resorted to lies and
-elitism rather than accept progress. Why all the opposition to change? Martin
-Luther posting his NINETY-FIVE THESES on a church's door sounds pretty radical.
-A group of 102 religious pilgrims seeking religious freedom sailing on the
-Mayflower to a new, largely unknown continent sounds pretty radical. The French
-Revolution sounds pretty radical. This is the pattern of human civilization: the
-today's radical is tomorrow's past, as certain and unyieldable as the iron law
-of history. As Schopenhauer put it, "All truth passes through three stages.
-First, it is ridiculed. Second, it is violently opposed. Third, it is accepted
-as being self-evident." For the logical among us, think of it this way: jump
-forward on the timeline and look back; today's radicalism is already the past.
-This is not to say all change is progress. Marxism, Nazism, Communism, Fascism,
-anarchy, populism, nuclear fallout, and nativism are not avenues of progress.
-Progress is determined by what works as a push forward for humanity, not by
-self-interest, power-mongering, greed, and blinkered nationalism.
+graceful handover and adapting to the times, it resorts to pathetic measures
+like gerrymandering and restricting the voting rights of Americans who are not
+on their side, the whole party patently struggling to hold on to dear life. I
+can respect Scruton, but I can't respect the whole line of Republican senators
+who ride on disinformation, sending the wrong message to working class Americans
+to vote against their interests so the rich can have lower taxes, those
+Republicans who sell religious and national purity like Mitch McConnell—whose
+wife happens to be Chinese and who is responsible for his wealth—and Ted Cruz,
+and their predecessor William Buckley Jr. who would have rather resorted to lies
+and elitism rather than accept progress. Why all the opposition to change?
+Martin Luther posting his NINETY-FIVE THESES on a church's door sounds pretty
+radical. A group of 102 religious pilgrims seeking religious freedom sailing on
+the Mayflower to a new, largely unknown continent sounds pretty radical. The
+French Revolution sounds pretty radical. This is the pattern of human
+civilization: today's radical is tomorrow's past, as certain and unyieldable as
+the iron law of history. As Schopenhauer put it, "All truth passes through three
+stages. First, it is ridiculed. Second, it is violently opposed. Third, it is
+accepted as being self-evident." For the logical among us, think of it this way:
+jump forward on the timeline and look back; today's radicalism is already in the
+past. This is not to say all change is progress. Marxism, Nazism, Communism,
+Fascism, anarchy, populism, nuclear fallout, and nativism are not avenues of
+progress. Progress is determined by what works as a push forward for humanity,
+not by self-interest, power-mongering, greed, and blinkered nationalism.
 
 The remainder of this post discusses Scruton. In considering my differences
 against Scruton, I can't help but also notice the immense similarities, and I
