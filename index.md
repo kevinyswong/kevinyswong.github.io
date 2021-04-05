@@ -11,7 +11,7 @@ and why the religion question largely doesn't matter.
 
 First, I will state some of my doubts. To even begin to convince me to believe
 in God, you must answer this question of mine: why Jesus or Yahweh or Allah when
-I can also chooose Zeus and Hera, Shiva and Brahma, Isis and Osiris, Odin and
+I can also choose Zeus and Hera, Shiva and Brahma, Isis and Osiris, Odin and
 Ymir, Huitzilopochtli and Quetzalcoatl, Ababinili and Agu'gux, Hadad and Anu?
 Why one god and not four hundred? Would God have been the next titular character
 had Joseph Campbell extended his HERO WITH A THOUSAND FACES? I can't shake off
