@@ -29,7 +29,7 @@ ploy to slip God under the cover of mesmerizing rhetoric. The God he spoke of
 was not the omnipotent deity of the Judeo-Christian tradition but a god embedded
 in the personal and everyday, everywhere and needing no more worship than a
 spiritual awareness. What a great cheat! How he committed the intellectual
-laziness of conflating one God with another by using the same terminology! And
+laziness of conflating one god with another by using the same terminology! And
 the notion of God is too loosely defined. Do we agree with Maimonides when he
 explained that the Jewish God is such a perfect unity that he could not be
 described in any positive sense, and we cannot say God has arms or legs, or that
@@ -94,7 +94,7 @@ If you lose it yourself, then of course that could be regarded as a misfortune,
 or you might regard it a great liberation, as Nietzsche tried to do. But that's
 your problem. You deal with it. I have my own way of dealing with it, and I
 think I have dealt with it. I worked my way back to something, not really the
-God of organized religion, but I worked my way back to something like a god
+God of organized religion, but I worked my way back to something like a God
 idea. I'm giving it a place in my life which enables me to stand to some extent
 in judgement of myself, as I think I should." Fair enough. This answer satisfies
 me, and I can respect Scruton for it. The necessary consequence, of course, is
