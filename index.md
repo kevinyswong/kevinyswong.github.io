@@ -96,7 +96,7 @@ your problem. You deal with it. I have my own way of dealing with it, and I
 think I have dealt with it. I worked my way back to something, not really the
 God of organized religion, but I worked my way back to something like a God
 idea. I'm giving it a place in my life which enables me to stand to some extent
-in judgement of myself, as I think I should." Fair enough. This answer satisfies
+in judgment of myself, as I think I should." Fair enough. This answer satisfies
 me, and I can respect Scruton for it. The necessary consequence, of course, is
 that Scruton thinks we were both created in the image of God and that I have
 fallen from favor, while I think his belief in an unprovable deity ludicrous. No
@@ -107,7 +107,7 @@ everything ceases to matter. I may not agree with Scruton's views, but I can
 respect him for adequately examining his convictions and living by them to the
 very end.
 
-I am not Richward Dawkins. I don't impose atheism on anyone. Freedom of religion
+I am not Richard Dawkins. I don't impose atheism on anyone. Freedom of religion
 is one of the founding principles of the country. If you are religious, be
 satsfied in your community, and I mine, which proclaims: We have no god to love,
 and no god loves us, we do not believe in deities whose business it is to lord
