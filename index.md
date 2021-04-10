@@ -43,39 +43,41 @@ messiness, disorder, bewilderment." But even Rilke, champion of man as
 individual, believed in the possibility of love: "love that consists in this:
 that two solitudes protect and border and greet each other." The film director
 Wong Kar Wai meditates on this feeling of distance. His signature is
-unmistakable. Although the camera is pushed so close to the actor that the face
-takes up half the screen, although sugary pop music plays that evokes the high
-ebullience of the teenage years, although we enter the character's head and hear
-the thoughts as voice-overs spoken as if to a friend, although the film is so
-rich in vibrant color, the shots so alive with active energy, although the film
-is so flush with life, although we are brought so physically close that we can
-touch their breath, all his characters feel so far away. Whether his film is set
-in his home city's modern metropolis, in a foreign country where he does not
-speak the language, in a technocratic future, or in a dystopian fantasy, Wong
-Kar Wai has been making just one film: the longing for romance and the
-impossibility of intimacy, and all we can have is timeless jazz, strobing
-lights, the rain outside, and moody puffs of smoke rising from our cigarette.
-Wong Kar Wai's preoccupation with love tempts the important question: what does
-it mean to be alive? This is a question Abbas Kiarostami poses from another
-angle: should we bother to live? Abbas Kiarostami's TASTE OF CHERRY takes as its
-style a stark austerity in which the camera sits in the passenger seat watching
-a man drive about the desert, looking for someone to bury him. The weight of the
-film is implicit, not in the overt, unignorable manner of Francis Coppola's
-APOCALYPSE NOW in which the depths of consciousness is splayed in overbearing
-sweat and grime, or in Tarkovsky's STALKER which forces upon us the texture of
-time and the dread of liquid consciousness. How to capture life in film? Richard
-Linklater's BOYHOOD is wonderful in concept but failed to deliver the punch. It
-followed its actors over 13 years as they moved through life's stages, but the
-film's delivery lacks the wonder and elevation of universality, its scenes
-reading as a series of facts so proud of its idea that it hasn't bothered to
-put itself together into a vision, the film's primary fault being that the
-director was not strong enough. At the other end, Terrence Malick's TREE OF LIFE
-attempted to encompass so much of life it loses itself in airy voice-overs in an
-unfocused daydream that overwhelms but leads nowhere. If the point is to watch
-one family interspersed with spectacularly shot moments of the sun, eclipses,
-and the skies above, why not just settle with Ron Fricke's BARAKA and lose
-oneself in the drawn-out documentary of the many human cultures across the world
-and be drowned in detail?
+unmistakable. In spite of every element in the film running at the full speed of
+life, the characters seem stuck in the eye of the tornado. Although the camera
+is pushed so close to the actor that the face takes up half the screen, although
+sugary pop music plays that evokes the high ebullience of the teenage years,
+although we enter the character's head and hear the thoughts as voice-overs
+spoken as if to a friend, although the film is so rich in vibrant color, the
+shots so alive with active energy, although the film is so flush with life,
+although we are brought so physically close that we can touch their breath, all
+his characters feel so far away. Whether his film is set in his home city's
+modern metropolis, in a foreign country where he does not speak the language, in
+a technocratic future, or in a dystopian fantasy, Wong Kar Wai has been making
+just one film: the longing for romance and the impossibility of intimacy, and
+all we can have is timeless jazz, strobing lights, the rain outside, and moody
+puffs of smoke rising from our cigarette. Wong Kar Wai's preoccupation with love
+tempts the important question: what does it mean to be alive? This is a question
+Abbas Kiarostami poses from another angle: should we bother to live? Abbas
+Kiarostami's TASTE OF CHERRY takes as its style a stark austerity in which the
+camera sits in the passenger seat watching a man drive about the desert, looking
+for someone to bury him. The weight of the film is implicit, not in the overt,
+unignorable manner of Francis Coppola's APOCALYPSE NOW in which the depths of
+consciousness is splayed in overbearing sweat and grime, or in Tarkovsky's
+STALKER which forces upon us the texture of time and the dread of liquid
+consciousness. How to capture life in film? Richard Linklater's BOYHOOD is
+wonderful in concept but failed to deliver the punch. It followed its actors
+over 13 years as they moved through life's stages, but the film's delivery lacks
+the wonder and elevation of universality, its scenes reading as a series of
+facts so proud of its idea that it hasn't bothered to put itself together into a
+vision, the film's primary fault being that the director was not strong enough.
+At the other end, Terrence Malick's TREE OF LIFE attempted to encompass so much
+of life it loses itself in airy voice-overs in an unfocused daydream that
+overwhelms but leads nowhere. If the point is to watch one family interspersed
+with spectacularly shot moments of the sun, eclipses, and the skies above, why
+not just settle with Ron Fricke's BARAKA and lose oneself in the drawn-out
+documentary of the many human cultures across the world and be drowned in
+detail?
 
 We witnessed in John Conway's GAME OF LIFE that from simplicity dawns
 complexity, that the workings of seeming causation and sentient life can come
