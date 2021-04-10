@@ -6,8 +6,8 @@ layout: default
 <h2>Ruminations</h2>
 
 <h4>2021-04-09, 五.</h4>
-Paolo Sorrentino's film THE GREAT BEAUTY ends in a eloquent reflection of what
-we are, set to John Tavener's choir rendition of his countryman William Blake's
+Paolo Sorrentino's film THE GREAT BEAUTY ends in an eloquent reflection of what
+we are, set to John Tavener's choral rendition of his countryman William Blake's
 poem THE LAMB. The scene, narrated by the main character's brief monologue,
 watches an aged nun whose purity in life has made her near sainthood as she
 reaches the top of the steps of a cathedral, choosing to pull herself up by
