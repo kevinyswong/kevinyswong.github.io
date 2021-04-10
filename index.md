@@ -5,6 +5,102 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-04-09, 五.</h4>
+Paolo Sorrentino's film THE GREAT BEAUTY ends in a eloquent reflection of what
+we are, set to John Tavener's choir rendition of his countryman William Blake's
+poem THE LAMB. The scene, narrated by the main character's brief monologue,
+watches an aged nun whose purity in life has made her near sainthood as she
+reaches the top of the steps of a cathedral, choosing to pull herself up by
+hands and knees, the camera in front of her zooming towards her face as she
+finishes the ascent, bowing down to kiss her her necklace, the holy cross, as it
+comes to a rest on the floor of the landing. While we watch this moment with its
+music surging towards the finality of tranquil divinity, the main character
+summarizes us. He, conscious of modern Italy's culture of decadence in contrast
+to the country's long history of beauty and triumph, its marble statuary
+forgotten in basements as its youth dance the night away, observes the decaying
+culture while immersing in it himself, who for many decades was unable to break
+free. In the ending scene, in his native Italian, his voice joins the choir as
+we watch ourselves in the nun: "This is how it always ends. With death. But
+first there was life, hidden beneath the blah, blah, blah, blah, blah. It is all
+settled beneath the chitter, the chatter, and the noise: silence and sentiment,
+emotion and fear. The haggard, inconstant flashes of beauty, and then the
+wretched squalor and miserable humanity, all buried under the cover of the
+embarrassment of being in the world: blah, blah, blah, blah." The film closes as
+the narrator at that moment realizes something and embraces the absurd, deciding
+to begin his novel. He is standing on a cliff by the ocean, facing the love of
+his youth, a woman on whom the film rests its last shot.
+
+Rilke wrote, "Loving does not at first mean merging, surrendering, and uniting
+with another person (for what would a union be of two people who are
+unclarified, unfinished, and still incoherent?), it is a high inducement for the
+individual to ripen, to become something in himself, to become world, to become
+world in himself for the sake of another person; it is a great, demanding claim
+on him, something that chooses him and calls him to vast distances . . . But
+this is what young people are so often and so disastrously wrong in doing: they
+(who by their very nature are impatient) fling themselves at each other when
+love takes hold of them, they scatter themselves, just as they are, in all their
+messiness, disorder, bewilderment." But even Rilke, champion of man as
+individual, believed in the possibility of love: "love that consists in this:
+that two solitudes protect and border and greet each other." The film director
+Wong Kar Wai meditates on this feeling of distance. His signature is
+unmistakeable. Although the camera is pushed so close to the actor that the face
+takes up half the screen,  although sugary pop music plays that evokes the
+high ebullience of the teenage years, although we enter the character's head and
+hear the thoughts as voice-overs spoken as if to a friend, although the film is
+so rich in vibrant color, the shots so alive with active energy, although the
+film is so flush with life, although we are brought so physically close that we
+can touch their breath, all his characters feel so far away. Whether his film is
+set in his home city's modern metropolis, in a foreign country where he does not
+speak the language, in a technocratic future, or in a dystopian fantasy, Wong
+Kar Wai has been making just one film: the longing for romance and the
+impossibility of intimacy, and all we can have are timeless jazz, strobing
+lights, the rain outside, and moody puffs of smoke rising from our cigarette.
+Wong Kar Wai's preoccupation with love tempts the important question: what does
+it mean to be alive? This is a question Abbas Kiarostami poses from another
+angle: should we bother to live? Abbas Kiarostami's TASTE OF CHERRY takes as its
+style a stark austerity in which the camera sits in the passenger seat watching
+a man drive about in the desert, looking for someone to bury him. The weight of
+the film is implicit, not in the overt, unignorable manner of Francis Coppola's
+APOCALYPSE NOW in which the depths of consciousness is splayed in overbearing
+sweat and grime, or in Tarkovsky's STALKER in which he forces upon us the
+texture of time and the dread of liquid consciousness. How is it possible to
+capture life in film? Richard Linklater's BOYHOOD is wonderful in concept but
+failed to deliver the punch. It followed its actors over 13 years as they moved
+through life's stages, but the film's delivery lacks the wonder and elevation
+of universality, its scenes reading as  a series of facts so in awe of its idea
+that it hasn't bothered to put itself together into a vision, the film's primary
+fault being that the director was not strong enough. At the other end, Terrence
+Malick's TREE OF LIFE attempted to encompass so much of life it loses itself in
+airy voice-overs in an unfocused daydream that overwhelms but leads nowhere. If
+the point is to watch one family interspersed with spectacularly shot moments of
+the sun, eclipses, and the skies above, why not just settle with Ron Fricke's
+BARAKA and lose oneself in the drawn-out documentary of the many human cultures
+across the world and be drowned in detail?
+
+We witnessed in John Conway's GAME OF LIFE that from simplicity dawns
+complexity, that the workings of seeming causation and sentient life can come
+on a board of pixels from all of three rules:
+
+Birth: A dead cell with three live neighbors comes to life. <br>
+Prolong: A live cell with two or three neighbors remains alive. <br>
+Death: A live cell with zero or one neighbors dies of underpopulation; a
+live cell with four or more neighbors dies of overcrowding.
+
+From these three rules came life-forms, among them spaceships, gliders, clocks,
+frogs, flip-flops, and beehives, and from these three rules have sprung what
+have come to resemble civilization in the pixel. While the message from
+simplicity is clear, Conway, a mathematician, made the mathematician's mistake
+in thinking that actual life is so simple. Perhaps a modification to the death
+rule should be made: a cell lasts the span of eighty breaths, but even this
+doesn't convey the circumstance of the human condition in being aware of its
+eventual demise. What are the set of rules enabling us? Are we merely hamsters
+running on a wheel? Is consciousness real and not preordained as a set of
+inevitable chemical reactions? Is reality in fact real? Cao Xueqin wrote in
+DREAM OF THE RED CHAMBER: "Truth becomes fiction when the fiction's true. Real
+becomes unreal when the unreal's real."
+
+<br>
+
 <h4>2021-04-04, 日. On Religion and Roger Scruton.</h4>
 I'm an atheist, and today's post situates my views in the context of religion,
 and why the religion question largely doesn't matter.
