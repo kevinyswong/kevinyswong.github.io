@@ -5,6 +5,66 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-04-23, 五.</h4>
+The film THE HOURS properly captures the writer's tortured inflection in Nicole
+Kidman's wonderful portrayal of Virginia Woolf: private exasperation, breaths of
+pain, conscious agony. She narrates at the end: "To look life in the face.
+Always, to look life in the face, and to know it for what it is. At last, to
+know it, to love it, for what it is." In her eyes is the sensation of bare feet
+walking on broken glass, nails dragged across the blackboard, claustrophobia
+under the skin, all silently suffocating as hushed secrets are heard from
+another room's walls. Such too is the texture of Bergman's CRIES AND WHISPERS.
+Any authenticity does not involve dilution by someone else's presence. George
+Steiner said: "If you can phrase what to you makes life worth living, the
+absolute center, it's a lie because it's nobody else's business. It's a
+self-deception. I think it probably lies lower than speech or on the other side
+of speech for many human beings. It is not articulable. It is certainly not
+publicly communicable . . . What makes life worth living is so private a thing,
+so intimate a thing, that articulacy conveys the constant danger of a rhetoric
+of self-delusion, of exhibitionism. We are in a society of unparalleled
+exhibitionism at every level." As Laozi's proverb goes, "He who knows does
+not speak. He who speaks does not know."
+
+The conventional story that has won the world over, with its excitement,
+adventure, passion, is just one formula. Create a character. Name him or her X1.
+Create a sidekick. Call him or her X2. Create a mentor. Name him or her Y. Set
+it in a place and a time. Call it Z. Create a problem. Call it P. Fill in the
+variables with whatever—what a bore. How refreshing it is, then, to know that
+there is a joy in watching films touched by surrealism like David Lynch's
+ERASERHEAD and MULHOLLAND DRIVE, or Seijun Suzuki's BRANDED TO KILL, or
+Bergman's PERSONA, which also embodies the sheer delight of pure cinema. To
+watch the edges of reality lapse is to feel again something of that unknowable
+mystery of first consciousness, before it all becomes as predictable as
+conversations already had, friends already made and gone, careers already
+climbed, all dull and dry until we can taste the distilled mana that once
+was—the singularity, the absurd, the sublime, that phase shift when wakefulness
+fades into sleep every night and then one last time—to sail towards the black
+hole and with the might of human hands wrest from it the makings of its innards.
+
+Is not the only response to the fact of our eventual collective annihilation,
+when fully understood and embraced not as some abstract notion restrained to
+some distant future but as fate that can arrive even tonight, to resort to
+humor and the realization that this journey is nothing more than: life
+as illusion, life as a dream. Did Nietzsche not touch on this when he wrote,
+"Beware that, when fighting monsters, you yourself do not become a monster . . .
+for when you gaze long into the abyss. The abyss gazes also into you." The
+consequence of his eternal recurrence is that everything anyone can ever do or
+say or think has already been done, said, and thought. If life is understood as
+merely motions and physicality, then we are all just playing with legos. Time is
+space is space is time—we are at present, all at once, not yet born and living
+and dead. Beckett wrote: "Have you not done tormenting me with your accursed
+time! It's abominable! When! When! One day, is that not enough for you, one day
+he went dumb, one day I went blind, one day we'll go deaf, one day we were born
+and one day we shall die, the same day, the same second, is that not enough for
+you? They give birth astride a grave, the light gleams an instant, then its
+night once more."
+
+not a word until<br>
+the perfect thought<br>
+perfectly thought
+
+<br>
+
 <h4>2021-04-09, 五.</h4>
 Paolo Sorrentino's film THE GREAT BEAUTY ends in an eloquent reflection of what
 we are, set to John Tavener's choral rendition of his countryman William Blake's
