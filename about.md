@@ -30,7 +30,7 @@ permalink: /about
   </p>
 
   <p>
-  I'm finishing my master's at the University of Notre Dame. Prior to this,
+  I finished my master's at the University of Notre Dame. Prior to that,
   I did my undergrad at NYU and then spent a few years in industry.
   </p>
 </div>

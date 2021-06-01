@@ -496,16 +496,17 @@ especially when they don’t need to do it themselves.
 I'm going to preface the rest of this post by saying that there are genuinely
 decent folks whose only fault is simply that they have not been exposed to
 multiculturalism and diversity and so don't have anything to form an opinion of
-other races than prejudiced and outdated textbooks from school and exaggerated,
-distorted stereotypes gone unchecked. It is not them that I have in mind but
-those blockheads like some 21-year-old who, guilty over his sex addiction,
-turned his gun on someone else rather than the more obvious solution of turning
-it on himself. Or those inhuman cretins who would run in full speed up to a
-91-year-old to push him to the ground. Or those blatant aggressors who in spite
-of ample anti-racist messaging from government, news outlets, and social media,
-in spite of common sense, in spite of any propriety or civility, continue to
-lash out in blind hate. Or closeted bigots who so fear justice that they keep
-their hysterical xenophobia to themselves, whatever their walk of life.
+other races other than prejudiced and outdated textbooks from school and
+exaggerated, distorted stereotypes gone unchecked. It is not them that I have
+in mind but those blockheads like some 21-year-old who, guilty over his sex
+addiction, turned his gun on someone else rather than the more obvious solution
+of turning it on himself. Or those inhuman cretins who would run in full speed
+up to a 91-year-old to push him to the ground. Or those blatant aggressors who
+in spite of ample anti-racist messaging from government, news outlets, and
+social media, in spite of common sense, in spite of any propriety or civility,
+continue to lash out in blind hate. Or closeted bigots who so fear justice that
+they keep their hysterical xenophobia to themselves, whatever their walk of
+life.
 
 I am not surprised whatsoever that Asians are being targeted. I can't help but
 exclaim: how banal and boring! Tell me something new! As soon as the news broke
@@ -1250,7 +1251,7 @@ Another
 <a href="https://www.baltimoresun.com/news/bs-xpm-1996-05-02-1996123149-story.html">study</a>
 found that whites and Blacks have few favorite TV shows in common.
 And books? I couldn't find a study on this, but let's be honest. If we can't
-even bring ourselves to watch movies and TV across races, how many do we suppose
+even bring ourselves to watch movies and TV across race, how many do we suppose
 have read James Baldwin, Maya Angelou, or Toni Morrison? Or Zadie Smith, Salman
 Rushdie, Orhan Parmuk?
 
