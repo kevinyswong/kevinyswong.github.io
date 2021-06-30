@@ -1152,13 +1152,13 @@ that's productionized its pop star supply chain and learned to profit from the
 fickle, the vogue, and the trendy passing fads in modern consumerism, but
 perhaps I shouldn't be complaining if it boosts Asian representation and alters
 the Pavlovian conditioning away from old stereotypes in mass culture, even if
-it becomes a continuous stream of robotic Candy Crush. Every band has its
-heyday, but I suppose we each have for us our own terminal time and place whose
-only mystery is as difficult as filling in two variables. I'm not privy to the
-details of Lee Jung-hyun's work but I wouldn't be surprised if she was the one
-who envisioned the concept, convinced the producers on its viability, wrote the
-lyrics, choreographed the dance, and went onto the stage doing her thing, all
-5'2" of her.
+it becomes a continuous stream of robotic, soulless Candy Crush. Every band has
+its heyday, but I suppose we each have for us our own terminal time and place
+whose only mystery is as difficult as filling in two variables. I'm not privy
+to the details of Lee Jung-hyun's work but I wouldn't be surprised if she was
+the one who envisioned the concept, convinced the producers on its viability,
+wrote the lyrics, choreographed the dance, and went onto the stage doing her
+thing, all 5'2" of her.
 
 Needless to say, this sort of thing is possible only in the imprudent craze of
 youth, and Lee Jung-hyun was 19 when she came up with the song; now in her 40s,
@@ -1172,7 +1172,7 @@ THE SEARCHERS and its landscape in Terrence Malick's BADLANDS, Patrick
 Modiano's persistent and haunting German-occupied France, the intellectual
 sphere and Jewish paranoia in Woody Allen's MANHATTAN. Or one from among the
 evolution of Jia Zhangke who has taken it upon himself and cinema to chart the
-experience of China's decades post-reform through his characters and, through
+experience of China's decades post-reform via his characters and, through
 them, the zeitgeist of an entire generation hurtled, with all its angst,
 longings, and emptiness, into modernity. Often, flames that shine the brightest
 do not shine for long, and just as electrons jumping to higher orbitals soon
