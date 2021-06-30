@@ -1069,23 +1069,26 @@ Brooklyn, in the Black and Hispanic neighborhoods, voted for Eric Adams or Maya
 Wiley. I don't think these results are a coincidence, and if this is a
 precursor to what will happen to the Democratic Party, then perhaps all one can
 do is shrug in disappointment. If you say race is not a problem and you are
-white, let me know again when I point out that the minorities of today will
-soon no longer be minorities and that Christianity, even aggregated as the sum
-of its denominations, may very well not be the predominant religion. This is
-the inconvenient problem of race, not as discriminatory racism which also needs
-to be addressed, but as the country's identity shift. Perhaps fortunately, this
-is a problem of time, and the free solution is the passing of the decades, when
-the younger generations have already been slowly acclimating to the changing
-face of America which in a gradual shift will not seem out of the ordinary,
-like eyes seeing their reflection every morning but don't notice the wrinkles
-accumulating on the face. If you say race is not a problem and you are not
-white, consider what will happen when white Hispanics start voting like whites,
-Blacks push for expanding affirmative action, Asians insist on maintain
-policing. What will become of race then? Time will tell, but perhaps it'll only
-be a problem when people remain walled up in self-interested isolation, but why
-not be spurred by the idea of trying something new? Why not? How many in the
-American heartland still conceive of New York as just the one in the past as
-sung by
+white, let me know again when I point out that the
+<a href="https://www.prb.org/resources/children-are-at-the-forefront-of-u-s-racial-and-ethnic-change/">minorities</a>
+of today will soon no longer be minorities and that Christianity, even
+considered as the sum of its denominations, may very well not be the
+predominant
+<a href="https://www.pewforum.org/2019/10/17/in-u-s-decline-of-christianity-continues-at-rapid-pace/">religion</a>
+for much longer. This is the inconvenient problem of race, not as discriminatory
+racism which also needs to be addressed, but as the country's identity shift.
+Perhaps fortunately, this is a problem of time, and the free solution is the
+passing of the decades, when the younger generations have already been slowly
+acclimating to the changing face of America which in a gradual shift will not
+seem out of the ordinary, like eyes seeing their reflection every morning but
+don't notice the wrinkles accumulating on the face. If you say race is not a
+problem and you are not white, consider what will happen when white Hispanics
+start voting like whites, Blacks push for expanding affirmative action, Asians
+insist on maintain policing. What will become of race then? Time will tell, but
+perhaps it'll only be a problem when people remain walled up in self-interested
+isolation, but why not be spurred by the idea of trying something new? Why not?
+How many in the American heartland still conceive of New York as just the one
+in the past as sung by
 <a href="https://www.youtube.com/watch?v=EUrUfJW1JGk">Sinatra</a>
 without also realizing there's also the modern ones by
 <a href="https://www.youtube.com/watch?v=QsZlY0Vz4-o">Jay-Z</a>
