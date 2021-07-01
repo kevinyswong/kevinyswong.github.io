@@ -905,7 +905,7 @@ dangerous complacence. But an important thing to recognize is how in 1997 we
 can sit down and talk about these things, disagreement or not. Two decades
 later, how far have we come as a country? Anne Applebaum
 <a href="https://www.theatlantic.com/ideas/archive/2021/06/milley-critical-race-theory-marxism-racism-fox-news/619308/">wrote</a>
-in The Atlantic the important of openness to ideas, starting with a class I was
+in The Atlantic the importance of openness to ideas, starting with a class I was
 physically in: "Back in the 1980s, comparative-literature majors at my
 university had to take a required course in literary theory. This course—Lit
 130, if memory serves—offered prospective scholars a series of frames and
