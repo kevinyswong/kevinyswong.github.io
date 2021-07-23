@@ -8,6 +8,28 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-07-21, 三.</h4>
+Giacometti created sculptures of the walking man, as towering as they are
+thin—the walking man standing tall and confident, hurried in his stride, too
+busy to pause at the mirror to see his own emptiness and insubstantial being,
+just one passing evening wind. So too, Gao Xingjian painted silhouettes of
+vague, isolated wanderers placed in a ghostly, intangible, shifting, empty
+landscape, pieces whose brushstrokes breathe fading life yet whose poignant
+weight carries the same tone as Bergman's THE SEVENTH SEAL in which Man can
+only dance around but never evade Death, only Gao Xingjian's figures are
+nameless, faceless, unknowable, themselves forgettable and forgotten. These are
+our parents, children, friends, and every soul that is presently inhaling air
+who will in no time at all meet the same end as those who have long returned to
+ash and soil. This is us, and the private, individual anguish can for just a
+moment be soothed by recalling that prior generations have already crossed the
+finish line, and we are merely continuing along at our own sweet pace. March
+forth like the soldiers in Masaki Kobayashi's film trilogy THE HUMAN CONDITION,
+whose marching line evokes Bergman's ending dance, because we are all in line
+for the same twilight finale. All we can do is greet it and dash it the faint
+human smile.
+
+<br>
+
 <h4>2021-07-10, 六.</h4>
 stumbling onto a fishing pier, black night surround<br>
 San Diego after tourists retreat<br>
