@@ -8,6 +8,14 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-07-10, 六.</h4>
+stumbling onto a fishing pier, black night surround<br>
+San Diego after tourists retreat<br>
+one fisher's neon green bait sitting in the abyss<br>
+a quiet sea breeze, sudden flush of peace
+
+<br>
+
 <h4>2021-06-29, 二. On Authenticity In Art, Politics, and Taxes.</h4>
 David Foster Wallace mentioned a few interesting ideas when he said:
 <blockquote>
