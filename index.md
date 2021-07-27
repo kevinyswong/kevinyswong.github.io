@@ -2230,7 +2230,7 @@ nothing. Not every artist can explain what drives him, but all have at least
 this in common, an instinctive understanding of what doesn't work. To be clear,
 I need to add a disclaimer that I am not an elitist. Conventional happy stories
 have a time and place, and the market that caters to it, with public's appetite
-for it, have the purpose of leisure and recreation for normal people who have
+for it, have the purpose of leisure and entertainment for normal people who have
 jobs in the day and families at home, and the producers for this market are
 bounds and away more influential than any avant-garde conception sequestered in
 exclusive circles. I enjoyed THE GAME OF THRONES too, but don't expect me to
@@ -2756,31 +2756,32 @@ the unremarkable grape juice, but we go to considerable lengths to distinguish
 between wines by variety, region, year, and color. Though we may sensibly
 separate a heavy malbec from a mild pinot noir, when we start throwing around
 phrases like "flavor of blackberry", "notes of earthy vanilla", "hints of
-seasoned red plum", and "a rich dark chocolate lingering in the aftertaste", all
-the while affecting a poker face as we swirl and sniff ourselves into high
+seasoned red plum", and "a rich dark chocolate lingering in the aftertaste",
+all the while affecting a poker face as we swirl and sniff ourselves into high
 oblivion, should we not ask ourselves if there might not be a more productive
 use of time than making an impression? Any genuine appreciation for wine is
 quickly extinguished when artifice enters the conversation. So too is art when
-we chase the big name, attach a price tag, and enshroud it in undue mystery. The
-art market has not escaped the American variety of ruthless capitalism, and
+we chase the big name, attach a price tag, and enshroud it in undue mystery.
+The art market has not escaped the American variety of ruthless capitalism, and
 decades of rising economic inequality has permitted the rise of rogue
 billionaires who patronize rogue artists like Damien Hirst and Jeff Koons. Why
 do some artists fetch handsome sums at Christie's or Sotheby's while many of
-their peers struggle, forced to sell their work on the street? There is a market
-whose taste is determined by an exclusive community, and the clients, keen on
-entertaining guests of similar standing, viewing a painting as an investment,
-patting themselves on the back for procuring a rarefied treasure for the spouse,
-transact in prestige which, too, can be bought. The truth is that the chief
-executive officers, the hedge fund managers, and those in the professional class
+their peers struggle, forced to sell their work on the street? There is a
+market whose taste is determined by an exclusive community, and the clients,
+keen on entertaining guests of similar standing, viewing a painting as an
+investment, patting themselves on the back for procuring a rarefied treasure
+for the spouse, transact in prestige which, too, can be bought. The truth is
+that the CEOs, the hedge fund managers, and those in the professional class
 whose wealth has passed the threshold where capital allocation alone suffices
 for comfortable living have not, over the course of their upward career
-trajectory, had the time to calibrate artistic taste. The real artist, dedicated
-to his craft as a parent to a child, for whom art is a means of living, is at
-the mercy of the tastemakers, the curators, the established critics. Such is
-the art market. But American capitalism, ever eager to place its hand on every
-exchange, bends the market to its own morality. This is not art for art's sake
-but raw capitalism. Let us appreciate art on its own accord, art for all. As
-Jerry Saltz says, anyone can look at art—including abstract art.
+trajectory, had the time to calibrate artistic taste. The real artist,
+dedicated to his craft as a parent to a child, for whom art is a means of
+living, is at the mercy of the tastemakers, the curators, the established
+critics. Such is the art market. But American capitalism, ever eager to place
+its hand on every exchange, bends the market to its own morality. This is not
+art for art's sake but raw capitalism. Let us appreciate art on its own accord,
+art for all. As Jerry Saltz says, anyone can look at art—including abstract
+art.
 
 writing fiction is like<br>
 doing pure math<br>
