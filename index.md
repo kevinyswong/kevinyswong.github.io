@@ -12,7 +12,7 @@ layout: default
 Giacometti created sculptures of the walking man, as towering as they are
 thin—the walking man standing tall and confident, hurried in his stride, too
 busy to pause at the mirror to see his own emptiness and insubstantial being,
-just one passing evening wind. So too, Gao Xingjian painted silhouettes of
+just one passing evening wind. So too Gao Xingjian painted silhouettes of
 vague, isolated wanderers placed in a ghostly, intangible, shifting, empty
 landscape, pieces whose brushstrokes breathe fading life yet whose poignant
 weight carries the same tone as Bergman's THE SEVENTH SEAL in which Man can
@@ -2841,7 +2841,7 @@ a reality no longer ignorable, a whirling intensity and dire flame abated by
 universal inevitability? Push enough in one direction, and the path converges
 on the other end, the whole ordeal turning out to be nothing more than a simple
 circle. Is not man waking contradiction, lucid paradox? What lies in the
-periphery erodes, our own constructions crumbling away, when we, at our silent,
+periphery erodes, our own constructions crumbling away when we, at our silent,
 inconsequential ends, rejoin the dust clouds. I remember the broad strokes of
 an algorithm book's preface I chanced upon some years ago, encapsulated in
 these words: "We are all born into this world grasping for comprehension. We
