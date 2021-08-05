@@ -2547,7 +2547,7 @@ found that whites and Blacks have few favorite TV shows in common.
 And books? I couldn't find a study on this, but let's be honest. If we can't
 even bring ourselves to watch movies and TV across race, how many do we suppose
 have read James Baldwin, Maya Angelou, or Toni Morrison? Or Zadie Smith, Salman
-Rushdie, Orhan Parmuk?
+Rushdie, Orhan Pamuk?
 
 So we don't live together, don't go to the same schools, aren't friends with
 each other, don't watch the same movies or TV shows, and if we meet each other
