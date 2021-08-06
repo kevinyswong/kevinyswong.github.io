@@ -13,7 +13,7 @@ The common house spider finds itself a corner to spin a web and waits for its
 prey. What does it know of all the other insects in the world, gargantuan and
 minuscule, in the deep marshes and desert terrain, that on further shores some
 elude webs and can walk on water? We gaze upon the common house spider as the
-forest’s trees upon us, brittle life that works, eats, mates, sleeps, a series
+forest's trees upon us, brittle life that works, eats, mates, sleeps, a series
 of illusions on the tip of the precipice above the eternal void. One millennium
 ago, Omar Khayyam wrote:
 
@@ -22,25 +22,25 @@ Moves on: nor all thy Piety nor Wit<br>
 Shall lure it back to cancel half a Line,<br>
 Nor all thy Tears wash out a Word of it.
 
-If thoughts are products of chemical and electrical synapses, the body’s
+If thoughts are products of chemical and electrical synapses, the body's
 chemical inevitability interacting with the external laws of mechanics, is it
 possible that the writing of even these words had already been scheduled since
 the dawn of time? Is the moving finger itself also a contraption subject to
 nature?
 
-Some of us meet Halley’s Comet twice in our lifetime, once in youth and again in
+Some of us meet Halley's Comet twice in our lifetime, once in youth and again in
 senility, after the children have moved out, gone to college, and are in middle
-age, having started families of their own. Here’s a thought: Halley’s Comet
+age, having started families of their own. Here's a thought: Halley's Comet
 knows exactly how our lives will be when we meet again as it glances down at
 our earthly, provincial dirt in scorn, as we turn upwards to the night sky and
-think, I know what you’re made of, when you’ll return, and how you’re condemned
+think, I know what you're made of, when you'll return, and how you're condemned
 to rote, routine nothingness: so you, as I. What is the law or equation that
-reveals the end things of all human life? With a closed-form solution to life’s
-motions, one does not need machine learning to predict how we’ll end up, but
+reveals the end things of all human life? With a closed-form solution to life's
+motions, one does not need machine learning to predict how we'll end up, but
 even without the reassurance of mathematical certainty, how deluded must an
-adequately developed intelligence be to expect we’re any more than just another
+adequately developed intelligence be to expect we're any more than just another
 rotten apple that will never fall far from petty humanity? Who in all
-seriousness can imagine we are any better? How trifling that the spider’s
+seriousness can imagine we are any better? How trifling that the spider's
 life-world does not extend beyond its remote corner.
 
 Waking up in the morning, one may think to oneself, did I not all those
@@ -58,25 +58,25 @@ construct, a series of predictable responses, a sequence of interactions, a
 ritual, a game whose rules Erving Goffman spent his career uncovering, is an
 outlier. Camus defined such a man who refused to play the game by his relation
 to his surrounding society that holds the game in utmost importance: THE
-STRANGER. I know at least this much—writing feels liberating, I don’t have to
-pretend, and I get to use all of me, even if I permit myself the vulgar
-pleasure of an illusion. E.L. Doctorow wrote, “Writing is like driving at night
+STRANGER. I know at least this much—writing feels liberating, I don't have to
+pretend, and I get to use all of me, even if I must permit myself the vulgar
+pleasure of an illusion. E.L. Doctorow wrote, "Writing is like driving at night
 in the fog. You can only see as far as your headlights, but you can make the
-whole trip that way.” Eleanor Catton, whose voice has a writer’s introspective
+whole trip that way." Eleanor Catton, whose voice has a writer's introspective
 gentleness, spoke about writing her novel THE LUMINARIES:
 <blockquote>
 One of my earliest ambitions for the novel was that I knew I wanted to write a
 book set on the west coast of the South Island during the Gold Rush years, and
 I knew I wanted to write it in the Victorian style, as maybe the novels that
 had been published at that time might have been in . . . I think that the
-process of writing a novel is very, for me at least, very kind of blind. It’s a
+process of writing a novel is very, for me at least, very kind of blind. It's a
 lot of fumbling in the dark, and as it grows and grows it kind of acquires a
-conscience and acquires a kind of shape and a form that maybe you can’t quite
+conscience and acquires a kind of shape and a form that maybe you can't quite
 see in the abstract before you begin.
 </blockquote>
 
 The Taiwanese director Tsai Ming-liang has a trademark slowness that rivals even
-Tarkovsky’s, but Tarkovsky used slow shots to draw out time, to bring the
+Tarkovsky's, but Tarkovsky used slow shots to draw out time, to bring the
 viewer face-to-face with it, to elicit the texture of sentience on the
 encounter of it with itself, the exhaustion and panting at the end of a
 marathon not quickly sated and quenched by the usual remedy of rest and
@@ -86,28 +86,28 @@ existential alienation of the soul from the meaningless routines of society,
 inevitable material decay, and the motions of life—recurring preoccupations
 rendered most explicit in his JOURNEY TO THE WEST in which one monk, dressed in
 a blood-red robe to contrast with the city streets in the background, walks in
-a monument’s slow pace for 56 minutes, the pace of a life spent pursuing
+a monument's slow pace for 56 minutes, the pace of a life spent pursuing
 meaning juxtaposed with the images of everyday activity—the motions. Tarkovsky
 mentioned similar ideas when he said:
 <blockquote>
 Before defining art, or any concept, we must define a far broader question: what
-is the meaning of man’s life on Earth? Maybe we are here to enhance ourselves
+is the meaning of man's life on Earth? Maybe we are here to enhance ourselves
 spiritually. If our life tends to this spiritual enrichment, then art is a
 means to get there. This, of course, in accordance with my definition of life,
 art should help man in this process . . . The problem with young people is
 their carrying out noisy and aggressive actions to not feel lonely. And this is
 a sad thing. The individual must learn to be on his own as a child, for this
-doesn’t mean to be alone. It means not to get bored with oneself, which is a
+doesn't mean to be alone. It means not to get bored with oneself, which is a
 very dangerous symptom, almost a disease . . . Cinema is an unhappy art as it
 depends on money, not only because a film is very expensive, but it is then
 also marketed like cigarettes . . . The film for the large audience cannot be
-poetical. Some films have been seen by millions of people . . . now it’s
+poetical. Some films have been seen by millions of people . . . now it's
 difficult to surprise the spectator, and good films are not seen by the
 masses.
 </blockquote>
 Ebert wrote:
 <blockquote>
-The reviewers of Tsai Ming-Lian's [sic] ‘What Time Is It There?’ have compared
+The reviewers of Tsai Ming-Lian's [sic] 'What Time Is It There?' have compared
 it to the work of Yasujiro Ozu, Robert Bresson, Michelangelo Antonioni, Jacques
 Tati and Buster Keaton. If none of these names stir admiration and longing in
 your soul, start with them, not with Tsai. Begin with Keaton and work your way
@@ -116,7 +116,7 @@ introspection, isolation and loneliness in the movies. You will notice that the
 films grow less funny after Keaton and Tati; one of the enigmas about Tsai's
 work is that it is always funny and always sad, never just one or the other.
 </blockquote>
-And Ebert wrote of Koreeda Hirokazu’s STILL WALKING:
+And Ebert wrote of Koreeda Hirokazu's STILL WALKING:
 <blockquote>
 Most family dramas contain too much drama. In most families, the past and
 present don't meet and find resolution during a 24-hour period, no matter how
@@ -126,25 +126,25 @@ of. "Still Walking," a magnificent new film from Japan, is very wise about
 that, and very true.
 </blockquote>
 
-Wong Kar Wai’s ASHES OF TIME, his most inaccessible film but also his heaviest
+Wong Kar Wai's ASHES OF TIME, his most inaccessible film but also his heaviest
 one and the one that most openly expresses his vision, as raw and unpolished as
 it is beautiful, the desert as eternity, Man outwardly obliging his duties and
 enduring the motions, but inwardly a sublime gasping for breath, longing and
 failing, one insignificant figure trickling across the majestic, colossal
-landscape, the passing of time its only certainty, opens with this quote: “The
-flag is still. The wind is calm. It is the heart of man that is in turmoil.”
-Wong Kar Wai said on a separate occasion, “There’s a Chinese poem which is very
-beautiful: ‘The blossom will always be there, but the faces will change.’” In
+landscape, the passing of time its only certainty, opens with this quote: "The
+flag is still. The wind is calm. It is the heart of man that is in turmoil."
+Wong Kar Wai said on a separate occasion, "There's a Chinese poem which is very
+beautiful: 'The blossom will always be there, but the faces will change.'" In
 the beginning, nature is still. For but an instant, the heart sings, and all
-too quickly the bird’s song expires, leaving the universe to its original
-silence. Towards the end of Ozu’s TOKYO STORY, Setsuko Hara is asked earnestly
-by a younger woman, “Isn’t life disappointing?”, to which she, having been
+too quickly the bird's song expires, leaving the universe to its original
+silence. Towards the end of Ozu's TOKYO STORY, Setsuko Hara is asked earnestly
+by a younger woman, "Isn't life disappointing?", to which she, having been
 widowed and having witnessed her parents-in-law left behind by their children
 as they pursue their own interesting lives, as we all do, leaving the older
-generation to pass, maintains her smile in the Japanese composure and reserve
-and replies without a thought, “Yes, it is.” Yes indeed, but as Camus
-wrote, “The struggle itself toward the heights is enough to fill a man's heart.
-One must imagine Sisyphus happy.”
+generation to pass, maintains her smile in the Japanese composure and reserve,
+and replies without a thought, "Yes, it is." Yes indeed, but as Camus
+wrote, "The struggle itself toward the heights is enough to fill a man's heart.
+One must imagine Sisyphus happy."
 
 <br>
 
@@ -754,11 +754,11 @@ taxes. According to the same ProPublica report:
 For regular people, borrowing money is often something done out of necessity,
 say for a car or a home. But for the ultrawealthy, it can be a way to access
 billions without producing income, and thus, income tax. The tax math provides
-a clear incentive for this. If you own a company and take a huge salary, you’ll
-pay 37% in income tax on the bulk of it. Sell stock and you’ll pay 20% in
+a clear incentive for this. If you own a company and take a huge salary, you'll
+pay 37% in income tax on the bulk of it. Sell stock and you'll pay 20% in
 capital gains tax — and lose some control over your company. But take out a
-loan, and these days you’ll pay a single-digit interest rate and no tax; since
-loans must be paid back, the IRS doesn’t consider them income. Banks typically
+loan, and these days you'll pay a single-digit interest rate and no tax; since
+loans must be paid back, the IRS doesn't consider them income. Banks typically
 require collateral, but the wealthy have plenty of that.
 </blockquote>
 
@@ -788,14 +788,14 @@ attention, power, and choice. The fact is, this is pretty standard software
 that comes with the hardware of a human body. As time has passed, I have
 realized that the dynamics of wealth are similar to the dynamics of addiction.
 The more you have, the more you need. Whereas once a single beer was enough to
-achieve a feeling of calm, now you find that you can’t stop at six. Likewise,
-if you move up from coach to business to first class, you won’t want to go back
-to coach. And once you’ve flown private, wild horses will never drag you
+achieve a feeling of calm, now you find that you can't stop at six. Likewise,
+if you move up from coach to business to first class, you won't want to go back
+to coach. And once you've flown private, wild horses will never drag you
 through a public airport terminal again. Comforts, once gained, become
 necessities. And if enough of those comforts become necessities, you eventually
 peel yourself away from any kind of common feeling with the rest of humanity.
-The older I’ve gotten and the more clearly I’ve understood these things, the
-more the impulse to betray my own class has taken charge of my judgment. What’s
+The older I've gotten and the more clearly I've understood these things, the
+more the impulse to betray my own class has taken charge of my judgment. What's
 shocking about the ProPublica report is not just that the tax bills are so low,
 but that these billionaires can live with themselves.
 </blockquote>
@@ -956,7 +956,7 @@ top bracket or simply due to tax evasion. However, my point is that even the
 91% rate of the 1950s was not rampantly labeled socialism the way Biden's
 proposal currently is. It's not socialism. The Tax Policy Center has also
 <a href="https://www.taxpolicycenter.org/taxvox/biden-would-raise-taxes-substantially-high-income-households-and-corporations-cut-taxes">analyzed</a>
-Biden's tax increases: "Nearly all of President Biden’s proposed tax increases
+Biden's tax increases: "Nearly all of President Biden's proposed tax increases
 would be borne by the highest income 1 percent of households—those making about
 $800,000 or more . . . At the same time, Biden would cut taxes for many low-
 and moderate-income households and reduce them substantially for those with
@@ -1033,7 +1033,7 @@ This isn't some libertarian mistrust of government policy, which is healthy in
 any democracy. This is deep skepticism of the very institutions of our society.
 And it's becoming more and more mainstream. We can't trust the evening news. We
 can't trust our politicians. Our universities, the gateway to a better life,
-are rigged against us. We can't get jobs. You can’t believe these things and
+are rigged against us. We can't get jobs. You can't believe these things and
 participate meaningfully in society. Social psychologists have shown that group
 belief is a powerful motivator in performance. When groups perceive that it's
 in their interest to work hard and achieve things, members of that group
@@ -1161,7 +1161,7 @@ serves—offered prospective scholars a series of frames and theories that could
 be applied to the reading of books . . . We suffered through a lot of turgid
 academic writing, but the class had its uses. I learned, among other things,
 that one can read the same text from multiple points of view and therefore see
-different themes in it. When a Marxist reads Jane Austen’s Pride and Prejudice,
+different themes in it. When a Marxist reads Jane Austen's Pride and Prejudice,
 for example, he might become interested in the way in which wealth, power, and
 the determination to have both shapes the lives of all of the characters. When
 a feminist reads the same book, she might discover that patriarchal attitudes
@@ -1925,7 +1925,7 @@ public consciousness. Like most things in life, these symptoms are sifted
 through the unignorable influence of class and play out differently depending on
 the stratum of the perpetrator. The struggling do not refrain from taking
 more extreme measures and the privileged express themselves in subtler forms,
-especially when they don’t need to do it themselves.
+especially when they don't need to do it themselves.
 
 I'm going to preface the rest of this post by saying that there are genuinely
 decent folks whose only fault is simply that they have not been exposed to
@@ -2028,7 +2028,7 @@ you talk reason to someone who pulls a gun on you? Are you serious when you try
 to teach empathy to a vandal in a mad frenzy to set your house on fire? Cry all
 you wish on TV, write as many articles asking people to share their stories, do
 your best to raise awareness, but nothing in the country's history points to any
-help other than from yourself. Malcolm X said in 1963, “When we see our people
+help other than from yourself. Malcolm X said in 1963, "When we see our people
 being brutalized by white bigots, white racists, we think they are foolish to be
 beaten and brutalized and do nothing whatsoever to protect themselves. They are
 foolish. They should have the right to defend themselves against any attack made
@@ -2036,8 +2036,8 @@ against them by anyone . . . There will come a time when Black people wake up
 and become intellectually independent enough to think for themselves . . . then
 the Black man will think like a Black man, and he will feel for other Black
 people, and this new thinking and feeling will cause Black people to stick
-together, and at that point you’ll have a situation where when you attack one
-Black man you are attacking all Black men.” Asian America, where is our Che
+together, and at that point you'll have a situation where when you attack one
+Black man you are attacking all Black men." Asian America, where is our Che
 Guevara, our Malcolm X? Our Martin Luther King, our Gandhi? How long can you
 still tolerate bigotry with docile appeals to justice and equality? Careers in
 medicine, law, academia, science, engineering, technology, finance, and business
@@ -2055,8 +2055,8 @@ shared fate with the Jewish? Isaac Deutscher wrote, "Trees have roots. Jews have
 legs." But let's not forget that the Jews fought back too in World War II, the
 many resistors like Hannah Senesh who did not simply flee. Or Niuta Teitelbaum
 who stood up to three Nazis: "She blushed, smiled meekly and then pulled out a
-gun and shot each one. Two were killed, one wounded. Niuta, however, wasn’t
-satisfied. She found a physician’s coat, entered the hospital where the injured
+gun and shot each one. Two were killed, one wounded. Niuta, however, wasn't
+satisfied. She found a physician's coat, entered the hospital where the injured
 man was being treated, and killed both the Nazi and the police officer who had
 been guarding him."
 
@@ -2111,7 +2111,7 @@ propagated, and consumed all by ourselves? The rookie mistake is to produce what
 Jay Caspian Kang calls dignity porn: "The type of story that takes the life of a
 seemingly oppressed person, excavates all the differences compared with the
 dominant culture and then seeks to hold these up in a soft, humanizing light.
-Look, the dignity porno will say: 'Kimchi isn’t weird. Ergo, we are as human as
+Look, the dignity porno will say: 'Kimchi isn't weird. Ergo, we are as human as
 you.'" This is what the dominant culture expects of the race narrative, and it
 is precisely what we don't do because such a paradigm reaches no higher than the
 fundamental limits inherent to the form, the subaltern deriving his value as a
@@ -2264,7 +2264,7 @@ I have wrestled with the angel and I am stained with light and I have no shame.
 Neither do I have guilt. My responsibility is not to the ordinary, or the
 timely. It does not include mustard, or teeth. It does not extend to the lost
 button, or the beans in the pot. My loyalty is to the inner vision, whenever and
-howsoever it may arrive. If I have a meeting with you at three o’clock, rejoice
+howsoever it may arrive. If I have a meeting with you at three o'clock, rejoice
 if I am late. Rejoice even more if I do not arrive at all."
 
 <br>
@@ -2423,7 +2423,7 @@ ridiculous buffoon like BORAT? Frances McDormand, who shuns the usual Hollywood
 celebrity and lives away from the limelight, unencumbered by maintaining an
 image of propriety, not hidden behind seven layers of makeup, not draped in the
 season's designer advertisement, could not but be genuine. She lives remotely,
-modestly, saying, "I get to live my more authentic self here, and I don’t have
+modestly, saying, "I get to live my more authentic self here, and I don't have
 to pretend to be anybody else." Why do we suppose hardly anyone has seen Thomas
 Pynchon? The idea is the same as when Thoreau sought to confront only "the
 essential facts of life." Rousseau wrote REVERIES OF THE SOLITARY WALKER. And do
@@ -3042,7 +3042,7 @@ staring down the years ahead
 <br>
 
 <h4>2019-10-02, 三.</h4>
-this morning’s decadence<br>
+this morning's decadence<br>
 peanut butter from the jar<br>
 expanding slowly on my bagel
 
@@ -3052,7 +3052,7 @@ absorbed in thought<br>
 I look up, recontextualizing myself<br>
 glancing down two seconds later<br>
 a blank mind<br>
-I’ve lost my place
+I've lost my place
 
 <br>
 
@@ -3166,7 +3166,7 @@ If this private, continual journey delves further and further inwards, it is in
 pursuit of eventual self-discovery. We are each of us, if given proper
 consideration, our own worlds waiting to be unveiled.
 
-I’m not the only one buying them after all<br>
+I'm not the only one buying them after all<br>
 none left at my supplier<br>
 my bagels ran out last night<br>
 
