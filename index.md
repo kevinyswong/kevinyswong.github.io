@@ -8,6 +8,146 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-08-05, 四. On Choosing to Live Authentically—Merely Choosing, for Success is not Guaranteed.</h4>
+The common house spider finds itself a corner to spin a web and waits for its
+prey. What does it know of all the other insects in the world, gargantuan and
+minuscule, in the deep marshes and desert terrain, that on further shores some
+elude webs and can walk on water? We gaze upon the common house spider as the
+forest’s trees upon us, brittle life that works, eats, mates, sleeps, a series
+of illusions on the tip of the precipice above the eternal void. One millennium
+ago, Omar Khayyam wrote:
+
+The Moving Finger writes; and, having writ,<br>
+Moves on: nor all thy Piety nor Wit<br>
+Shall lure it back to cancel half a Line,<br>
+Nor all thy Tears wash out a Word of it.
+
+If thoughts are products of chemical and electrical synapses, the body’s
+chemical inevitability interacting with the external laws of mechanics, is it
+possible that the writing of even these words had already been scheduled since
+the dawn of time? Is the moving finger itself also a contraption subject to
+nature?
+
+Some of us meet Halley’s Comet twice in our lifetime, once in youth and again in
+senility, after the children have moved out, gone to college, and are in middle
+age, having started families of their own. Here’s a thought: Halley’s Comet
+knows exactly how our lives will be when we meet again as it glances down at
+our earthly, provincial dirt in scorn, as we turn upwards to the night sky and
+think, I know what you’re made of, when you’ll return, and how you’re condemned
+to rote, routine nothingness: so you, as I. What is the law or equation that
+reveals the end things of all human life? With a closed-form solution to life’s
+motions, one does not need machine learning to predict how we’ll end up, but
+even without the reassurance of mathematical certainty, how deluded must an
+adequately developed intelligence be to expect we’re any more than just another
+rotten apple that will never fall far from petty humanity? Who in all
+seriousness can imagine we are any better? How trifling that the spider’s
+life-world does not extend beyond its remote corner.
+
+Waking up in the morning, one may think to oneself, did I not all those
+yesterdays perform the same routine, wash my face and brush my teeth, and is it
+not that I must daily continue these routines until the end of my days? Is the
+same not true wherever one travels, whatever one does, whoever one meets? This
+vexing thought is what motivates the purported troublemaker: on meeting someone
+new, one can see the necessary process: look the other in the eye, shake hands,
+exchange common courtesies. But what if one sees this process not as a
+voluntary meeting of individuals but as an imposed convention? One is struck by
+a simultaneous call to authenticity yet also a lightning pang of guilt for not
+following the rules, for, as he himself knows, coming off as rude. The man who
+looks upon another and sees not an individual but a facade manifesting a social
+construct, a series of predictable responses, a sequence of interactions, a
+ritual, a game whose rules Erving Goffman spent his career uncovering, is an
+outlier. Camus defined such a man who refused to play the game by his relation
+to his surrounding society that holds the game in utmost importance: THE
+STRANGER. I know at least this much—writing feels liberating, I don’t have to
+pretend, and I get to use all of me, even if I permit myself the vulgar
+pleasure of an illusion. E.L. Doctorow wrote, “Writing is like driving at night
+in the fog. You can only see as far as your headlights, but you can make the
+whole trip that way.” Eleanor Catton, whose voice has a writer’s introspective
+gentleness, spoke about writing her novel THE LUMINARIES:
+<blockquote>
+One of my earliest ambitions for the novel was that I knew I wanted to write a
+book set on the west coast of the South Island during the Gold Rush years, and
+I knew I wanted to write it in the Victorian style, as maybe the novels that
+had been published at that time might have been in . . . I think that the
+process of writing a novel is very, for me at least, very kind of blind. It’s a
+lot of fumbling in the dark, and as it grows and grows it kind of acquires a
+conscience and acquires a kind of shape and a form that maybe you can’t quite
+see in the abstract before you begin.
+</blockquote>
+
+The Taiwanese director Tsai Ming-liang has a trademark slowness that rivals even
+Tarkovsky’s, but Tarkovsky used slow shots to draw out time, to bring the
+viewer face-to-face with it, to elicit the texture of sentience on the
+encounter of it with itself, the exhaustion and panting at the end of a
+marathon not quickly sated and quenched by the usual remedy of rest and
+replenishment but by deliberate protraction to the depths to discover what
+there is of consciousness. Tsai Ming-liang used slowness to contrast the
+existential alienation of the soul from the meaningless routines of society,
+inevitable material decay, and the motions of life—recurring preoccupations
+rendered most explicit in his JOURNEY TO THE WEST in which one monk, dressed in
+a blood-red robe to contrast with the city streets in the background, walks in
+a monument’s slow pace for 56 minutes, the pace of a life spent pursuing
+meaning juxtaposed with the images of everyday activity—the motions. Tarkovsky
+mentioned similar ideas when he said:
+<blockquote>
+Before defining art, or any concept, we must define a far broader question: what
+is the meaning of man’s life on Earth? Maybe we are here to enhance ourselves
+spiritually. If our life tends to this spiritual enrichment, then art is a
+means to get there. This, of course, in accordance with my definition of life,
+art should help man in this process . . . The problem with young people is
+their carrying out noisy and aggressive actions to not feel lonely. And this is
+a sad thing. The individual must learn to be on his own as a child, for this
+doesn’t mean to be alone. It means not to get bored with oneself, which is a
+very dangerous symptom, almost a disease . . . Cinema is an unhappy art as it
+depends on money, not only because a film is very expensive, but it is then
+also marketed like cigarettes . . . The film for the large audience cannot be
+poetical. Some films have been seen by millions of people . . . now it’s
+difficult to surprise the spectator, and good films are not seen by the
+masses.
+</blockquote>
+Ebert wrote:
+<blockquote>
+The reviewers of Tsai Ming-Lian's [sic] ‘What Time Is It There?’ have compared
+it to the work of Yasujiro Ozu, Robert Bresson, Michelangelo Antonioni, Jacques
+Tati and Buster Keaton. If none of these names stir admiration and longing in
+your soul, start with them, not with Tsai. Begin with Keaton and work your way
+backward on the list, opening yourself to the possibilities of silence,
+introspection, isolation and loneliness in the movies. You will notice that the
+films grow less funny after Keaton and Tati; one of the enigmas about Tsai's
+work is that it is always funny and always sad, never just one or the other.
+</blockquote>
+And Ebert wrote of Koreeda Hirokazu’s STILL WALKING:
+<blockquote>
+Most family dramas contain too much drama. In most families, the past and
+present don't meet and find resolution during a 24-hour period, no matter how
+many American films you've seen about Thanksgiving. Painful family issues are
+more likely to stay beneath the surface, known to everyone but not spoken
+of. "Still Walking," a magnificent new film from Japan, is very wise about
+that, and very true.
+</blockquote>
+
+Wong Kar Wai’s ASHES OF TIME, his most inaccessible film but also his heaviest
+one and the one that most openly expresses his vision, as raw and unpolished as
+it is beautiful, the desert as eternity, Man outwardly obliging his duties and
+enduring the motions, but inwardly a sublime gasping for breath, longing and
+failing, one insignificant figure trickling across the majestic, colossal
+landscape, the passing of time its only certainty, opens with this quote: “The
+flag is still. The wind is calm. It is the heart of man that is in turmoil.”
+Wong Kar Wai said on a separate occasion, “There’s a Chinese poem which is very
+beautiful: ‘The blossom will always be there, but the faces will change.’” In
+the beginning, nature is still. For but an instant, the heart sings, and all
+too quickly the bird’s song expires, leaving the universe to its original
+silence. Towards the end of Ozu’s TOKYO STORY, Setsuko Hara is asked earnestly
+by a younger woman, “Isn’t life disappointing?”, to which she, having been
+widowed and having witnessed her parents-in-law left behind by their children
+as they pursue their own interesting lives, as we all do, leaving the older
+generation to pass, maintains her smile in the Japanese composure and reserve
+and replies without a thought, “Yes, it is.” Yes indeed, but as Camus
+wrote, “The struggle itself toward the heights is enough to fill a man's heart.
+One must imagine Sisyphus happy.”
+
+<br>
+
 <h4>2021-07-21, 三.</h4>
 Giacometti created sculptures of the walking man, as towering as they are
 thin—the walking man standing tall and confident, hurried in his stride, too
