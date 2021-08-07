@@ -131,8 +131,8 @@ one and the one that most openly expresses his vision, as raw and unpolished as
 it is beautiful, the desert as eternity, Man outwardly obliging his duties and
 enduring the motions, but inwardly a sublime gasping for breath, longing and
 failing, one insignificant figure trickling across the majestic, colossal
-landscape, the passing of time its only certainty, the characters' silent,
-chronic anguish externalized into violent spectacle, opens with this
+landscape, the passing of time its only certainty, the characters' private,
+lifelong anguish externalized as sea-splitting spectacle, opens with this
 quote: "The flag is still. The wind is calm. It is the heart of man that is in
 turmoil." Wong Kar Wai said on a separate occasion, "There's a Chinese poem
 which is very beautiful: 'The blossom will always be there, but the faces will
