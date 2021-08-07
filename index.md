@@ -131,18 +131,19 @@ one and the one that most openly expresses his vision, as raw and unpolished as
 it is beautiful, the desert as eternity, Man outwardly obliging his duties and
 enduring the motions, but inwardly a sublime gasping for breath, longing and
 failing, one insignificant figure trickling across the majestic, colossal
-landscape, the passing of time its only certainty, opens with this quote: "The
-flag is still. The wind is calm. It is the heart of man that is in turmoil."
-Wong Kar Wai said on a separate occasion, "There's a Chinese poem which is very
-beautiful: 'The blossom will always be there, but the faces will change.'" In
-the beginning, nature is still. For but an instant, the heart sings, and all
-too quickly the bird's song expires, leaving the universe to its original
-silence. Towards the end of Ozu's TOKYO STORY, Setsuko Hara is asked earnestly
-by a younger woman, "Isn't life disappointing?", to which she, having been
-widowed and having witnessed her parents-in-law left behind by their children
-as they pursue their own interesting lives, as we all do, leaving the older
-generation to pass, maintains her smile in the Japanese composure and reserve,
-and replies without a thought, "Yes, it is." Yes indeed, but as Camus
+landscape, the passing of time its only certainty, the characters' silent,
+chronic anguish externalized into violent spectacle, opens with this
+quote: "The flag is still. The wind is calm. It is the heart of man that is in
+turmoil." Wong Kar Wai said on a separate occasion, "There's a Chinese poem
+which is very beautiful: 'The blossom will always be there, but the faces will
+change.'" In the beginning, nature is still. For but an instant, the heart
+sings, and all too quickly the bird's song expires, leaving the universe to its
+original silence. Towards the end of Ozu's TOKYO STORY, Setsuko Hara is asked
+earnestly by a younger woman, "Isn't life disappointing?", to which she, having
+been widowed and having witnessed her parents-in-law left behind by their
+children as they pursue their own interesting lives, as we all do, leaving the
+older generation to pass, maintains her smile in the Japanese composure and
+reserve, and replies without a thought, "Yes, it is." Yes indeed, but as Camus
 wrote, "The struggle itself toward the heights is enough to fill a man's heart.
 One must imagine Sisyphus happy."
 
