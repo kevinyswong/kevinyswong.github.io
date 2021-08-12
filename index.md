@@ -8,6 +8,51 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-08-12, 四.</h4>
+At the library, a mother and her daughter are at a computer carrel. The daughter
+is perhaps five years old, seated at the monitor, learning vocabulary, the
+words and cartoonized images of "rectangle", "heart", and "horse" appearing as
+she clicks to continue. She has on a set of pink Minnie Mouse headphones, one
+hand in a fist in front of the keyboard, the other clutching the top of the
+mouse, her tiny hand taking up just the top half. She sits idly, completely
+focused on the screen, in the original innocence. I see them and am struck by
+the realization that I'm the one at fault. I just stepped inside the building,
+listening to Tchaikovsky's HYMN OF THE CHERUBIM. The little girl is wearing a
+face mask. Aware of myself, I don't disturb the peace. She and her mother are
+minding their business, one family harmlessly going about their day. The
+daughter is at the age when the world is still pure, where she views her place
+in it as a new addition to the constructive whole. Oh, what the world has in
+store for the next generation! The daughter has not yet learned the concept of
+money, has not yet joined a political party, has not yet been bombarded by
+endless advertisements informing her that she has material needs she does not
+know. When I finish my search in the stacks and emerge an hour later, I notice
+the mother and daughter have moved to the activity area with other children.
+The daughter is sitting on the mother's lap, painting a piece of pottery. The
+mother looks on while the daughter slathers on green and blue. It is a life
+which is not mine. While the daughter continues painting, she momentarily looks
+up, then returns to her work. Perhaps that's enough, just enjoying the time.
+Perhaps it is good that she does not yet know how a paragon of individualism
+like Ayn Rand could scoff at those she named second-handers instead of seeing
+the collective human plight, how a major philanthropist like George Soros could
+be subject to antiquated racism, how someone as well-meaning as Friedrich Hayek
+could make it a brand to defend class and race inequality, how she should shy
+away of ornament under the influence of Adolf Loos, how a reader's
+interpretation is just as valuable and true as the author's intent, how even
+time is relative, how post-structuralism differs from postmodernism, how she
+should read a certain kind of book and not others. Children are born good but
+are gradually corrupted by exposure to people like me. The daughter is not yet
+burdened by such involuted inventions as I-Thou, being-in-itself,
+being-in-the-world, thing-in-itself. In her eyes, her mother is her mother, and
+a pot is just a pot. She remains free. Perhaps it would have been wiser to
+simply have been. What am I, wholly convinced that I wish to bring forth a
+better future yet in effect teaching noxious criticism, pervasive self-doubt,
+contagious gloom? I, spreading malevolent ideas like the plague, impressing on
+the mind a scar that cannot be washed out. Is there a redemption at the end of
+the tunnel that justifies the journey? What am I here for, and what am I doing?
+I, too, am completely useless.
+
+<br>
+
 <h4>2021-08-05, 四. On Choosing to Live Authentically—Merely Choosing, for Success is not Guaranteed.</h4>
 The common house spider finds itself a corner to spin a web and waits for its
 prey. What does it know of all the other insects in the world, gargantuan and
