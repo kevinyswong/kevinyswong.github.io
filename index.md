@@ -426,7 +426,7 @@ Currently, it is
 The principle behind this high rate is optimal tax theory, which aims to
 maximize everyone's well-being without inhibiting innovation. For comparison,
 AOC's proposed tax rate is 70% on—this is key—only income higher than $10
-million. A great majority of American families do not reach that threshold.
+million. The great majority of American families do not reach that threshold.
 Then, a paper like
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550936">this</a>
 points out the logistical impracticalities of raising taxes.
@@ -1720,7 +1720,7 @@ who ride on disinformation, sending the wrong message to working class Americans
 to vote against their interests so the rich can have lower taxes, those
 Republicans who sell religious and national purity like Mitch McConnell—whose
 wife happens to be Chinese and who is responsible for his wealth—and Ted Cruz,
-and their predecessor William Buckley Jr. who would have rather resorted to lies
+and their predecessor William Buckley who would have rather resorted to lies
 and elitism rather than accept progress. Why all the opposition to change?
 Martin Luther posting his NINETY-FIVE THESES on a church's door sounds pretty
 radical. A group of 102 religious pilgrims seeking religious freedom sailing on
@@ -2770,18 +2770,18 @@ passed when the camera deigns a moment for the diversity shot and then cuts
 away, returning to the default whiteness. The country's future is mixed, and we
 have to accept this as a reality, not boil over with veiled resentment.
 
-William Buckley Jr. wrote, "A conservative is someone who stands athwart
-history, yelling Stop." What nonsense! How shortsighted is his view of history
-that for him, history extends no further than the past several hundred years
-since the Great Divergence that marked the West's emergence as the world's
-wealthiest and most advanced civilization, and he happened to have lived in the
-period when such self-flattery is possible. The one constant that endures time
-is change, and just as no individual lives forever in his youthful peak, no
-society is immune to its evolving fortunes. How many came before who met worse
-fates have had to accept change? Russians, Indians, Chinese, Persians, Turks,
-Aztecs, Egyptians, and all those who belonged to once thriving civilizations: if
-it is any consolation, others have been here before, and the decline of white
-power in America is one peaceful tick of change in the ocean of our inflated
+William Buckley wrote, "A conservative is someone who stands athwart history,
+yelling Stop." What nonsense! How shortsighted is his view of history that for
+him, history extends no further than the past several hundred years since the
+Great Divergence that marked the West's emergence as the world's wealthiest and
+most advanced civilization, and he happened to have lived in the period when
+such self-flattery is possible. The one constant that endures time is change,
+and just as no individual lives forever in his youthful peak, no society is
+immune to its evolving fortunes. How many came before who met worse fates have
+had to accept change? Russians, Indians, Chinese, Persians, Turks, Aztecs,
+Egyptians, and all those who belonged to once thriving civilizations: if it is
+any consolation, others have been here before, and the decline of white power
+in America is one peaceful tick of change in the ocean of our inflated
 self-importance. How many in those prior civilizations screamed that the end is
 nigh, yet the world has moved on, and they carry about themselves in it as
 routinely as the Earth revolves around the Sun? It's always irked me how any
@@ -2806,15 +2806,15 @@ to think that human culture has peaked and should change no further. The future
 of the country is diversity and what must happen: acceptance and unity, not
 separation and exclusion. Why not imagine a future where we contain Whitman's
 multitudes? Across canyons and valleys, lush green praries and eroded rock
-strewn over sand-blown desert, towering mesas and redwood forests, we find small
-towns and major metropolises decorating the land under the snow-capped
+strewn over sand-blown desert, towering mesas and redwood forests, we find
+small towns and major metropolises decorating the land under the snow-capped
 mountains, for we are all of us American: brown and yellow and black and white
 and blue and red, bound not by prescriptions of the isolated echo chambers that
 came before but by a full forward march, hand in hand, towards a history that
 will bear our names in pioneering pride. When we were children we saw ourselves
-as adventurers and explorers, looking out at a world full of mystery, curious at
-everything, unafraid to learn, elated to be alive. Where has that sense of awe
-and wonder gone?
+as adventurers and explorers, looking out at a world full of mystery, curious
+at everything, unafraid to learn, elated to be alive. Where has that sense of
+awe and wonder gone?
 
 <br>
 
