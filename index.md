@@ -36,12 +36,12 @@ like Ayn Rand could scoff at those she named second-handers instead of seeing
 the collective human plight, how a major philanthropist like George Soros could
 be subject to antiquated racism, how someone as well-meaning as Friedrich Hayek
 could make it a brand to defend class and race inequality, how she should shy
-away of ornament under the influence of Adolf Loos, how a reader's
-interpretation is just as valuable and true as the author's intent, how even
-time is relative, how post-structuralism differs from postmodernism, how she
-should read a certain kind of book and not others. Children are born good but
-are gradually corrupted by exposure to people like me. The daughter is not yet
-burdened by such involuted inventions as I-Thou, being-in-itself,
+away from ornament in the direction of Adolf Loos, how some can think a
+reader's interpretation is just as valuable and true as the author's intent,
+how even time is relative, how post-structuralism differs from postmodernism,
+how she should read a certain kind of book and not others. Children are born
+good but are gradually corrupted by exposure to people like me. The daughter is
+not yet burdened by such involuted inventions as I-Thou, being-in-itself,
 being-in-the-world, thing-in-itself. In her eyes, her mother is her mother, and
 a pot is just a pot. She remains free. Perhaps it would have been wiser to
 simply have been. What am I, wholly convinced that I wish to bring forth a
@@ -49,7 +49,7 @@ better future yet in effect teaching noxious criticism, pervasive self-doubt,
 contagious gloom? I, spreading malevolent ideas like the plague, impressing on
 the mind a scar that cannot be washed out. Is there a redemption at the end of
 the tunnel that justifies the journey? What am I here for, and what am I doing?
-I, too, am completely useless.
+I too am completely useless.
 
 <br>
 
