@@ -813,10 +813,10 @@ shocking about the ProPublica report is not just that the tax bills are so low,
 but that these billionaires can live with themselves.
 </blockquote>
 Abigail Disney also references David Foster Wallace's THIS IS WATER commencement
-speech in 2005 at Kenyon College, during which members of the audience laughed
-out loud at certain points from the habit of watching too many sitcoms without
+speech in 2005 at Kenyon College, during which some in the audience laughed in
+humor at certain points from the habit of watching too many sitcoms without
 realizing the brutal reality of what was being said, provoking a rage like
-watching an arthouse film amidst a jovial audience that has no idea what's
+watching an arthouse film among a jovial audience that has no idea what's
 being shown on screen, and then realizing not everyone comes from your
 background, sighing in resignation, and recalling that we are all nothing: "All
 I know is that if you are a fish, it is hard to describe water, much less to
@@ -1631,18 +1631,18 @@ identification with that community and not out of true belief.
 
 I'm not speaking of religion in the way Alan Watts did when he used a marketing
 ploy to slip God under the cover of mesmerizing rhetoric. The God he spoke of
-was not the omnipotent deity of the Judeo-Christian tradition but a god embedded
-in the personal and everyday, everywhere and needing no more worship than a
-spiritual awareness. What a great cheat! How he committed the intellectual
-laziness of conflating one god with another by using the same terminology! And
-the notion of God is too loosely defined. Do we agree with Maimonides when he
-explained that the Jewish God is such a perfect unity that he could not be
-described in any positive sense, and we cannot say God has arms or legs, or that
-God is omnipotent, or that God has thoughts, for any such statement limits the
-greatness of God? Surely one can follow this description as one can follow a
-thought experiment, but no one can persuade me away from my immediate thought:
-what a wonderful fiction!—though such a character is certainly too dull for my
-book.
+was not the omnipotent deity of the Judeo-Christian tradition but a god
+embedded in the personal and everyday, everywhere and needing no more worship
+than a spiritual awareness. What a great cheat! How he committed the
+intellectual laziness of conflating one god with another by using the same
+terminology! The notion of God is too loosely defined. Do we agree with
+Maimonides when he explained that the Jewish God is such a perfect unity that
+he could not be described in any positive sense, and we cannot say God has arms
+or legs, or that God is omnipotent, or that God has thoughts, for any such
+statement limits the greatness of God? Surely one can follow this description
+as one can follow a thought experiment, but no one can persuade me away from my
+immediate thought: what a wonderful fiction!—though such a character is
+certainly too dull for my book.
 
 To live motivated by the thought that disorderly conduct towards your fellow men
 earns you a one-way ticket to eternal condemnation seems to me immensely
@@ -2262,7 +2262,7 @@ I wanted to be simple
 <br>
 
 traveling abroad<br>
-not different from my country of birth<br>
+no different from home<br>
 I never feel<br>
 I'm not adrift
 
