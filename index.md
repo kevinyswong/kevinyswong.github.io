@@ -70,27 +70,21 @@ If thoughts are products of chemical and electrical synapses, the body's
 chemical inevitability interacting with the external laws of mechanics, is it
 possible that the writing of even these words had already been scheduled since
 the dawn of time? Is the moving finger itself also a contraption subject to
-nature?
+nature? Some of us meet Halley's Comet twice in our lifetime, once in youth and
+again in senility, after the children have moved out, gone to college, and are
+in middle age, having started families of their own. Here's a thought: Halley's
+Comet knows exactly how our lives will be when we meet again as it glances down
+at our earthly, provincial dirt in scorn, as we turn upwards to the night sky
+and think, I know what you're made of, when you'll return, and how you're
+condemned to rote, routine nothingness: so you, as I. How trifling that the
+spider's life-world does not extend beyond its remote corner.
 
-Some of us meet Halley's Comet twice in our lifetime, once in youth and again in
-senility, after the children have moved out, gone to college, and are in middle
-age, having started families of their own. Here's a thought: Halley's Comet
-knows exactly how our lives will be when we meet again as it glances down at
-our earthly, provincial dirt in scorn, as we turn upwards to the night sky and
-think, I know what you're made of, when you'll return, and how you're condemned
-to rote, routine nothingness: so you, as I. What is the law or equation that
-reveals the end things of all human life? With a closed-form solution to life's
-motions, one does not need machine learning to predict how we'll end up, but
-even without the reassurance of mathematical certainty, how deluded must an
-adequately developed intelligence be to expect we're any more than just another
-rotten apple that will never fall far from petty humanity? Who in all
-seriousness can imagine we are any better? How trifling that the spider's
-life-world does not extend beyond its remote corner.
-
-Is writing any different? E.L. Doctorow wrote, "Writing is like driving at night
-in the fog. You can only see as far as your headlights, but you can make the
-whole trip that way." Eleanor Catton, whose voice has a writer's introspective
-gentleness, spoke about writing her novel THE LUMINARIES:
+Could it be asked whether creative writing is any different, whether the
+spirit within could envelop the stars? E.L. Doctorow wrote, "Writing is like
+driving at night in the fog. You can only see as far as your headlights, but
+you can make the whole trip that way." Eleanor Catton, whose voice has a
+writer's introspective gentleness, spoke about writing her novel THE
+LUMINARIES:
 <blockquote>
 One of my earliest ambitions for the novel was that I knew I wanted to write a
 book set on the west coast of the South Island during the Gold Rush years, and
