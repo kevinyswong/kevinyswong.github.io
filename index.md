@@ -28,37 +28,36 @@ endless advertisements informing her that she has material needs she does not
 know. When I finish my search in the stacks and emerge an hour later, I notice
 the mother and daughter have moved to the activity area with other children.
 The daughter is sitting on the mother's lap, painting a piece of pottery. The
-mother looks on while the daughter slathers on green and blue. It is a life
-which is not mine. While the daughter continues painting, she momentarily looks
-up, then returns to her work. Perhaps that's enough, just enjoying the time.
-Perhaps it is good that she does not yet know how a paragon of individualism
-like Ayn Rand could scoff at those she named second-handers instead of seeing
-the collective human plight, how a major philanthropist like George Soros could
-be subject to antiquated racism, how someone as well-meaning as Friedrich Hayek
-could make it a brand to defend class and race inequality, how she should shy
-away from ornament in the direction of Adolf Loos, how some can think a
-reader's interpretation is just as valuable and true as the author's intent,
-how even time is relative, how post-structuralism differs from postmodernism,
-how she should read a certain kind of book and not others. Children are born
-good but are gradually corrupted by exposure to people like me. The daughter is
-not yet burdened by such involuted inventions as I-Thou, being-in-itself,
-being-in-the-world, thing-in-itself. In her eyes, her mother is her mother, and
-a pot is just a pot. She remains free. Perhaps it would have been wiser to
-simply have been. What am I, wholly convinced that I wish to bring forth a
-better future yet in effect teaching noxious criticism, pervasive self-doubt,
-contagious gloom? I, spreading malevolent ideas like the plague, impressing on
-the mind a scar that cannot be washed out. Is there a redemption at the end of
-the tunnel that justifies the journey? What am I here for, and what am I doing?
-I too am completely useless.
+mother looks on while the daughter slathers on green and blue. While the
+daughter continues painting, she momentarily looks up, then returns to her
+work. Perhaps that's enough, just enjoying the time. Perhaps it is good that
+she does not yet know how a paragon of individualism like Ayn Rand could scoff
+at those she named second-handers rather than relating to the collective human
+plight, how a major philanthropist like George Soros could be subject to
+antiquated racism, how someone as well-meaning as Friedrich Hayek could make it
+a brand to defend class and race inequality, how Adolf Loos has reframed
+ornament as a crime, how a reader's interpretation of a creative work can be
+just as valuable and true as the author's intent, how even time is relative,
+how post-structuralism differs from postmodernism, how she should read a
+certain kind of book and not others. Children are born good but are gradually
+corrupted by exposure to people like me. The daughter is not yet burdened by
+such involuted inventions as I-Thou, being-in-itself, being-in-the-world,
+thing-in-itself. In her eyes, her mother is her mother, and a pot is just a
+pot—she remains free. Perhaps it would have been wiser to simply have been.
+What am I, wholly convinced that I wish to bring forth a better future yet in
+effect teaching noxious criticism, pervasive self-doubt, contagious gloom? I,
+spreading malevolent ideas like the plague, impressing on the mind a scar that
+cannot be washed out. Is there a redemption at the end of the tunnel that
+justifies the journey?
 
 <br>
 
-<h4>2021-08-05, 四. On Choosing to Live Authentically—Merely Choosing, for Success is not Guaranteed.</h4>
+<h4>2021-08-05, 四.</h4>
 The common house spider finds itself a corner to spin a web and waits for its
 prey. What does it know of all the other insects in the world, gargantuan and
 minuscule, in the deep marshes and desert terrain, that on further shores some
 elude webs and can walk on water? We gaze upon the common house spider as the
-forest's trees upon us, brittle life that works, eats, mates, sleeps, a series
+forest's trees upon us, brittle life that wakes, works, eats, sleeps, a series
 of illusions on the tip of the precipice above the eternal void. One millennium
 ago, Omar Khayyam wrote:
 
@@ -88,24 +87,7 @@ rotten apple that will never fall far from petty humanity? Who in all
 seriousness can imagine we are any better? How trifling that the spider's
 life-world does not extend beyond its remote corner.
 
-Waking up in the morning, one may think to oneself, did I not all those
-yesterdays perform the same routine, wash my face and brush my teeth, and is it
-not that I must daily continue these routines until the end of my days? Is the
-same not true wherever one travels, whatever one does, whoever one meets? This
-vexing thought is what motivates the purported troublemaker: on meeting someone
-new, one can see the necessary process: look the other in the eye, shake hands,
-exchange common courtesies. But what if one sees this process not as a
-voluntary meeting of individuals but as an imposed convention? One is struck by
-a simultaneous call to authenticity yet also a lightning pang of guilt for not
-following the rules, for, as he himself knows, coming off as rude. The man who
-looks upon another and sees not an individual but a facade manifesting a social
-construct, a series of predictable responses, a sequence of interactions, a
-ritual, a game whose rules Erving Goffman spent his career uncovering, is an
-outlier. Camus defined such a man who refused to play the game by his relation
-to his surrounding society that holds the game in utmost importance: THE
-STRANGER. I know at least this much—writing feels liberating, I don't have to
-pretend, and I get to use all of me, even if I must permit myself the vulgar
-pleasure of an illusion. E.L. Doctorow wrote, "Writing is like driving at night
+Is writing any different? E.L. Doctorow wrote, "Writing is like driving at night
 in the fog. You can only see as far as your headlights, but you can make the
 whole trip that way." Eleanor Catton, whose voice has a writer's introspective
 gentleness, spoke about writing her novel THE LUMINARIES:
@@ -132,8 +114,19 @@ inevitable material decay, and the motions of life—recurring preoccupations
 rendered most explicit in his JOURNEY TO THE WEST in which one monk, dressed in
 a blood-red robe to contrast with the city streets in the background, walks in
 a monument's slow pace for 56 minutes, the pace of a life spent pursuing
-meaning juxtaposed with the images of everyday activity—the motions. Tarkovsky
-mentioned similar ideas when he said:
+meaning juxtaposed with the images of everyday activity—the motions. Ebert
+wrote:
+<blockquote>
+The reviewers of Tsai Ming-Lian's [sic] 'What Time Is It There?' have compared
+it to the work of Yasujiro Ozu, Robert Bresson, Michelangelo Antonioni, Jacques
+Tati and Buster Keaton. If none of these names stir admiration and longing in
+your soul, start with them, not with Tsai. Begin with Keaton and work your way
+backward on the list, opening yourself to the possibilities of silence,
+introspection, isolation and loneliness in the movies. You will notice that the
+films grow less funny after Keaton and Tati; one of the enigmas about Tsai's
+work is that it is always funny and always sad, never just one or the other.
+</blockquote>
+Tarkovsky mentioned similar ideas when he said:
 <blockquote>
 Before defining art, or any concept, we must define a far broader question: what
 is the meaning of man's life on Earth? Maybe we are here to enhance ourselves
@@ -150,45 +143,25 @@ poetical. Some films have been seen by millions of people . . . now it's
 difficult to surprise the spectator, and good films are not seen by the
 masses.
 </blockquote>
-Ebert wrote:
-<blockquote>
-The reviewers of Tsai Ming-Lian's [sic] 'What Time Is It There?' have compared
-it to the work of Yasujiro Ozu, Robert Bresson, Michelangelo Antonioni, Jacques
-Tati and Buster Keaton. If none of these names stir admiration and longing in
-your soul, start with them, not with Tsai. Begin with Keaton and work your way
-backward on the list, opening yourself to the possibilities of silence,
-introspection, isolation and loneliness in the movies. You will notice that the
-films grow less funny after Keaton and Tati; one of the enigmas about Tsai's
-work is that it is always funny and always sad, never just one or the other.
-</blockquote>
-And Ebert wrote of Koreeda Hirokazu's STILL WALKING:
-<blockquote>
-Most family dramas contain too much drama. In most families, the past and
-present don't meet and find resolution during a 24-hour period, no matter how
-many American films you've seen about Thanksgiving. Painful family issues are
-more likely to stay beneath the surface, known to everyone but not spoken
-of. "Still Walking," a magnificent new film from Japan, is very wise about
-that, and very true.
-</blockquote>
 
 Wong Kar Wai's ASHES OF TIME, his most inaccessible film but also his heaviest
 one and the one that most openly expresses his vision, as raw and unpolished as
-it is beautiful, the desert as eternity, Man outwardly obliging his duties and
-enduring the motions, but inwardly a sublime gasping for breath, longing and
-failing, one insignificant figure trickling across the majestic, colossal
-landscape, the passing of time its only certainty, the characters' private,
-lifelong anguish externalized as sea-splitting spectacle, opens with this
-quote: "The flag is still. The wind is calm. It is the heart of man that is in
-turmoil." Wong Kar Wai said on a separate occasion, "There's a Chinese poem
-which is very beautiful: 'The blossom will always be there, but the faces will
-change.'" In the beginning, nature is still. For but an instant, the heart
-sings, and all too quickly the bird's song expires, leaving the universe to its
-original silence. Towards the end of Ozu's TOKYO STORY, Setsuko Hara is asked
-earnestly by a younger woman, "Isn't life disappointing?", to which she, having
-been widowed and having witnessed her parents-in-law left behind by their
-children as they pursue their own interesting lives, as we all do, leaving the
-older generation to pass, maintains her smile in the Japanese composure and
-reserve, and replies without a thought, "Yes, it is." Yes indeed, but as Camus
+it is beautiful, the desert as eternity, Man obliging his duties and enduring
+the motions but inwardly a sublime gasping for breath, longing and failing, one
+insignificant figure trickling across the majestic, colossal landscape, the
+passing of time its only certainty, the characters' private, lifelong reach for
+meaning externalized as sea-splitting spectacle, opens with this quote: "The
+flag is still. The wind is calm. It is the heart of man that is in turmoil."
+Wong Kar Wai said on a separate occasion, "There's a Chinese poem which is very
+beautiful: 'The blossom will always be there, but the faces will change.'" In
+the beginning, nature is still. For but an instant, the heart sings, and all
+too quickly the bird's song expires, leaving the universe to its original
+silence. Towards the end of Ozu's TOKYO STORY, Setsuko Hara is asked earnestly
+by a younger woman, "Isn't life disappointing?", to which she, having been
+widowed and having witnessed her parents-in-law left behind by their children
+as they pursue their own interesting lives, as we all do, leaving the older
+generation to pass, maintains her smile in the Japanese composure and reserve,
+and replies without a thought, "Yes, it is." Yes indeed, but as Camus
 wrote, "The struggle itself toward the heights is enough to fill a man's heart.
 One must imagine Sisyphus happy."
 
