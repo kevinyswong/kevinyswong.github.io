@@ -58,8 +58,8 @@ prey. What does it know of all the other insects in the world, gargantuan and
 minuscule, in the deep marshes and desert terrain, that on further shores some
 elude webs and can walk on water? We gaze upon the common house spider as the
 forest's trees upon us, brittle life that wakes, works, eats, sleeps, a series
-of illusions on the tip of the precipice above the eternal void. One millennium
-ago, Omar Khayyam wrote:
+of illusions on the tip of the precipice above the eternal void. Omar Khayyam
+wrote:
 
 The Moving Finger writes; and, having writ,<br>
 Moves on: nor all thy Piety nor Wit<br>
@@ -108,8 +108,10 @@ inevitable material decay, and the motions of life—recurring preoccupations
 rendered most explicit in his JOURNEY TO THE WEST in which one monk, dressed in
 a blood-red robe to contrast with the city streets in the background, walks in
 a monument's slow pace for 56 minutes, the pace of a life spent pursuing
-meaning juxtaposed with the images of everyday activity—the motions. Ebert
-wrote:
+meaning juxtaposed with the images of everyday activity—the motions. This film,
+I don't think, is one to sit down and watch all the way through once one
+understands it, but in a review for a different film of his, a proper one
+obeying narrative form, Ebert wrote:
 <blockquote>
 The reviewers of Tsai Ming-Lian's [sic] 'What Time Is It There?' have compared
 it to the work of Yasujiro Ozu, Robert Bresson, Michelangelo Antonioni, Jacques
@@ -141,23 +143,30 @@ masses.
 Wong Kar Wai's ASHES OF TIME, his most inaccessible film but also his heaviest
 one and the one that most openly expresses his vision, as raw and unpolished as
 it is beautiful, the desert as eternity, Man obliging his duties and enduring
-the motions but inwardly a sublime gasping for breath, longing and failing, one
+the motions but inwardly gasping for breath, longing and failing, one
 insignificant figure trickling across the majestic, colossal landscape, the
 passing of time its only certainty, the characters' private, lifelong reach for
 meaning externalized as sea-splitting spectacle, opens with this quote: "The
-flag is still. The wind is calm. It is the heart of man that is in turmoil."
-Wong Kar Wai said on a separate occasion, "There's a Chinese poem which is very
-beautiful: 'The blossom will always be there, but the faces will change.'" In
+flag is still. The wind is calm. It is the heart of man that is in turmoil." In
 the beginning, nature is still. For but an instant, the heart sings, and all
-too quickly the bird's song expires, leaving the universe to its original
-silence. Towards the end of Ozu's TOKYO STORY, Setsuko Hara is asked earnestly
-by a younger woman, "Isn't life disappointing?", to which she, having been
-widowed and having witnessed her parents-in-law left behind by their children
-as they pursue their own interesting lives, as we all do, leaving the older
-generation to pass, maintains her smile in the Japanese composure and reserve,
-and replies without a thought, "Yes, it is." Yes indeed, but as Camus
-wrote, "The struggle itself toward the heights is enough to fill a man's heart.
-One must imagine Sisyphus happy."
+too quickly the bird's song fades, leaving the universe to its original
+silence. But over the brow of enough mountains, exasperation settles into
+peace: Wong Kar Wai said on a separate occasion, "There's a Chinese poem which
+is very beautiful: 'The blossom will always be there, but the faces will
+change.'" This beauty isn't just from having no choice but to resign at the
+inevitable that the world which once was ours is involunarily being taken away.
+It is the peaceful acquiescence after the long rage and denial in the face of
+the ultimate loss, that of the self, when one is no longer standing under the
+heavy rain but understands that no matter how heavy the rain, the sun is always
+shining behind the dark clouds. Towards the end of Ozu's TOKYO STORY, Setsuko
+Hara is asked earnestly by a younger woman, "Isn't life disappointing?", to
+which she, having been widowed and having witnessed her parents-in-law be left
+behind by their children as they pursue their own interesting lives, as we all
+do, leaving the older generation to pass, maintains her smile in the Japanese
+composure and reserve, and replies without a thought, "Yes, it is." Yes, in the
+melancholic, staid peace of wisdom, without flailing or garish blathering or
+resorting to hedonist escapades, but merely calmly stepping towards our turn
+when it comes.
 
 <br>
 
@@ -535,7 +544,7 @@ percent in 1989. The share of the top 1% of the wealth distribution increased
 from 23 percent to nearly 32 percent from 1989 to 2018. The increase in the
 wealth share of the top 10% came at the expense of households in the 50th to
 90th percentiles of the wealth distribution, whose share decreased from 36
-percent to 29 percent over this period. the bottom 50% of the wealth
+percent to 29 percent over this period. The bottom 50% of the wealth
 distribution experienced virtually no increase in their nominal net worth over
 the last 30 years, resulting in a fall in total wealth share from 4 percent in
 1989 to just 1 percent in 2018. The rise in wealth concentration stems
@@ -703,7 +712,7 @@ be impossible for nearly every American in the future.
 He wrote also about someone who put up with finance enough to retire early, and
 her account of investment banking reminded me of academia, only the currency
 there is not money, and there's not so much as damage to anything as a large
-part of it will not see the light of day and has no other purpose than
+part of it will never see the light of day and has no other purpose than
 publication:
 <blockquote>
 Recently, I spoke with a younger client who retired from a major
@@ -1237,8 +1246,6 @@ scholars-turned-activists who want to force everybody to recite the same
 mantras.
 </blockquote>
 Listen to both sides! What a great idea that seems to come from common sense!
-But those who know too well how people are will immediately lapse into
-disappointment. Did Nietzsche not write HUMAN, ALL TOO HUMAN?
 
 And what is the racialized experience like? Step back to 1992, when I, then -1
 years old, frolicking in the ether and couldn't wait to materialize, about
@@ -1366,25 +1373,24 @@ Back to the present. I'll end this section on politics with
 <a href="https://www.pewresearch.org/politics/2020/12/17/voters-say-those-on-the-other-side-dont-get-them-heres-what-they-want-them-to-know/">comments</a>
 of how each party feels about the other. It reads like a dysfunctional
 relationship. Their words, not mine, but the Republican views I disagree with
-are the ones that have no easy compromise and ones I'm not particularly
-interested in addressing because they existed even before the current
-hysterical polarization, distrust, cancel culture, and utter lack of
-communication between parties, and which are not the cause of the country's
-intolerance towards the other side but which only seem exacerbated because of
-growing economic imbalance, when one side is naively scapegoating in a rapidly
-changing demographic and the other stings with unaddressed racial and gender
+are the ones that have no easy compromise and ones I don't think are promising
+to address because they existed even before the current hysterical
+polarization, distrust, cancel culture, and utter lack of communication between
+parties, and which are not the cause of the country's intolerance towards the
+other side but which only seem exacerbated because of growing economic
+imbalance, when one side is naively scapegoating in a rapidly changing
+demographic and the other stings with unaddressed racial and gender
 inequalities. These issues are: abortion, gun rights, implementing religion
-values in the law, the extent of the government's power and responsibility, and
-whether the Constitution should be adapted to the modern country and not remain
-catered to the one two hundred years ago. I'll also take the liberty to add
-that two hundred years ago was when people weren't able to buy assault rifles,
-when slavery was legal and the original text proclaimed, "Representatives and
-direct Taxes shall be apportioned among the several States which may be
-included within this Union, according to their respective Numbers, which shall
-be determined by adding to the whole Number of free Persons, including those
-bound to Service for a Term of Years, and excluding Indians not taxed, three
-fifths of all other Persons"—until one century later when an amendment repealed
-such nonsense.
+values in the law, and whether the Constitution should be adapted to the modern
+country and not remain catered to the one two hundred years ago. I'll also take
+the liberty to add that two hundred years ago was when people weren't able to
+buy assault rifles, when slavery was legal and the original text
+proclaimed, "Representatives and direct Taxes shall be apportioned among the
+several States which may be included within this Union, according to their
+respective Numbers, which shall be determined by adding to the whole Number of
+free Persons, including those bound to Service for a Term of Years, and
+excluding Indians not taxed, three fifths of all other Persons"—until one
+century later when an amendment repealed such nonsense.
 
 Twenty years ago, the Korean singer Lee Jung-hyun introduced techo music to her
 country's music industry. In Lee Jung-hyun's song
