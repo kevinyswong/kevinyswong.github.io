@@ -1963,26 +1963,26 @@ life.
 
 I am not surprised whatsoever that Asians are being targeted. I can't help but
 exclaim: how banal and boring! Tell me something new! As soon as the news broke
-of COVID's origins last year I immediately anticipated such a development. There
-is not the slightest indication in the racial history of this country that
-suggests otherwise. On the contrary I would be surprised if this shooting were
-the last. Count on it: discrimination and patent racism will continue once
-life returns to normal and people resume congregating in person, in forms subtle
-and explicit, verbal and behavioral, in school admissions, in job applications,
-in fewer appointments for doctor and lawyers, in everyday encounters. We do not
-have it worst; Blacks have had a far longer and bloodier march against
-racism. We Asians have piggy-backed on the civil rights movement and benefited
-from monumental progress towards true equality in the 1960s without bearing
-the brunt of the melee. What makes us think we can surmount racial boundaries if
-Blacks still have not? However, our problem is more akin to the Jewish one: a
-small successful minority that—who knows?—might be wealthier, more educated, and
-more cultured than our assaulters. And yet we do not have power, we do not have
-bite—why? I can't be wrong in saying a large part of the reason is that Asian
-culture obeys authority and doesn't stir trouble, overwhelmingly preferring
-comfort and stability over due process and justice. Perhaps a generation or two
-later, the offspring of this period's doctors, academics, and engineers,
-comfortable enough in their social replication, will have the chutzpah to take
-up the risk of fighting back.
+of COVID's origins last year I immediately anticipated such a development.
+There is not the slightest indication in the racial history of this country
+that suggests otherwise. On the contrary I would be surprised if this shooting
+were the last. Count on it: discrimination and patent racism will continue once
+life returns to normal and people resume congregating in person, in forms
+subtle and explicit, verbal and behavioral, in school admissions, in job
+applications, in fewer appointments for doctor and lawyers, in everyday
+encounters. We do not have it worst; Blacks have had a far longer and bloodier
+march against racism. We Asians have piggy-backed on the civil rights movement
+and benefited from monumental progress towards true equality in the 1960s
+without bearing the brunt of the melee. What makes us think we can surmount
+racial boundaries if Blacks still have not? However, our problem is more akin
+to the Jewish one: a small successful minority that—who knows?—might be
+wealthier and more educated than our assaulters. And yet we do not have power,
+we do not have bite—why? I can't be wrong in saying a large part of the reason
+is that Asian culture obeys authority and doesn't stir trouble, overwhelmingly
+preferring comfort and stability over due process and justice. Perhaps a
+generation or two later, the offspring of this period's doctors, academics, and
+engineers, comfortable enough in their social reproduction, will have the
+chutzpah to take up the risk of fighting back.
 
 Theresa Hak Kyung Cha, a Korean artist and writer, was raped and murdered in the
 Puck Building in New York in 1982 and received no more news coverage than one
