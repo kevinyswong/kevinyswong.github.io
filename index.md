@@ -15,10 +15,10 @@ words and cartoonized images of "rectangle", "heart", and "horse" appearing as
 she clicks to continue. She has on a set of pink Minnie Mouse headphones, one
 hand in a fist in front of the keyboard, the other clutching the top of the
 mouse, her tiny hand taking up just the top half. She sits idly, completely
-focused on the screen, in the original innocence. I see them and am struck by
-the realization that I'm the one at fault. I just stepped inside the building,
-listening to Tchaikovsky's HYMN OF THE CHERUBIM. The little girl is wearing a
-face mask. Aware of myself, I don't disturb the peace. She and her mother are
+focused on the screen, in the original innocence. As I am stepping inside the
+building, listening to Tchaikovsky's HYMN OF THE CHERUBIM, I see them and am
+struck by the realization that I'm the one at fault. The little girl is wearing
+a face mask. Aware of myself, I don't disturb the peace. She and her mother are
 minding their business, one family harmlessly going about their day. The
 daughter is at the age when the world is still pure, where she views her place
 in it as a new addition to the constructive whole. Oh, what the world has in
