@@ -13,12 +13,12 @@ At the library, a mother and her daughter are at a computer carrel. The daughter
 is perhaps five years old, seated at the monitor, learning vocabulary, the
 words and cartoonized images of "rectangle", "heart", and "horse" appearing as
 she clicks to continue. She has on a set of pink Minnie Mouse headphones, one
-hand in a fist in front of the keyboard, the other clutching the top of the
-mouse, her tiny hand taking up just the top half. She sits idly, completely
-focused on the screen, in the original innocence. As I am stepping inside the
-building, listening to Tchaikovsky's HYMN OF THE CHERUBIM, I see them and am
-struck by the realization that I'm the one at fault. The little girl is wearing
-a face mask. Aware of myself, I don't disturb the peace. She and her mother are
+hand in a fist in front of the keyboard, the other clutching the mouse, her
+tiny hand taking up just the top half. She sits idly, completely focused on the
+screen, in the original innocence. As I am stepping inside the building,
+listening to Tchaikovsky's HYMN OF THE CHERUBIM, I see them and am struck by
+the realization that I'm the one at fault. The little girl is wearing a face
+mask. Aware of myself, I don't disturb the peace. She and her mother are
 minding their business, one family harmlessly going about their day. The
 daughter is at the age when the world is still pure, where she views her place
 in it as a new addition to the constructive whole. Oh, what the world has in
@@ -38,10 +38,10 @@ antiquated racism, how someone as well-meaning as Friedrich Hayek could make it
 a brand to defend class and race inequality, how Adolf Loos has reframed
 ornament as a crime, how a reader's interpretation of a creative work can be
 just as valuable and true as the author's intent, how even time is relative,
-how post-structuralism differs from postmodernism, how she should read a
-certain kind of book and not others. Children are born good but are gradually
-corrupted by exposure to people like me. The daughter is not yet burdened by
-such involuted inventions as I-Thou, being-in-itself, being-in-the-world,
+how poststructuralism differs from postmodernism, how she should read a certain
+kind of book and not others. Children are born good but are gradually corrupted
+by exposure to people like me. The daughter is not yet burdened by such
+involuted inventions as I-Thou, being-in-itself, being-in-the-world,
 thing-in-itself. In her eyes, her mother is her mother, and a pot is just a
 pot—she remains free. Perhaps it would have been wiser to simply have been.
 What am I, wholly convinced that I wish to bring forth a better future yet in
@@ -153,20 +153,21 @@ too quickly the bird's song fades, leaving the universe to its original
 silence. But over the brow of enough mountains, exasperation settles into
 peace: Wong Kar Wai said on a separate occasion, "There's a Chinese poem which
 is very beautiful: 'The blossom will always be there, but the faces will
-change.'" This beauty isn't just from having no choice but to resign at the
-inevitable that the world which once was ours is involunarily being taken away.
-It is the peaceful acquiescence after the long rage and denial in the face of
-the ultimate loss, that of the self, when one is no longer standing under the
-heavy rain but understands that no matter how heavy the rain, the sun is always
-shining behind the dark clouds. Towards the end of Ozu's TOKYO STORY, Setsuko
-Hara is asked earnestly by a younger woman, "Isn't life disappointing?", to
-which she, having been widowed and having witnessed her parents-in-law be left
-behind by their children as they pursue their own interesting lives, as we all
-do, leaving the older generation to pass, maintains her smile in the Japanese
-composure and reserve, and replies without a thought, "Yes, it is." Yes, in the
-melancholic, staid peace of wisdom, without flailing or garish blathering or
-resorting to hedonist escapades, but merely calmly stepping towards our turn
-when it comes.
+change.'" This beauty isn't from having no choice but to resign at the
+inevitable that the world which once was ours is being involuntarily taken
+away. It is the peaceful acquiescence after the long rage and denial in the
+face of the ultimate loss, that of the self, when one is no longer standing
+under the heavy rain but understands that no matter how heavy the rain, the sun
+is always shining behind the dark clouds. Towards the end of Ozu's TOKYO STORY,
+Setsuko Hara is asked earnestly by a younger woman, "Isn't life
+disappointing?", to which she, having been widowed and having witnessed her
+parents-in-law be left behind by their children as they pursue their own
+interesting lives, as we all do, leaving the older generation to pass,
+maintains her smile in the Japanese composure and reserve, a sadness under the
+smile not even betrayed by the eyes, and replies without a thought, "Yes, it
+is." Yes, in the melancholic, staid peace of wisdom, without flailing or garish
+blathering or resorting to hedonist escapades, but merely calmly stepping
+towards our turn when it comes.
 
 <br>
 
