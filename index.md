@@ -8,6 +8,335 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-08-21, 六.</h4>
+I was putting some books I bought today on the shelf when I chanced upon titles
+I once knew intimately. Pausing to stare at their spines that are nearly lost
+among the many others that had been interesting but did not warm the soul, I
+felt that sudden shock of recognition on the street when running into an old,
+forgotten friend: I knew it, and it knew me. Though I knew I had yet to
+organize the books since my move and they need some dusting, my fingers
+thoughtlessly reached out and flipped through the pages, finding the lines I
+underlined years ago that so unveiled the depths of the soul it itself did not
+know that I was disoriented, unsure when I lost track of them. These were
+written in the contemplative, quiet confidence of one's later years when one
+has sufficiently reconciled oneself with what one is, a mood of simply stating
+the facts without excessive sentimentality, not in the bewildered jousting and
+swaggering of confused youth. May Sarton wrote:
+<blockquote>
+I am here alone for the first time in weeks, to take up my "real" life again at
+last. That is what is strange—that friends, even passionate love, are not my
+real life unless there is time alone in which to explore and to discover what
+is happening or has happened. Without the interruptions, nourishing and
+maddening, this life would become arid. Yet I taste it fully only when I am
+alone here and "the house and I resume old conversations." . . . For a long
+time now, every meeting with another human being has been collision. I feel too
+much, sense too much, am exhausted by the reverberations after even the
+simplest conversation. But the deep collision is and has been with my
+unregenerate, tormenting, and tormented self. I have written every poem, every
+novel, for the same purpose—to find out what I think, to know where I
+stand . . . I live alone, perhaps for no good reason, for the reason that I am
+an impossible creature, set apart by a temperament I have never learned to use
+as it could be used, thrown off by a word, a glance, a rainy day, or one drink
+too many. My need to be alone is balanced against my fear of what will happen
+when suddenly I enter the huge empty silence if I cannot find support there. I
+go up to Heaven and down to Hell in an hour, and keep alive only by imposing
+upon myself inexorable routines. I write too many letters and too few poems. It
+may be outwardly silent here but in the back of my mind is the clamor of human
+voices, too many needs, hopes, fears.
+</blockquote>
+
+<blockquote>
+The value of solitude—one of its values—is, of course, that there is nothing to
+cushion against attacks from within, just as there is nothing to help balance
+at times of particular stress or depression. A few moments of desultory
+conversation with dear Arnold Miner, when he comes to take the trash, may calm
+an inner storm. But the storm, painful as it is, might have had some truth to
+it. So sometimes one has simply to endure a period of depression for what it
+may hold of illumination if one can live through it, attentive to what it
+exposes or demands.
+</blockquote>
+
+<blockquote>
+I hate small talk with a passionate hatred. Why? I suppose because any meeting
+with another human being is collision for me now. It is always expensive, and
+I will not waste my time. It is never a waste of time to be outdoors, and
+never a waste of time to lie down and rest even for a couple of hours. It is
+then that images float up and then that I plan my work. But it is a waste of
+time to see people who have only a social surface to show.
+</blockquote>
+
+<blockquote>
+There is nothing to be done but go ahead with life moment by moment and hour by
+hour—put out birdseed, tidy the rooms, try to create order and peace around me
+even if I cannot achieve it inside me.
+</blockquote>
+
+<blockquote>
+Things stir and buzz in my mind but do not get sorted out on paper. Today I want
+to think a little about loyalty, and it is a fact that I can think something
+out only by writing it . . . I am accused for disloyalty because I talk about
+things that many people would keep to themselves . . . I am not at all discreet
+about anything that concerns feeling. My business is the analysis of
+feeling . . . I believe we learn through the experiences of others as well as
+our own, constantly meditating upon them, drawing the sustenance of human truth
+from them, and it seems natural to me to wish to share these apercus, these
+questions, these oddities, these dilemmas and pangs. Why? Partly, I suppose,
+because the more one is a receptacle of human destinies, as I have become
+through my readers, the more one realizes how very few people could be called
+happy, how complex and demanding every deep human relationship is, how much
+real pain, anger, and despair are concealed by most people. And this is because
+many feel their own suffering is unique. It is comforting to know that we are
+all in the same boat . . . D and I surely recognized each other the first time
+we talked some months ago. I have not felt this intimacy based on
+instant "recognition" so strongly since I first knew Bill Brown, thirty or more
+years ago. D and I are the same breed of cat, responsive and sensitive close to
+the surface, willing to give ourselves away. Such people rarely lead happy
+lives, but they do lead lives of constant growth and change. Gerald Heard's
+saying "he must go unprotected that he may be constantly changed" always comes
+to mind when I am speaking of what it is to be a poet and to go on writing
+poetry beyond the meridian of life. It is costly, so one has to hug very hard
+those like Bill Brown and D whom one has recognized.
+</blockquote>
+
+Maugham wrote:
+<blockquote>
+It did not seem enough to merely write. I wanted to make a pattern of my life,
+in which writing would be an essential element, but which would include all the
+other activities proper to man . . . I had many disabilities. I was small; I
+had endurance but little physical strength; I stammered; I was shy; I had poor
+health. I had no facility for games, which play so great a part in the normal
+life of Englishmen; and I had, whether for any of these reasons or from nature
+I do not know, an instinctive shrinking from my fellow-men that has made it
+difficult for me to enter into any familiarity with them . . . Though in the
+course of years I have learned to assume an air of heartiness when forced into
+contact with a stranger, I have never liked anyone at first sight . . . These
+are grave disadvantages both to the writer and the man. I have had to make the
+best of them.
+</blockquote>
+
+Rousseau wrote:
+<blockquote>
+These hours of solitude and mediation are the only ones in the day when I am
+completely myself and my own master, with nothing to distract or hinder me, the
+only ones when I can truly say I am what nature meant me to be . . . The
+conclusion I can draw from all these reflections is that I have never been
+truly fitted for social life, where there is nothing but irksome duty and
+obligation, and that my independent character has always made it impossible for
+me to submit to the constraints which must be accepted by anyone who wishes to
+live among men.
+</blockquote>
+
+I held these books and stared at them. Are there more I’ve forgotten? I
+remembered the end of an episode from THE SOPRANOS in which Artie, an Italian
+chef who runs his own restaurant, returns to his roots. Up to that point, he
+was engaged in a long, aspiring foray seeking rank and wealth, and he has
+reached the point where he no longer dirties his hands in the kitchen, instead
+hiring non-Italians to cook. He has also hired a young, pretty hostess to
+attract customers and spends his time chatting them up. Secure as a manager, he
+wonders why he is losing customers, grows envious of a competing restaurant,
+and starts arguing with his friends who, as he finds out, prefer to dine at the
+competitor. And then the end of this episode: though the kitchen is closed and
+the staff is gone at this late hour, a couple has arrived and has been seated,
+and Artie is forced to take up his original vocation. Only rabbit is in the
+fridge, and Artie retrieves his grandfather’s handwritten recipe book. He stops
+for a second to look at his grandfather’s name on the cover, then starts
+cooking. Artie never again makes another meaningful appearance in the show,
+because, in a way, that night he found his peace.
+
+The next morning, I probed the bookshelf a bit more. Mary Oliver wrote:
+<blockquote>
+With growth into adulthood, responsibilities claimed me, so many heavy coats. I
+didn't choose them, I don't fault them, but it took time to reject them . . .
+Creative work needs solitude. It needs concentration, without interruptions. It
+needs the whole sky to fly in, and no eye watching until it comes to that
+certainty which it aspires to, but does not necessarily have at once. Privacy,
+then. A place apart—to pace, to chew pencils, to scribble and erase and
+scribble again.
+</blockquote>
+
+<blockquote>
+Most assuredly you want the pilot to be his regular and ordinary self. You want
+him to approach and undertake his work with no more than a calm pleasure. You
+want nothing fancy, nothing new. You ask him to do, routinely, what he knows
+how to do—fly an airplane. You hope he will not daydream. You hope he will not
+drift into some interesting meander of thought. You want this flight to be
+ordinary, not extraordinary. So, too, with the surgeon, and the ambulance
+driver, and the captain of the ship. Let all of them work, as ordinarily they
+do, in confident familiarity with whatever the work requires, and no more.
+Their ordinariness is the surety of the world. Their ordinariness makes the
+world go round . . . And this is also true. In creative work—creative work of
+all kinds—those who are the world's working artists are not trying to help the
+world go around, but forward. Which is something altogether different from the
+ordinary. Such work does not refute the ordinary. It is, simply, something
+else. Its labor requires a different outlook—a different set of priorities.
+Certainly there is within each of us a self that is neither a child, nor a
+servant of the hours. It is a third self, occasional in some of us, tyrant in
+others. This self is out of love with the ordinary; it is out of love with
+time. It has a hunger for eternity.
+</blockquote>
+
+Thoreau wrote:
+<blockquote>
+We are for the most part more lonely when we go abroad among men than we stay in
+our chambers. A man thinking or working is always alone, let him be where he
+will. Solitude is not measured by the miles of space that intervene between a
+man and his fellows. The really diligent student in one of the crowded hives of
+Cambridge College is as solitary as a dervis in the desert. The farmer can work
+alone in the field or the woods all day, hoeing or chopping, and not feel
+lonesome, because he is employed; but when he comes home at night he cannot sit
+down in a room alone, at the mercy of his thoughts, but must be where he
+can "see the folks," and recreate, and, as he thinks, remunerate himself for
+his day's solitude; and hence he wonders how the student can sit alone in the
+house all night and most of the day without ennui and "the blues;" but he does
+not realize that the student, though in the house, is still at work in <i>his</i>
+field, and chopping in <i>his</i> woods, as the farmer in his.
+</blockquote>
+
+Rilke wrote:
+<blockquote>
+Sometimes I cannot look at several people together, not even complete stangers
+toward whom I am entirely indifferent, without realizing with the deepest
+internal fright how very much they act in falsehood. When they begin to talk
+simply to escape the embarrassment caused by their mutual strangeness and
+silence (which is considered impolite), and when they really find words for
+hours, whole bundles of words that sound as if they had been bought cheaply at
+auction, how time passes then: And yet this evening is an irreplaceable hour of
+their lives.
+</blockquote>
+
+<blockquote>
+I can remember how I suffered the most amazing embarrassment as a young person
+when I had secured an hour of solitude in my room by explaining, in response to
+the curiosity that is typical of family life, why I needed this hour and
+<i>what</i> I intended to do with it: this was enough to make the hard-won
+solitude worthless from the start as if it had been sold in advance. The tone
+that had settled on this hour thwarted innocence, claimed it and made it
+infertile and empty, and even before I had set foot in my room my treason had
+already arrived there and filled it to each corner with depletion, obviousness,
+and desolation.
+</blockquote>
+
+<blockquote>
+Ah! but verses amount to so little when one writes them young. One ought to wait
+and gather sense and sweetness a whole life long, and a long life if possible,
+and then, quite at the end, one might perhaps be able to write ten lines that
+were good. For verses are not, as people imagine, simply feelings (those one
+has early enough),—they are experiences. For the sake a single verse, one must
+see many cities, men and things, one must know the animals, one must feel how
+the birds fly and know the gesture with which the little flowers open in the
+morning. One must be able to think back to roads in unknown regions, to
+unexpected meetings and to partings one had long seen coming; to days of
+childhood that are still unexplained, to parents whom one had to hurt when they
+brought one some joy and did not grasp it (it was a joy for someone else); to
+childhood illnesses that so strangely begin with such a number of profound and
+grave transformations, to days in rooms withdrawn and quiet and to mornings by
+the sea, to the sea itself, to seas, to nights of travel that rushed along on
+high and flew with all the stars—and it is not yet enough if one may think of
+all this. One must have memories of many nights of love, none of which was like
+the others, of the screams of women in labor, and of light, white, sleeping
+women in childbed, closing again. But one must also have been beside the dying,
+must have sat beside the dead in the room with the open window and the fitful
+noises. And still it is not yet enough to have memories. One must be able to
+forget them when they are many and one must have the great patience to wait
+until they come again. For it is not yet the memories themselves. Not till they
+have turned to blood within us, to glance and gesture, nameless and no longer
+to be distinguished from ourselves—not till then can it happen that in a most
+rare hour the first word of a verse arises in their midst and goes forth from
+them.
+</blockquote>
+
+Paul Auster wrote:
+<blockquote>
+I was trying to separate myself from my body, taking the long road around my
+dilemma by pretending it did not exist. Others had traveled this road before
+me, and all of them had discovered what I finally discovered for myself: the
+mind cannot win over matter, for once the mind is asked to do too much, it
+quickly shows itself to be matter as well.
+</blockquote>
+
+Brodsky wrote:
+<blockquote>
+If you are in banking or if you fly an aircraft, you know that after you gain a
+substantial amount of expertise you are more or less guaranteed a profit or a
+safe landing. Whereas in the business of writing what one accumulates is not
+expertise but uncertainties. Which is but another name for craft. In this
+field, where expertise invites doom, the notions of adolescence and maturity
+get mixed up, and panic is the most frequent state of mind. So I would be lying
+if I resorted to chronology or to anything that suggests a linear process. A
+school is a factory is a poem is a prison is academia is boredom, with flashes
+of panic.
+</blockquote>
+
+<blockquote>
+Now my mother and my father are dead. I stand on the Atlantic seaboard: there is
+a great deal of water separating me from two surviving aunts and my cousins: a
+real chasm, big enough to confuse even death. Now I can walk around in my socks
+to my heart's content, for I have no relatives on this continent. The only
+death in the family I can now incur is presumably my own, although that would
+mean mixing up transmitter with receiver. The odds of that merger are small,
+and that's what distinguishes electronics from superstition. Still, if I don't
+tread these broad Canadian-maple floorboards in my socks, it's neither because
+of this certitude nor out of an instinct for self-preservation, but because my
+mother wouldn't approve of it. I guess I want to keep things the way they were
+in our family, now that I am what's left of it.
+</blockquote>
+
+Louise Glück wrote:
+<blockquote>
+I'm going to live without you<br>
+as I learned once<br>
+to live without my mother.<br>
+You think I don't remember that?<br>
+I've spent my whole life trying to remember.<br>
+<br>
+Now, after so much solitude,<br>
+death doesn't frighten me,<br>
+not yours, not mine either<br>
+And those words, the <i>last time</i>,<br>
+have no power over me. I know<br>
+intense love always leads to mourning.<br>
+</blockquote>
+
+And later:
+<blockquote>
+Why love what you will lose?<br>
+There is nothing else to love.
+</blockquote>>
+
+And later still:
+<blockquote>
+We look at the world once, in childhood.<br>
+The rest is memory.
+</blockquote>
+
+And still later:
+<blockquote>
+My life took me many places,<br>
+many of them very dark.<br>
+It took me without my volition,<br>
+pushing me from behind,<br>
+from one world to another, like<br>
+the fishlike baby.<br>
+And it was all entirely arbitrary,<br>
+without discernible form.<br>
+<br>
+The passionate threats and questions,<br>
+the old search for justice,<br>
+must have been entirely deluded.<br>
+<br>
+And yet I saw amazing things.<br>
+I became almost radiant at the end;<br>
+I carried my book everywhere,<br>
+like an eager student clinging to these simple mysteries<br>
+<br>
+so that I might silence in myself<br>
+the last accusations:<br>
+<br>
+<i>Who are you and what is your purpose?</i>
+</blockquote>
+
+<br>
+
 <h4>2021-08-19, 四.</h4>
 Many years ago, when K was young, lost, and had not yet unravelled himself, he
 had a strange, recurring problem of people mistaking his sexual orientation. K
