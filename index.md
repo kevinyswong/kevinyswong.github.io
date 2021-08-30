@@ -8,6 +8,121 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2021-08-19, 四.</h4>
+Many years ago, when K was young, lost, and had not yet unravelled himself, he
+had a strange, recurring problem of people mistaking his sexual orientation. K
+had been accepting of everyone but had never had the slightest doubt in his
+mind about something he had always assumed, and the matter would otherwise
+never had occurred to him if not for its coming up every now and then with
+different people and in different circumstances. One time on campus, in broad
+daylight, an Asian chick on the sidewalk walking in the opposite direction
+stopped him and said, "Sorry, but have you heard of Stonewall Inn?" Picking up
+on what she meant, K chuckled, unsure what about him that day that prompted a
+stranger to wonder such a thing and what it was about him that made her
+unafraid to march up and ask so openly. Even K with his abnormal standards
+would consider it strange to go up to a random guy on the street and ask if
+he's gay. K could see that the crass college youngin exerted considerable
+restraint to subdue a shameless grin and knew she must be another bloody
+liberal like himself. Amused enough, K wanted to get on with his day and
+responded plainly, "No, ma'am, I haven't, but perhaps you'd like to show me?"
+Another time, on the downtown train from the Upper East Side, a middle-aged man
+struck up a conversation with K, and when a few stops later the friendly banter
+about the book in K's hand slowly turned into questions that took on a personal
+edge, man's intentions dawned on K who then got out a few stops early. Such
+advances had happened before, but never in his many dreams had K imagined he
+would be the recipient of them from another man. And then K met T. K's
+roommate, a psychology major, invited him to a house party at a friend's
+apartment in Chelsea. The friend, an economics major, shared a fairly large
+apartment with another guy and a girl, both of whom had also invited their
+friends. K and his roommate arrived early, and before he knew it K found
+himself in the friend's room reading a book which held his attention even after
+the party was in full swing, and it wasn't until Psych and Econ came in to tell
+him to join the party that K put the book down. These were the days when K had
+not yet understood what his blank stares meant as he sat with the group that
+was patently enjoying conversation, or why in spite of meaning as well as
+anyone to have fun he felt a strange, eerie strain in the air, the neon party
+lights dappling the apartment to an unwitting emptiness. Some time into the
+party, a few more girls arrived and came over to greet someone in the group. No
+more seats available, K unthinkingly invited the one standing in front of him,
+the blond one, to sit on his lap. She and K exchanged a few words but otherwise
+sat still for several minutes, listening to the group's conversation, the usual
+kind of banter at a party that is immediately forgotten afterwards. She was
+above average, the kind that wouldn't have too much trouble attracting someone
+at the bar and who'd make other guys feel like they'd missed their chance when
+you talk to her first but certainly not the kind of unapproachable stunner that
+turns heads and sets imaginations on fire. It did not occur to K until later
+that he was not aroused, a part of him still excited for the book he put down,
+quietly extinguished, present but not being. K was thrown off by books one
+night by twelve models dressed for a night out in the Lower East Side when he
+was lugging five or six books he'd just bought, waiting to cross the street. K,
+at 5'10", is not short, but even from that distance at night he could see that
+they were all thin, and all at least as tall as him. As K neared them, one made
+a gesture at his direction and said something. The others turned to look,
+causing K to be self-conscious, thinking: wrong time, wrong place. K continued
+making his way to the subway when two of them took a step back to open the
+circle they had formed. Models, entitled enough to think a mere smile can draw
+in anyone. K didn't think he was special but with enough anticipation for the
+night, a group would welcome anyone who looked adequately interesting. K
+thought: a group of two is ideal, three is fine, four is manageable, five is
+pushing it, but twelve has squarely entered the realm of intimidation. This
+large a group forces the strategy into a terrain he had not yet encountered:
+where could even they go for drinks that would seat a walk-in group of
+thirteen? As K walked by them, the sound of silence fell on the group, and K
+could not strike up the indecency to advise the women what was on his mind:
+that if they were out looking to meet guys, that if they were waiting for
+someone to spice up their conversation, they should probably not come out by
+the dozen because the night out won't be successful unless the stars align and
+they come across another, nearly equally large group. But some time before this
+night, K was still at the house party when the blond chick was getting ready to
+leave. She came up to K, looked him in the eye to say goodbye and mentioned she
+was sure they'd see each other again. K, unfazed, did not ask for her number
+and said he was sure of it too, hardening his heart with the insight that he
+won't be moved by someone who couldn't sway him from a book. K was recounting
+his lack of uninterest in the girl when he and a group of friends went for a
+bite after the party. K could not have anticipated what T, who everyone knew
+was not straight, was thinking when he let out a curious "Hmm". A few weeks
+later, T invited his friends to a gathering at a fancy boutique hotel near
+Columbus Circle. Apparently his parents cancelled their visit at the last
+minute and the room was open for the night. Another party, another few rounds
+of drinks with people you don't really know that goes by in another vague
+flash. Towards the end T suggested that someone, if tired, could stay the
+night. Oh, how naive K was to decide not to haul himself to the subway. After
+everyone else left, K took a shower, tucked himself into bed, ready for a night
+of rest no different from any other. Then he felt T's hand on his shoulder. The
+moment K realized what T had in mind, K knew he should have jumped up, grabbed
+his clothes, and stormed out the door, but instead he had had his mind made up
+on getting some sleep and was already in bed, and, if he had to admit it, a
+part of him was curious what would come of this unusual experience. K, tired,
+irritated, impatient, was not in the mood to bicker with a stubborn, panting
+horndog hiding behind a thin veneer of tame talk. K found himself caught in an
+unreal frustration in which he must, yes, defend that he had a normal appetite
+against a college student's zealous thirst which K feared could keep at this
+all night, trying to convince him that he doesn't know what he likes. Of all
+the things K had seen and knew were pliable, he could not imagine that an
+argument could be made about something determined by genes at birth which was,
+moreover, something so personal. Though he was under the blanket, K felt
+slightly exposed because he was facing the wall while T was facing him. K was
+reassured, however, since from what K could tell, T was a bottom. At a certain
+point, T switched tactics and decided to soften his voice the way a woman does
+when she shows affection to a guy she trusts. K, fearing T was spontaneously
+becoming emotionally attached, did not want to picture what was happening back
+there and simply thought, "You've got to be kidding me." K, wanting to sleep,
+his head dull but forced to remain awake by his neighbor's pestering and
+wallowing in inexplicable feelings, K took a step forward and made an offer to
+prove once and for all that K did indeed know this about himself and was not
+hiding in a closet. It had not fully crossed K's mind what it entailed when he
+suggested T confirm the lack of arousal that T would actually reach for K's
+area. Though only a brief grope, K was dumbfounded and suddenly fully awake and
+asked, "Happy now?" It was only then that K could rest from the unexpected
+consequences of an innocent sleepover and emerge, proudly, unscathed the
+morning after when T bought K breakfast downstairs, and K gladly accepted it as
+a rightful apology. If K knows nothing else, at least he can claim he knows
+this part of himself. If this experience was not adequate proof to lay to rest
+any vestige of a doubt in himself, he shudders at the thought of what further
+proof might look like.
+
+<br>
+
 <h4>2021-08-12, 四.</h4>
 At the library, a mother and her daughter are at a computer carrel. The daughter
 is perhaps five years old, seated at the monitor, learning vocabulary, the
