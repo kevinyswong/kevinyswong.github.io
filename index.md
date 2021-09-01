@@ -357,7 +357,7 @@ responded plainly, "No, ma'am, I haven't, but perhaps you'd like to show me?"
 Another time, on the downtown train from the Upper East Side, a middle-aged man
 struck up a conversation with K, and when a few stops later the friendly banter
 about the book in K's hand slowly turned into questions that took on a personal
-edge, man's intentions dawned on K who then got out a few stops early. Such
+edge, the man's intentions dawned on K who then got out a few stops early. Such
 advances had happened before, but never in his many dreams had K imagined he
 would be the recipient of them from another man. And then K met T. K's
 roommate, a psychology major, invited him to a house party at a friend's
@@ -371,28 +371,28 @@ not yet understood what his blank stares meant as he sat with the group that
 was patently enjoying conversation, or why in spite of meaning as well as
 anyone to have fun he felt a strange, eerie strain in the air, the neon party
 lights dappling the apartment to an unwitting emptiness. Some time into the
-party, a few more girls arrived and came over to greet someone in the group. No
-more seats available, K unthinkingly invited the one standing in front of him,
-the blond one, to sit on his lap. She and K exchanged a few words but otherwise
-sat still for several minutes, listening to the group's conversation, the usual
-kind of banter at a party that is immediately forgotten afterwards. She was
-above average, the kind that wouldn't have too much trouble attracting someone
-at the bar and who'd make other guys feel like they'd missed their chance when
-you talk to her first but certainly not the kind of unapproachable stunner that
-turns heads and sets imaginations on fire. It did not occur to K until later
-that he was not aroused, a part of him still excited for the book he put down,
-quietly extinguished, present but not being. K was thrown off by books one
-night by twelve models dressed for a night out in the Lower East Side when he
-was lugging five or six books he'd just bought, waiting to cross the street. K,
-at 5'10", is not short, but even from that distance at night he could see that
-they were all thin, and all at least as tall as him. As K neared them, one made
-a gesture at his direction and said something. The others turned to look,
-causing K to be self-conscious, thinking: wrong time, wrong place. K continued
-making his way to the subway when two of them took a step back to open the
-circle they had formed. Models, entitled enough to think a mere smile can draw
-in anyone. K didn't think he was special but with enough anticipation for the
-night, a group would welcome anyone who looked adequately interesting. K
-thought: a group of two is ideal, three is fine, four is manageable, five is
+party, a few more girls arrived and came over to greet someone in the group.
+With no more seats available, K unthinkingly invited the one standing in front
+of him, the blond one, to sit on his lap. She and K exchanged a few words but
+otherwise sat still for several minutes, listening to the group's conversation,
+the usual kind of banter at a party that is immediately forgotten afterwards.
+She was above average, the kind that wouldn't have too much trouble attracting
+someone at the bar and who'd make other guys feel like they'd missed their
+chance when you talk to her first but certainly not the kind of unapproachable
+stunner that turns heads and sets imaginations on fire. It did not occur to K
+until later that he was not aroused, a part of him still excited for the book
+he put down, quietly extinguished, present but not being. K was thrown off by
+books one night by twelve models dressed for a night out in the Lower East Side
+when he was lugging five or six books he'd just bought, waiting to cross the
+street. K, at 5'10", is not short, but even from that distance at night he
+could see that they were all thin, and all at least as tall as him. As K neared
+them, one made a gesture at his direction and said something. The others turned
+to look, causing K to be self-conscious, thinking: wrong time, wrong place. K
+continued making his way to the subway when two of them took a step back to
+open the circle they had formed. Models, entitled enough to think a mere smile
+can draw in anyone. K didn't think he was special but with enough anticipation
+for the night, a group would welcome anyone who looked adequately interesting.
+K thought: a group of two is ideal, three is fine, four is manageable, five is
 pushing it, but twelve has squarely entered the realm of intimidation. This
 large a group forces the strategy into a terrain he had not yet encountered:
 where could even they go for drinks that would seat a walk-in group of
