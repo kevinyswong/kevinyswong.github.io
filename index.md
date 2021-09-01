@@ -1,6 +1,6 @@
 ---
 layout: default
-<!-- title: Ruminations -->
+# title: Ruminations
 ---
 <style>
   blockquote { font-size: 16px; font-style: normal; letter-spacing: .005px; }

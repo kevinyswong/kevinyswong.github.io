@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 <div style="float:left; padding-right:50px">
-  <img src="photo.jpeg" width="300" style="padding-bottom:20px;">
+  <img src="/photos/me.jpg" width="300" style="padding-bottom:20px;">
 
   {%- include social.html -%}
 </div>
