@@ -14,11 +14,11 @@ permalink: /ambience
   }
 
   img.quarter {
-    width: 24%;
+    width: 23.9%;
   }
 
   img.half {
-    width: 49.6%;
+    width: 49.2%;
   }
 
   img.full {
