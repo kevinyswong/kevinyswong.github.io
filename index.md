@@ -504,11 +504,12 @@ elude webs and can walk on water? We gaze upon the common house spider as the
 forest's trees upon us, brittle life that wakes, works, eats, sleeps, a series
 of illusions on the tip of the precipice above the eternal void. Omar Khayyam
 wrote:
-
+<blockquote>
 The Moving Finger writes; and, having writ,<br>
 Moves on: nor all thy Piety nor Wit<br>
 Shall lure it back to cancel half a Line,<br>
 Nor all thy Tears wash out a Word of it.
+</blockquote>
 
 If thoughts are products of chemical and electrical synapses, the body's
 chemical inevitability interacting with the external laws of mechanics, is it
@@ -2694,15 +2695,16 @@ I'm pulled away by work
 
 <br>
 
-it is evening<br>
+evening<br>
 depleted after the day<br>
-I can't write<br>
+unable write<br>
 am I getting old?
 
 <br>
 
 my writing exhausts<br>
-I don't write innocent fiction
+I don't write<br>
+innocent fiction
 
 <br>
 
