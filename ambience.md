@@ -107,10 +107,11 @@ permalink: /ambience
 <img src="/photos/books14.jpg" class="full">
 <img src="/photos/books1.jpg" class="half">
 <img src="/photos/books7.jpg" class="half">
+<img src="/photos/melancholy_of_departure1.jpg" class="full">
 <img src="/photos/meditate3.jpg" class="half">
 <img src="/photos/chicago1.jpg" class="half">
 <img src="/photos/books6.jpg" class="half">
 <img src="/photos/books13.jpg" class="half">
 <img src="/photos/lake1.jpg" class="full">
-
+<img src="/photos/vir_heroicus1.jpg" class="full">
 
