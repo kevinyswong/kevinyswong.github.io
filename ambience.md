@@ -101,6 +101,7 @@ permalink: /ambience
 <img src="/photos/cat2.jpg" class="half">
 <img src="/photos/books9.jpg" class="full">
 <img src="/photos/books5.jpg" class="full">
+<img src="/photos/colored_clipping1.jpg" class="full">
 <img src="/photos/films3.jpg" class="full">
 <img src="/photos/meditate5.jpg" class="half">
 <img src="/photos/meditate6.jpg" class="half">
@@ -112,6 +113,7 @@ permalink: /ambience
 <img src="/photos/chicago1.jpg" class="half">
 <img src="/photos/books6.jpg" class="half">
 <img src="/photos/books13.jpg" class="half">
+<img src="/photos/books15.jpg" class="full">
 <img src="/photos/lake1.jpg" class="full">
 <img src="/photos/vir_heroicus1.jpg" class="full">
 
