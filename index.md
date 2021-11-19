@@ -638,14 +638,9 @@ shocking about the ProPublica report is not just that the tax bills are so low,
 but that these billionaires can live with themselves.
 </blockquote>
 Abigail Disney also references David Foster Wallace's THIS IS WATER commencement
-speech in 2005 at Kenyon College, during which some in the audience laughed in
-humor at certain points from the habit of watching too many sitcoms without
-realizing the brutal reality of what was being said, provoking a rage like
-watching an arthouse film among a jovial audience that has no idea what's
-being shown on screen, and then realizing not everyone comes from your
-background, sighing in resignation, and recalling that we are all nothing: "All
-I know is that if you are a fish, it is hard to describe water, much less to
-ask if water is necessary, ethical, and structured the way it ought to be."
+speech in 2005 at Kenyon College: "All I know is that if you are a fish, it is
+hard to describe water, much less to ask if water is necessary, ethical, and
+structured the way it ought to be."
 
 To an average American family earning $70,000 a year, an additional $10,000
 makes a sizable impact. To someone in this stratosphere, an additional million
