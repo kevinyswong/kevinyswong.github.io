@@ -2137,7 +2137,7 @@ meaning to our own lives because there are no preconditions, there is no God,
 there is no moral statement in the universe itself, of the universe itself.
 Isn't that more challenging than returning to the old idea of a moral God?"
 Taken aback for a second from so direct a question, Scruton replied: "If you
-want to live your live being challenged, that's fine. There are lots of things
+want to live your life being challenged, that's fine. There are lots of things
 more challenging than my worldview, but it doesn't follow they're for that
 reason more true. It's possible for someone like Rilke to live with a kind of
 death of God feeling, to say to himself, 'For God has been taken from the world,
