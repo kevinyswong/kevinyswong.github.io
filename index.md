@@ -200,16 +200,14 @@ The personal income tax, corporate tax, and estate tax are not socialism. If
 you think higher taxes for the rich also means higher taxes for struggling
 farmers, you've been duped by people who sell their agenda by calling it your
 individual liberty when they buy their islands, hide in their bunkers at the
-outset of a pandemic, and, when Earth is not enough, race each other to fly
-to space. How disgraceful have you become not only as a political party but
-as people when you refuse to investigate an attack on your own Capitol? If
-liberal-run cities are indeed rampant with violence and there is no law or
-order, why do the educated still live there and continue generating the highest
-economic output? Consider for a moment the possibility that those you revile as
-intellectuals spend considerable time thinking about problems you yourself do
-not, and sometimes facing truth requires putting aside blind national pride.
-How is it possible with all the knowledge and advancements of modernity we have
-in America a movement steeped in
+outset of a pandemic, and, when Earth is not enough, race each other to fly to
+space. How disgraceful have you become not only as a political party but as
+people when you refuse to investigate an attack on your own Capitol? Consider
+for a moment the possibility that those you revile as intellectuals spend
+considerable time thinking about problems you yourself do not, and sometimes
+facing truth requires putting aside blind national pride. How is it possible
+with all the knowledge and advancements of modernity we have in America a
+movement steeped in
 <a href="https://www.studioatao.org/post/understanding-anti-intellectualism-in-the-u-s">anti-intellectualism</a>?
 Let me get to the point. Religious fundamentalists teach distrust towards
 intellectuals to silence alternative worldviews in an increasingly secular
