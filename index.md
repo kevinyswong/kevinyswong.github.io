@@ -390,11 +390,11 @@ from the Federal Reserve's database. We see that stocks are predominantly owned
 by the wealthy, and their share has grown in the last 30 years. The share
 among the top 10% in Q1 1991 was 79.7% and rose in Q1 2021 to 88.7%. We also
 see that since at least as far back as 1989, the bottom 50% have never owned
-more than 1.6% and in 2021 owned 0.6%, which is next to nothing. Another
+more than 1.8% and in 2021 owned 0.6%, which is next to nothing. Another
 dataset shows the
 <a href="https://fred.stlouisfed.org/graph/?id=WFRBST01134,WFRBSN09161,WFRBSN40188,WFRBSB50215">net worth distribution</a>,
 and the same pattern emerges. The share among the top 10% in Q1 1991 was 60.3%
-and rose in Q1 2021 to 69.8%. The bottom 50% never owned more than 4.1% since
+and rose in Q1 2021 to 69.8%. The bottom 50% never owned more than 4.3% since
 1989 and in 2021 owned a mere 2%. The Pew Research Center also has
 <a href="https://www.pewresearch.org/social-trends/2020/01/09/trends-in-income-and-wealth-inequality/psdt_01-10-20_economic-inequality_1-4/">data</a>
 showing the growing wealth inequality. When we also account for wealth, the
