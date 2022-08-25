@@ -326,7 +326,7 @@ net worth growth = income + wealth growth - debt growth
 where
 
 <pre style="padding:0; border:0; background-color:white;">
-income = salay, wages, interest, dividends, etc.
+income = salary, wages, interest, dividends, etc.
 wealth growth = stock appreciation, real estate appreciation, etc.
 </pre>
 
