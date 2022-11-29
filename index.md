@@ -246,7 +246,7 @@ raise your suspicion at its correctness. For those who like me are not experts
 in tax research and who are interested in my side, which calls for equitable
 redistribution of resources, the notable researchers are these French
 economists:
-<a href="https://scholar.google.com/citations?user=0IAgAnoAAAAJ&hl=en">Thomas Piketty</a>,
+<a href="https://scholar.google.com/citations?user=Q_E5lH4AAAAJ&hl=en">Thomas Piketty</a>,
 <a href="https://scholar.google.com/citations?user=qZpr_CQAAAAJ&hl=en">Emmanuel Saez</a>,
 and
 <a href="https://scholar.google.com/citations?user=GbOivREAAAAJ&hl=en">Gabriel Zucman</a>.
@@ -297,7 +297,7 @@ facts are also
 <a href="https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-corporate-tax-rates/">these</a>.
 And what does the public think? One
 <a href="https://www.pewresearch.org/politics/2019/04/04/growing-partisan-divide-over-fairness-of-the-nations-tax-system/">poll</a>
-shows 62% of Americans say that it bothers them a lot that some wealthy people
+shows 60% of Americans say that it bothers them a lot that some wealthy people
 don't pay their fair share, and that views on the country's tax system is
 increasingly colored by political affiliation.
 
@@ -350,37 +350,37 @@ In 2019, the Federal Reserve released a
 <a href="https://www.federalreserve.gov/econres/feds/files/2019017pap.pdf">paper</a>
 describing the rising wealth inequality:
 <blockquote>
-At the highest level, the
-[Distributed Financial Accounts] show significant wealth concentration and a
-clear increase in wealth concentration since 1989 . . . In 2018, the top 10% of
-U.S. households controlled 70 percent of total household wealth, up from 60
-percent in 1989. The share of the top 1% of the wealth distribution increased
-from 23 percent to nearly 32 percent from 1989 to 2018. The increase in the
-wealth share of the top 10% came at the expense of households in the 50th to
-90th percentiles of the wealth distribution, whose share decreased from 36
-percent to 29 percent over this period. The bottom 50% of the wealth
-distribution experienced virtually no increase in their nominal net worth over
-the last 30 years, resulting in a fall in total wealth share from 4 percent in
-1989 to just 1 percent in 2018. The rise in wealth concentration stems
-primarily from increased concentration of assets, with trends for assets
-largely mimicking those for overall wealth. The share of assets held by the top
-10% of the wealth distribution rose from 55 percent to 64 percent since 1989,
-with asset shares increasing the most for the top 1% of households. These
-increases were mirrored by decreases for households in the 50-90th percentiles
-of the wealth distribution. we observe that the share of real estate held by
-the top 10% of the wealth distribution has increased by 5 percentage points
-from 39 percent to 44 percent, suggesting that increases in wealthy households'
-share of real estate holdings have contributed to the increase in
-concentration. Corporate and noncorporate business equity have been large
-drivers of wealth concentration. The distribution of these assets has long been
-skewed: in 1989, the richest 10% of households held 80 percent of corporate
-equity and 78 percent of equity in noncorporate business. Since 1989, the top
-10%'s share of corporate equity has increased, on net, from 80 percent to 87
-percent, and their share of noncorporate business equity has increased, on net,
-from 78 percent to 86 percent. Furthermore, most of these increases in business
-equity holdings have been realized by the top 1%, whose corporate equity shares
-increased from 39 percent to 50 percent and noncorporate equity shares
-increased from 42 percent to 53 percent since 1989.
+At the highest level, the [Distributed Financial Accounts] show significant
+wealth concentration and a clear increase in wealth concentration since
+1989 . . . In 2018, the top 10% of U.S. households controlled 70 percent of
+total household wealth, up from 60 percent in 1989. The share of the top 1% of
+the wealth distribution increased from 23 percent to nearly 32 percent from
+1989 to 2018. The increase in the wealth share of the top 10% came at the
+expense of households in the 50th to 90th percentiles of the wealth
+distribution, whose share decreased from 36 percent to 29 percent over this
+period . . . [T]he bottom 50% of the wealth distribution experienced virtually
+no increase in their nominal net worth over the last 30 years, resulting in a
+fall in total wealth share from 4 percent in 1989 to just 1 percent in 2018.
+The rise in wealth concentration stems primarily from increased concentration
+of assets . . . with trends for assets largely mimicking those for overall
+wealth. The share of assets held by the top 10% of the wealth distribution rose
+from 55 percent to 64 percent since 1989, with asset shares increasing the most
+for the top 1% of households. These increases were mirrored by decreases for
+households in the 50-90th percentiles of the wealth distribution . . .
+[W]e observe that the share of real estate held by the top 10% of the wealth
+distribution has increased by 5 percentage points from 39 percent to 44
+percent, suggesting that increases in wealthy households' share of real estate
+holdings have contributed to the increase in concentration . . . [C]orporate and
+noncorporate business equity have been large drivers of wealth concentration.
+The distribution of these assets has long been skewed: in 1989, the richest 10%
+of households held 80 percent of corporate equity and 78 percent of equity in
+noncorporate business. Since 1989, the top 10%'s share of corporate equity has
+increased, on net, from 80 percent to 87 percent, and their share of
+noncorporate business equity has increased, on net, from 78 percent to 86
+percent. Furthermore, most of these increases in business equity holdings have
+been realized by the top 1%, whose corporate equity shares increased from 39
+percent to 50 percent and noncorporate equity shares increased from 42 percent
+to 53 percent since 1989.
 </blockquote>
 
 The paper contains charts of the data, but it's easier to go to an
@@ -412,10 +412,10 @@ from bond interest and dividends—from their wealth by either investing or
 owning shares of their own company. Inequality also plays out in college
 admissions. An
 <a href="https://www.nytimes.com/interactive/2017/01/18/upshot/some-colleges-have-more-students-from-the-top-1-percent-than-the-bottom-60.html">article</a>
-from the Times visualizes data from a study co-authored by Raj Chetty and Saez,
+from The Times visualizes data from a study co-authored by Raj Chetty and Saez,
 finding that:
 <blockquote>
-[a]t 38 colleges in America, including five in the Ivy League . . . more
+At 38 colleges in America, including five in the Ivy League . . . more
 students came from the top 1 percent of the income scale than from the entire
 bottom 60 percent. Roughly one in four of the richest students attend an elite
 college – universities that typically cluster toward the top of annual
@@ -427,13 +427,14 @@ attend any college at all.
 It is important to distinguish between groups within the top 1%, which has its
 own massive internal inequalities. The Chicago Booth Review has an
 <a href="https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent">article</a>
-that differentiates the average income in 2015 between four segments in the
-top 1%, and even in this echelon, the wealthier acquire wealth faster; each
-step from one group to its next higher group is a jump on an exponential curve,
-from $485 thousand to $901 thousand to $2.9 million to $18.9 million. The
-richest group, the 0.01%, are the 1 percenters of the 1 percent. Inequality.org
-gives a more concrete look at the wealthy, splitting the top 10% into five
-groups and gave a brief descriptive
+that differentiates the average income in 2015 between four segments in the top
+1% (0.5%-1%, 0.1%-0.5%, 0.01%-0.1%, and the top 0.01%), and even in this
+echelon, the wealthier acquire wealth faster; each step from one group to its
+next higher group is a jump on an exponential curve, from $485 thousand to $901
+thousand to $2.9 million to $18.9 million. The richest group, the 0.01%, are
+the 1 percenters of the 1 percent. Inequality.org gives a more concrete look at
+the wealthy, splitting the top 10% into five groups and gave a brief
+descriptive
 <a href="https://inequality.org/great-divide/taxing-rich-starts-knowing-who-they-are/">profile</a>
 of each one. One investment manager suggests that there is a large divide
 between the bottom and top halves of the top 1%. In 2011 he
@@ -565,11 +566,12 @@ his net worth in 4/2020 was $15.4 billion and rose to $19.1 billion in 9/2020,
 so he has more earnings than from Blackstone alone. Because the government does
 not tax wealth, it is only when Schwarzman sells his shares that his earnings
 get taxed. If Schwarzman holds on to his shares for at least a year, which he
-already has, he avoids paying the higher rates of the ordinary
+already has, he avoids paying the higher rates of the ordinary income
 <a href="https://taxfoundation.org/2021-tax-brackets/#brackets">tax brackets</a>
-and gets charged
-<a href="https://taxfoundation.org/2021-tax-brackets/#capgains">lower rates</a>.
-But what happens if Schwarzman doesn't sell his stocks? From a recent ProPublica
+(10%-37%) and gets charged the
+<a href="https://taxfoundation.org/2021-tax-brackets/#capgains">lower rates</a>
+(0%-20%) of long-term capital gains. But what happens if Schwarzman doesn't sell
+his stocks? From a recent ProPublica
 <a href="https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax">report</a>:
 <blockquote>
 The notion of dying as a tax benefit seems paradoxical. Normally when someone
@@ -661,19 +663,19 @@ Sanders
 a wealth tax that would:
 <blockquote>
 only apply to net worth of over $32 million and anyone who has a net worth of
-less than $32 million, would not see their taxes go up at all under this plan.
-This tax on extreme wealth would have a progressive rate structure that would
-only apply to the wealthiest 180,000 households in America who are in the top
-0.1 percent. It would start with a 1 percent tax on net worth above $32 million
-for a married couple. That means a married couple with $32.5 million would pay
-a wealth tax of just $5,000. The tax rate would increase to 2 percent on net
-worth from $50 to $250 million, 3 percent from $250 to $500 million, 4 percent
-from $500 million to $1 billion, 5 percent from $1 to $2.5 billion, 6 percent
-from $2.5 to $5 billion, 7 percent from $5 to $10 billion, and 8 percent on
-wealth over $10 billion. These brackets are halved for singles. Under this
-plan, the wealth of billionaires would be cut in half over 15 years which would
-substantially break up the concentration of wealth and power of this small
-privileged class.
+less than $32 million, would not see their taxes go up at all under this
+plan . . . This tax on extreme wealth would have a progressive rate structure
+that would only apply to the wealthiest 180,000 households in America who are
+in the top 0.1 percent. It would start with a 1 percent tax on net worth above
+$32 million for a married couple. That means a married couple with $32.5
+million would pay a wealth tax of just $5,000. The tax rate would increase to 2
+percent on net worth from $50 to $250 million, 3 percent from $250 to $500
+million, 4 percent from $500 million to $1 billion, 5 percent from $1 to $2.5
+billion, 6 percent from $2.5 to $5 billion, 7 percent from $5 to $10 billion,
+and 8 percent on wealth over $10 billion. These brackets are halved for
+singles. Under this plan, the wealth of billionaires would be cut in half over
+15 years which would substantially break up the concentration of wealth and
+power of this small privileged class.
 </blockquote>
 This last sentence, of course, would not make the referenced class happy.
 Elizabeth Warren's more lenient
@@ -957,8 +959,18 @@ and relying on surveys for issues like race reveals less about outcomes and
 behaviors than the prevailing fashionable attitudes of the time. When it's hot
 out, it won't help to check the weather channel if your house is burning. Show
 me your data, and I can show you segregation on a
-<a href="http://racialdotmap.demographics.coopercenter.org">map</a>
-based on the 2010 Census,
+<del><a href="http://racialdotmap.demographics.coopercenter.org">map</a></del>
+based on the 2010 Census (EDIT: this link is no longer valid because UVA has
+blocked access since the end of 2021 in light of the 2020 Census. However, to
+show my point and for the purpose of providing continued access to historical
+data, the
+<a href="https://web.archive.org/web/20211229001323/http://racialdotmap.demographics.coopercenter.org/">Racial Dot Map</a>
+remains available, courtesy of the Internet Archive. For updated maps based on
+the 2020 Census, refer to the
+<a href="https://www.cnn.com/interactive/2021/us/census-race-ethnicity-map/">one</a>
+from CNN or the
+<a href="https://www.arcgis.com/apps/mapviewer/index.html?webmap=30d2e10d4d694b3eb4dc4d2e58dbb5a5">one</a>
+from Environmental Systems Research Intitute),
 <a href="https://academic.oup.com/qje/article/135/2/711/5687353">research</a>
 that finds "differences in parental marital status, education, and wealth
 explain little of the black-white income gap conditional on parent income", and
@@ -969,8 +981,8 @@ that:
 measured implicit and explicit attitudes about race using the Race Attitude
 Implicit Association Test (IAT) for a large sample of test takers (N =
 404,277), including a sub-sample of medical doctors (MDs) (n = 2,535). Medical
-doctors, like the entire sample, showed an implicit preference for White
-Americans relative to Black Americans. We examined these effects among White,
+doctors, like the entire sample, showed an implicit preference for [w]hite
+Americans relative to Black Americans. We examined these effects among [w]hite,
 African American, Hispanic, and Asian MDs and by physician gender. Strength of
 implicit bias exceeded self-report among all test takers except African
 American MDs.
@@ -1144,7 +1156,7 @@ policies aside, a neighborhood's voter preference strongly resembles its racial
 composition. The Times released an interactive district-level
 <a href="https://www.nytimes.com/interactive/2021/06/23/nyregion/nyc-mayor-primary-results-precinct-map.html">map</a>
 of how the city voted, which can be compared with a map of the city's racial
-<a href="https://en.wikipedia.org/wiki/New_York_City#/media/File:Race_and_ethnicity_2010-_New_York_City_(5559914315).png">distribution</a>.
+<a href="https://en.wikipedia.org/w/index.php?title=New_York_City&oldid=1030916027#/media/File:Race_and_ethnicity_2010-_New_York_City_(5559914315).png">distribution</a>
 Manhattan's core, predominantly white, voted for Kathryn Garcia. The Asian
 neighborhoods, and oddly also the Orthodox Jewish neighborhood of Borough Park,
 voted for Andrew Yang. And Harlem, the Bronx, and large swaths of Queens and
@@ -1248,18 +1260,18 @@ terror, has dignified certain kinds of fear, and made people think them not
 disgraceful. In this it has done mankind a great disservice: all fear is bad. I
 believe that when I die I shall rot, and nothing of my ego will survive. I am
 not young, and I love life. But I should scorn to shiver with terror at the
-thought of annihilation. Happiness is none the less true happiness because it
-must come to an end, nor do thought and love lose their value because they are
-not everlasting. Many a man has borne himself proudly on the scaffold; surely
-the same pride should teach us to think truly about a man's place in the world.
-Even if the open windows of science at first make us shiver after the cosy
-indoor warmth of traditional humanising myths, in the end the fresh air brings
-out vigour, and the great spaces have a splendour of their own." One can enter
-the sublime by sitting in church in the front pew, enjoying Bach's music playing
-under the towering apse just as one can enter it by lying back on the open
-grass, under the constellations of the night sky, all on one's own,
-contemplating  the stars whence one came; one can be spiritual without a god.
-Humanity's pursuits—reaching for transcendence, enjoying music, living
+thought of annihilation. Happiness is none the less [sic] true happiness
+because it must come to an end, nor do thought and love lose their value
+because they are not everlasting. Many a man has borne himself proudly on the
+scaffold; surely the same pride should teach us to think truly about a man's
+place in the world. Even if the open windows of science at first make us shiver
+after the cosy indoor warmth of traditional humanising myths, in the end the
+fresh air brings out vigour, and the great spaces have a splendour of their
+own." One can enter the sublime by sitting in church in the front pew, enjoying
+Bach's music playing under the towering apse just as one can enter it by lying
+back on the open grass, under the constellations of the night sky, all on one's
+own, contemplating  the stars whence one came; one can be spiritual without a
+god. Humanity's pursuits—reaching for transcendence, enjoying music, living
 virtuously, seeking meaning and purpose—what does God have to do with them?
 Everything we've done, we've done without Him.
 
@@ -1539,14 +1551,17 @@ boosts or drops the team's overall diversity. This behavior looms large.
 For all we tout diversity in our public relations messaging, for all the
 apparent diversity in cities, residential neighborhoods are largely segregated
 by race, even in our most diverse cities:
-<a href="https://www.gc.cuny.edu/page-elements/academics-research-centers-initiatives/centers-and-institutes/center-for-urban-research/cur-research-initiatives/the-end-of-segregation-hardly">New York City</a>,
-<a href="https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area">San Francisco</a>, and
-<a href="https://today.uic.edu/new-report-details-chicagos-racial-ethnic-disparities">Chicago</a>.
-And <a href="http://racialdotmap.demographics.coopercenter.org">this</a> map
+<a href="https://web.archive.org/web/20210127082921/www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Centers-and-Institutes/Center-for-Urban-Research/CUR-research-initiatives/The-End-of-Segregation-Hardly">New York City</a>,
+<a href="https://web.archive.org/web/20210915084136/belonging.berkeley.edu/racial-segregation-san-francisco-bay-area-part-1">San Francisco</a>,
+and
+<a href="https://web.archive.org/web/20210115210129/today.uic.edu/new-report-details-chicagos-racial-ethnic-disparities/">Chicago</a>.
+And this
+<a href="https://web.archive.org/web/20211229001323/http://racialdotmap.demographics.coopercenter.org/">map</a>
 shows the race distribution in the country using the 2010 census data, with one
 dot per person, each dot colored by race. This is the undeniable state of
 affairs: de facto segregation. Residential segregation translates to school
-segregation. <a href="https://www.kqed.org/lowdown/30098/why-have-americas-public-schools-gotten-more-racially-segregated">These</a>
+segregation.
+<a href="https://www.kqed.org/lowdown/30098/why-have-americas-public-schools-gotten-more-racially-segregated">These</a>
 maps show segregation consistent with the country's racialized geography, and
 this is over half a century after <i>Brown v. Board of Education</i>.
 Whatever image of a racially integrated country we may have in mind is not just
@@ -1652,7 +1667,7 @@ away, returning to the default whiteness. The country's future is mixed, and we
 have to accept this as a reality, not boil over with veiled resentment.
 
 William Buckley wrote, "A conservative is someone who stands athwart history,
-yelling Stop." What nonsense! How shortsighted is his view of history that for
+yelling Stop." What nonsense. How shortsighted is his view of history that for
 him, history extends no further than the past several hundred years since the
 Great Divergence that marked the West's emergence as the world's wealthiest and
 most advanced civilization, and he happened to have lived in the period when
@@ -1665,37 +1680,37 @@ any consolation, others have been here before, and the decline of white power
 in America is one peaceful tick of change in the ocean of our inflated
 self-importance. How many in those prior civilizations screamed that the end is
 nigh, yet the world has moved on, and they carry about themselves in it as
-routinely as the Earth revolves around the Sun? It's always irked me how any
+routinely as the earth revolves around the sun? It's always irked me how any
 mentioning the fall of the Roman Empire carries an air of puritanical
-nationalism, that it is with resignation that such greatness came to an end. It
-certainly was great, but we give the invaders who brought its fall the
-exceedingly flattering name of barbarians even though they too had families and
-lives, pursuing their interests just as the Romans theirs, and these barbaric
-tribes don't seem barbarians any longer when we name them properly: the Franks
-settling in modern France, the Visigoths in modern Spain, the ancestors of the
-moderns. We sympathize so intensely with the Romans because we see only one
-side, and the fact that we continue to use the word barbarians descends from
-this lineage—it's what the Romans called outsiders. It is worth reminding
-ourselves the truth Carl Sagan pointed out in COSMOS: "National boundaries are
-not evident when we view the Earth from space. Fanatical ethnic or religious or
-national chauvinisms are a little difficult to maintain when we see our planet
-as a fragile blue crescent fading to become an inconspicuous point of light
-against the bastion and citadel of the stars." That blue crescent formed
-4,500,000,000 years ago, of which we humans developed agriculture in the last
-12,000 and began laying the foundation for civilization. It is outright foolish
-to think that human culture has peaked and should change no further. The future
-of the country is diversity and what must happen: acceptance and unity, not
-separation and exclusion. Why not imagine a future where we contain Whitman's
-multitudes? Across canyons and valleys, lush green praries and eroded rock
-strewn over sand-blown desert, towering mesas and redwood forests, we find
-small towns and major metropolises decorating the land under the snow-capped
-mountains, for we are all of us American: brown and yellow and black and white
-and blue and red, bound not by prescriptions of the isolated echo chambers that
-came before but by a full forward march, hand in hand, towards a history that
-will bear our names in pioneering pride. When we were children we saw ourselves
-as adventurers and explorers, looking out at a world full of mystery, curious
-at everything, unafraid to learn, elated to be alive. Where has that sense of
-awe and wonder gone?
+nationalism, that it is with resentful resignation that such greatness came to
+an end. It certainly was great, but we give the invaders who brought its fall
+the exceedingly flattering name of barbarians even though they too had families
+and lives, pursuing their interests just as the Romans theirs, and these
+barbaric tribes don't seem barbarians any longer when we name them properly:
+the Franks settling in modern France, the Visigoths in modern Spain, the
+ancestors of the moderns. We sympathize so intensely with the Romans because we
+see only one side, and the fact that we continue to use the word barbarians
+descends from this lineage—it's what the Romans called outsiders. It is worth
+reminding ourselves the truth Carl Sagan pointed out in COSMOS: "National
+boundaries are not evident when we view the earth from space. Fanatical ethnic
+or religious or national chauvinisms are a little difficult to maintain when we
+see our planet as a fragile blue crescent fading to become an inconspicuous
+point of light against the bastion and citadel of the stars." That blue
+crescent formed 4,500,000,000 years ago, of which we humans developed
+agriculture in the last 12,000 and began laying the foundation for
+civilization. It is outright foolish to think that human culture has peaked and
+should change no further. The future of the country is diversity and what must
+happen: acceptance and unity, not separation and exclusion. Why not imagine a
+future where we contain Whitman's multitudes? Across canyons and valleys, lush
+green praries and eroded rock strewn over sand-blown desert, towering mesas and
+redwood forests, we find small towns and major metropolises decorating the land
+under the snow-capped mountains, for we are all of us American: brown and
+yellow and black and white and blue and red, bound not by prescriptions of the
+isolated echo chambers that came before but by a full forward march, hand in
+hand, towards a history that will bear our names in pioneering pride. When we
+were children we saw ourselves as adventurers and explorers, looking out at a
+world full of mystery, curious at everything, unafraid to learn, elated to be
+alive. Where has that sense of awe and wonder gone?
 
 <br>
 
