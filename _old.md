@@ -2036,9 +2036,9 @@ depths of consciousness is splayed in overbearing sweat and grime, or in
 Tarkovsky's STALKER which forces upon us the texture of time and the dread of
 liquid consciousness. How to capture life in film? Richard Linklater's BOYHOOD
 is wonderful in concept but failed to deliver the punch. It followed its actors
-over 13 years as they moved through life's stages, but the film's delivery
+over 12 years as they moved through life's stages, but the film's delivery
 lacks the wonder and elevation of universality, its scenes reading as a series
-of facts so proud of its idea that it hasn't bothered to put itself together
+of facts so proud of its idea that it hadn't bothered to put itself together
 into a vision, the film's primary fault being that the director was not strong
 enough. At the other end, Terrence Malick's TREE OF LIFE attempted to encompass
 so much of life it loses itself in airy voice-overs in an unfocused daydream
@@ -3555,7 +3555,7 @@ party, a beached whale, scuba diving in the lagoon, gazing outwards at the
 dappled skyscraper lights in the twilight cityscape from the top of the Empire
 State Building. Imagine what we write about: intrigue, mystery, cataclysm,
 swashbuckling drama, romance, adventure, fantasy, conjured fiction. The objects
-and events which atract our remembrances are not those that embody our lived
+and events which attract our remembrances are not those that embody our lived
 experience which bears the bulk of our hours and days but which are instead the
 rogue anomalies, sparkling and fanciful yet sparse and detached, unrealistic
 and unrepresentative. Why is it that we pay almost exclusive attention to those
