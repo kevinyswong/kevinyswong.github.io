@@ -845,8 +845,8 @@ and
 <a href="https://scholar.google.ca/citations?user=zg4U8MAAAAAJ&hl=en">Shyon Baumann</a>
 have
 <a href="https://www.journals.uchicago.edu/doi/10.1086/518923">found</a>
-that omnivores' aspirations towards distinction apply even the <i>writing</i> of
-food, specifically in American gourmet food culture, that omnivores aim to
+that omnivores' aspirations towards distinction apply even to the <i>writing</i>
+of food, specifically in American gourmet food culture, that omnivores aim to
 camouflage themselves as identifying with the common folk, yet this artifical
 disguise is precisely what signals their distinction:
 <blockquote>
