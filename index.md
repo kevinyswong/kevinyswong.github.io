@@ -8,6 +8,1263 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2023-06-22, 四. Some Thoughts on the Value of the Novel in the Twenty-first Century.</h4>
+Today's post is a collection of thoughts that have occurred to me at one point
+or another, some ideas and some questions I've considered, many of which I have
+not quite answered.
+
+The starting point is this question: why should someone read a novel given that
+modernity offers many other sources of pleasure? The basis for this question
+stems from the very real fact that we are all mortal, with finite timelines,
+and so we are each posed, consciously or not, with a question: what to occupy
+this timeline with? This question comes in the broad, abstract form of
+ideation, in planning for the future, of reconciling with the past, but also in
+the momentary decisions one makes as one goes through one's day. Within this
+context, the initial question arises again: why should one read a novel? The
+amount of time spent reading a novel could instead be allocated to any
+alternative, to any competing call for attention, for one's finite time. The
+immediate competitors to the novel are: streaming television and film,
+podcasts, natural language AI, yet this problem extends as well to non-verbal
+mediums: music, concerts and music festivals, theatre, concert dance, or more
+casual activities like catching up with a friend or meeting someone at a bar
+who has his or her own story which has the benefit of being real, not generated
+by someone's faulty imagination, or even some wholesome outdoors activity, or
+succumbing to the ever-distracting presence of social media. Reading a novel is
+incredibly impractical because it yields no material gain, no apparent benefit.
+Why should someone picking up a book, scrutinizing the pretty cover and
+skimming the summary and reviews on the back, assessing whether or not to buy
+it, be convinced that this book won't turn out to be a complete waste of time?
+It would hardly surprise anyone that literary readership has been declining
+over the years, as we shall we further below.
+
+To be clear, I am not saying that one should pick one activity to the exclusion
+of others, but that within one's lifetime, one is going to dabble in these
+various activities—and when it comes to enjoying things like novels, films, and
+music, readily accessible in the modern age, why settle for anything less than
+the best? Even the most avid reader is limited in how many books he or she can
+read in a lifetime. So then why pick this novel and not the one next to it on
+the shelf, or any other in the library or bookstore? Why read this author and
+not any other? Indeed, if one is a novelist, how can one know what one writes
+is not derivative or repetitive, not a mere echo of another novel which is
+already available at the nearest bookstore, or that what he writes will remain
+relevant in ten, twenty years? What new insights or ideas does this novel
+provide that hasn't already been said? How can a novelist be certain he is not
+an imbecile peddling egotism, proclaiming that his narrative is worth more
+attention than others, forgetting that everyone else also has a story and can
+also use words? I suppose it's a form of naivety or an arrogant ego to put out
+a novel and expect anyone to read it because one is asking the reader to spend
+some of his or her finite time on a humble, little novel rather than on
+Shakespeare or Dante or Proust or Cervantes. As Virginia Woolf writes in her
+essay HOW SHOULD ONE READ A BOOK?:
+<blockquote>
+Are they not criminals, books that have wasted our time and sympathy; are they
+not the most insidious enemies of society, corrupters, defilers, the writers of
+false books, faked books, books that fill the air with decay and disease? Let
+us then be severe in our judgments; let us compare each book with the greatest
+of its kind . . . And we may be sure that the newness of new poetry and fiction
+is its most superficial quality and that we have only to alter slightly, not to
+recast, the standards by which we have judged the old.
+</blockquote>
+
+If the conventional wisdom is that Americans at present are reading fewer books
+than earlier generations, how many people are still reading? I wish to start by
+mentioning a strange phenomenon: book sales, at least in recent years, are not
+declining. WordsRated
+<a href="https://wordsrated.com/book-sales-statistics/#:~:text=As%20of%202022%2C%20over%20788,the%20US%20in%20one%20year">charted</a>.
+how many printed books sold in the U.S. between 2018 and 2022, and the trend is
+not that book sales are definitively dropping, but that sales have been more or
+less consistent, rising some years and lowering in others, hovering around 750
+million sold per year. Yet according to a Gallup
+<a href="https://news.gallup.com/poll/388541/americans-reading-fewer-books-past.aspx">article</a>
+with data from 1990 to 2021, Americans are indeed reading fewer books—though
+according to this poll the decline is not precipitous, only lowering from an
+average of 15.3 in 1990 to 12.6 in 2021. The caveat, though, is that both of
+these numbers are generously high—the question Gallup used was an umbrella
+catch-all for "how many books [Americans] 'read, either all or part of the way
+through'", and these numbers are not limited to printed books, but "all forms
+of books, including printed books but also electronic books and audiobooks."
+The Gallup poll notes that this drop is not due to a broad drop in book
+readership across the population, but due primarily to a drop among avid
+readers: "The decline in book reading is mostly a function of how many books
+readers are reading, as opposed to fewer Americans reading any books . . . The
+drop is fueled by a decline in the percentage of Americans reading more than 10
+books in the past year." Yet Caleb Crain came to the opposite conclusion in an
+<a href="https://www.newyorker.com/culture/cultural-comment/why-we-dont-read-revisited">article</a>
+in The New Yorker: "[T]he average reading time of all Americans declined not
+because readers read less but because fewer people were reading at all, a
+proportion falling from 26.3 per cent of the population in 2003 to 19.5 per
+cent in 2016. You could call this a compositional effect, but it's a rather
+tautological one: reading is in decline because the population is now composed
+of fewer readers." This variance may be due to their different data collection
+methods; Gallup surveyed 811 participants by asking them over the phone how
+many books they read in the past year, while Crain, writing that, "It's pretty
+much useless to ask how many books somebody read last year, because almost
+nobody remembers, and many exaggerate, to seem smarter", used the annual
+<a href="https://beta.bls.gov/dataViewer/view/timeseries/TUU10101AA01006315;jsessionid=81D5747AEC421B2F66366EE6E20CA82B">data</a>
+since 2003 from the American Time Use Survey, which
+<a href="https://www.census.gov/programs-surveys/atus.html">asks</a>
+participants "to recall how [they] spent [their] time during the 24-hour period
+on the day before [their] interview." However, even this method isn't perfect,
+as Crain writes, "A subject who doesn't report any reading may not be a
+non-reader in any absolute sense. All we know for sure is that she didn't
+happen to do any reading on the day under scrutiny." Yet whatever the reason is
+for the diminishing readership numbers, this seems to be the consensus: book
+readership is on the decline. But why are book sales not matching that decline,
+that books are still selling fairly well even though fewer Americans are
+actually reading? LitHub points out this
+<a href="https://lithub.com/americans-are-buying-more-books-but-reading-fewer-of-them-than-ever-what-gives/">anomaly</a>,
+noting the book sales data from the Gallup poll above, then mentioning, "In
+fact, these days Americans are reading less than they have in over 30
+years . . . So what's going on here? Why are Americans buying more books, but
+actually reading fewer of them?" The article suggests some possible reasons,
+then lists some from their Slack channel, including a facetious comment, "books
+are only for taking photos of and posting to Instagram, not for reading,
+silly." And if that's one reason, who am I to judge? Perhaps
+<a href="https://scholar.google.com/citations?user=rahhbn0AAAAJ&hl=en">Erving Goffman</a>
+was right in 1956 when he wrote in THE PRESENTATION OF THE SELF IN EVERYDAY LIFE
+that:
+<blockquote>
+[A] Vogue model, by her clothing, stance, and facial expression, is able
+expressively to portray a cultivated understanding of the book she poses in her
+hand; but those who trouble to express themselves so appropriately will have
+very little time left over for reading . . . And so individuals often find
+themselves with the dilemma of expression versus action. Those who have the
+time to perform a task well may not, because of this, have the time or talent
+to make it apparent that they are performing well. It may be said that some
+organizations resolve this dilemma by officially delegating the dramatic
+function to a specialist who will spend his time expressing the meaning of the
+task and spend no time actually doing it.
+</blockquote>
+
+Again, I'm not judging; it's other people's lives, which is none of my business.
+I'm merely making an observation, suggesting it as perhaps a problem for
+novelists, one that should be addressed, and even then, it's not that I have
+any more than vague ideas moving forward. Whether or not people end up read the
+books they buy, the most popular books are starting to get self-conscious about
+saving the trees: according to an
+<a href="https://wordsrated.com/bestselling-books-have-never-been-shorter/">analysis</a>
+by WordsRated, New York Times bestsellers have been getting shorter,
+decreasing "by 51.5 pages from 2011 to 2021, from 437.5 to 386 (11.8%)." And
+what is the scope of the population that doesn't read? According to the Gallup
+poll, which uses the loose definition of reading as consuming in part or in
+whole any book form, 17% of Americans don't read at all, "a percentage that has
+held steady" between 1990 and 2021. This consistency is mirrored in a
+<a href="https://www.pewresearch.org/short-reads/2021/09/21/who-doesnt-read-books-in-america/">survey</a>
+from The Pew Research Center which uses same loose definition of reading as
+Gallup; the percentage itself is different, but the trend is the same: "The 23%
+of adults who currently say they have not read any books in the past year is
+identical to the share who said this in 2014." In a stricter conception of
+reading by WordsRated—which is obviously a research group that takes itself
+very seriously—oh, so serious!—defined as finishing a full book either in
+printed or ebook form, 51.57% of Americans have not read a single book in the
+past 12 months in a 2022
+<a href="https://wordsrated.com/american-reading-habits-study/">study</a>—maybe
+the folks in this survey weren't trying to seem smarter, perhaps because they,
+like WordsRated, take themselves very seriously.
+
+What are the costs of declining book readership? The National Endowment for the
+Arts issued in 2002 a
+<a href="https://www.arts.gov/sites/default/files/ReadingAtRisk.pdf">report</a>
+called, menacingly, READING AT RISK, using data collected by the Census Bureau
+at three points over the course of twenty years—in 1982, 1992, and 2002—to show
+the decline in literary reading, with the percentage of adults reading dropping
+from 56.9% to 54% to 46.7%. The report cautions:
+<blockquote>
+While oral culture has a rich immediacy that is not to be dismissed, and
+electronic media offer the considerable advantages of diversity and access,
+print culture affords irreplaceable forms of focused attention and
+contemplation that make complex communications and insights possible. To lose
+such intellectual capability – and the many sorts of human continuity it
+allows – would constitute a vast cultural impoverishment. More than reading is
+at stake. As this report unambiguously demonstrates, readers play a more active
+and involved role in their communities. The decline in reading, therefore,
+parallels a larger retreat from participation in civic and cultural life. The
+long-term implications of this study not only affect literature but all the
+arts – as well as social activities such as volunteerism, philanthropy, and
+even political engagement.
+</blockquote>
+
+—in short: The sky is falling! And so on. As the report suggests, there may
+indeed be a correlation between reading and participation the activities
+in "civic and cultural life," because their data "shows the levels
+of 'crossover' participation, that is, the number of literary readers who also
+participate in a range of additional cultural and leisure activities." According
+to the report:
+<blockquote>
+Analysis of the . . . data . . .  show that people who read literature are
+active, attending a variety of arts events, volunteering in their communities,
+and participating in sports. In fact, literary readers are much more likely to
+participate than those who do not read. For example, literary readers are
+nearly three times as likely to attend a performing arts event, almost four
+times as likely to visit an art museum, over two-and-a-half times as likely to
+do volunteer or charity work, over one-and-a-half times as likely to attend
+sporting events, and over one-and-a-half times as likely to participate in
+sports activities. In fact, people who read larger numbers of books tend to
+have the highest levels of participation in other activities, especially arts
+activities.
+</blockquote>
+
+The crossover effect may not be as dramatic as the report suggests. The report's
+tables do show that readers engage significantly more in those other
+activities, but correlations are not causations: more educated and more
+affluent folks, as the report points out as well, read more. They would also
+participate in those other activities at higher rates.
+
+Another possible cost of declining book readership: a 2016
+<a href="https://www.sciedu.ca/journal/index.php/ijba/article/view/9481/5736">paper</a>
+on graduate business students found a correlation between the complexity of
+students' reading with that of their writing:
+<blockquote>
+Our findings reveal strong correlations between students' most common reading
+content and their writing on widely-used measures of writing
+sophistication . . . Students who read academic journals, 'literary' fiction,
+or general non-fiction wrote with greater syntactic sophistication than
+students who read genre fiction (mysteries, fantasy, or science fiction) or
+exclusively web-based content aggregators like Reddit, Tumblr, and BuzzFeed. In
+fact, when we examined the scores on L2 measures of syntactic complexity,
+writing with the lowest syntactic complexity was associated with heavy or
+exclusive reading of web-based content from the likes of BuzzFeed, Tumblr, and
+Reddit. In contrast, students with the highest scores of syntactic complexity
+in their writing read academic journals more frequently than their peers . . .
+In particular, our ability to read and write involves Broca's area, which
+enables us to perceive rhythm and syntax; Wernicke's area, which impacts our
+perception of words and meaning; and the angular gyrus, central to our
+perception and use of language. In addition, Broca's and Wernicke's areas are
+wired together by a band of fibres, the arcuate fasciculus, while the angular
+gyrus itself sits as the junction between the occipital (visual functions) and
+temporal (auditory functions) intersect. This neuroanatomy may predispose even
+adults to mimicry and synchrony with the language they routinely encounter in
+their reading, directly impacting their writing.
+</blockquote>
+
+Neuroplasticity, as Nicholas Carr argues in THE SHALLOWS: WHAT THE INTERNET IS
+DOING TO OUR BRAINS, is how our mental capacities are growing more and more
+distracted, subject to superficial websurfing:
+<blockquote>
+Just as neurons that fire together wire together, neurons that don't fire
+together don't wire together. As the time we spend scanning Web pages crowds
+out the time we spend reading books, as the time we spend exchanging bite-sized
+text messages crowds out the time we spend composing sentences and paragraphs,
+as the time we spend hopping across links crowds out the time we devote to
+quiet reflection and contemplation, the circuits that support those old
+intellectual functions and pursuits weaken and begin to break apart. The brain
+recycles the disused neurons and synapses for other, more pressing work. We
+gain new skills and perspectives but lose old ones . . . The researchers found
+that when people search the Net they exhibit a very different pattern of brain
+activity than they do when they read a book-like text. Book readers have a lot
+of activity in regions associated with language, memory, and visual processing,
+but they don't display much activity in the prefrontal regions associated with
+decision making and problem solving. Experienced Net users, by contrast,
+display extensive activity across all those brain regions when they scan and
+search Web pages . . . But the extensive activity in the brains of surfers also
+points to why deep reading and other acts of sustained concentration become so
+difficult online . . . Whenever we, as readers, come upon a link, we have to
+pause, for at least a split second, to allow our prefrontal cortex to evaluate
+whether or nor we should click on it . . . [Comprehension] declined as the
+number of links increased. Readers were forced to devote more and more of their
+attention and brain power to evaluating the links and deciding whether to click
+on them.
+</blockquote>
+
+Be that as it may. I am not suggesting anyone take on the probably impossible
+task of withdrawing from technology altogether and become a cave-dwelling
+Luddite—the world will move on, technology will continue evolving, taking up a
+greater share of our lives as we become more dependent on it, however much any
+cantankerous curmudgeon complains about corrupting new technologies and
+disorderly younger generations, but that it may be worthwhile to recognize the
+costs and what it is that's changing. A further question: if writing levels are
+declining, who's to say assistant writing softare like Grammarly won't help? Or
+perhaps even generative AI? Maybe at some point we will have outsourced most of
+our writing to technology. An opinion
+<a href="https://www.sciencedirect.com/science/article/pii/S0268401223000233">paper</a>
+this year provokes the reader in the title: SO WHAT IF CHATGPT WROTE IT? The
+paper presents a long list of precautions, biases, and limitations, concluding
+with the thought that "it is imperative to enact new laws to govern these
+tools." But how well can ChatGPT write an academic paper? A recent radiology
+<a href="https://pubs.rsna.org/doi/full/10.1148/radiol.223312">article</a>
+was written mostly by ChatGPT, with the author,
+<a href="https://scholar.google.com/citations?user=37CkqwcAAAAJ&hl=en">Som Biswas</a>,
+then doing the editing. Biswas writes, perhaps not without protest by some
+readers, "Herein, we see that artificial intelligence has come to a level at
+par, if not above, human authors." ChatGPT itself describes how it can be used
+in medical writing: "A chatbot trained on medical writing could potentially
+assist a medical writer by generating draft text for a document . . . The
+writer could then review and edit the generated text as needed to ensure
+accuracy and clarity." Another recent
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4338981">article</a>,
+from
+<a href="https://scholar.google.com/citations?user=QNM0fKIAAAAJ&hl=en">Lea Bishop</a>,
+was written through a Socratic dialogue with ChatGPT, in which Bishop writes
+aggressively, though with a refreshingly honest directness, in the
+introduction:
+<blockquote>
+Your entire life experience up to this point in time is consistent with the
+belief that only human beings can compose 'natural-sounding' paragraphs. . . .
+Like the human evaluator proposed by Alan Turing, you were fooled. You were
+unable to distinguish ChatGPT from a human being. From this day forward, you
+will commonly be unable to distinguish a machine writer from a human one. This
+article will help you wrestle with that strange new reality.
+</blockquote>
+
+She then adds, "And in case you were wondering, I did in fact write the second
+and third paragraphs myself. You'll just have to take my word on that." If
+artificial intelligence writes better than humans, we may at least no longer
+have to suffer the fallibilities of unconsidered human-writing like garden-path
+sentences and what Helen Sword calls zombie nouns. As
+<a href="https://scholar.google.com/citations?user=bUhVerAAAAAJ&hl=en">Steven Pinker</a>
+writes, "[F]or every ambiguity that yields a coherent (but unintended)
+interpretation of the whole sentence, there must be thousands which trip up the
+reader momentarily, forcing her to backtrack and re-parse a few words." And
+what about longer pieces of writing? In the coming years, with improved
+versions, how well can ChatGPT write a novel? Would it just need some light
+editing by a human assistant? If you knew it was written by AI, would you read
+it? How can you tell? What about short, comforting, saccharine snippets of
+poetry? Would it matter? Would such a future be reprehensible?
+
+Let us now take a step back and situate the declining book readership problem
+within a societal context (I apologize if this section is long, as it's not the
+main concern in this post, but this grew and grew as I was writing it). No one
+likes to think about class or inequality; it simply is not pleasant to consider
+unequal access to resources due to causes not entirely under one's control, but
+its effects on book readership, among other things, are unignorable. The Pew
+study above mentions:
+<blockquote>
+Several demographic traits are linked with not reading books, according to the
+survey. For instance, adults with a high school diploma or less are far more
+likely than those with a bachelor's or advanced degree to report not reading
+books in any format in the past year (39% vs. 11%) . . . In addition, adults
+whose annual household income is less than $30,000 are more likely than those
+living in households earning $75,000 or more a year to be non-book readers
+(31% vs. 15%). Hispanic adults (38%) are more likely than Black (25%) or White
+adults (20%) to report not having read a book in the past 12 months.
+</blockquote>
+
+—the paragraph concludes with a sentence in parentheses: "The survey included
+Asian Americans but did not have sufficient sample size to do statistical
+analysis of this group."—hey, at least they tried. Crain's article in The New
+Yorker links to a
+<a href="https://vulcan.condenastdigital.com/tny-services/photos/5b215b032acbf821b1b753f2/master/pass/readingbyincomequartile.png">line chart</a>
+showing the average hours per day spent reading within each income quartile,
+based on data from the American Time Use Survey, with Crain summarizing it
+unsurprisingly as, "it turns out that the rich read more."
+
+As it happens, the link between class (here, I use the terms 'class'
+and 'status' colloquially and interchangeably, whereas in sociology the terms
+are distinct, as Weber defined class as an objective economic position and
+status as a subjective perception from social honor and prestige) and cultural
+consumption has been the subject of research. I wish to preface this section
+with the origin of this kind of research, because of its perpetual relevance
+and also because of the incisive writing whose truth has no doubt animated,
+inflamed, and penetrated no fewer than just a handful of bookish academics.
+Though earlier sociologists (Durkheim, Weber) had studied social class,
+empirical studies on the link between class and cultural consumption started
+with
+<a href="https://scholar.google.com/citations?user=d_lp40IAAAAJ&hl=en">Pierre Bourdieu</a>,
+whose book DISTINCTION: A SOCIAL CRITIQUE OF THE JUDGMENT OF TASTE (published in
+the original French in 1979 and translated into English in 1984) proposed the
+concept of cultural capital, among other forms of capital, and showed that
+differential preferences towards aesthetics, the arts, along with the different
+ways of self-presentation, of speaking, of familiarities, are segmented along
+class lines within a stratified society. Bourdieu described how the ruling
+upper class sustains class distinction in part through its dominant taste that
+is universally accepted in society as proper and legtimate. As Bourdieu writes:
+<blockquote>
+In fact, through the economic and social conditions which they presuppose, the
+different ways of relating to realities and fictions, of believing in fictions
+and the realities they simulate, with more or less distance and detachment, are
+very closely linked to the different possible positions in social space and,
+consequently, bound up with the systems of dispositions (habitus) characteristic
+of the different classes and class fractions. Taste classifies, and it
+classifies the classifier . . . The denial of lower, coarse, vulgar, venal,
+servile—in a word, natural—enjoyment, which constitutes the sacred sphere of
+culture, implies an affirmation of the superiority of those who can be
+satisfied with the sublimated, refined, disinterested, gratuitous,
+distinguished pleasures forever closed to the profane. That is why art and
+cultural consumption are predisposed, consciously and deliberately or not, to
+fulfil [sic] a social function of legitimating social differences.
+</blockquote>
+
+Bourdieu writes more specifically:
+<blockquote>
+It must never be forgotten that the working-class 'aesthetic' is a dominated
+'aesthetic' which is constantly obliged to define itself in terms of the
+dominant aesthetics. The members of the working class, who can neither ignore
+the high-art aesthetic, which denounces their own 'aesthetic', nor abandon
+their socially conditioned inclinations, but still less proclaim them and
+legitimate them . . .
+</blockquote>
+
+Within the research community, Bourdieu's thesis of high art and low art as
+understood, appreciated, and consumed by its corresponding social class is also
+called the homology argument, but in 1992 Richard Peterson and Albert Simkus
+introduced an alternative model, the omnivore-univore hypothesis, based on
+their
+<a href="https://books.google.com/books?hl=en&lr=&id=VHMhOCNyQ-kC&oi=fnd&pg=PA152&dq=peterson+simkus+omnivore&ots=hIZIHcHgMJ&sig=ZB3YcMwTjAr1H2-jfILfKF4-L-g#v=onepage&q&f=false">study</a>
+of musical taste among status groups. According to the paper:
+<blockquote>
+There is mounting evidence that high-status groups not only participate more
+than others do in high-status activites but also tend to participate more often
+in most kinds of leisure activities. In effect, elite taste is no longer
+defined as an expressed appreciation of the high art forms . . . Now it is
+being redefined as an appreciation of the aesthetics of every distinctive form
+along with an appreciation of the high arts.
+</blockquote>
+Peterson published another
+<a href="https://www.sciencedirect.com/science/article/abs/pii/0304422X9290008Q">paper</a>
+on the subject the same year, developing it further a few years later,
+<a href="https://www.jstor.org/stable/2096460">proposing</a>
+"a qualitative shift in the basis for marking elite status—from snobbish
+exclusion to omnivorous appropriation." It seems that the omnivore-univore
+model has gained acceptance as the prevailing representation, as suggested by
+this
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304422X07000186">paper</a>
+and the ones I'll mention below which build on the omnivore view. With this new
+representation, as we shall see, some details have changed, but the underlying
+motivation remains. As
+<a href="https://scholar.google.ca/citations?user=gZYGfFAAAAAJ&hl=en">Jerome Barkow</a>
+writes in a 1975
+<a href="https://www.jstor.org/stable/2741630">paper</a>:
+<blockquote>
+Whenever anthropologists discuss competition and jealousy, speak of potlatches
+or counting coups, describe displays of ritualized boasting and ostentation or
+even the emergence of social stratification, they are making a basic
+assumption: men seek prestige and status, deference and respect. Such an
+assumption calls not for challenge—there is no reason to suspect its
+validity—but for analysis.
+</blockquote>
+
+Who are these cultural omnivores? According to Peterson, the traditional
+highbrow exclusives have been replaced by these open, inclusive, accepting,
+egalitarian elites. But do these new elites harbor any desire for distinction?
+<a href="https://scholar.google.com/citations?user=O7OzM5wAAAAJ&hl=en">Tak Wing Chan</a>
+writes in a 2019
+<a href="https://onlinelibrary.wiley.com/doi/10.1111/1468-4446.12613">paper</a>
+seeking to answer this question:
+<blockquote>
+[T]here are two views on this matter. Under the first view, omnivores are
+essentially tolerant, cosmopolitan individuals who are generally open to
+different cultural styles. Under the second view, cultural omnivorousness is an
+expression of distinction, a new form of cultural capital, and a novel way to
+demonstrate cultural and social superiority.
+</blockquote>
+
+Some researchers advocate the second view, while Chan is among those who believe
+in the first, writing in the paper:
+<blockquote>
+[T]hese results suggest that omnivorousness is an expression of cosmopolitan
+postmaterialism rather than a new form of distinction . . . Having considered
+the evidence . . . it seems to me that the first view receives far more
+empirical support than does the second . . . [I]t would be unjustified to
+regard cultural omnivorousness as the symbolic expression of class domination
+or of status competition. Instead, it might be more useful to think along the
+following line. Some individuals are more open, tolerant and cosmopolitan than
+others.
+</blockquote>
+
+When he wrote this paper, Chan's view did not change from the initial conviction
+he had 13 years prior to the paper's publication, when in an earlier
+<a href="https://doi.org/10.1093/esr/jcl016">paper</a>,
+published in 2006, in which he, along with
+<a href="https://scholar.google.com/citations?user=1FgS9pkAAAAJ&hl=en">John Goldthorpe</a>,
+wrote that while "data adequate to test this possibility are not yet
+available":
+<blockquote>
+[S]o far as our present findings go, they incline us to favour the
+'self-realization' rather than the 'status competition' view . . . [W]e would
+believe that a rather radical rethinking is now required of the nature of
+status relations in modern societies, and likewise of the part played by
+differences in cultural consumption in these relations. We would ally
+ourselves with proponents of the omnivore–univore argument who claim that,
+whatever validity the ideas of symbolic 'struggle' and 'violence', as advanced
+by Bourdieu and his followers, may have had for the earlier history of modern
+societies, they appear out of place the contemporary world. However, new ideas
+are then needed. Thus, while in the case of present-day Britain, a status
+order can still be discerned, it would appear to be less sharply demarcated
+than previously; and there is other evidence to indicate that status
+differences are now less openly asserted from above or deferentially
+acknowledged from below. In turn, therefore, it could also be that the
+connection between status and cultural consumption is itself tending to
+weaken, and even on omnivore-univore lines.
+</blockquote>
+
+I suspect Chan has been unduly optimistic about what seems to be an
+inextinguishable component of human nature. Yet in the 2019 paper (the rest of
+this section on Chan's view is based on this paper, not the 2006 one), Chan
+recognizes that due to public disapproval, omnivores would not admit to holding
+superior tastes:
+<blockquote>
+[S]ince supercilious attitudes, or at least their public expression, have become
+less acceptable, omnivores are unlikely to admit to feeling superior to others.
+Moreover, they might not be fully aware of the status motivations that drive
+their cultural consumption. For these reasons, we do not have survey evidence
+that would directly reveal what omnivorousness means.
+</blockquote>
+
+He then describes the reasoning that led to his conclusion:
+<blockquote>
+Nonetheless, it is possible to determine whether cultural omnivores have a
+distinctive profile of attitudes in other domains. Such information will give
+us a sense of the kind of individuals omnivores are . . . [I]f cultural
+omnivorousness is, at its core, a form of distinction in the Bourdieusian
+sense, then we would expect omnivores to be quite status-conscious. In
+particular, when asked how they see themselves generally, i.e. outside the
+context of cultural consumption, we would expect education and occupation, the
+two most important status-conferring attributes to be especially salient to
+cultural omnivores.
+</blockquote>
+
+I have two qualms:
+
+1) His survey data is not relevant to his question
+
+The survey from which he obtains his data asks its respondents this question
+(trimmed to only the relevant variables that happened to be the first two):
+
+<blockquote>
+We’d like to know how important various things are to your sense of who you are.
+Please think about each of the following and tick the box that indicates
+whether you think it is very important, fairly important, not very important or
+not at all important to your sense of who you are. Please tick one answer on
+each line.
+
+1. Your profession?
+2. Your level of education?
+
+. . .
+</blockquote>
+
+Respondents fill out this survey at an arbitrary time in the course of their
+day. This is my question: would those who aspire to cultural distinction and
+who wish to maintain it remain aware of an attitude of superiority in every
+occasion, at every waking moment, unsolicited, not triggered by an awareness in
+relation to another's taste, and to such a degree that it would, just as
+continuously throughout the day, spill over to their regarding their profession
+and education as important? And this, by the way, would be among omnivores
+whose manifest appetite is variety and inclusiveness and acceptance of those
+from different backgrounds, who are additionally aware that "supercilious
+attitudes, or at least their public expression, have become less acceptable."
+In short, I disagree with Chan's claim that such data, obtained from omnivores
+"when asked how they see themselves generally, i.e. outside the context of
+cultural consumption", would be relevant to the question at hand—how omnivores
+signal their distinction.
+
+2) I disagree with his reasoning
+
+This is his reasoning translated into a form more analyzable: placing high
+importance on the self's (1) education and (2) occupation indicates
+status-consciousness, and, further, this status-consciousness reveals subtle
+aspiration towards cultural distinction. This is the logical progression on
+which Chan bases his conclusion that omnivores are not concerned with status
+competition. So if he doesn't find that omnivores place high importance on the
+self's education or occupation—and in the study he doesn't—then they must not
+be status-conscious about cultural distinction. Where I disagree is that the
+absence of highly valuing one's education or occupation does not necessitate a
+corresponding absence of status-consciousness.
+
+To be specific: what does he do in his study? Using latent class analysis on
+data of musical and visual arts consumption, he generated three latent classes:
+univores, omnivores, and paucivores (whose cultural consumption is in the
+modest middle between those of univores and omnivores). Then, using
+this "threefold typology" as the independent variable, he does regression
+analyses on 25 dependent variables, which are grouped into 7 domains, of which
+only one—sense of self, which includes how much respondents value their
+education and occupation—is relevant to my point, since it's the one Chan used
+to lead to his conclusion that omnivores disregard cultural distinction
+(he comes up with other conclusions in the paper). Chan, discovering that
+omnivores don't place greater importance on their education or occupation than
+univores or paucivores, leaps to the conclusion that they are not more
+status-conscious and therefore do not think their "cultural omnivorousness is
+an expression of distinction." It is this leap to the conclusion that I take
+issue with because many affluent folks these days prefer to be inconspicuous,
+don't identify with privilege, and may not think their education or occupation
+particularly important. Matthew Stewart describes these folks in an article in
+The Atlantic,
+<a href="https://www.theatlantic.com/magazine/archive/2018/06/the-birth-of-a-new-american-aristocracy/559130/">THE 9.9 PERCENT IS THE NEW AMERICAN ARISTOCRACY</a>,
+in which he writes:
+<blockquote>
+I've joined a new aristocracy now, even if we still call ourselves meritocratic
+winners . . . To be sure, there is a lot to admire about my new group, which
+I'll call—for reasons you'll soon see—the 9.9 percent. We've dropped the old
+dress codes, put our faith in facts, and are (somewhat) more varied in skin
+tone and ethnicity . . . It is in fact the top 0.1 percent who have been the
+big winners in the growing concentration of wealth over the past half
+century . . . Every piece of the pie picked up by the 0.1 percent, in relative
+terms, had to come from the people below. But not everyone in the 99.9 percent
+gave up a slice. Only those in the bottom 90 percent did . . . In between the
+top 0.1 percent and the bottom 90 percent is a group that has been doing just
+fine. It has held on to its share of a growing pie decade after decade. And as
+a group, it owns substantially more wealth than do the other two combined . . .
+You'll find the new aristocracy there. We are the 9.9 percent . . . So what
+kind of characters are we, the 9.9 percent? We are mostly not like those
+flamboyant political manipulators from the 0.1 percent. We're a well-behaved,
+flannel-suited crowd of lawyers, doctors, dentists, mid-level investment
+bankers, M.B.A.s with opaque job titles, and assorted other professionals—the
+kind of people you might invite to dinner. In fact, we're so self-effacing, we
+deny our own existence. We keep insisting that we're 'middle class.' . . . We
+gaze upon the 0.1 percent with a mixture of awe, envy, and eagerness to obey.
+As a consequence, we are missing the other big story of our time. We have left
+the 90 percent in the dust—and we've been quietly tossing down roadblocks
+behind us to make sure that they never catch up . . . In my family, Aunt Sarah
+was the true believer. According to her version of reality, the family name was
+handed down straight from the ancient kings of Scotland . . . The 9.9 percent
+are different. We don't delude ourselves about the ancient sources of our
+privilege. That's because, unlike Aunt Sarah and her imaginary princesses,
+we've convinced ourselves that we don't have any privilege at all.
+</blockquote>
+
+Chan notes in his paper that other researchers believe in the opposing view,
+that omnivorousness is the new marker for distinction. Because I know I have
+observed the finer points of courtesy and have not been obvious, I wish to make
+it known that I am also convinced of the opposing view. Chan acknowledges these
+other researchers in his paper (to adapt this quote from an academic paper to
+an internet page, I've taken out the year of publication and page numbers and
+added the link to the referred paper/book):
+<blockquote>
+Ollivier
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304422X08000077">asserts</a>
+that omnivorousness is "the new 'aesthetics of elite status' which replaced
+highbrow snobbishness as a means of class distinction." She maintains that it
+is 'a new form of cultural capital, in the Bourdieusian sense'. Warde et al.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304422X08000065">see</a>
+'more than a hint that in Britain an omnivorous orientation is itself a way
+of negotiating and demonstrating a form of distinction.' In a study of an elite
+boarding school in America, Khan
+<a href="https://press.princeton.edu/books/paperback/9780691156231/privilege">posits</a>
+that omnivorous consumption 'is itself a symbolic marker . . . this
+omnivorousness, become their own mark of distinction.' Similarly, Coulangeon
+<a href="https://journals.sagepub.com/doi/10.1177/1749975516680518">argues</a>
+that the '[c]ultural privilege of the elite [in France] seems to be increasingly
+defined by the combination of involvement in highbrow culture with openness to
+cultural diversity . . . it also goes hand in hand with a kind of
+self-segregation of the elite which is not fully consistent with the concept of
+cosmopolitanism . . . openness to cultural otherness is not incompatible with
+distance from the others.'
+</blockquote>
+
+To add more context, I wish to add a few more words from first two papers in the
+above paragraph. Michèle Ollivier writes:
+<blockquote>
+Openness to cultural diversity, I argue, represents a new aesthetics and a new
+ethos, but it builds upon, rather than displaces, the older categories of high
+and mass culture in which it remains thoroughly embedded. Far from being
+dismantled, social and artistic hierarchies are being reconfigured in more
+individualized ways. Modes of openness rest on different models of agency which
+are themselves hierarchized along class and gender lines.
+</blockquote>
+
+And
+<a href="https://scholar.google.com/citations?user=9N0Au5kAAAAJ&hl=en">Alan Warde</a>:
+<blockquote>
+[W]hilst there is strong evidence of a decline in overt snobbishness in the UK,
+there is also evidence that omnivores have a more intensive involvement
+with ‘legitimate’ culture which goes alongside a selective appropriation of
+popular culture. In particular their dislikes reveal limits to openness which
+imply, paradoxically, a role for an omnivorous orientation in processes of
+distinction.
+</blockquote>
+
+I wish to present the findings of a few researchers on the question of whether
+omnivorousness connotes an implicit status signal. Warde et al. also (the same
+authors as the above paper)
+<a href="https://journals.sagepub.com/doi/abs/10.1177/1749975507078185?journalCode=cusa">write</a>
+in a paper published in the year prior that although omnivores are more
+tolerant, their broad appetite may in fact be the new status signal:
+<blockquote>
+The evidence of our interviews is certainly that omnivorousness accompanies
+tolerance; there was no evidence of the drawing of cultural boundaries to
+exclude other social groups, and few indications of snobbishness when
+expressing personal cultural tastes. Yet at the same time, extensive engagement
+is probably now considered a marker of good taste . . . Most studies which have
+compared the patterns of participation of omnivores with those of more
+traditional fine arts audiences, have found that omnivores attend theatre,
+opera, classical concerts, etc. more than do those who restrict their
+activities to high culture. Competence in consecrated culture remains
+restricted to a limited segment of the middle class. That segment may now have
+wider tastes in addition, but command of consecrated culture remains a token of
+distinction which probably still operates effectively as a form of cultural
+capital.
+</blockquote>
+
+A
+<a href="https://journals.sagepub.com/doi/pdf/10.1111/j.1467-954X.2009.01880.x">paper</a>
+from
+<a href="https://scholar.google.com/citations?user=mqiacvcAAAAJ&hl=en">Gindo Tampubolon</a>
+provides an analysis that
+<blockquote>
+raise[s] questions about the omnivore-univore thesis and existing literature on
+cultural consumption. The findings also show that contrary to some recent
+studies, cultural consumption continues to be structured by social class. Most
+intriguing, however, is the result that culture is seen by avid cultural
+omnivores to be hierarchical. The received understanding of omnivores as
+tolerant and possessing inclusive tastes across culture hierarchy . . .
+diverges from evidence of both division within and culture hierarchy perceived
+by the omnivores. The apparent divergence can be resolved by acknowledging that
+the concept of omnivores as those whose tastes are inclusive pre-supposes and
+guarantees the existence of culture hierarchy.
+</blockquote>
+
+One
+<a href="https://www.cambridge.org/core/books/abs/social-status-and-cultural-consumption/status-class-and-culture-in-the-netherlands/0CC63C5F50FA3234D3CA3561B87E0404">paper</a>
+from
+<a href="https://scholar.google.com/citations?user=l8aM4jAAAAAJ&hl=en">Gerbert Kraaykamp</a>
+et al. is interesting because it distinguishes omnivores from highbrows
+exclusives, examining
+<blockquote>
+class and status effects on specific cultural activities as well as on patterns
+of cultural consumption by distinguishing four types of cultural consumer:
+omnivores, highbrows, univores and inactives.
+</blockquote>
+
+And how are omnivores and highbrows different? The authors write:
+<blockquote>
+Both of these taste patterns include highbrow culture, but the omnivore pattern
+is argued to be on the rise as new way to signal status, while the numbers of
+highbrow exclusivists are thought to be diminishing . . . The results . . .
+suggest that there is no status difference between cultural omnivores and
+highbrow 'snobs' . . . Engaging in popular culture as a highbrow participant
+does not seem to harm one's status, indicating that the omnivore taste patterns
+is by all means respectable, and even preferred among younger generations with
+ample economic resources who live in urban areas with generous cultural
+infrastructure.
+</blockquote>
+
+The paper notes that:
+<blockquote>
+the effects of class and status are strongest for highbrow activities. These
+are still very much socially stratified, thus contradicting bold arguments that
+class or status has become irrelevant for taste formation.
+</blockquote>
+
+A
+<a href="https://brill.com/view/journals/coso/12/2/article-p160_2.xml?language=en">paper</a>
+from
+<a href="https://scholar.google.com/citations?user=qgZ7mMkAAAAJ&hl=en">Jürgen Gerhards</a>
+et al.
+examining the relation between class membership and highbrow consumption in 27
+European countries found that, "In all of the countries considered, highbrow
+consumption is afffected by class position. Highbrow activities are typical
+among the upper social classes and form an essential part of a distinguished
+lifestyle." However, the paper also highlights the possibility of greater
+access: "Growing societal prosperity and increasing education, however, have
+two consequences: First, they enable a larger proportion of the population to
+participate in highbrow consumption. Second, these factors decrease the shaping
+influence of social class on highbrow lifestyles."
+
+But what is different about highbrow culture so that only the educated consume
+it? Kraaykamp et al.'s paper above notes that:
+<blockquote>
+As highbrow culture is often complex, innovative and/or experimental, specific
+competencies are needed to enjoy and comprehend it. Several scholars, however,
+also argue that aspects of prestige and honour are associated with the
+consumption of highbrow culture . . . The act of consuming cultural events may
+be perceived as a group-specific token to signal a certain status position to
+the outside world . . . In that respect, decisions on cultural choices often
+seem to reflect status considerations. Social differentiation in cultural
+tastes exists because there is mutual agreement on aesthetic standards and
+values within classes or social group.
+</blockquote>
+
+Bourdieu again:
+<blockquote>
+The hostility of the working class and of the middle-class fractions least rich
+in cultural capital towards every kind of formal experimentation asserts itself
+both in the theatre and in painting, or still more clearly, because they have
+less legitimacy, in photography and the cinema. In the theatre as in the
+cinema, the popular audience delights in plots that proceed logically and
+chronologically towards a happy end, and 'identifies' better with simply drawn
+situations and characters than with ambiguous and symbolic figures and actions
+or the enigmatic problems of the theatre of cruelty, not to mention the
+suspended animation of Beckettian heroes or the bland absurdities of
+Pinteresque dialogue. Their reluctance or refusal springs not just from lack of
+familiarity but from a deep-rooted demand for participation, which formal
+experiment systematically disappoints, especially when, refusing to offer
+the 'vulgar' attractions of an art of illusion, the theatrical fiction
+denounces itself, as in all forms of 'a play within a play.'
+</blockquote>
+
+More relevant to my original question, in a 2007
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304422X07000150">paper</a>,
+SOCIAL STRATIFICATION AND CULTURAL CONSUMPTION IN HUNGARY: BOOK READERSHIP,
+<a href="https://scholar.google.co.uk/citations?user=PmfqrPoAAAAJ&hl=en">Erzsébet Bukodi</a>
+examines the effects of statification specifically on book readership, writing:
+<blockquote>
+Results show that status, education and income are the three main bases for
+stratification in book reading in this country . . . People's reading behaviour
+is strongly associated both with their own and with their parents' social
+status . . .  Further, only individuals at the top of the status hierarchy
+possess an adequate amount of educational and financial resources to consume
+the most 'canonised' forms of culture; in this case, serious literature and
+work-related non-fiction texts.
+</blockquote>
+
+There's a stray case in Hungary in that it became a democratic country only
+recently, in 1989, so that differences in cultural consumption patterns among
+status groups can be studied. Bukodi released the same year as the paper above
+a
+<a href="https://cadmus.eui.eu/handle/1814/6925">working paper</a>,
+entitled SOCIAL STRATIFICATION AND CULTURAL PARTICIPATION IN HUNGARY: A
+POST-COMMUNIST PATTERN OF CONSUMPTION, about these changes since the fall of
+communism.
+
+First, it is interesting to note that even under communism, status competition
+remained a factor, as Bukodi writes:
+<blockquote>
+[T]he stratification of communist societies could be better described as a
+status order deriving from differentiation in education, occupational prestige
+and income, but one which incorporates inconsistencies, especially as regard
+occupational prestige and income. Consequently, individuals in high status
+positions could not always distinguish themselves by a high level of material
+consumption, and thus, for them, participation in high-brow cultural activities
+would appear to have been especially important and desirable . . . High-level
+professionals, high-ranking administrators and well-trained technocrats formed
+the 'knowledge class' of the 1970s and 1980s, and constituted a status group
+with its own cultural means of establishing social closure, in a rather similar
+way to that suggested by Bourdieu.
+</blockquote>
+
+Yet since the country transitioned to a democracy, the omnivore cultural
+pattern, as in other democratic countries, began to prevail:
+<blockquote>
+[W]hat is suggested is the emergence in the post-communist period of a new
+social strata whose members come from relatively advantaged backgrounds, who
+enjoy relatively high levels of both cultural and economic resources, and who
+seek to make the cultural omnivourousness in which they are able to engage —
+rather than exclusiveness — the crucial marker of the high status that they
+wish to maintain.
+</blockquote>
+
+In general, research papers examining the relation between omnivores and status
+often use data on musical taste or attendance at opera, ballet, theatre, and
+museums, but omnivores' preference for variety extends beyond traditional art
+forms. Warde et al. have
+<a href="https://www.jstor.org/stable/42856018">found</a>
+that omnivorousness and distinction applies as well to dining out and consuming
+ethnic food.
+<a href="https://scholar.google.com/citations?user=cyFm20AAAAAJ&hl=en">Josée Johnston</a>
+and
+<a href="https://scholar.google.ca/citations?user=zg4U8MAAAAAJ&hl=en">Shyon Baumann</a>
+have
+<a href="https://www.journals.uchicago.edu/doi/10.1086/518923">found</a>
+that omnivores' aspirations towards distinction apply even the <i>writing</i> of
+food, specifically in American gourmet food culture, that omnivores aim to
+camouflage themselves as identifying with the common folk, yet this artifical
+disguise is precisely what signals their distinction:
+<blockquote>
+[W]e identify a set of specific discursive strategies that food writers use in
+order to socially construct authenticity, and second, we show that authenticity
+is employed to provide distinction without overt snobbery . . .
+[T]he democratizing effects of an emphasis on authenticity are accompanied by
+distinction processes. Authentic food frames are inextricably involved in a
+discursive negotiation between ideologies of democracy and distinction. These
+ideologies are not either/or influences on the framing process, but interact in
+a dialectical tension. Authentic foods are frequently portrayed as more
+democratic—they are the foods of common, 'simple' people, produced and consumed
+in a 'simple' fashion, connected to age-old traditions, and frequently
+presented as superior to stuffy, rule-bound haute cuisine. The democratic
+nature of an emphasis on these qualities of food is made explicit in food
+writing. What is left implicit, however, is the exclusionary effect of an
+emphasis on authenticity . . . [A]uthentic food items are primarily accessible
+to cosmopolitan, upper-middle-class individuals with ample grocery budgets who
+are capable of extensive global travel, allowing them to eat only
+authentic 'Parma' ham or to acquire authentic fish sauce from a remote
+Vietnamese island . . . Although unusualness in general is highly valued, there
+is a particular type of unusualness that gourmet food writers value especially
+highly: unusualness caused by rarity, which allows a relatively subtle
+validation of distinction along with cultural and economic capital . . . In our
+view, omnivorousness as practiced in the American culinary field calls for a
+nuanced reading and analysis, rather than a refutation, of Bourdieu's work on
+social class and culture in general, and social class and food more
+specifically. The broadening of the culinary repertoire from a narrow and
+refined French canon to a world of authentic, exotic, yet still privileged food
+manages to preserve the essential qualities of food necessary for it to serve
+as cultural capital and distinction, despite democratic ideology condemning
+overt displays of cultural status.
+</blockquote>
+
+One paper from an economics and business perspective by South Korean researchers
+<a href="https://scholar.google.com/citations?user=C8ugyesAAAAJ&hl=en">Yoo Jin Kwon</a>
+and Kyoung-Nan Kwon finds implications of omnivorous distinction (maybe even
+some hypocritical humor?) in marketing:
+<blockquote>
+Our study revealed an interesting aspect of the social consciousness of
+omnivores: culturally tolerant people do, in fact, perceive taste
+hierarchically. We conclude this orientation as exclusively inclusive nature of
+educated tolerance in cultural issues. Omnivores' consumption styles and their
+self-perception of superior taste indicate that their prestige is sustained by
+their cultural styles, which are simultaneously broad and exclusive . . .
+Marketing communication should be tuned to both appreciation for cultural
+diversity and confidence in taste (i.e., superior self-perception). Our results
+show that conventional marketing messages emphasizing snobbish elitism or
+exclusive distinction is unlikely to appeal to these high-status
+individuals . . . American consumer culture now values adaptability to
+different cultural contexts and proficiency in the consumption of diverse
+values of commodities.
+</blockquote>
+
+I'm going to end this research section on cultural omnivores by referencing
+this
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304422X05000471">paper</a>
+by
+<a href="https://scholar.google.es/citations?user=tIQXT_QAAAAJ&hl=en">Jordi Lopez Sintas</a>
+and
+<a href="https://scholar.google.com/citations?user=E_lEjjgAAAAJ&hl=en">Tally Katz-Gerro</a>.
+I don't think the paper itself is particularly interesting, as it doesn't come
+up with strong conclusions. It uses the 20-year dataset from the National
+Endowment of the Arts mentioned earlier and observes the rises and falls of
+cultural consumption across categories, coming up with two new taste patterns:
+quasi-omnivorous and entertainment, which like most research doesn't build
+traction. What I find interesting is something in the title: FROM EXCLUSIVE TO
+INCLUSIVE ELITISTS—omnivores are elitists, whether exclusive or inclusive,
+whether or not they identify with that label.
+
+This cultural snobbery is related to the present political polarization. A large
+part of it stems from a geographic divide between urban and rural areas, and it
+has been observed in the Netherlands too, as Kraaykamp et al. in the paper
+above write:
+<blockquote>
+According to Bourdieu . . .  a person's leisure is commensurate to a person's
+job. Thus, manual workers who use their muscles are more interested in
+activities contesting physical strength, whereas persons in intellectually
+demanding jobs are more likely to participate in activities testing
+information-processing capabilities . . . If we compare the univores with the
+omnivores, we see that coming from a more rural area raises the odds of being a
+univore. Here, supply side effects may be the explanation; pop concerts are
+found over virtually all the country, whereas highbrow culture is mostly
+located in urban areas.
+</blockquote>
+
+In the American case,
+<a href="https://www.hoover.org/profiles/victor-davis-hanson">Victor Davis Hanson</a>
+writes in THE CASE FOR TRUMP:
+<blockquote>
+The new divide . . . is becoming far more encompassing, especially since 2008.
+It is an ominous one of an estranged middle class and increasingly expressed in
+political, cultural, social, and—most alarmingly—geographic terms . . .
+[T]he so-called blue-state model of socia media, steep taxes, big government,
+social liberty, smaller families, sophisticated culture, and high incomes has
+become the more culturally influential . . . The great universities . . . are
+on the coasts. They hone the skills necessary to do well from globalized
+commerce and trade. When I dine on University Avenue in Palo Alto, the food,
+the ambiance, and the people's diction and dress might as well be on Mars, so
+foreign are they when compared to eating out in my rural hometown, three
+hours—and a world away—south of Fresno, California . . . American muscular jobs
+and smokestack industries began disappearing as the world became more
+connected . . . The resulting stagnation in the hinterland was almost justified
+by elites as an 'I warned you' sort of morality . . . The former nobility of
+muscular labor and hard physical work transmogrified into foolish adherence to
+mindless drudgery. Confident coastal affluence and chic were seen as almost
+preordained, or at least the proper rewards for the right people. Trump saw
+that by championing the 'forgotten man,' he was not so easily caricatured as a
+heartless Mitt Romney or rich man Jeb Bush . . . The condescending blue-state
+narrative was almost as if opioids and trailer houses had driven away hardware
+stores, 160-acre farms, and tire factories, rather than the globalized
+disappearance of jobs fueling the malaise of the unemployed . . . Gentrification
+and the gospel of good taste spread. Blue states began to focus on the cultural
+concerns and lifestyles of the upscale, and on generous state sustenance of the
+poor and often minority. Privilege and success were camouflaged by a veneer of
+trendy progressive politics . . . Coastal elites rarely seemed to stop, reflect,
+and ask themselves by what particular standard they were dismissing those of
+the interior, much less whether their contempt was only fueling ever greater
+countercontempt.
+</blockquote>
+
+When Trump was still in office, Alissa Quart
+<a href="https://www.theguardian.com/us-news/2017/jun/22/new-york-city-elite-american-resentment">wrote</a>
+in The Guardian:
+<blockquote>
+[Cultural inequality] is one way to understand the suspicion a chunk of
+Americans have – correct or not – that only a small, elite slice of the country
+defines what tastes and values are acceptable . . . Kathy J Cramer, a political
+scientist at the University of Wisconsin, has seen this sentiment in her
+fieldwork. 'The feeling of cultural inequality comes out of the perception that
+it is urban culture that gets everything,' she says, meaning that her interview
+subjects feel that cities are receiving inordinate financial rewards as well as
+media attention and cultural respect . . . [A] cultural elite may be disliked
+for reasons that are as not particularly economic: college professors, experts,
+NGO staffers and psychotherapists are not corporate titans, after all . . .
+Trump and his family may be mining this anti-elite anger, but they are, of
+course, preposterously upscale, living in Trump Tower, attending expensive
+private schools, flying about in private jets (now with in-flight Secret
+Service) and dining in five-star restaurants. Part of how they've gotten away
+with it is that they, like Bank of America, are part of a corporate elite
+rather than cultural elite. And nowadays the cultural elite can have a markedly
+different ethos than its corporate brethren.
+</blockquote>
+
+That's quite enough context. I wish to add a few of my own thoughts on the
+matter of what may be called a highbrow elite, of cultural snobbery which is
+related to coastal, urban snobbery, based not on empirical prevalence but on
+ideological ideals, and perhaps this criticism is part of my own reflection,
+but it may perhaps be of use as well to some stray literary critic, or a
+producer of highbrow art, in whatever form it may be, or a serious connoisseur
+of the arts, or an English professor who shudders at the mere thought of the
+digital humanities providing any value, amenable to a more expansive view.
+
+For someone to maintain a sense of taste and preference in creative products is
+perhaps natural, inevitable, necessary, but to additionally harbor a sense of
+literary or artistic or musical superiority—snobbery—towards those who lack
+familiarity through adequate exposure with what are conventionally considered
+the aspirational variants—literary fiction, poetry, classical music, arthouse
+film—would be inappropriate, improper, because such an attitude amounts to what
+Bourdieu called symbolic violence, of class distinction and class maintenance.
+At a time when inequality in the country is especially pronounced, such an
+attitude constitutes kicking someone when the person is already down. If this
+is the decent perspective given the context, then a further question arises: is
+it possible for someone to maintain a private, individual preference for what
+would be categorized as high culture without also sustaining some condescension
+towards forms which one simply doesn't enjoy, without also thereby letting
+one's preferences color one's social relations? Is such a preference simply a
+matter of taste, or is such taste, enjoyed by those who tend to be affluent and
+educated or by those who wish to associate with such people, never innocent
+from implicit class violence? Can someone from the upper middle class,
+possessing broad cultural awareness, inhibiting himself from indulging freely
+in his whims as he converses with someone from the working class, having only
+the best of intentions, doing his best to extend common courtesy with a
+generous smile, and politely dodging topics that demand the trouble of a
+lengthy explanation and risk coming across as arrogant, be said to be free of
+symbolic violence? Are class divides ever except from class violence? As
+William James writes in THE PRINCIPLES OF PSYCHOLOGY:
+<blockquote>
+Properly speaking, a man has as many social selves as there are individuals who
+recognize him and carry an image of him in their mind . . . But as the
+individuals who carry the images fall naturally into classes, we may
+practically say that he has as many different social selves as there are
+distinct groups of persons about whose opinion he cares. He generally shows a
+different side of himself to each of these different groups . . . We do not
+show ourselves to our children as to our club-companions, to our customers as
+to the laborers we employ, to our own masters and employers as to our intimate
+friends. From this there results what practically is a division of the man into
+several selves.
+</blockquote>
+
+Or as Thomas Hobbes writes in LEVIATHAN:
+<blockquote>
+I say the similitude of passions, which are the same in all men,—desire, fear,
+hope, etc.; not the similitude of the objects of the passions, which are the
+things desired, feared, hoped, etc.: for these the constitution individual,
+and particular education, do so vary, and they are so easy to be kept from our
+knowledge, that the characters of man's heart, blotted and confounded as they
+are with dissembling, lying, counterfeiting, and erroneous doctrines, are
+legible only to him that searcheth hearts.
+</blockquote>
+
+Or as Santayana, writing most recently of these three, which seems like only
+yesterday—yes, I wrote this entire post in one day—wrote in 1922:
+<blockquote>
+But whether the visage we assume be a joyful or a sad one, in adopting and
+emphasizing it we define our sovereign temper. Henceforth, so long as we
+continue under the spell of this self-knowledge, we do not merely live but act;
+we compose and play our chosen character, we wear the buskin of deliberation,
+we defend and idealize our passions, we encourage ourselves eloquently to be
+what we are, devoted or scornful or careless or austere; we soliloquize
+(before an imaginary audience) and we wrap ourselves gracefully in the mantle
+of our inalienable part. So draped, we solicit applause and expect to die amid
+a universal hush. We profess to live up to the fine sentiments we have uttered,
+as we try to believe in the religion we profess. The greater our difficulties
+the greater our zeal. Under our published principles and plighted language we
+must assiduously hide all the inequalities of our moods and conduct, and this
+without hypocrisy, since our deliberate character is more truly ourself than is
+the flux of our involuntary dreams. The portrait we paint in this way and
+exhibit as our true person may well be in the grand manner, with column and
+curtain and distant landscape and finger pointing to the terrestrial globe or
+to the Yorick-skull of philosophy; but if this style is native to us and our
+art is vital, the more it transmutes its model the deeper and truer art it will
+be. The severe bust of an archaic sculpture, scarcely humanizing the block,
+will express a spirit far more justly than the man's dull morning looks or
+casual grimaces. Every one [sic] who is sure of his mind, or proud of his
+office, or anxious about his duty assumes a tragic mask. He deputes it to be
+himself and transfers to it almost all his vanity. While still alive and
+subject, like all existing things, to the undermining flux of his own
+substance, he has crystallized his soul into an idea, and more in pride than in
+sorrow he has offered up his life on the altar of the Muses. Self-knowledge,
+like any art or science, renders its subject-matter in a new medium, the medium
+of ideas, in which it loses its old dimensions and its old pace. Our animal
+habits are transmuted by conscience into loyalties and duties, and we
+become 'persons' or masks. Art, truth, and death turn everything to marble.
+</blockquote>
+
+What matters the writings of Borges, Umberto Eco, Paul Celan, Osip Mandelstam,
+and of James Joyce and T.S. Eliot, cloistered in layers of difficulty, even
+esoterica, if their delights and clarities remain hidden behind unscalably high
+walls of self-enforced exclusivity, their efforts and works known to only a few
+who bear amongst themselves a pride of cultivated refinement and in-group
+identification? And carry that pride they will, well along the silent corridors
+of the library stacks, as stately and noble as they are deathly still, scarcely
+another soul in sight.
+
+Didn't a famous physicist say that any idea, however complicated, if adequately
+understood, can be explained simply? Why shouldn't this concept apply also to
+the simplest of things, mere stories, the nature of which are rather basic, the
+very stuff anyone can tell and understand? Is it possible to merge the
+accessibility of popular entertainment with the elevated poignance, the crisp
+individualist expressiveness, the fresh innovative spirit, the novelty and
+radiant, unfortunate truths, those characteristics of writing traditionally
+considered highbrow and exclusive? Instead of remaining caged within one's
+chosen discernment, selecting a particular audience, why not choose instead to
+expose the broader public to possibilities beyond a myopic horizon, the same
+old, same old, to unorthodox tastes, to flagrant new flavors, to let them judge
+whether these renditions are not better? After all, a classically trained
+pianist playing at Carnegie Hall does not also expect everyone in the audience,
+though able to enjoy music, to have studied it. Why should a writer impose the
+corresponding requirement on the reader? I bounced this idea off a poet, who
+concluded his long, recalcitrant response with the proverb: "a little knowledge
+is a dangerous thing." When he walked away, I had no decent reply, but half an
+hour later, some staircase wit dawned on my apparently feeble mind. My response
+is based on the popular question: if a tree falls in the forest when no one's
+around, does it make a sound?—
+
+poems printed on what paper<br>
+cryptic like morning vapor<br>
+wait! what's that sound?<br>
+a symphony in brass<br>
+or just a head full of gas
+
+The contemporary competition in an oversaturated market between elites, between
+elites and counter-elites, the status competition in its various forms:
+financial, intellectual, artistic, and through educational credentials, through
+what
+<a href="https://scholar.google.com/citations?user=W0C05zIAAAAJ&hl=en">Peter Turchin</a>
+calls elite overproduction, perhaps matters little to the many more who are
+locked out of this competition, not having the means in the first place to
+participate. As Hesse writes in THE GLASS BEAD GAME, though for a different
+context, "But not everyone can spend his entire life breathing, eating, and
+drinking nothing but abstractions . . . Abstractions are fine, but I think
+people also have to breathe air and eat bread." It is important to keep in mind
+that income and status do not necessarily correspond to positive contributions
+to society—some occupations, prestigious or not, demanding or not,
+well-compensated or not, may well be effectively just taking up space, making
+some noise, and giving the impression that work is being done, as David Graeber
+describes in his undeniably subtle book BULLSHIT JOBS. Sally Rooney
+<a href="https://thedublinreview.com/article/even-if-you-beat-me/">writes</a>
+of her experience debating:
+<blockquote>
+Coming face to face with the irrelevance of your own strivings demands some kind
+of response. You can wallow in the pretend celebrity if you want, continue
+attending competitions every weekend and dutifully appearing in selfies with
+beaming novices, in the belief that you are actually important. Or you can
+self-justify in the guise of getting some perspective: maybe try thinking of
+reasons why your particular niche is actually of great cultural significance,
+or ways in which your skill set applies to 'real life' . . . Participation in a
+game, any kind of game, gives you new ways of perceiving others. Victory only
+gives you new ways of perceiving yourself.
+</blockquote>
+Or as Vladimir says in
+Beckett's WAITING FOR GODOT: "That passed the time."
+
+But back to the original question, of the novel's precarious place in modernity,
+embattled on all sides by newer delights, slowly waning into irrelevance. It is
+my general view that the proper response to a formidable challenge, whatever it
+may be, is to take the trouble to confront it, to open up one's old habits and
+ingrained perspectives to the possibility of change and improvement, to
+self-assessment, to comparison, so that at the end of that endeavor one emerges
+better than before, matured and humbled and aware of broader horizons, not to
+retreat or cower behind an isolated, sheltered reprieve whose comfort and
+relief are of the temporary and fragile sort. A satisfactory solution, once
+attained, applies everywhere and always until challenged again, and does not
+float above a thin veil of willed neglect below which lies an emptiness and
+decrepitude afraid to encounter light. When that challenge remains unresolved,
+one feels uncomfortable, as one should. My view is that the sense of reward and
+gratification come after having attained that solution, not before, not in the
+unsustainable form of illusory success and wishful thinking, of patting oneself
+on the back when just outside one's window, the harsh reality encroaches by the
+minute. Applied to the question at hand, my view is that the novel must be able
+to compete against its multiple modern competitors—streaming television,
+on-demand films, natural language AI, social media—because why should I sit
+down to read a 500-page novel after finishing work for the day if I find
+greater pleasure, meaning, and happiness just enjoying myself with easy
+entertainment? Why should a novelist expect this of anyone else? I can buy a
+book, but if I don't proceed to read it, putting it off to some other day,
+then again and again, it's just some decoration sitting on a table. Perhaps it
+is a form of respect for others to not generate random noise hurled into the
+wind, expecting others to listen, imposing upon them one's arbitrary whims and
+feel entitled to their time.
+
+Putting aside the highbrow considerations for a moment, let's consider that book
+readership outside of school is declining among children, about which Katherine
+Marsh wrote an
+<a href="https://www.theatlantic.com/books/archive/2023/03/children-reading-books-english-middle-grade/673457/">article</a>
+earlier this year in The Atlantic, referencing
+<a href="https://static1.squarespace.com/static/589c9a6be6f2e10ec8f0b764/t/62e480ac2af198075148954f/1659142318613/Among+many+U.S.+children%2C+reading+for+fun+has+become+less+common+_+Pew+Research+Center.pdf">data</a>
+from Pew, which, Marsh writes, "showed that the percentages of 9- and
+13-year-olds who said they read daily for fun had dropped by double digits
+since 1984." What's the cause? According to Marsh:
+<blockquote>
+The ubiquity and allure of screens surely play a large part in this—most
+American children have smartphones by the age of 11—as does learning loss
+during the pandemic. But this isn't the whole story . . . I recently spoke with
+educators and librarians about this trend, and they gave many explanations, but
+one of the most compelling—and depressing—is rooted in how our education system
+teaches kids to relate to books . . . In New York, where I was in public
+elementary school in the early '80s, we did have state assessments that tested
+reading level and comprehension, but the focus was on reading as many books as
+possible and engaging emotionally with them as a way to develop the requisite
+skills. Now the focus on reading analytically seems to be squashing that
+organic enjoyment . . . We need to meet kids where they are; for the time
+being, I am writing stories that are shorter and less complex. At the same
+time, we need to get to the root of the problem, which is not about book
+lengths but the larger educational system. We can't let tests control how
+teachers teach: Close reading may be easy to measure, but it's not the way to
+get kids to fall in love with storytelling.
+</blockquote>
+
+If the educational system is one culprit, some may suggest that its emphasis on
+testing hinders not only teaching reading but also that of history, math, and
+science—what's the point of blindly memorizing facts or mechanically solving
+equations as if Google or calculators don't exist when soon after graduation
+students with the grace of natural amnesia forget their classroom lessons with
+jaw-dropping haste, their only takeaway a bitter recollection of how learning
+is not fun or satisfying? This is an interesting question, but this topic is
+beyond the scope of this post. An extension of the question: what's the point
+of reading a book if it leaves such a scant impact that the reader forgets
+about it a few months, or even a few days, later? I don't have the answer, but
+let's return briefly to Woolf's HOW SHOULD ONE READ A BOOK?:
+<blockquote>
+In the first place, I want to emphasize the note of interrogation at the end of
+my title. Even if I could answer the question for myself, the answer would
+apply only to me and not to you. The only advice, indeed, that one person can
+give another about reading is to take no advice, to follow your own instincts,
+to use your own reason, to come to your own conclusions . . . To admit
+authorities, however heavily furrowed and gowned, into our libraries and let
+them tell us how to read, what to read, what value to place upon what we read,
+is to destroy the spirit of freedom which is the breath of those sanctuaries.
+Everywhere else we may be bound by laws and conventions—there we have none.
+</blockquote>
+
+Or, alternatively, Kazuo Ishiguro says:
+<blockquote>
+I've been emphasising here the small and the private, because essentially that's
+what my work is about. One person writing in a quiet room, trying to connect
+with another person, reading in another quiet—or maybe not so quiet—room.
+Stories can entertain, sometimes teach or argue a point, but for me the
+essential thing is that they communicate feelings, that they appeal to what we
+share as human beings across our borders and divides. There are large glamorous
+industries around stories: the book industry, the movie industry, the
+television industry, the theatre industry. But in the end, stories are about
+one person saying to another: This is the way it feels to me. Can you
+understand what I'm saying? Does it also feel this way to you?
+</blockquote>
+
+Long-form writing, whether in a novel or critical essay, if it is to have value
+beyond the author's monologue, must hold it own. If it cannot, it is not long
+for this world, and nor should it be. What does the novel as a medium offer
+which others do not that warrants its continued existence? The novel lacks the
+flowing melodies of music and the visual splendors of film and the dramatic
+delivery of a speech by a flesh-and-blood actor on stage—the novel is,
+truthfully, a bland affair of printed, flat words on a stale page, often
+ensconced in a thick tome of yawning intimidation. Novelists, and poets too,
+have just one tool at their disposal: words—and through words must flow in
+worlds and images, music and silence, company and solitude, reveries and
+quietude and rambunctious dissipation—all the while remaining approachable,
+humble, accessible, amusing to the sensibilities yet sober, penetrating,
+relatable, grounded in reality, unveiling insights as only a novel can, that
+which is unable to be found anywhere else. Death, then, to the novels unable to
+do so. The modern novelist is tasked with the burden of handling not only the
+competition from other novels but also the more immediate gratifications from
+other mediums, to use words to keep all else at bay, to say: words alone must
+suffice.
+
+<br>
+
 <h4>2021-07-10, 六.</h4>
 stumbling onto a fishing pier, black night surround<br>
 San Diego after tourists retreat<br>
