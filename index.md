@@ -911,10 +911,10 @@ I don't think the paper itself is particularly interesting, as it doesn't come
 up with strong conclusions. It uses the 20-year dataset from the National
 Endowment of the Arts mentioned earlier and observes the rises and falls of
 cultural consumption across categories, coming up with two new taste patterns:
-quasi-omnivorous and entertainment, which like most research doesn't build
-traction. What I find interesting is something in the title: FROM EXCLUSIVE TO
-INCLUSIVE ELITISTS—omnivores are elitists, whether exclusive or inclusive,
-whether or not they identify with that label.
+quasi-omnivorous and entertainment, which like most research probably won't
+acquire traction. What I find interesting is something in the title: FROM
+EXCLUSIVE TO INCLUSIVE ELITISTS—omnivores are elitists, whether exclusive or
+inclusive, whether or not they identify with that label.
 
 This cultural snobbery is related to the present political polarization. A large
 part of it stems from a geographic divide between urban and rural areas, and it
