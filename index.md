@@ -939,7 +939,7 @@ writes in THE CASE FOR TRUMP:
 The new divide . . . is becoming far more encompassing, especially since 2008.
 It is an ominous one of an estranged middle class and increasingly expressed in
 political, cultural, social, and—most alarmingly—geographic terms . . .
-[T]he so-called blue-state model of socia media, steep taxes, big government,
+[T]he so-called blue-state model of social media, steep taxes, big government,
 social liberty, smaller families, sophisticated culture, and high incomes has
 become the more culturally influential . . . The great universities . . . are
 on the coasts. They hone the skills necessary to do well from globalized
@@ -1018,8 +1018,8 @@ educated or by those who wish to associate with such people, never innocent
 from implicit class violence? Can someone from the upper middle class,
 possessing broad cultural awareness, inhibiting himself from indulging freely
 in his whims as he converses with someone from the working class, having only
-the best of intentions, doing his best to extend common courtesy with a
-generous smile, and politely dodging topics that demand the trouble of a
+the most generous of intentions, doing his best to extend common courtesy with
+a generous smile, and politely dodging topics that demand the trouble of a
 lengthy explanation and risk coming across as arrogant, be said to be free of
 symbolic violence? Are class divides ever except from class violence? As
 William James writes in THE PRINCIPLES OF PSYCHOLOGY:
