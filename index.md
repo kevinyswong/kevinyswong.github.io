@@ -70,7 +70,7 @@ If the conventional wisdom is that Americans at present are reading fewer books
 than earlier generations, how many people are still reading? I wish to start by
 mentioning a strange phenomenon: book sales, at least in recent years, are not
 declining. WordsRated
-<a href="https://wordsrated.com/book-sales-statistics/#:~:text=As%20of%202022%2C%20over%20788,the%20US%20in%20one%20year">charted</a>.
+<a href="https://wordsrated.com/book-sales-statistics/#:~:text=As%20of%202022%2C%20over%20788,the%20US%20in%20one%20year">charted</a>
 how many printed books sold in the U.S. between 2018 and 2022, and the trend is
 not that book sales are definitively dropping, but that sales have been more or
 less consistent, rising some years and lowering in others, hovering around 750
@@ -526,10 +526,9 @@ Please think about each of the following and tick the box that indicates
 whether you think it is very important, fairly important, not very important or
 not at all important to your sense of who you are. Please tick one answer on
 each line.
-
-1. Your profession?
-2. Your level of education?
-
+<br><br>
+1. Your profession?<br>
+2. Your level of education?<br>
 . . .
 </blockquote>
 
@@ -653,7 +652,8 @@ are themselves hierarchized along class and gender lines.
 </blockquote>
 
 And
-<a href="https://scholar.google.com/citations?user=9N0Au5kAAAAJ&hl=en">Alan Warde</a>:
+<a href="https://scholar.google.com/citations?user=9N0Au5kAAAAJ&hl=en">Alan Warde</a>
+et al.:
 <blockquote>
 [W]hilst there is strong evidence of a decline in overt snobbishness in the UK,
 there is also evidence that omnivores have a more intensive involvement
@@ -798,9 +798,8 @@ work-related non-fiction texts.
 </blockquote>
 
 There's a stray case in Hungary in that it became a democratic country only
-recently, in 1989, so that differences in cultural consumption patterns among
-status groups can be studied. Bukodi released the same year as the paper above
-a
+recently, in 1989, so the changes in cultural consumption patterns among status
+groups can be studied. Bukodi released the same year as the paper above a
 <a href="https://cadmus.eui.eu/handle/1814/6925">working paper</a>,
 entitled SOCIAL STRATIFICATION AND CULTURAL PARTICIPATION IN HUNGARY: A
 POST-COMMUNIST PATTERN OF CONSUMPTION, about these changes since the fall of
