@@ -273,9 +273,9 @@ greater share of our lives as we become more dependent on it, however much any
 cantankerous curmudgeon complains about corrupting new technologies and
 disorderly younger generations, but that it may be worthwhile to recognize the
 costs and what it is that's changing. A further question: if writing levels are
-declining, who's to say assistant writing softare like Grammarly won't help? Or
-perhaps even generative AI? Maybe at some point we will have outsourced most of
-our writing to technology. An opinion
+declining, who's to say assistant writing software like Grammarly won't help?
+Or perhaps even generative AI? Maybe at some point we will have outsourced most
+of our writing to technology. An opinion
 <a href="https://www.sciencedirect.com/science/article/pii/S0268401223000233">paper</a>
 this year provokes the reader in the title: SO WHAT IF CHATGPT WROTE IT? The
 paper presents a long list of precautions, biases, and limitations, concluding
@@ -323,7 +323,7 @@ poetry? Would it matter? Would such a future be reprehensible?
 
 Let us now take a step back and situate the declining book readership problem
 within a societal context (I apologize if this section is long, as it's not the
-main concern in this post, but this grew and grew as I was writing it). No one
+main concern of this post, but this grew and grew as I was writing it). No one
 likes to think about class or inequality; it simply is not pleasant to consider
 unequal access to resources due to causes not entirely under one's control, but
 its effects on book readership, among other things, are unignorable. The Pew
@@ -351,7 +351,7 @@ unsurprisingly as, "it turns out that the rich read more."
 As it happens, the link between class (here, I use the terms 'class'
 and 'status' colloquially and interchangeably, whereas in sociology the terms
 are distinct, as Weber defined class as an objective economic position and
-status as a subjective perception from social honor and prestige) and cultural
+status as a subjective perception of social honor and prestige) and cultural
 consumption has been the subject of research. I wish to preface this section
 with the origin of this kind of research, because of its perpetual relevance
 and also because of the incisive writing whose truth has no doubt animated,
@@ -513,7 +513,7 @@ two most important status-conferring attributes to be especially salient to
 cultural omnivores.
 </blockquote>
 
-I have two qualms:
+I have two qualms about Chan's paper:
 
 1) His survey data is not relevant to his question
 
@@ -909,7 +909,8 @@ and
 <a href="https://scholar.google.com/citations?user=E_lEjjgAAAAJ&hl=en">Tally Katz-Gerro</a>.
 I don't think the paper itself is particularly interesting, as it doesn't come
 up with strong conclusions. It uses the 20-year dataset from the National
-Endowment of the Arts mentioned earlier and observes the rises and falls of
+Endowment of the Arts mentioned earlier and observes the rises and falls, the
+inconsistencies and common fluctuations seen by those who work with data, of
 cultural consumption across categories, coming up with two new taste patterns:
 quasi-omnivorous and entertainment, which like most research probably won't
 acquire traction. What I find interesting is something in the title: FROM
@@ -993,8 +994,8 @@ different ethos than its corporate brethren.
 That's quite enough context. I wish to add a few of my own thoughts on the
 matter of what may be called a highbrow elite, of cultural snobbery which is
 related to coastal, urban snobbery, based not on empirical prevalence but on
-ideological ideals, and perhaps this criticism is part of my own reflection,
-but it may perhaps be of use as well to some stray literary critic, or a
+ideological ideals, and perhaps this criticism is part of my own reflections,
+but it may perhaps also be informative to some stray literary critic, or a
 producer of highbrow art, in whatever form it may be, or a serious connoisseur
 of the arts, or an English professor who shudders at the mere thought of the
 digital humanities providing any value, amenable to a more expansive view.
@@ -2636,7 +2637,7 @@ this as an intellectual idea but lived by it. Scruton expands on this idea with
 Hegel's homecoming spirit: "In all of us there is a desire for homecoming, where
 we find ourselves having ventured out into all these dangerous experiments of
 individual living, at last coming back, swallowing all our pride, and humbly
-acquiesing in a social order which is bigger than ourselves." In these words
+acquiescing in a social order which is bigger than ourselves." In these words
 Scruton also captured the trajectory of his life, as he recounted his early
 years: "I was very fortunate in having an unhappy childhood so that my desire
 from the very beginning was to escape from it . . . I was very much aware of the
