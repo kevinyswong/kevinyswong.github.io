@@ -1170,14 +1170,14 @@ on the back when just outside one's window, the harsh reality encroaches by the
 minute. Applied to the question at hand, my view is that the novel must be able
 to compete against its multiple modern competitors—streaming television,
 on-demand films, natural language AI, social media—because why should I sit
-down to read a 500-page novel after finishing work for the day if I find
-greater pleasure, meaning, and happiness just enjoying myself with easy
-entertainment? Why should a novelist expect this of anyone else? I can buy a
-book, but if I don't proceed to read it, putting it off to some other day,
-then again and again, it's just some decoration sitting on a table. Perhaps it
-is a form of respect for others to not generate random noise hurled into the
-wind, expecting others to listen, imposing upon them one's arbitrary whims and
-feel entitled to their time.
+down to read a 500-page novel after finishing the day's work if I find greater
+pleasure, meaning, and happiness just enjoying myself with easy entertainment?
+Why should a novelist expect this of anyone else? I can buy a book, but if I
+don't proceed to read it, putting it off to some other day, then again and
+again, it's just some decoration sitting on a table. Perhaps it is a form of
+respect for others to not generate random noise hurled into the wind, expecting
+others to listen, imposing upon them one's arbitrary whims and feel entitled to
+their time.
 
 Putting aside the highbrow considerations for a moment, let's consider that book
 readership outside of school is declining among children, about which Katherine
@@ -1215,9 +1215,9 @@ students with the grace of natural amnesia forget their classroom lessons with
 jaw-dropping haste, their only takeaway a bitter recollection of how learning
 is not fun or satisfying? This is an interesting question, but this topic is
 beyond the scope of this post. An extension of the question: what's the point
-of reading a book if it leaves such a scant impact that the reader forgets
-about it a few months, or even a few days, later? I don't have the answer, but
-let's return briefly to Woolf's HOW SHOULD ONE READ A BOOK?:
+of reading a book if it leaves so scant an impact that the reader forgets about
+it a few months, or even a few days, later? I don't have the answer, but let's
+return briefly to Woolf's HOW SHOULD ONE READ A BOOK?:
 <blockquote>
 In the first place, I want to emphasize the note of interrogation at the end of
 my title. Even if I could answer the question for myself, the answer would
