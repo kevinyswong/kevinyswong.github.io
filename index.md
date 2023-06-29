@@ -1022,7 +1022,7 @@ in his whims as he converses with someone from the working class, having only
 the most generous of intentions, doing his best to extend common courtesy with
 a generous smile, and politely dodging topics that demand the trouble of a
 lengthy explanation and risk coming across as arrogant, be said to be free of
-symbolic violence? Are class divides ever except from class violence? As
+symbolic violence? Are class divides ever exempt from class violence? As
 William James writes in THE PRINCIPLES OF PSYCHOLOGY:
 <blockquote>
 Properly speaking, a man has as many social selves as there are individuals who
