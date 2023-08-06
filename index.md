@@ -462,12 +462,12 @@ others.
 </blockquote>
 
 When he wrote this paper, Chan's view did not change from the initial conviction
-he had 13 years prior to the paper's publication, when in an earlier
+he had 13 years prior to the paper's publication, when he and
+<a href="https://scholar.google.com/citations?user=1FgS9pkAAAAJ&hl=en">John Goldthorpe</a>
+wrote in an earlier
 <a href="https://doi.org/10.1093/esr/jcl016">paper</a>,
-published in 2006, in which he, along with
-<a href="https://scholar.google.com/citations?user=1FgS9pkAAAAJ&hl=en">John Goldthorpe</a>,
-wrote that while "data adequate to test this possibility are not yet
-available":
+published in 2006, that while "data adequate to test this possibility are not
+yet available":
 <blockquote>
 [S]o far as our present findings go, they incline us to favour the
 'self-realization' rather than the 'status competition' view . . . [W]e would
@@ -880,7 +880,9 @@ as cultural capital and distinction, despite democratic ideology condemning
 overt displays of cultural status.
 </blockquote>
 
-One paper from an economics and business perspective by South Korean researchers
+One
+<a href="https://ccsenet.org/journal/index.php/ijms/article/view/23004">paper</a>
+from an economics and business perspective by South Korean researchers
 <a href="https://scholar.google.com/citations?user=C8ugyesAAAAJ&hl=en">Yoo Jin Kwon</a>
 and Kyoung-Nan Kwon finds implications of omnivorous distinction (maybe even
 some hypocritical humor?) in marketing:
