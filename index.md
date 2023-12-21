@@ -2580,14 +2580,14 @@ very end.
 
 I am not Richard Dawkins. I don't impose atheism on anyone. Freedom of religion
 is one of the founding principles of the country. If you are religious, be
-satsfied in your community, and I mine, which proclaims: We have no god to love,
-and no god loves us, we do not believe in deities whose business it is to lord
-over our miniscule lives, for we believe not in gods but in humanity. I can find
-the religiously devout among those I consider at the pinnacle of humanity:
-Dostoyevsky, Kierkegaard, Wittgenstein, William Blake, just as I can find among
-them atheists. My gripe is not against religion itself but the lack of the
-necessary search and labor to convince oneself beyond, "It's what everyone
-around me believes, and we fear those who don't."
+satisfied in your community, and I mine, which proclaims: We have no god to
+love, and no god loves us, we do not believe in deities whose business it is to
+lord over our miniscule lives, for we believe not in gods but in humanity. I
+can find the religiously devout among those I consider at the pinnacle of
+humanity: Dostoyevsky, Kierkegaard, Wittgenstein, William Blake, just as I can
+find among them atheists. My gripe is not against religion itself but the lack
+of the necessary search and labor to convince oneself beyond, "It's what
+everyone around me believes, and we fear those who don't."
 
 In America, we have a party that knows it is losing power and instead of a
 graceful handover and adapting to the times, it resorts to pathetic measures
