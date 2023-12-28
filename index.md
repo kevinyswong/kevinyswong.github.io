@@ -417,8 +417,8 @@ malicious to deliberately keep this treasure and key insight of the work out of
 plain sight when in fact the plot is not the point. Why must there be a plot? A
 theme? A moral? Why must we imprison ourselves with this arbitrary, rigid
 checklist rather than start from first principles? If we were satisfied with
-plot, we can simply read the five-sentence summary at the back of a book and
-let ourselves be convined that we already all that this novel is about, or if
+just plot, we can simply read the five-sentence summary at the back of a book
+and let ourselves be convinced that we've seen what this novel is about, or if
 that summary's suspense and mystery, deliberately intended as such to lure
 buyers and readers, leaves us unsatisfied, why not resort to artificial
 intelligence and use some information extraction methods from
@@ -533,7 +533,7 @@ shelf, next to ONE HUNDRED AND ONE DALMATIANS may be placed ONE HUNDRED YEARS
 OF SOLITUDE, as well as the upcoming bestseller, Two Hundred Years of Canines!
 And onward and onward until ONE THOUSAND AND ONE NIGHTS! And nearly at the same
 time the Essex went down, we see still SATURN DEVOURING HIS CHILDREN! This time
-from Goya! How slowly the gods feed themselves! Great Saturn be taking his
+from Goya! How slowly the gods feed themselves! Great Saturn sure takes his
 mighty time that it took him nigh two centuries to work through an arm and a
 head! Keep the kids away from your toys, O Great Saturn. It's a choking hazard
 over there! But you sure know how to eat! Head first! Ate'em good! Ew, nasty!
