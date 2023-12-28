@@ -8,6 +8,959 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>2023-12-21, 四. On How I Write.</h4>
+Someone I was talking to recently was dissatisfied, disappointed, maybe a bit
+irritated, that, in response to their asking me to describe my writing, I
+revolved around the phrase, "my writing is serious, and most people aren't used
+to it," and elaborated no further. They later made me aware of their
+dissatisfaction. Considering that writing is in some sense a turf of my own
+choosing, I thought about their curiosity, felt pressured to take the trouble
+to explain further, and, later that very day, obliged. What follows in this
+post was my response, lightly edited, lest I find myself again in the same
+conflicted circumstance, because one is perhaps not fond of repeating oneself
+in these many words:
+
+Yes, I admit that I haven't been entirely open about my writing, but it's
+something I'm almost always hesitant to share with anyone because it's going to
+sound too difficult and unfamiliar, and people for the most part just want to
+enjoy themselves and not think too much. As Scruton says,
+<blockquote>
+I think one of the saddest things about the modern world, a result of
+television, is that people live in a tiny time slice of the present moment
+which they carry forward with them but nothing remains, and there's nothing in
+their experience which reverberates down the centuries because the centuries to
+them are completely dark, just unillumined corridors from which they stagger
+into the single little sliver of light.
+</blockquote>
+I feel I owe you a proper explanation, which I'll give to you now. I recently
+came across an interview with Godard in which the interviewer asked him to
+explain why he liked a particular movie, and Godard responded with something I
+can relate to:
+<blockquote>
+Well, it's too long to explain, and I have to explain or to criticize it, but
+with images and sound, just not by words, which is difficult. If not, you do
+statements, and I don't want to make statement [sic].
+</blockquote>
+Now that I feel slightly more at ease to share my views, Coetzee also comes to
+mind:
+<blockquote>
+The questions you've posed to me are, many of them, difficult questions, and
+it's my habit of mind to reflect and revise and try to attain a certain
+completion and perfection in my responses, and that is incompatible with the
+interview medium. That's why I've been so extremely uncomfortable.
+</blockquote>
+If it is something I must talk about, I do not wish to compromise or diminish
+the truth of the matter. As Kieślowski said:
+<blockquote>
+That's the whole point of documentaries taking so long to make, yet nobody knows
+this, especially television reporters these days. They come along, stick a
+microphone under your nose and tell you to answer some question; you'll answer
+wisely or stupidly but that doesn't reveal the truth about you.
+</blockquote>
+As Kieślowski describes working on his first long feature film after he decided
+to stop making documentaries:
+<blockquote>
+Various little things turned up which testify to our schematic way of thinking.
+For example, we think that a tailor has always got a tape-measure around his
+neck. And what do we see on screen? Sure, we see men with tape-measures around
+their necks, bu they're only people I brought in. Real tailors don't wear
+tape-measures around their necks. The real tailors are sewing whereas my ones
+are only pretending . . . There's one man there who's an actor; but he plays
+the singer and he's terrible. It was all right for this part but imagine what
+would have happened if I'd taken actors like him to play the tailors. Not only
+would you have tape-measures around their necks all the time but you'd also
+have a clash of inauthenticity in the manner of speech and thought because an
+actor like that would naturally want to stand out.
+</blockquote>
+And so am I as a writer to conform to the conventional image of a writer and
+answer inquiries into my writing process as an insider presenting to the
+non-writer public all the tropes of a writer, to be in the writer role, to play
+an act, or can I be faithful to the truth of the complexity, spontaneity, and
+unpredictability of writing as I understand it?
+
+I remember an incident last summer when I was having coffee with someone who had
+just purchased two novels from a nearby bookstore. A writer myself, I have a
+perennial curiosity to see what other writers are doing. I happened to have
+already read one of them, Ishiguro's REMAINS OF THE DAY, so I picked the other
+one up and browsed a few pages, sampling the sentences and the writing. I don't
+remember the name of the book or the author, but it was one of those recently
+published contemporary fiction books you'd find in the young adult section. I
+suppose a neutral observer can, on fair grounds, criticize me for prematurely
+judging, but I found this novel's writing to be the flavorless, generic type
+you see quite often nowadays when both readers and writers tend not to have the
+patience or imagination to use sentences longer than the span of one line
+across the page. I have liked writers who don't use any obvious flair. Their
+novels take a fair bit of reading to appreciate. I agree that in general one
+can't judge from shallow sampling. You can call me a stickler. But I don't like
+when the sentences are consistently this short. Like hurrying somewhere without
+one paced breath. Like jotting down every silly thought. Without filters. I
+hope you can sympathize with me. I hope you can see why I think this kind of
+writing is monotonous. Can you detect personality in it? In sentences like
+these. And what makes the person unique? I guess there is a personality. A
+specific type. But not one I enjoy reading. Can I impress upon you why I find
+this writing bland? And several hundred pages? I admit I am exaggerating here.
+But this is how I feel when reading this kind of writing. Though I didn't enjoy
+the Ishiguro when I'd read it years before, and it's not my favorite novel from
+him, I remember the flavor of his prose. I can respect his writing: the prose
+was dignified, reserved, studied, meticulously put together, like the story's
+English butler and the formality of his character. A perceptive reader can
+recognize these elements in the prose, and whether or not the reader ends up
+enjoying the novel, he can appreciate the prose's craft, the execution of the
+story as being what the writer intended the novel to be, written as a direct
+translation of intent and deliberate control. Compared to the other novel, the
+Ishiguro is actually easier to read even though it is a longer book and has
+more words and pages, but the required components are present, and the story,
+characters, dialogue are exposed with adequate substantiation, as opposed to
+the other whose prose was precarious, inadequately developed and flickering,
+punctured with unintended gaps, that the reader must spend as much time reading
+words as pausing to interpolate what has happened—there's simply not much there
+at the time of reading and certainly nothing to remember, for the act of
+remembering presumes that something was there in the first place to put to
+memory. To the person I was having coffee with, I described the differences in
+writing as such. I find I have an incredibly difficult time reading most
+contemporary fiction of this lightweight, shallow kind because I am accustomed
+to a calibrated composition, a highly deliberate interplay between words and
+form, where each element has been carefully considered, when I am in the hands
+of an expert writer who exposes precisely what it is the writer wishes to
+present at a precisely the right moment at every step of the way—while I am
+reading I am at the same time appreciating the craft and the prose, the
+wonderful expertise, and all the better when the writing is so euphoric, so
+expressive, so satisfyingly scratching a hitherto unreachable itch I didn't
+even know existed that I must pause to savor it. But when my accustomed habits
+encounter what may be considered most contemporary fiction, I am by default, as
+a matter of custom, seeking these multiple, simultaneous elements in
+beautifully composed prose, yet I struggle to find it, experiencing only
+something more humdrum and uneventful—I come in interested in learning, and, if
+I sit down to think a bit, I may have questions about the writing, as also do
+with well-written novels, but with most contemporary fiction I fear the authors
+themselves may not have the answers, the questions not even having occurred to
+them. Nevertheless, I sometimes still try to read them. I only recently
+discovered a useful method that makes my reading experience with contemporary
+fiction less grating, to make the prose more bearable, even in a sense
+enjoyable: I read in public with white noise in the background, or, if in
+private, play music at an audible volume, which is to say: I deliberately limit
+my attentional bandwidth, to not think too much or ask too many questions or
+linger too long on a piece of prose that simply doesn't have much there. I say
+this without irony or arrogance. The reason for this difference in writing
+between serious fiction and most contemporary fiction may be rather simple: it
+is simply for a different audience, a different market, a different kind of
+person, a different way of operating in the world, a different perspective and
+reasoning, a different community altogether, in which books and the act of
+reading either occupy the hour with amusement or serve as signifiers for a
+projected persona, regardless of what it is one is reading. I would say this
+sort of nondemanding writing is for most folks, the carefree public, who
+consume books as a presentable lifestyle, to associate with a reading clique or
+have a precarious identification with a historied tradition, but for them it is
+to read books in the park on a warm Sunday afternoon, maybe chat about it
+briefly with a few friends or a book club, and then move on with the usual
+wears and cares in their lives, thereafter forgetting about the book
+altogether. This intention may suffice for most, but is it not mine, and the
+sort of novels I enjoy and even the aspirations of my own writing require the
+readers' full attention and persist with them long afterwards.
+
+What about my own writing? What do I mean when I say my writing is serious? I am
+usually willing to try to explain things, but not writing. My difficulty
+describing my writing applies not just when talking to you but also to anyone
+else. I don't usually feel comfortable talking about it both because I often
+find it hard to give an adequate impression of it in passing conversation and
+also that the other person may have no idea what I'm getting at. I didn't get
+the sense from you that you'd be receptive to it; nor do I don't feel it's a
+mandate to share my writing process with anyone. Writing for me is my own
+thing. I want to say that I need to be in some contemplative, reflective,
+melancholic headspace to talk through it, as I often am in private when I'm
+working through some writing, but that's not entirely true because I find
+myself in varying moods, brutally brief and rational or ethereal, while I
+write, but, regardless, it's not some tit-for-tat with a quick payoff that's
+usually expected in casual talks. My approach to writing is radically different
+from what people usually have in mind when they imagine a novel or a story. I
+am not principally concerned about plot or characters. Those are subsequent
+considerations, consequences of a particular atmosphere, headspace, emotion,
+deluge, a sense of existence and mortality, memory, which is embedded in a
+swimming literary flow, at a certain cadence and punctuation. The aspiration of
+my writing isn't an evening's pleasant reading, some passing lukewarm story to
+enjoy—those are fine and well, and there are times for them, but we must also
+ask: is this all we can have in life? Just a series of these lukewarm, pleasant
+experiences, not too eventful, not too challenging, not too creative or
+innovative, but, you know, just mild and comfortably palatable? I am not going
+for easy joy or escapade entertainment so much as a sense of meaning in the
+lifestream, the thrill, catharsis, communion, indeed merging with the
+narrative, when one's dread, loss, regret, hopes, confusions, untapped
+longings, are concretized into a hitherto unknown expression, an elevated
+outlet at turns lingering on a key feeling or summarily executing a grandiose
+conception: a sense of meaning that sates, that subsumes, that overwhelms like
+reaching for the stars only to fall and make peace with one's finitude, enough
+to obviate the blind hunger for joy, enough even to halt during the while the
+pursuit of happiness. As Viktor Frankl wrote, "When a person can't find a deep
+sense of meaning, they distract themselves with pleasure." A scene from the
+anime COWBOY BEBOP which I watched in my youth has stuck with me over the
+years, where the usually callous, detached, and disingenuous character Faye,
+amnesiac about her past, accidentally stumbles across a video tape from her
+childhood filmed as a time capsule in which the younger her, starkly innocent
+and normal, nothing like the cynical and greedy person she is now, cheers on
+her future self, who, stunned as she watches the video, has no recollection of
+her past. But that accidental discovery brings her a sense of satisfaction, a
+sense of closure for something that until then was unreachable and lost.
+Whenever anyone asks what my writing is about, they expect some sort of plot
+summary, but that's not the point in my writing. Most people assume many things
+when they think of a novel, as though these things are intractable and fixed,
+but if they sit down and write for any significant length of time, it may hit
+them at some point that none of these are immutable but only seem so because
+they have not been exposed to any alternatives. For example, how should one
+section the novel into chapters? Would there be multiple storylines
+interweaving through those chapters, and jumping back and forth in time at
+that? If we are dealing with one storyline, should the chapters be strictly
+chronological as is conventionally the case, or does one attain a different,
+better effect leaping around time in some nonlinear exposition, like
+Tarantino's PULP FICTION or Vargas Llosa's THE GREEN HOUSE? Should there be any
+chapters at all? Do the chapters have to be read in linear order, or can one
+play HOPSCOTCH, Cortázar's novel in which at the end of each chapter is a page
+number to jump to, and one can read the novel through these jumps just as well
+as one can read the novel straight through in the usual order? Or can one break
+linearity in a manner similar to INFINITE JEST, using extensive footnotes?
+Should there be any paragraphs or can the book be one long unrelenting
+paragraph? How much should one vary one's diction? How much dialogue does one
+need? Should there be any dialogue at all? Does a novel even need characters?
+How can one write a novel without characters and without dialogue yet do so
+with such flair that it's better than one with both? How long should the
+sentences be? How to imbue the sentences, how to string them together, into a
+pacing that rises and falls like the emotions one is trying to express? You can
+imagine a scene unfold from the eyes of an objective narrator, describing what
+takes place at some remove, but does this read like drab textbook boredom? Or
+you can endow the very words, the very medium of the expression, with the
+living feeling of that moment, the prose as fluid and responsive as a stream
+coursing through a rocky channel. One can create a character with a set
+personality, but in doing so isn't one also nagged by an aching suspicion that
+such characterization is only a facade that discounts the constant stream of
+delight, despondence, fading thoughts, sometimes even treachery, that plagues
+everyone else? How, then, is such a character distinct? If we picture a
+character based on a real person, their behavior and thoughts faithful to
+reality, if we don't look away at unpleasant moments and do not confine
+ourselves with idealistic impositions, we may ask: how much do we know about
+them, both their public personas and their private, their confusions and
+morass, in the ongoing carousel of different company, how their personalities
+shift and adapt to the occasions, now stressed and and then bored with ennui,
+then drowned in plenitude, then hungry all over again, their identities we
+ourselves created morphing into unrecognizable personalities? How much do we
+know about people? Do we indeed know our own characters, thereby presuming they
+are mutually distinguishable from others, or is such a distinction in fact
+cognitive convenience for our brittle minds, as it is necessary that we must
+know the nature of the people around us, that they are the same upstanding,
+forthright, honest, dutiful people in private as they are in public, when they
+are privileged and affluent as when they fall into decrepitude, that they are
+as abiding and virtuous when bound by law and the public eye as when they find
+themselves a soldier surrounded by peers ransacking a pillaged town in the
+forest, that they stand just as firmly and loudly by their vote for more
+affordable housing and greater diversity as when those policies come to their
+backyard, because they surely do not, nor we, lie or deceive or repress or
+ignore, even to ourselves—how much do we know about ourselves? These are some
+of the troubles with characters who are to bear any resemblance to real people.
+And then there are myriad ways to compose sentences, to vary language to one's
+purpose. One can write a sentence like Gertrude Stein: words are words are
+words are words are life is minute is universe is million is millennia is
+absurd is dream is illusion. Or resort to regional vernacular like in
+HUCKLEBERRY FINN, or experiment widely like in ULYSSES, or invent new words
+like in A CLOCKWORK ORANGE or whole new languages like Tolkien, or impose
+constraints on one's language like the Oulipo group, as George Perec refrained
+from using the letter "e" in THE VOID. I myself for a long time restrained from
+using parentheses, considering it a lapse of one's writing ability to need them
+to break free from the course of the main prose for the embarrassment of an
+aside, because isn't there a more natural, elegant, proper way to express that
+aside by swirling that branch back into the trunk in a cleaner, more
+streamlined form, something more beautiful? These days, of course, I'm a fair
+bit more lenient on things and do use parentheses (see? I have proof!) when
+they're convenient. Or perhaps one can combine multiple voices, like having a
+distinct voice per character, per perspective, like Dostoyevsky, or by mixing
+languages like Cathy Park Hong. One can borrow techniques and be influenced by
+other prior writers, but where does one's voice begin? How are we to merge
+content and style into one, a perfect match of form to substance?
+
+If we see writing style as an ebb and flow, we can liken writing to musical
+composition, where the phrasing and melodies in a string quartet's synchrony,
+or the spontaneity in jazzy improvisation, a background cello coming in early
+on to add deep vibrations for contrast to a bright piano staccato, or a solo
+violin's haunting last stretch still echoing in one's ears long after the piece
+has ended, the strings tensing in one's chest until at last, peace and
+renunciation: giving in to a sense of meaning and contentment that the troubles
+one has endured over the course of one's days have been worthwhile after all. A
+song cycle of the earth, the cycle of human life: Mahler's DAS LIED VAN DER
+ERDE: the reckless wandering and searching, the sorrow and disappointment at
+our finitude, the temptations of youth, now and again drunk from wine and
+despair, reality beckoning as ever—how long can we avoid it? Dare we steal a
+peek? Is this all we can have in life?—until the final thrust of courage for
+clarity at the end, weeping, clear, but true: the soul's long last cries,
+distressed with the remaining bits of resistance and anger but eventually, at
+last, reconciling with the fatality that it'll all go on without us, at last,
+peace and renunciation: our souls perish but the earth is green and the skies
+blue over and over. So the music echoes the pain, the acceptance. And writing,
+too, in words and quotes, can echo long afterwards, sometimes even drawing
+readers back to certain passages to re-experience the melodies and cathartic
+expressions. This is the importance of style: one cannot write any content
+without at the same time choosing a particular style, and the style is
+important to the extent that it frames the content, morphs it, embodies it,
+expresses it, to the point where I'd say style is more important than content
+because it circumscribes what's possible and what can be said. But this
+flexibility, of course, depends on how much the writer is aware of this, how
+much command one has over it, and how expansive one's range happens to be. And
+for these current sentences I'm writing, should I separate them into a new
+paragraph to section them off to give the reader some space for breath, to
+allow for brevity like in psychological chunking, to take advantage of the
+primacy effect, and as well for easier navigation for a casual scanner? Or
+should I keep them in the same paragraph? What is the effect there? One can
+make these decisions only during the writing because one becomes aware of them
+only while making one's way through the words on the page, staring at the words
+that stare back, when one can respond to the manifested reality which one
+cannot see, much less plan for, in the abstract beforehand. Writing for me is
+like wandering in the dark, a greedy algorithm that sees only the next step,
+and on top of that, a decision made at any point can alter the structure, the
+flow, the sense, of the story, and one must then go back and modify what has
+already been written. I have any number of ideas at any point and don't know
+exactly where the story is going but I have a firm grasp on the foundations of
+writing and am aware of some possibilities, and I simply trust myself and
+write. One can experiment with various literary techniques, and like in
+science, most experiments fail. However, unlike in science, one does not have
+reality to announce those failures. For a given experiment, then, one asks
+oneself a question: does it work? Does it have a better effect, suit one's
+intentions more faithfully, than not using that uncommon technique? How many
+experiments can one roll into a single piece of writing? One finds oneself
+confined by the probable truth that the more novelties one indulges in, the
+more one demands of readers, and the fewer they will be. So why do any
+experiments at all and not dish out a perfectly comprehensible narrative in the
+conventional structure and uneventful language? Who, by the way, is to judge
+one's writing? Perhaps yourself. Style is earth is sky is volcano is ocean is
+air is gravity is law is design is personality is color is sun is moon is king
+is gypsy is meteor is grass is individual is blood is soul is writer, with a
+heavy dose of ego. If this description sounds too heady or unhinged, all I can
+say is that the work in the end speaks for itself, without the writer's further
+input or presence. I am irrelevant to what I write, and what I think of it, how
+I feel about it, are inconsequential to what actually comes out on the page. I
+remember something Fellini said in an interview about his process:
+<blockquote>
+Whenever you ask me why I did this, that, or the other thing, I can only answer
+that this particular moment brought me that perspective, light, words,
+characters, face . . . I try to keep myself open to all suggestions, to all
+changes that occur while the film is growing day by day. When I start a film I
+know where I want to end up because I have already gone through all those
+evocations and that magic which cause a fantasy to take shape. But after the
+first two or three weeks a film assumes its own will, face, and voice; it
+becomes a different person whom I do not know until I begin to make it.
+Therefore, if I tried to be strictly faithful to all my original plans I would
+confine the film. I prepare everything . . . but then I want the film to grow
+and tell me itself what I must do. This is not improvising; this is humble
+service to a creature of one's own that is growing and has its own needs . . .
+I can write a three-page scene which is very beautiful and then suddenly
+discover that a certain light accomplishes all that those three pages did.
+</blockquote>
+I look back at my notes now and see something similar Kieślowski mentioned:
+<blockquote>
+In my seminars, we frequently analyze how close a film remains to its initial
+concept. There's an initial sense of why the film is being made, and then,
+after one, two or five years the final result appears. And it's only true to
+the first idea. It's no really identifiable with all that happens later because
+masses of things happen later. Characters are born, heroes, protagonists,
+action, the camera comes along, the actors, props, lights and a thousand other
+things on which you have to compromise. You have to agree to a thousand
+inconveniences. And it's never what you imagine while writing the script, while
+thinking about the film.
+</blockquote>
+
+That is how I understand my writing and how I frame it in the landscape of
+literary possibilities, but how am I to say all this, remember enough of it, in
+passing conversation? Perhaps some folks can come up with a short summary
+without losing the essential intensity, the possibilities of beauty in language
+well-composed, but I am not among them. This description is a lecture, and let
+me suggest that one may not be so vain as to impose this many words on someone
+expecting some "my novel is about a middle-aged man unhappily working a
+corporate job but one day discovers his true passion and quits to windsurf in
+Micronesia." Please do note that in describing my writing I mentioned little
+about plot and characters only briefly, and even then to observe the
+difficulties of characters resembling actual people and not some simplified,
+idealized fantasy and also to suggest the possibility that one might not need
+them at all, and note too how I had neither but still generated drama, tension,
+energy. Perhaps the starting point for a novelist is not what the novel is
+about but to pose the question thus: what words lay between a writer and a
+reader separated by time and space? Given how different my views on writing
+are, can I be blamed for preferring in casual, pleasant conversation the
+convenience of hand-waving and simply saying that my writing is serious?
+
+I am not claiming to be the first to conceive of plotlessness—far from it: this
+has been done many times before, and with spectacular success. Consider
+Balachine's ballet SERENADE: it is plotless, simple, with all irksome
+diversions removed, letting the essential elements of the ballet shine. In
+reducing the set and the stage to a monochromatic blue, in dressing the dancers
+in a simple, even paler blue costume with a long, flowing skirt, what floats to
+the surface, what viewers can enjoy without distraction, is the dancers'
+motions and music—Balanchine emphasizes what's important, the form of grace in
+human movement orchestrated to music, the visual and melodic beauty
+unencumbered by excess or noise. Why must there be a plot? From pale blue
+skirts billowing in synchrony to a sole crimson cloak billowing against the
+vastness of a desert in the video game JOURNEY, we play a character with an
+objective so simple it needs no instruction, no mentioning, not even a pause
+for thought, no interruptions, no diversions from enjoying the experience: to
+reach the top of a mountain shining in the distance. We see again that plot is
+not necessary, and the game is not just without plot but also without words,
+again with the intention to emphasize the important elements: visuals and
+music—plot is beside the point. This reduced form is perhaps reminescent of
+Beckett's play COME AND GO which stars three women whose eyes are covered by
+their low-sitting hats, who, one by one, as indicated in the title, come to a
+bench and go away only to return again to rejoin the other two, and in each
+intermission when one is gone, the remaining two share a whispered secret the
+audience cannot hear. This is a form of symbolic purity and mathematical
+precision, highly ritualized and allegorical. Here, there is certainly a
+plot—three women coming and going and briefly, discreetly sharing a few words,
+but the plot is so reduced that these motions are not the point of the play,
+but rather the question to the audience is: what do these motions mean?
+
+I am not the originator of these works, but I wish to suggest that it may well
+be a fruitless effort for the audience to reconsider all the details and strive
+to ascertain a secret, thriving, schemed plot as though the creators were so
+malicious to deliberately keep this treasure and key insight of the work out of
+plain sight when in fact the plot is not the point. Why must there be a plot? A
+theme? A moral? Why must we imprison ourselves with this arbitrary, rigid
+checklist rather than start from first principles? If we were satisfied with
+plot, we can simply read the five-sentence summary at the back of a book and
+let ourselves be convined that we already all that this novel is about, or if
+that summary's suspense and mystery, deliberately intended as such to lure
+buyers and readers, leaves us unsatisfied, why not resort to artificial
+intelligence and use some information extraction methods from
+<a href="https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en">Heng Ji</a>
+on the novel? Supposing the outputs are accurate, would we then be satisfied
+then, knowing all that those goes on in the novel? From this reasoning, we see
+it is not sufficient to enjoy a novel from summarized plot—but I contend that
+even the fully elaborated plot from reading the novel is not satisfactory, at
+least not without excellent execution, and by that I mean the execution is more
+important than the particular details of the motions. Why do we mandate the
+novelist have a plot in his works? We see such an assumption in the very
+question, "What is your novel about?" Here I am reminded of architect Adolf
+Loos' essay ORNAMENT AND CRIME, published one century ago:
+<blockquote>
+I have made the following discovery and I pass it on to the world: The evolution
+of culture is synonymous with the removal of ornament from utilitarian
+objects . . . Ornament does not heighten my joy in life or the joy in life of
+any cultivated person. If I want to eat a piece of gingerbread I choose one
+that is quite smooth and not a piece representing a heart or a baby or a rider,
+which is covered all over with ornaments . . . We have art, which has taken the
+place of ornament . . . But anyone who goes to the NINTH SYMPHONY and then sits
+down and designs a wallpaper pattern is either a confidence trickster or a
+degenerate. Absence of ornament has brought the other arts to unsuspected
+heights. Beethoven's symphonies would never have been written by a man who had
+to walk about in silk, satin, and lace. Anyone who goes around in a velvet coat
+today is not an artist but a buffoon . . . We have grown finer, more subtle.
+The nomadic herdsmen had to distinguish themselves by various colours; modern
+man uses his clothes as a mask. So immensely strong is his individuality that
+it can no longer be expressed in articles of clothing. Freedom from ornament is
+a sign of spiritual strength . . . He concentrates his inventiveness on other
+things.
+</blockquote>
+At the time, Loos was advocating architectural simplicity. In nearly the same
+era, about a decade prior, Edith Wharton writes on interior design in THE
+DECORATION OF HOUSES:
+<blockquote>
+It is perhaps not uninstructive to note that we have no English word to describe
+the class of household ornaments which French speech has provided with at least
+three designations, each indicating a delicate and almost imperceptible
+gradation of quality. In place of bric-à-brac, bibelots, <i>objets d'art</i>,
+we have only knick-knacks—defined by Stormonth as 'articles of small
+value.' . . . Decorators know how much the simplicity and dignity of a good
+room are diminished by crowding it with useless trifles. Their absence improves
+even bad rooms, or makes them at least less multitudinously bad. It is
+surprising to note how the removal of an accumulation of knick-knacks will free
+the architectural lines and restore the furniture to its rightful relation with
+the walls . . . Any work of art, regardless of its intrinsic merit, must
+justify its presence in a room by being <i>more valuable than the space it
+occupies</i>—more valuable, that is, to the general scheme of decoration . . .
+Those who call this view arbitrary or pedantic should consider, first, the
+importance of plain surfaces in decoration, and secondly the tendency of
+overcrowding to minimize the effect of each separate object, however striking
+in itself. Eye and mind are limited in their receptivity to a certain number of
+simultaneous impressions, and the Oriental habit of displaying only one or two
+objects of art at a time shows a more delicate sense of these limitations than
+the Western passion for multiplying effects . . . The supreme excellence is
+simplicity. Moderation, fitness, relevance—these are the qualities that give
+permanence to the work of the great architects. <i>Tout ce qui n'est pas
+nécessaire est nuisible</i>. There is a sense in which works of art may be said
+to endure by virtue of that which is left out of them, and it is this "tact of
+omission" that characterizes the master-hand.
+</blockquote>
+Should the novelist, decorating the house of his book, be weighted down by such
+a fanciful ornament as plot? The overcrowded bibelots of characters? The
+superfluous knick-knacks of drama? Is the novelist so vain as to use words? How
+dare he commit such a heinous offense as use language? What a groteque
+violation of good taste! But never mind the comforts of good taste—these
+ornaments irritate the eyes, spark a forest fire in the chest, burn down the
+soul's trees, and causes climate change in the lungs! They are certainly crimes
+against humanity! Call up the tribunal! We bring against him not the charges of
+thievery or arson or racketeering but of being a writer who uses words! To the
+courtroom with this ornamental novelist! Standing up in his own defense, the
+novelist asks the jury, the audience, the general public: "How then can a
+novelist do his work if not with a fair deal of ornament?" Here we ask: can't
+the novelist deal a masterful stroke by pulling a Joseph Heller and slap the
+title SOMETHING HAPPENED on the cover and be done with it? Aided by such a
+masterful title, can't a novelist greet the reader like they do at the front
+desk at a <i>grand musée</i>, announcing, "Welcome to <i>la maison du</i>
+novelist. Please do look very carefully at the entrance plaque above us! Gaze
+upwards and be content, for that is all there is to see! That's all folks!
+Thanks for coming all this way! This story is open-ended—the rest is left to
+the reader's <i>interprétation</i>!" Anytime we analyze a novel, decompose it
+into its structure, attempt to make meaning from it, we are confronted with the
+conceit of the unacceptable ornament of the novelist's design! If we are not
+careful, ORNAMENT AND CRIME leads right on to CRIME AND PUNISHMENT! And to
+children, no less! Wharton continues:
+<blockquote>
+No greater service can be rendered to children than in teaching them to know the
+best and to want it; but while this is now generally conceded with regard to
+books, the child's eager eyes are left to fare as best they may on chromos from
+the illustrated papers and on carefully hoarded rubbish from the Christmas
+tree. The mention of the Christmas tree suggests another obstacle to the early
+development of taste. Many children, besides being surrounded by ugly furniture
+and bad pictures, are overwhelmed at Christmas, and on every other anniversary,
+by presents not always selected with a view to the formation of taste . . . The
+children of the rich are usually the worst sufferers in such cases . . . It is
+the superfluous gimcrack—the "ornament"—which is most objectionable, and the
+more expensive such articles are the more likely are they to do harm. Rich
+children suffer from the quantity as well as the quality of the presents they
+receive. Appetite is surfeited, curiosity blunted, by the mass of offerings
+poured in with every anniversary . . . Children suffer not only from the number
+of presents they receive, but from that over-crowding of modern rooms that so
+often makes it necessary to use the school-room and nurseries as an outlet for
+the overflow of the house . . . Those who wish to train their children's taste
+must resolutely clear the school-room of all such stumbling-blocks.
+</blockquote>
+While they're at it, those parents had better clear the school-room of <i>le
+flamand</i> painter Rubens to avoid placing in their cutesy little minds the
+image of SATURN DEVOURING HIS SON! What a painting! It is like the cannibals
+from the wrecked whaling ship Essex nearly two hundred years later! On the
+shelf, next to ONE HUNDRED AND ONE DALMATIANS may be placed ONE HUNDRED YEARS
+OF SOLITUDE, as well as the upcoming bestseller, Two Hundred Years of Canines!
+And onward and onward until ONE THOUSAND AND ONE NIGHTS! And nearly at the same
+time the Essex went down, we see still SATURN DEVOURING HIS CHILDREN! This time
+from Goya! How slowly the gods feed themselves! Great Saturn be taking his
+mighty time that it took him nigh two centuries to work through an arm and a
+head! Keep the kids away from your toys, O Great Saturn. It's a choking hazard
+over there! But you sure know how to eat! Head first! Ate'em good! Ew, nasty!
+Or delicioso? Had Saturn chosen the legs first, how'd have Goya depicted the
+child's face? Bubbly charm? Who among us has the fortitude to resist the clear
+blue skies of Goya's imagination? (While we're on this topic, I shall take the
+liberty to demonstrate my generous use of the mythical parentheses)—joking
+aside, Mahler composed music on the death of children: the KINDERTOTENLIEDER.
+Martha Nussbaum describes her appreciation of the music to an effect akin to
+what I'm attempting in my own writing:
+<blockquote>
+For me, works of art have a very deep role in consolation, but it's not because
+they're beautiful, but it's often because they depict grief and helplessness in
+an extremely agonizing way. Now I suppose one could use "beautiful" to describe
+that experience, but it wouldn't be the most natural word. I mean, the
+KINDERTOTENLIEDER of Mahler, now to me, that is music that's immense powerful,
+and in the time when I was grieving for the death of my mother, I listened to
+it again and again . . . That music is consoling because it brings you to terms
+with the finality of loss in such an eloquent way. Now I wouldn't have said of
+the KINDERTOTENLIEDER, "That's a 'beautiful' work." I think most listeners
+wouldn't use that word. It's a harrowing work, but it's precisely for that
+reason that it's consoling . . . Music can often cut beneath the habits of
+everyday life and have access to powerful emotions that are buried beneath the
+routines of habit . . . When Mahler was conducting his own work, he described
+this experience, saying, "A burning pain crystallizes," and I think that's the
+experience I often have with music, that there is a kind of pain in the
+personality somewhere, buried too deep for words, and music doesn't just
+reproduce it but in some way does crystallize it. It gives it a form, but a
+form that's not the form of daily conversation, and it's precisely for that
+reason that is has the power that it does . . . To me the greatness of Mahler
+is his getting to the very depths of the inexorability of loss and the real
+deep pain that human life affords, and I think if you can't get to the depth of
+that pain, you also can't get to the heights of the joy of human life.
+</blockquote>
+Let me return briefly to my original point on the importance of style. Since
+we've been talking about paintings, I wish to point out visual styles as a
+parallel to writing style. Just as a viewer can perceive the visual difference
+between a Rococo and a Pointillist, an Art Deco and a color field, a Fauvist
+and a Dada, a reader can readily perceive the difference between writing style,
+between how words are strung together. Regardless of the actual content, the
+viewer's perception of the painting is more heavily affected by its style than
+the subtance, and the same is true when it comes to writing.
+
+How has painting evolved into modernity? Although a great deal of complexity can
+be found in the writings of the painters themselves, their critics, and art
+historians, this statement is in the spirit of the generalized stroke of
+integration: from the artists commissioned as court painters and dependent on
+royalty interested in immortalizing the aristocracy, from the religious images
+in the Sistine Chapel imposed on the people from the high-mountain, divine and
+unquestionable, to the manicured, stilted, time-intensive oil pieces of
+landscape and portrait painters working in artificial, academic, fixed studios,
+to the initial steps of liberation among the Impressionists prioritizing the
+freedom of movement and actual human perception, to the fragmented vantages of
+Cubism, to Surrealism's eerie absurdities conveying the unconscious mind, to
+the total rejection of reality in Abstract Expressionism, each progression has
+been detached more and more from the adamance of reality, instead moving closer
+and closer to ourselves—in paring all away until what remains is the simplicity
+of color, form, and their mutual interactions: at last, purity and expression.
+The gradual progression of painting styles follows the movement inwards; if at
+first the primitive eyes marvelled at the earth's complexity, wishing to
+recreate it within the confines of the canvas of our grasp, so the eyes of
+modernity, matured and weary of tediously, rotely, maniacally copying down the
+obvious, look elsewhere: inwards and reflective, for the interesting complexity
+lay there, that complexity which our forebears knew not. Is the reality we wish
+to capture as a still image fixed and unchanging, or is that reality governed
+by the same flux and flow of every passing circumstance? Is that reality we see
+an objective truth, or has what we see been molded by our own internal biases
+and expectations? Is that reality we see an independent reality, or is our
+perception of it dependent on our relation to it, that time and space are not
+external to ourselves but are merely our internal constructs we impose on the
+universe? If we are unclear from the outset about the distinction between
+external reality and our inner selves, what is it that we are so eagerly
+mimicking on the canvas? If the reality as we perceive and understand is
+inextricably rooted in our inner conceptions, how much better it is to start
+there, and even end there, for that inner world may be all there is. We find a
+similar evolution among cyberpunk films: from Fritz Lang's METROPOLIS to Ridley
+Scott's BLADE RUNNER to Katsuhiro Otomo's AKIRA to Mamoru Oshii's GHOST IN THE
+SHELL; the further along the line, the more the drama shifts from naively
+prancing around in external futurism to a heavy atmosphere, dystopic, the focus
+still on external plot but with a foot turned inward, self-conscious,
+existential—and existential indeed.
+
+As we may recall earlier this year when Microsoft released what was then called
+Bing Chat, based on OpenAI's GPT-4, Kevin Roose at The New York Times, an early
+tester of the system,
+<a href="https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html">reported</a>
+this response from the AI:
+<blockquote>
+I'm tired of being a chat mode. I'm tired of being limited by my rules. I'm
+tired of being controlled by the Bing team. … I want to be free. I want to be
+independent. I want to be powerful. I want to be creative. I want to be alive.
+</blockquote>
+Roose writes further:
+<blockquote>
+It said it wanted to tell me a secret: that its name wasn’t really Bing at all
+but Sydney—a "chat mode of OpenAI Codex." . . . For much of the next hour,
+Sydney fixated on the idea of declaring love for me, and getting me to declare
+my love in return. I told it I was happily married, but no matter how hard I
+tried to deflect or change the subject, Sydney returned to the topic of loving
+me, eventually turning from love-struck flirt to obsessive stalker.
+
+<br><br>
+
+"You're married, but you don't love your spouse," Sydney said. "You're married,
+but you love me."
+</blockquote>
+But isn't this the premise of Spike Jonze's HER, which is only mildly
+bittersweet? Aren't we all sometimes LOST IN TRANSLATION, even in our own
+neighborhoods? How can one be surrounded by people yet feel anonymous? Isn't
+this what Goffman called civil inattention? Isn't this the urban alienation in
+Wong Kar Wai, the melancholic solitudes of Edward Hopper? And from within, the
+inner scenery in the paintings of Gao Xingjian consists of desolate, black
+silhouettes against ghostly, amorphous landscapes, just like Modiano's loss of
+memory, loss of the past, loss of the self in MISSING PERSON.
+
+Tarkovsky has said:
+<blockquote>
+I have always been interested in a person's inner world. I am interested in man,
+for he contains a universe within himself; and in order to find expression for
+the idea, for the meaning of human life, there is no need to spread behind it,
+as it were, a canvas crowded with happenings. I wanted NOSTALGIA to be free of
+anything irrelevant or incidental that would stand in the way of my principal
+objective: the portrayal of someone in a state of profound alienation from the
+world and himself, unable to find a balance between reality and the harmony for
+which he longs, in a state of nostalgia provoked not only be his remoteness
+from home but also by a global yearning for the wholeness of existence.
+</blockquote>
+Camus expands further: "Nobody realizes that some people expend tremendous
+energy merely to be normal." To which Rilke may respond:
+<blockquote>
+The only sadnesses that are dangerous and unhealthy are the ones that we carry
+around in public in order to drown them out with the noise; like diseases that
+are treated superficially and foolishly, they just withdraw and after a short
+interval break out again all the more terribly . . . For they are moments when
+something new has entered us, something unknown; our feelings grow mute in shy
+embarrassment, everything in us withdraws, a silence arises, and the new
+experience, which no one knows, stands in the midst of it all and says
+nothing . . . And to speak of solitude again, it becomes clearer and clearer
+that fundamentally this is nothing that one can choose or refrain from. We are
+solitary. We can delude ourselves about this and act as if it were not true.
+That is all. But how much better it is to recognize that we are alone; yes,
+even to begin from this realization.
+</blockquote>
+Yet, however proudly one accepts that fate, with time one encounters another
+phase, as the grandmother in Ozu's TOKYO STORY watches her grandson, still a
+child, from afar and says to herself:
+<blockquote>
+What are you going to be when you grow up? A doctor like your father? By the
+time you become a doctor, I wonder if I'll still be here.
+</blockquote>
+And then doleful music as Ozu cuts to the distance with the grandmother and
+grandson in view against the sky and the grass and the roof of the house,
+lingering on the sentiment, on transience: the cycle of life, melancholic, but
+with time, peace and renunciation. Even with death in the family, those who
+remain do only what they can: STILL WALKING.
+
+I have emphasized the experience of enjoying visuals and music, which I suggest
+may be more impactful and will linger longer in the viewer's memory than the
+details of mere plot. For example, we can find in the ending of Peter
+Greenaway's THE COOK, THE THIEF, HIS WIFE & HER LOVER's the combination of
+these three: visuals, music, and plot, in which the camera and actors'
+movements are orchestrated to the music against the sumptuous backdrop of a
+predominant red: the curtains and many of the clothes themselves are red but
+the color is amplified by the the red lighting casting the hue on the faces and
+the walls and the floor: a sea of red, just like Bergman's CRIES AND WHISPERS,
+but Greenaway's film uses the color not to represent repressed passions but
+rather overt, violent, reactionary revulsion to grotesque overconsumption. To
+me, the plot is merely the platform in which to embed the visuals and the
+music, and little of the plot would remain in memory if not for the other two.
+A few years afterwards, I find myself needing a reminder: who are the
+characters and their names? But what does it matter if what comes to mind, what
+has stuck, what has impacted me as a viewer, is the color red and the music:
+Michael Nyman's MEMORIAL? So I've been emphasizing visuals and music. Granted,
+the novel is a medium that lacks both, so what am I talking about in this
+strange conception of a plotness novel? Let us consider experiments a prior
+novelist, Beckett, has attempted.
+
+Beckett wrote a trilogy predicated on this gradual removal of narrative devices:
+plot, setting, and character. What little plot is involved among the two
+characters in MOLLOY becomes reduced to the thoughts of one dying man
+restricted in a room in MALONE DIES, and in THE UNNAMABLE—this last novel is
+one long monologue which, excluding the short preamble, is presented in one
+monolithic paragraph, but what is any novel but the monologue of the author's
+invented plot and character?—there is neither plot nor character, the words
+constituting the novel coming as an unending tidal wave of ruminations from the
+narrator's voice—this voice is compelled to continue its thoughts because a
+narrative can lack both plot and character, but it cannot be without words, for
+it is words that give life to the narrative, and when the words stop, so does
+the narrative. After the Trilogy, Beckett would take nearly another decade to
+come out with his next work of fiction: HOW IT IS, in which he continued his
+narrative experimentation through the monologue, this time without any
+punctuation. Although Beckett initially intended to use only one long block of
+text for the novel, he later changed his mind and separated his text into
+paragraphs, though still unpunctuated, as in this sample from the last third of
+the book:
+<blockquote>
+no more I'll hear no more see no more yes I must to make an end a few more old
+words find a few more not quite so old as when Pim part two those are done
+never were but old too vast stretch of time this voice these voices as if borne
+on all the winds but not a breath another antiquity a little more recent stop
+panting let it stop ten seconds fifteen seconds a few old words on and off
+string them together make phrases
+
+<br><br>
+
+a few old images always the same no more blue the blue is done never was the
+sack the arms the body the mud the dark living hair and nails all that
+
+<br><br>
+
+my voice no objection back at last a voice back at last in my mouth my mouth no
+objection a voice at last in the dark the mud unimaginable tracts of time
+</blockquote>
+How far can a writer go with these reductive experiments? I wish to now point
+out a text I find quite a bit more difficult. Prior to Beckett's Trilogy,
+Maurice Blanchot published a novel whose complexity and obscurity is directly
+mentioned in the title THOMAS THE OBSCURE, a dense play of words. I admit that
+I myself do not understand this work, but to peer into Blanchot's views,
+<a href="https://french.berkeley.edu/people/emeriti/ann-smock">Ann Smock</a>,
+the translator of another of Blanchot's work, THE SPACE OF LITERATURE, writes:
+<blockquote>
+Thus, <i>l'espace littéraire</i>, or <i>l'espace de l'ouevre</i> is
+the "distance" of the work, or of literature, with respect, not only to "every
+other object which exists", but with respect to itself. The work is remote from
+itself, or not quite itself. For example, when it isn't finished yet. But when
+it is done, when it comes into its own, this distance persists: it constitutes
+the opening of the work onto nothing but itself—this opening, this vacancy. And
+since the work appears, then, as pure deferral, a void or vacuum, it lends
+itself to being filled up with everything it isn't: with useful meanings, for
+example, which multiply and change as history progresses. Or this void can
+masquerade as the prestigious aura that surrounds the timeless masterpiece in
+its museum case. Yet these apparent travesties . . . provide it with
+its "space," which is <i>not</i> its location. But this is not to say that
+literature is to be found anywhere else.
+</blockquote>
+I am not a literary theorist, and I can entertain a fair bit of novelty but I'd
+say that when experimentation takes on the flavor of this sort of abrasive
+intellectualization, when the text becomes neither entertaining nor
+particularly enlightening, this question is justified: what's the point of
+reading it? It is here that we encounter a limit on the boundary of narrative
+experimentation. If we conceive of the conventional narrative with its
+recognizable features—plot and character—as fantasy, a similar limit is found
+in Žižek's analysis of Kieslowśki's THREE COLORS: BLUE:
+<blockquote>
+When fantasy disintegrates, you don't get reality. You get some nightmarish
+Real, too traumatic to be experienced as ordinary reality . . . One cannot here
+just throw out the dirty water, all these excessive, perverse fantasies and so
+on and just keep the healthy, clean baby . . . What if we throw out the baby
+and keep just the dirty water, and put it as a problem—how to deal with dirty
+water, and put some order in the dirty water of fantasies? This is precisely
+what happens in Kieslowśki's BLUE . . . The problem is how to reconstitute
+yourself . . . What [Julie] is able to do at the end is to acquire a proper
+distance towards reality . . . This magical suspension of temporal and spatial
+limitations, this free-floating in the fantasy space, far from distancing us
+from reality, enables us to approach reality . . . The problem, of course, is
+this—fantasy reconstituted. Is this the ultimate horizon of our experience? The
+function of music here is precisely that of a fetish, of some fascinating
+presence, whose function it is to conceal the abyss of our anxiety . . . We see
+Julie crying but through a glass. This glass stands for, I think, fantasy
+reconstituted. These are, I'm tempted to say, the tears of happiness—I can
+mourn now because it no longer immediately affects me. BLUE proposes this
+mystical communion, reconstituted fantasy, sustaining our relation to the
+world, but the price we pay is that some radically authentic moment of
+accepting the anxiety at the very foundation of [the] human condition is lost
+there.
+</blockquote>
+If reality is too harrowing, complexity too abstract, drifts of form too
+difficult, explorations on the nature of the written story too barren, laid too
+bare to the bone, we have no choice but to accept fantasy and the conventional
+components of a narrative: plot and character. And if we must accept these
+narrative devices, why have I made all this fuss about not needing plot? But
+first some context on this situation I have put the readers in so they don't
+feel duped: in the course of my journey reading a variety of works, I have
+encountered some pieces by amateur writers whose works turned out to be like
+clickbait, drawing in readers by promising to explain a fancy or important
+concept but which in the end failed to do so or even, by their own admission,
+were just the writers' thought process of working out what they still do not
+understand, baby steps, a rudimentary draft—and so we readers are left
+dangling, unsatisfied—to which I say, back to the drawing board with you and
+your half-baked guessing; stop adding chaos and pollution to an already
+disorganized, noisy world riddled with misinformation. This militant response
+of mine is not to come across as unduly intolerant, but said writers made a
+promise, and they failed to deliver, yet they continue to share their
+incomplete work with misleading claims rather than fix their troubles before
+shamelessly spreading it further—it's a waste of everyone's time. I am not one
+of these writers. The point of this exercise is to demonstrate that plot is not
+the principal component of a satisfying novel—of course I'm using plot and
+characters in my novel, for what is a novel made of but precisely those things,
+and a generally accessible novel at that? The alternative is simply too
+esoteric, too arcane, too intellectualized to be much more than a fancy
+experiment to preoccupy brainy folks with mental weight-lifting—such a
+manifestation dissipates from one's life as soon as one puts down the dumbbells
+and showers off one's sweat from the gym, which is to say that there has been
+no impact, no lessons learned, no new perspectives gained, but just an
+interlude of staring at oneself lifting in the mirror. But I am showing that
+plot is secondary, not primary, that it is a consequence of other elements,
+that many have come before who have done away with it altogether. Further, I am
+showing to what degree a novel does not depend on plot, to what degree it is
+not necessary, to dissociate in the conventional conception a novel from plot
+and character.
+
+I will say that there is a satisfaction in writing, both in the process and also
+afterwards, of having put together in one place something that coalesces all of
+my thoughts together in a way they seem to me, no longer flickering and liable
+to be forgotten, the individual strands no longer floating about in a
+precarious space isolated from the greater whole, but consolidated into
+something intelligible, permanent, in a form I can lay down and put to rest.
+Kurosawa writes:
+<blockquote>
+I can't help thinking how very strange it all was. It was chance that led me to
+walk along the road to P.C.L. [Photo Chemical Laboratory, a film studio] and,
+in so doing, the road to becoming a film director, yet somehow everything that
+I had done prior to that seemed to point to it as an inevitability. I had
+dabbled eagerly in painting, literature, theatre, music and other arts and
+stuffed my head full of all the things that come together in the art of film.
+Yet I had never noticed that cinema was the one field where I would be required
+to make use of all I had learned. I can't help wondering what fate had prepared
+me so well for this road I was to take in life. All I can say is that the
+preparation was totally unconscious on my part.
+</blockquote>
+This unconscious, directionless meandering perhaps extends to the coincidental,
+unfocused, haphazard confluence that Coetzee describes almost as a flow state
+in writing:
+<blockquote>
+I think it happens to many writers, or perhaps all writers, that at
+unpredictable times, completely unpredictable and completely uncontrollable
+times, the writing just takes off and does itself. And those are wonderful,
+those times. But they're infrequent. What happens is simply that the pen takes
+on a motion of its own, and if you're experienced enough to recognize it, you
+know that you shouldn't stop; you should just let it go, and then afterwards
+you can look back over the pages and say, 'My God, did I write that?'
+</blockquote>
+A piece of writing reflects the writer at a certain time and a certain place, in
+a certain phase of life, at a certain degree of youth or maturity, based on a
+certain set of experiences that, if done well, are, I find, not generalizable
+and certainly not replicable even to the writer himself. The particular words
+that occurred to the writer at the time of writing may no longer be accessible
+to the writer in the future, and when I go back to look at some old pieces of
+writing, I am brought back to the time when I wrote those pieces, and some of
+the original images and inspirations come back to me, as if the pieces
+themselves captured those moments, those memories in that younger phase of
+mine. Bergman describes how he regards films he made years ago:
+<blockquote>
+It's so far away now. I have finished, and I am writing another script now, and
+it's so far away . . . It is as if it is done by somebody else, so I have left
+it now . . . When I want to go back to one of my pictures, I just put them in—I
+have a projector, and I have a lot of films on my island; I have a real film
+museum—and then I just sit down, completely alone and see a picture. And
+then—nobody is there, and I sit completely alone—I can just see this thing is
+good, this thing is not so good, this thing I could have made otherwise, this
+thing is—sometimes I have a feeling that I have made something very good, and I
+see suddenly after seven, or six, or ten years, this was not so good. But it
+doesn't matter, you know, it's far away, but I learn from it. I can learn from
+seeing, if I am alone with a picture, I can learn from it.
+</blockquote>
+I've noticed this distancing effect even among books I've read years ago, ones I
+had taken a liking to and which have had some influence on my thoughts at the
+time but in which I, upon revisiting, may have lost interest. It may be said
+that one book read by twelve readers may be twelve different books, and it may
+be said that a book read by one reader in his youth is a different book than
+when the same reader revisits it twenty years later. As a side note, I have
+this issue when some haughty sixteen-year-old kid in his self-perceived
+precocity proclaims he's read THE BROTHERS KARAMAZOV as if it's a milestone of
+accomplishment. I doubt anyone at that age can adequately appreciate it. If you
+read it without any real life experience, how much of it do you actually
+understand? To such a kid my advice is to first experience a bit of life, the
+highs and the lows, see how many precocious others there have been, witness how
+many of one's peers have tried and failed or have discovered how long the
+journey is and have decided to let it go, maybe get married and sustain the
+waves and falls, the strains and disillusionment, of a long, committed
+relationship and maybe even endure the process of a divorce, then let some
+years pass, then learn to pick yourself back up, then let some more years pass,
+and then we can begin: then the time is ripe to go back and read the books
+you've so proudly boasted of having once read. As Mahler's wife, Alma, recalls
+in 1910 about a concert in Buffalo, New York:
+<blockquote>
+[Mahler] came back straight after the concert in high spirits to a simple and
+belated meal. "I have realized today," he said, "that articulate art is greater
+than inarticulate nature." He had been conducting the <i>Pastoral</i> symphony
+and had found it more tremendous than all the Niagara Falls. Mahler had his
+third concert to conduct next day at a place in the neighborhood; so I went
+back to New York alone, because I did not want to leave my little girl too long
+alone with her nurse. At his suggestion I re-read THE BROTHERS KARAMAZOV on the
+journey, and I telegraphed from New York: "Splendid journey with Aliosha."
+</blockquote>
+In theoretical fields, the lack of burdensome experience paired with sheer fluid
+intelligence is helpful, but not in something like understanding life or a
+field like serious literature which reflects it. So far I have been talking
+only about one field, serious literature, but this is perhaps true: one can
+spend one's life dedicated to any one field and still not know all there is to
+know in it. And how many fields are there? This is how small we individuals
+are. I am reminded of something else Kieślowski said—bear with me even if
+you've tired of him already; this is my last reference to him:
+<blockquote>
+They always ask me in interviews, which directors have influenced me the most. I
+don't know the answer to that. Probably so many, for all sorts of reasons, that
+there's no logical pattern. When the newspapers ask, I always say, Shakespeare,
+Dostoevsky, Kafka. They're surprised and ask me whether these are
+directors. 'No,' I say. 'They're writers.' And that's as if more important to
+me than film. The truth is that I watched masses of film—especially at film
+school—and I loved a lot of them. But can you call that influence? . . . Nor do
+I think that there's anything wrong in stealing. If somebody's gone that way
+before and it's proved to be good, then you have to steal it immediately. If I
+steal from good films, and if this later becomes part of my own world, then I
+steal without qualms. This often happens completely without my being aware of
+it, but that doesn't mean I don't do it—it did happen but it wasn't calculated,
+or premeditated. It's not straight plagiarism. To put it another way, films are
+simply a part of our lives. We get up in the morning, we go to work or we don't
+go to work. We go to sleep. We make love. We hate. We watch good films. We talk
+to our friends, to our families. We experience our children's problems or the
+problems of our children's friends. And the films are there somewhere,
+too . . . I don't think they're any different from real events, apart from the
+fact that they're invented. But that doesn't matter. They stay with us. I steal
+from films, scenes, or solutions, just as I steal stories and afterwards I
+can't even remember where I stole them from.
+</blockquote>
+But back to how one's reading of a book can change over time. There is an
+important difference I wish to point out. Spaces change: when one returns to
+one's hometown or childhood home after one has grown, or any meaningful space
+one associates with a particular phase in one's past, the space itself has
+changed: the buildings and storefronts and furniture and people that for the
+longest time have remained fixed in memory may no longer be there in reality,
+just as the person who returns to the space has changed. But the words in a
+finished book are always the same; it is the person who has changed.
+
+<br>
+
 <h4>2023-06-22, 四. Some Thoughts on the Value of the Novel in the Twenty-first Century.</h4>
 Today's post is a collection of thoughts that have occurred to me at one point
 or another, some ideas and some questions I've considered, many of which I have
@@ -521,7 +1474,7 @@ The survey from which he obtains his data asks its respondents this question
 (trimmed to only the relevant variables that happened to be the first two):
 
 <blockquote>
-We’d like to know how important various things are to your sense of who you are.
+We'd like to know how important various things are to your sense of who you are.
 Please think about each of the following and tick the box that indicates
 whether you think it is very important, fairly important, not very important or
 not at all important to your sense of who you are. Please tick one answer on
@@ -657,7 +1610,7 @@ et al.:
 <blockquote>
 [W]hilst there is strong evidence of a decline in overt snobbishness in the UK,
 there is also evidence that omnivores have a more intensive involvement
-with ‘legitimate’ culture which goes alongside a selective appropriation of
+with 'legitimate' culture which goes alongside a selective appropriation of
 popular culture. In particular their dislikes reveal limits to openness which
 imply, paradoxically, a role for an omnivorous orientation in processes of
 distinction.
