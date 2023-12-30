@@ -126,7 +126,7 @@ present at a precisely the right moment at every step of the way—while I am
 reading I am at the same time appreciating the craft and the prose, the
 wonderful expertise, and all the better when the writing is so euphoric, so
 expressive, so satisfyingly scratching a hitherto unreachable itch I didn't
-even know existed that I must pause to savor it. But when my accustomed habits
+even know existed that I must pause to savor it. When my accustomed habits
 encounter what may be considered most contemporary fiction, I am by default, as
 a matter of custom, seeking these multiple, simultaneous elements in
 beautifully composed prose, yet I struggle to find it, experiencing only
@@ -271,8 +271,8 @@ bit more lenient on things and do use parentheses (see? I have proof!) when
 they're convenient. Or perhaps one can combine multiple voices, like having a
 distinct voice per character, per perspective, like Dostoyevsky, or by mixing
 languages like Cathy Park Hong. One can borrow techniques and be influenced by
-other prior writers, but where does one's voice begin? How are we to merge
-content and style into one, a perfect match of form to substance?
+prior writers, but where does one's voice begin? How are we to merge content
+and style into one, a perfect match of form to substance?
 
 If we see writing style as an ebb and flow, we can liken writing to musical
 composition, where the phrasing and melodies in a string quartet's synchrony,
@@ -355,12 +355,12 @@ I look back at my notes now and see something similar Kieślowski mentioned:
 In my seminars, we frequently analyze how close a film remains to its initial
 concept. There's an initial sense of why the film is being made, and then,
 after one, two or five years the final result appears. And it's only true to
-the first idea. It's no really identifiable with all that happens later because
-masses of things happen later. Characters are born, heroes, protagonists,
-action, the camera comes along, the actors, props, lights and a thousand other
-things on which you have to compromise. You have to agree to a thousand
-inconveniences. And it's never what you imagine while writing the script, while
-thinking about the film.
+the first idea. It's not really identifiable with all that happens later
+because masses of things happen later. Characters are born, heroes,
+protagonists, action, the camera comes along, the actors, props, lights and a
+thousand other things on which you have to compromise. You have to agree to a
+thousand inconveniences. And it's never what you imagine while writing the
+script, while thinking about the film.
 </blockquote>
 
 That is how I understand my writing and how I frame it in the landscape of
@@ -580,7 +580,7 @@ the subtance, and the same is true when it comes to writing.
 How has painting evolved into modernity? Although a great deal of complexity can
 be found in the writings of the painters themselves, their critics, and art
 historians, this statement is in the spirit of the generalized stroke of
-integration: from the artists commissioned as court painters and dependent on
+integration: from the artists commissioned as court painters dependent on
 royalty interested in immortalizing the aristocracy, from the religious images
 in the Sistine Chapel imposed on the people from the high-mountain, divine and
 unquestionable, to the manicured, stilted, time-intensive oil pieces of
@@ -658,7 +658,7 @@ as it were, a canvas crowded with happenings. I wanted NOSTALGIA to be free of
 anything irrelevant or incidental that would stand in the way of my principal
 objective: the portrayal of someone in a state of profound alienation from the
 world and himself, unable to find a balance between reality and the harmony for
-which he longs, in a state of nostalgia provoked not only be his remoteness
+which he longs, in a state of nostalgia provoked not only by his remoteness
 from home but also by a global yearning for the wholeness of existence.
 </blockquote>
 Camus expands further: "Nobody realizes that some people expend tremendous
@@ -855,8 +855,7 @@ me so well for this road I was to take in life. All I can say is that the
 preparation was totally unconscious on my part.
 </blockquote>
 This unconscious, directionless meandering perhaps extends to the coincidental,
-unfocused, haphazard confluence that Coetzee describes almost as a flow state
-in writing:
+haphazard experience that Coetzee describes almost as a flow state in writing:
 <blockquote>
 I think it happens to many writers, or perhaps all writers, that at
 unpredictable times, completely unpredictable and completely uncontrollable
@@ -906,9 +905,9 @@ journey is and have decided to let it go, maybe get married and sustain the
 waves and falls, the strains and disillusionment, of a long, committed
 relationship and maybe even endure the process of a divorce, then let some
 years pass, then learn to pick yourself back up, then let some more years pass,
-and then we can begin: then the time is ripe to go back and read the books
-you've so proudly boasted of having once read. As Mahler's wife, Alma, recalls
-in 1910 about a concert in Buffalo, New York:
+and then we can begin: it is then that the time is ripe to go back and read the
+books you've so proudly boasted of having once read. As Mahler's wife, Alma,
+recalls in 1910 about a concert in Buffalo, New York:
 <blockquote>
 [Mahler] came back straight after the concert in high spirits to a simple and
 belated meal. "I have realized today," he said, "that articulate art is greater
