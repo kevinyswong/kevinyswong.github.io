@@ -568,6 +568,31 @@ is his getting to the very depths of the inexorability of loss and the real
 deep pain that human life affords, and I think if you can't get to the depth of
 that pain, you also can't get to the heights of the joy of human life.
 </blockquote>
+And in Tarkovsky's view:
+<blockquote>
+An artist never works under ideal conditions. If they existed, his work wouldn't
+exist, for the artist doesn't live in a vacuum. Some sort of pressure must
+exist: the artist exists because the world is not perfect. Art would be useless
+if the world were perfect, as man wouldn't look for harmony but would simply
+live in it. Art is born out of an ill-designed world. This is the issue in
+RUBLEV: the search for harmonic relationships among men, between art and life,
+between time and history. That's what my film is all about . . . I never think
+of the audience's attitude. It's very difficult for me to be in their shoes.
+It's a useless and unpleasant thing to do. Some people do so to predict the
+future success of the film. I am not one of these directors. The best route to
+the audience is to remain oneself, to use a personal language they'll surely
+understand. We must fight against commercial films. See how authors go about
+it! They don't try to be liked . . . The authors who tried to please the
+audience were unsuccessful: poets and authors don't know how to please. I've
+found a way out of this problem by moving in my films from the external to the
+internal world of man: the issue of loyalty to oneself, the relationship
+between personality and ideals . . . To me, man is at a dead end because he has
+invented the material solution to his problems through technological progress,
+but this is no solution at all . . . The solution lies in balancing these two
+lines of development: the inner spiritual and the outer material. This is the
+message in STALKER and SOLARIS and perhaps all my films, this attempt to
+balance out spiritual and material needs.
+</blockquote>
 Let me return briefly to my original point on the importance of style. Since
 we've been talking about paintings, I wish to point out visual styles as a
 parallel to writing style. Just as a viewer can perceive the visual difference
