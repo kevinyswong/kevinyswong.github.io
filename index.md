@@ -57,8 +57,8 @@ this, especially television reporters these days. They come along, stick a
 microphone under your nose and tell you to answer some question; you'll answer
 wisely or stupidly but that doesn't reveal the truth about you.
 </blockquote>
-As Kieślowski describes working on his first long feature film after he decided
-to stop making documentaries:
+Kieślowski further describes working on his first long feature film after he
+decided to stop making documentaries:
 <blockquote>
 Various little things turned up which testify to our schematic way of thinking.
 For example, we think that a tailor has always got a tape-measure around his
@@ -131,7 +131,7 @@ encounter what may be considered most contemporary fiction, I am by default, as
 a matter of custom, seeking these multiple, simultaneous elements in
 beautifully composed prose, yet I struggle to find it, experiencing only
 something more humdrum and uneventful—I come in interested in learning, and, if
-I sit down to think a bit, I may have questions about the writing, as also do
+I sit down to think a bit, I may have questions about the writing, as I also do
 with well-written novels, but with most contemporary fiction I fear the authors
 themselves may not have the answers, the questions not even having occurred to
 them. Nevertheless, I sometimes still try to read them. I only recently
@@ -275,33 +275,33 @@ prior writers, but where does one's voice begin? How are we to merge content
 and style into one, a perfect match of form to substance?
 
 If we see writing style as an ebb and flow, we can liken writing to musical
-composition, where the phrasing and melodies in a string quartet's synchrony,
-or the spontaneity in jazzy improvisation, a background cello coming in early
-on to add deep vibrations for contrast to a bright piano staccato, or a solo
-violin's haunting last stretch still echoing in one's ears long after the piece
-has ended, the strings tensing in one's chest until at last, peace and
+composition: the phrasing and melodies in a string quartet's synchrony, or the
+spontaneity in jazzy improvisation, a background cello coming in early on to
+add deep vibrations for contrast to a bright piano staccato, or a solo violin's
+haunting last stretch still echoing in one's ears long after the piece has
+ended, the strings tensing in one's chest until at last, peace and
 renunciation: giving in to a sense of meaning and contentment that the troubles
-one has endured over the course of one's days have been worthwhile after all. A
-song cycle of the earth, the cycle of human life: Mahler's DAS LIED VAN DER
-ERDE: the reckless wandering and searching, the sorrow and disappointment at
-our finitude, the temptations of youth, now and again drunk from wine and
-despair, reality beckoning as ever—how long can we avoid it? Dare we steal a
-peek? Is this all we can have in life?—until the final thrust of courage for
-clarity at the end, weeping, clear, but true: the soul's long last cries,
-distressed with the remaining bits of resistance and anger but eventually, at
-last, reconciling with the fatality that it'll all go on without us, at last,
-peace and renunciation: our souls perish but the earth is green and the skies
-blue over and over. So the music echoes the pain, the acceptance. And writing,
-too, in words and quotes, can echo long afterwards, sometimes even drawing
-readers back to certain passages to re-experience the melodies and cathartic
-expressions. This is the importance of style: one cannot write any content
-without at the same time choosing a particular style, and the style is
-important to the extent that it frames the content, morphs it, embodies it,
-expresses it, to the point where I'd say style is more important than content
-because it circumscribes what's possible and what can be said. But this
-flexibility, of course, depends on how much the writer is aware of this, how
-much command one has over it, and how expansive one's range happens to be. And
-for these current sentences I'm writing, should I separate them into a new
+one has endured over the course of one's days have been worthwhile after all.
+This is the spirit of a song cycle of the earth, the cycle of human life:
+Mahler's DAS LIED VAN DER ERDE: the reckless wandering and searching, the
+sorrow and disappointment at our finitude, the temptations of youth, now and
+again drunk from wine and despair, reality beckoning as ever—how long can we
+avoid it? Dare we steal a peek? Is this all we can have in life?—until the
+final thrust of courage for clarity at the end, weeping, clear, but true: the
+soul's long last cries, distressed with the remaining bits of resistance and
+anger but eventually, at last, reconciling with the fatality that it'll all go
+on without us, at last, peace and renunciation: our souls perish but the earth
+is green and the skies blue over and over. So the music echoes the pain, the
+acceptance. And writing, too, in words and quotes, can echo long afterwards,
+sometimes even drawing readers back to certain passages to re-experience the
+melodies and cathartic expressions. This is the importance of style: one cannot
+write any content without at the same time choosing a particular style, and the
+style is important to the extent that it frames the content, morphs it,
+embodies it, expresses it, to the point where I'd say style is more important
+than content because it circumscribes what's possible and what can be said. But
+this flexibility, of course, depends on how much the writer is aware of this,
+how much command one has over it, and how expansive one's range happens to be.
+And for these current sentences I'm writing, should I separate them into a new
 paragraph to section them off to give the reader some space for breath, to
 allow for brevity like in psychological chunking, to take advantage of the
 primacy effect, and as well for easier navigation for a casual scanner? Or
@@ -367,7 +367,7 @@ That is how I understand my writing and how I frame it in the landscape of
 literary possibilities, but how am I to say all this, remember enough of it, in
 passing conversation? Perhaps some folks can come up with a short summary
 without losing the essential intensity, the possibilities of beauty in language
-well-composed, but I am not among them. This description is a lecture, and let
+well composed, but I am not among them. This description is a lecture, and let
 me suggest that one may not be so vain as to impose this many words on someone
 expecting some "my novel is about a middle-aged man unhappily working a
 corporate job but one day discovers his true passion and quits to windsurf in
@@ -717,24 +717,24 @@ remain do only what they can: STILL WALKING.
 
 I have emphasized the experience of enjoying visuals and music, which I suggest
 may be more impactful and will linger longer in the viewer's memory than the
-details of mere plot. For example, we can find in the ending of Peter
-Greenaway's THE COOK, THE THIEF, HIS WIFE & HER LOVER's the combination of
-these three: visuals, music, and plot, in which the camera and actors'
-movements are orchestrated to the music against the sumptuous backdrop of a
-predominant red: the curtains and many of the clothes themselves are red but
-the color is amplified by the the red lighting casting the hue on the faces and
-the walls and the floor: a sea of red, just like Bergman's CRIES AND WHISPERS,
-but Greenaway's film uses the color not to represent repressed passions but
-rather overt, violent, reactionary revulsion to grotesque overconsumption. To
-me, the plot is merely the platform in which to embed the visuals and the
-music, and little of the plot would remain in memory if not for the other two.
-A few years afterwards, I find myself needing a reminder: who are the
-characters and their names? But what does it matter if what comes to mind, what
-has stuck, what has impacted me as a viewer, is the color red and the music:
-Michael Nyman's MEMORIAL? So I've been emphasizing visuals and music. Granted,
-the novel is a medium that lacks both, so what am I talking about in this
-strange conception of a plotness novel? Let us consider experiments a prior
-novelist, Beckett, has attempted.
+details of mere plot. For example, we can find in the spectacular final
+sequence of Peter Greenaway's film THE COOK, THE THIEF, HIS WIFE & HER LOVER
+the combination of these three: visuals, music, and plot, in which the camera's
+and the actors' movements are orchestrated to music against the sumptuous
+backdrop of a predominant red: the curtains and many of the clothes themselves
+are red but the color is amplified by the the red lighting casting the hue on
+the faces and the walls and the floor: a sea of red, just like Bergman's CRIES
+AND WHISPERS, but Greenaway's film uses the color not to represent repressed
+passions but rather overt, violent, reactionary revulsion to grotesque
+overconsumption. To me, the plot is merely the platform in which to embed the
+visuals and the music, and little of the plot would remain in memory if not for
+the other two. A few years afterwards, I find myself needing a reminder: who
+are the characters and their names? But what does it matter if what comes to
+mind, what has stuck, what has impacted me as a viewer, is the color red and
+the music: Michael Nyman's MEMORIAL? So I've been emphasizing visuals and
+music. Granted, the novel is a medium that lacks both, so what am I talking
+about in this strange conception of a plotness novel? Let us consider
+experiments a prior novelist, Beckett, has attempted.
 
 Beckett wrote a trilogy predicated on this gradual removal of narrative devices:
 plot, setting, and character. What little plot is involved among the two
