@@ -411,17 +411,17 @@ but the plot is so reduced that these motions are not the point of the play,
 but rather the question to the audience is: what do these motions mean?
 
 I am not the originator of these works, but I wish to suggest that it may well
-be a fruitless effort for the audience to reconsider all the details and strive
-to ascertain a secret, thriving, schemed plot as though the creators were so
-malicious to deliberately keep this treasure and key insight of the work out of
-plain sight when in fact the plot is not the point. Why must there be a plot? A
-theme? A moral? Why must we imprison ourselves with this arbitrary, rigid
-checklist rather than start from first principles? If we were satisfied with
-just plot, we can simply read the five-sentence summary at the back of a book
-and let ourselves be convinced that we've seen what this novel is about, or if
-that summary's suspense and mystery, deliberately intended as such to lure
-buyers and readers, leaves us unsatisfied, why not resort to artificial
-intelligence and use some information extraction methods from
+be a fruitless effort for the audience to go back and reconsider all the
+details and strive to ascertain a secret, thriving, schemed plot as though the
+creators were so malicious to deliberately keep this treasure and key insight
+of the work out of plain sight when in fact the plot is not the point. Why must
+there be a plot? A theme? A moral? Why must we imprison ourselves with this
+arbitrary, rigid checklist rather than start from first principles? If we were
+satisfied with just plot, we can simply read the five-sentence summary at the
+back of a book and let ourselves be convinced that we've seen what this novel
+is about, or if that summary's suspense and mystery, deliberately intended as
+such to lure buyers and readers, leaves us unsatisfied, why not resort to
+artificial intelligence and use some information extraction methods from
 <a href="https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en">Heng Ji</a>
 on the novel? Supposing the outputs are accurate, would we then be satisfied
 then, knowing all that those goes on in the novel? From this reasoning, we see
@@ -487,7 +487,7 @@ superfluous knick-knacks of drama? Is the novelist so vain as to use words? How
 dare he commit such a heinous offense as use language? What a groteque
 violation of good taste! But never mind the comforts of good taste—these
 ornaments irritate the eyes, spark a forest fire in the chest, burn down the
-soul's trees, and causes climate change in the lungs! They are certainly crimes
+soul's trees, and cause climate change in the lungs! They are certainly crimes
 against humanity! Call up the tribunal! We bring against him not the charges of
 thievery or arson or racketeering but of being a writer who uses words! To the
 courtroom with this ornamental novelist! Standing up in his own defense, the
@@ -597,27 +597,27 @@ Let me return briefly to my original point on the importance of style. Since
 we've been talking about paintings, I wish to point out visual styles as a
 parallel to writing style. Just as a viewer can perceive the visual difference
 between a Rococo and a Pointillist, an Art Deco and a color field, a Fauvist
-and a Dada, a reader can readily perceive the difference between writing style,
-between how words are strung together. Regardless of the actual content, the
-viewer's perception of the painting is more heavily affected by its style than
-the subtance, and the same is true when it comes to writing.
+and a Dada, a reader can readily perceive the difference between writing
+styles, between how words are strung together. Regardless of the actual
+content, the viewer's perception of the painting is more heavily affected by
+its style than the subtance, and the same is true when it comes to writing.
 
 How has painting evolved into modernity? Although a great deal of complexity can
 be found in the writings of the painters themselves, their critics, and art
 historians, this statement is in the spirit of the generalized stroke of
-integration: from the artists commissioned as court painters dependent on
-royalty interested in immortalizing the aristocracy, from the religious images
-in the Sistine Chapel imposed on the people from the high-mountain, divine and
+integration: from the medieval artists commissioned as court painters dependent
+on royalty seeking to immortalize the aristocracy, from the religious images in
+the Sistine Chapel imposed on the people from the high mountain, divine and
 unquestionable, to the manicured, stilted, time-intensive oil pieces of
 landscape and portrait painters working in artificial, academic, fixed studios,
 to the initial steps of liberation among the Impressionists prioritizing the
 freedom of movement and actual human perception, to the fragmented vantages of
 Cubism, to Surrealism's eerie absurdities conveying the unconscious mind, to
 the total rejection of reality in Abstract Expressionism, each progression has
-been detached more and more from the adamance of reality, instead moving closer
-and closer to ourselves—in paring all away until what remains is the simplicity
-of color, form, and their mutual interactions: at last, purity and expression.
-The gradual progression of painting styles follows the movement inwards; if at
+departed more and more from the adamance of reality, instead moving closer and
+closer to ourselves—in paring all away until what remains is the simplicity of
+color, form, and their mutual interactions: at last, purity and expression. The
+gradual progression of painting styles follows the movement inwards; if at
 first the primitive eyes marvelled at the earth's complexity, wishing to
 recreate it within the confines of the canvas of our grasp, so the eyes of
 modernity, matured and weary of tediously, rotely, maniacally copying down the
@@ -631,7 +631,7 @@ perception of it dependent on our relation to it, that time and space are not
 external to ourselves but are merely our internal constructs we impose on the
 universe? If we are unclear from the outset about the distinction between
 external reality and our inner selves, what is it that we are so eagerly
-mimicking on the canvas? If the reality as we perceive and understand is
+mimicking on the canvas? If the reality we perceive and understand is
 inextricably rooted in our inner conceptions, how much better it is to start
 there, and even end there, for that inner world may be all there is. We find a
 similar evolution among cyberpunk films: from Fritz Lang's METROPOLIS to Ridley
@@ -981,7 +981,7 @@ one associates with a particular phase in one's past, the space itself has
 changed: the buildings and storefronts and furniture and people that for the
 longest time have remained fixed in memory may no longer be there in reality,
 just as the person who returns to the space has changed. But the words in a
-finished book are always the same; it is the person who has changed.
+finished book are always the same; it is the person that has changed.
 
 <br>
 
