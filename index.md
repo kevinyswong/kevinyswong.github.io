@@ -4,6 +4,7 @@ layout: default
 ---
 <style>
   blockquote { font-size: 16px; font-style: normal; letter-spacing: .005px; }
+  h4 { font-weight: bold; }
 </style>
 
 <h2>Ruminations</h2>
@@ -22,20 +23,10 @@ in these many words:
 
 Yes, I admit that I haven't been entirely open about my writing, but it's
 something I'm almost always hesitant to share with anyone because it's going to
-sound too difficult and unfamiliar, and people for the most part just want to
-enjoy themselves and not think too much. As Scruton says,
-<blockquote>
-I think one of the saddest things about the modern world, a result of
-television, is that people live in a tiny time slice of the present moment
-which they carry forward with them but nothing remains, and there's nothing in
-their experience which reverberates down the centuries because the centuries to
-them are completely dark, just unillumined corridors from which they stagger
-into the single little sliver of light.
-</blockquote>
-I feel I owe you a proper explanation, which I'll give to you now. I recently
-came across an interview with Godard in which the interviewer asked him to
-explain why he liked a particular movie, and Godard responded with something I
-can relate to:
+sound too difficult and unfamiliar. I feel I owe you a proper explanation,
+which I'll give to you now. I recently came across an interview with Godard in
+which the interviewer asked him to explain why he liked a particular movie, and
+Godard responded with something I can relate to:
 <blockquote>
 Well, it's too long to explain, and I have to explain or to criticize it, but
 with images and sound, just not by words, which is difficult. If not, you do
@@ -84,79 +75,56 @@ perennial curiosity to see what other writers are doing. I happened to have
 already read one of them, Ishiguro's REMAINS OF THE DAY, so I picked the other
 one up and browsed a few pages, sampling the sentences and the writing. I don't
 remember the name of the book or the author, but it was one of those recently
-published contemporary fiction books you'd find in the young adult section. I
-suppose a neutral observer can, on fair grounds, criticize me for prematurely
-judging, but I found this novel's writing to be the flavorless, generic type
-you see quite often nowadays when both readers and writers tend not to have the
-patience or imagination to use sentences longer than the span of one line
-across the page. I have liked writers who don't use any obvious flair. Their
-novels take a fair bit of reading to appreciate. I agree that in general one
-can't judge from shallow sampling. You can call me a stickler. But I don't like
-when the sentences are consistently this short. Like hurrying somewhere without
-one paced breath. Like jotting down every silly thought. Without filters. I
-hope you can sympathize with me. I hope you can see why I think this kind of
-writing is monotonous. Can you detect personality in it? In sentences like
-these. And what makes the person unique? I guess there is a personality. A
-specific type. But not one I enjoy reading. Can I impress upon you why I find
-this writing bland? And several hundred pages? I admit I am exaggerating here.
-But this is how I feel when reading this kind of writing. Though I didn't enjoy
-the Ishiguro when I'd read it years before, and it's not my favorite novel from
-him, I remember the flavor of his prose. I can respect his writing: the prose
-was dignified, reserved, studied, meticulously put together, like the story's
-English butler and the formality of his character. A perceptive reader can
-recognize these elements in the prose, and whether or not the reader ends up
-enjoying the novel, he can appreciate the prose's craft, the execution of the
-story as being what the writer intended the novel to be, written as a direct
-translation of intent and deliberate control. Compared to the other novel, the
-Ishiguro is actually easier to read even though it is a longer book and has
-more words and pages, but the required components are present, and the story,
-characters, dialogue are exposed with adequate substantiation, as opposed to
-the other whose prose was precarious, inadequately developed and flickering,
-punctured with unintended gaps, that the reader must spend as much time reading
-words as pausing to interpolate what has happened—there's simply not much there
-at the time of reading and certainly nothing to remember, for the act of
-remembering presumes that something was there in the first place to put to
-memory. To the person I was having coffee with, I described the differences in
-writing as such. I find I have an incredibly difficult time reading most
-contemporary fiction of this lightweight, shallow kind because I am accustomed
-to a calibrated composition, a highly deliberate interplay between words and
-form, where each element has been carefully considered, when I am in the hands
-of an expert writer who exposes precisely what it is the writer wishes to
-present at a precisely the right moment at every step of the way—while I am
-reading I am at the same time appreciating the craft and the prose, the
-wonderful expertise, and all the better when the writing is so euphoric, so
-expressive, so satisfyingly scratching a hitherto unreachable itch I didn't
-even know existed that I must pause to savor it. When my accustomed habits
-encounter what may be considered most contemporary fiction, I am by default, as
-a matter of custom, seeking these multiple, simultaneous elements in
-beautifully composed prose, yet I struggle to find it, experiencing only
-something more humdrum and uneventful—I come in interested in learning, and, if
-I sit down to think a bit, I may have questions about the writing, as I also do
-with well-written novels, but with most contemporary fiction I fear the authors
-themselves may not have the answers, the questions not even having occurred to
-them. Nevertheless, I sometimes still try to read them. I only recently
-discovered a useful method that makes my reading experience with contemporary
-fiction less grating, to make the prose more bearable, even in a sense
-enjoyable: I read in public with white noise in the background, or, if in
-private, play music at an audible volume, which is to say: I deliberately limit
-my attentional bandwidth, to not think too much or ask too many questions or
-linger too long on a piece of prose that simply doesn't have much there. I say
-this without irony or arrogance. The reason for this difference in writing
-between serious fiction and most contemporary fiction may be rather simple: it
-is simply for a different audience, a different market, a different kind of
-person, a different way of operating in the world, a different perspective and
-reasoning, a different community altogether, in which books and the act of
-reading either occupy the hour with amusement or serve as signifiers for a
-projected persona, regardless of what it is one is reading. I would say this
-sort of nondemanding writing is for most folks, the carefree public, who
-consume books as a presentable lifestyle, to associate with a reading clique or
-have a precarious identification with a historied tradition, but for them it is
-to read books in the park on a warm Sunday afternoon, maybe chat about it
-briefly with a few friends or a book club, and then move on with the usual
-wears and cares in their lives, thereafter forgetting about the book
-altogether. This intention may suffice for most, but is it not mine, and the
-sort of novels I enjoy and even the aspirations of my own writing require the
-readers' full attention and persist with them long afterwards.
+published contemporary fiction books. I suppose a neutral observer can, on fair
+grounds, criticize me for prematurely judging, but I found this novel's writing
+to be the flavorless, generic type you see quite often nowadays when both
+readers and writers tend not to have the patience or imagination to use
+sentences longer than the span of one line across the page. I have liked
+writers who don't use any obvious flair. Their novels take a fair bit of
+reading to appreciate. I agree that in general one can't judge from shallow
+sampling. You can call me a stickler. But I don't like when the sentences are
+consistently this short. Like hurrying somewhere without one paced breath. Like
+jotting down every silly thought. Without filters. I hope you can sympathize
+with me. I hope you can see why I think this kind of writing is monotonous. Can
+you detect personality in it? In sentences like these. And what makes the
+person unique? I guess there is a personality. A specific type. But not one I
+enjoy reading. Can I impress upon you why I find this writing bland? And
+several hundred pages? I admit I am exaggerating here. But this is how I feel
+when reading this kind of writing. Though I didn't enjoy the Ishiguro when I'd
+read it years before, and it's not my favorite novel from him, I remember the
+flavor of his prose. I can respect his writing: the prose was dignified,
+reserved, studied, meticulously put together, like the story's English butler
+and the formality of his character. A perceptive reader can recognize these
+elements in the prose, and whether or not the reader ends up enjoying the
+novel, he can appreciate the prose's craft, the execution of the story as being
+what the writer intended the novel to be, written as a direct translation of
+intent and deliberate control. Compared to the other novel, the Ishiguro is
+actually easier to read even though it is a longer book and has more words and
+pages, but the required components are present, and the story, characters,
+dialogue are exposed with adequate substantiation, as opposed to the other
+whose prose was precarious, inadequately developed and flickering, punctured
+with unintended gaps, that the reader must spend as much time reading words as
+pausing to interpolate what has happened—there's simply not much there at the
+time of reading and certainly nothing to remember, for the act of remembering
+presumes that something was there in the first place to put to memory. To the
+person I was having coffee with, I described the differences in writing as
+such. I find I have an incredibly difficult time reading most contemporary
+fiction of this lightweight, haphazard kind because I am accustomed to a
+calibrated composition, a highly deliberate interplay between words and form,
+where each element has been carefully considered, when I am in the hands of an
+expert writer who exposes precisely what it is the writer wishes to present at
+a precisely the right moment at every step of the way—while I am reading I am
+at the same time appreciating the craft and the prose, the wonderful expertise,
+and all the better when the writing is so euphoric, so expressive, so
+satisfyingly scratching a hitherto unreachable itch I didn't even know existed
+that I must pause to savor it. When my accustomed habits encounter what may be
+considered most contemporary fiction, I am by default, as a matter of custom,
+seeking these multiple, simultaneous elements in beautifully composed prose,
+yet I struggle to find it, experiencing only something more humdrum and
+uneventful—I come in interested in learning, and, if I sit down to think a bit,
+I may have questions about the writing, as I also do with well-written novels,
+but with most contemporary fiction I fear the authors themselves may not have
+the answers, the questions not even having occurred to them.
 
 What about my own writing? What do I mean when I say my writing is serious? I am
 usually willing to try to explain things, but not writing. My difficulty
@@ -176,13 +144,8 @@ from what people usually have in mind when they imagine a novel or a story. I
 am not principally concerned about plot or characters. Those are subsequent
 considerations, consequences of a particular atmosphere, headspace, emotion,
 deluge, a sense of existence and mortality, memory, which is embedded in a
-swimming literary flow, at a certain cadence and punctuation. The aspiration of
-my writing isn't an evening's pleasant reading, some passing lukewarm story to
-enjoy—those are fine and well, and there are times for them, but we must also
-ask: is this all we can have in life? Just a series of these lukewarm, pleasant
-experiences, not too eventful, not too challenging, not too creative or
-innovative, but, you know, just mild and comfortably palatable? I am not going
-for easy joy or escapade entertainment so much as a sense of meaning in the
+swimming literary flow, at a certain cadence and punctuation. I am not going
+for passing joy or escapade entertainment so much as a sense of meaning in the
 lifestream, the thrill, catharsis, communion, indeed merging with the
 narrative, when one's dread, loss, regret, hopes, confusions, untapped
 longings, are concretized into a hitherto unknown expression, an elevated
@@ -263,16 +226,16 @@ like in A CLOCKWORK ORANGE or whole new languages like Tolkien, or impose
 constraints on one's language like the Oulipo group, as George Perec refrained
 from using the letter "e" in THE VOID. I myself for a long time restrained from
 using parentheses, considering it a lapse of one's writing ability to need them
-to break free from the course of the main prose for the embarrassment of an
-aside, because isn't there a more natural, elegant, proper way to express that
-aside by swirling that branch back into the trunk in a cleaner, more
-streamlined form, something more beautiful? These days, of course, I'm a fair
-bit more lenient on things and do use parentheses (see? I have proof!) when
-they're convenient. Or perhaps one can combine multiple voices, like having a
-distinct voice per character, per perspective, like Dostoyevsky, or by mixing
-languages like Cathy Park Hong. One can borrow techniques and be influenced by
-prior writers, but where does one's voice begin? How are we to merge content
-and style into one, a perfect match of form to substance?
+to break free from the course of the main prose for the lapse of an aside,
+because isn't there a more natural, elegant, proper way to express that aside
+by swirling that branch back into the trunk in a cleaner, more streamlined
+form, something more beautiful? These days, of course, I'm a fair bit more
+lenient on things and do use parentheses (see? I have proof!) when they're
+convenient. Or perhaps one can combine multiple voices, like having a distinct
+voice per character, per perspective, like Dostoyevsky, or by mixing languages
+like Cathy Park Hong. One can borrow techniques and be influenced by prior
+writers, but where does one's voice begin? How are we to merge content and
+style into one, a perfect match of form to substance?
 
 If we see writing style as an ebb and flow, we can liken writing to musical
 composition: the phrasing and melodies in a string quartet's synchrony, or the
@@ -286,25 +249,25 @@ This is the spirit of a song cycle of the earth, the cycle of human life:
 Mahler's DAS LIED VAN DER ERDE: the reckless wandering and searching, the
 sorrow and disappointment at our finitude, the temptations of youth, now and
 again drunk from wine and despair, reality beckoning as ever—how long can we
-avoid it? Dare we steal a peek? Is this all we can have in life?—until the
-final thrust of courage for clarity at the end, weeping, clear, but true: the
-soul's long last cries, distressed with the remaining bits of resistance and
-anger but eventually, at last, reconciling with the fatality that it'll all go
-on without us, at last, peace and renunciation: our souls perish but the earth
-is green and the skies blue over and over. So the music echoes the pain, the
-acceptance. And writing, too, in words and quotes, can echo long afterwards,
-sometimes even drawing readers back to certain passages to re-experience the
-melodies and cathartic expressions. This is the importance of style: one cannot
-write any content without at the same time choosing a particular style, and the
-style is important to the extent that it frames the content, morphs it,
-embodies it, expresses it, to the point where I'd say style is more important
-than content because it circumscribes what's possible and what can be said. But
-this flexibility, of course, depends on how much the writer is aware of this,
-how much command one has over it, and how expansive one's range happens to be.
-And for these current sentences I'm writing, should I separate them into a new
+avoid it? Dare we steal a peek?—until the final thrust of courage for clarity
+at the end, weeping, clear, but true: the soul's long last cries, distressed
+with the remaining bits of resistance and anger but eventually, at last,
+reconciling with the fatality that it'll all go on without us, at last, peace
+and renunciation: our souls perish but the earth is green and the skies blue
+over and over. So the music echoes the pain, the acceptance. And writing, too,
+in words and quotes, can echo long afterwards, sometimes even drawing readers
+back to certain passages to re-experience the melodies and cathartic
+expressions. This is the importance of style: one cannot write any content
+without at the same time choosing a particular style, and the style is
+important to the extent that it frames the content, morphs it, embodies it,
+expresses it, to the point where I'd say style is more important than content
+because it circumscribes what's possible and what can be said. But this
+flexibility, of course, depends on how much the writer is aware of this, how
+much command one has over it, and how expansive one's range happens to be. And
+for these current sentences I'm writing, should I separate them into a new
 paragraph to section them off to give the reader some space for breath, to
-allow for brevity like in psychological chunking, to take advantage of the
-primacy effect, and as well for easier navigation for a casual scanner? Or
+allow for the brevity permitted by psychological chunking, to take advantage of
+the primacy effect, and as well for easier navigation for a casual scanner? Or
 should I keep them in the same paragraph? What is the effect there? One can
 make these decisions only during the writing because one becomes aware of them
 only while making one's way through the words on the page, staring at the words
@@ -364,23 +327,23 @@ script, while thinking about the film.
 </blockquote>
 
 That is how I understand my writing and how I frame it in the landscape of
-literary possibilities, but how am I to say all this, remember enough of it, in
-passing conversation? Perhaps some folks can come up with a short summary
-without losing the essential intensity, the possibilities of beauty in language
-well composed, but I am not among them. This description is a lecture, and let
-me suggest that one may not be so vain as to impose this many words on someone
-expecting some "my novel is about a middle-aged man unhappily working a
-corporate job but one day discovers his true passion and quits to windsurf in
-Micronesia." Please do note that in describing my writing I mentioned little
-about plot and characters only briefly, and even then to observe the
-difficulties of characters resembling actual people and not some simplified,
-idealized fantasy and also to suggest the possibility that one might not need
-them at all, and note too how I had neither but still generated drama, tension,
-energy. Perhaps the starting point for a novelist is not what the novel is
-about but to pose the question thus: what words lay between a writer and a
-reader separated by time and space? Given how different my views on writing
-are, can I be blamed for preferring in casual, pleasant conversation the
-convenience of hand-waving and simply saying that my writing is serious?
+literary possibilities, but I find that I am unable to convey an adequate
+impression of it in passing conversation. Perhaps some folks can come up with a
+short summary without losing the essential intensity, the possibilities of
+beauty in language well composed, but I am not among them. This description is
+a lecture, and let me suggest that one may not be so vain as to impose this
+many words on someone expecting some "my novel is about a middle-aged man
+unhappily working a corporate job but one day discovers his true passion and
+quits to windsurf in Micronesia." Please do note that in describing my writing
+I mentioned little about plot and characters only briefly, and even then to
+observe the difficulties of characters resembling actual people and not some
+simplified, idealized fantasy and also to suggest the possibility that one
+might not need them at all, and note too how I had neither but still generated
+drama, tension, energy. Perhaps the starting point for a novelist is not what
+the novel is about but to pose the question thus: what words lay between a
+writer and a reader separated by time and space? Given how different my views
+on writing are, can I be blamed for preferring in casual, pleasant conversation
+the convenience of hand-waving and simply saying that my writing is serious?
 
 I am not claiming to be the first to conceive of plotlessness—far from it: this
 has been done many times before, and with spectacular success. Consider
@@ -407,15 +370,17 @@ intermission when one is gone, the remaining two share a whispered secret the
 audience cannot hear. This is a form of symbolic purity and mathematical
 precision, highly ritualized and allegorical. Here, there is certainly a
 plot—three women coming and going and briefly, discreetly sharing a few words,
-but the plot is so reduced that these motions are not the point of the play,
-but rather the question to the audience is: what do these motions mean?
+but the plot is so reduced, the essential arc done once and then repeated two
+more times, that these motions are not the point of the play, but rather the
+question to the audience is: what do these motions mean?
 
 I am not the originator of these works, but I wish to suggest that it may well
-be a fruitless effort for the audience to go back and reconsider all the
-details and strive to ascertain a secret, thriving, schemed plot as though the
-creators were so malicious to deliberately keep this treasure and key insight
-of the work out of plain sight when in fact the plot is not the point. Why must
-there be a plot? A theme? A moral? Why must we imprison ourselves with this
+be a fruitless effort for the audience, having just experienced one of these
+works, trying to make sense of it, to go back and reconsider all the details
+and strive to ascertain a secret, thriving, schemed plot as though the creators
+were so malicious to deliberately keep this treasure and key insight of the
+work out of plain sight when in fact the plot is not the point. Why must there
+be a plot? A theme? A moral? Why must we imprison ourselves with this
 arbitrary, rigid checklist rather than start from first principles? If we were
 satisfied with just plot, we can simply read the five-sentence summary at the
 back of a book and let ourselves be convinced that we've seen what this novel
@@ -424,10 +389,10 @@ such to lure buyers and readers, leaves us unsatisfied, why not resort to
 artificial intelligence and use some information extraction methods from
 <a href="https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en">Heng Ji</a>
 on the novel? Supposing the outputs are accurate, would we then be satisfied
-then, knowing all that those goes on in the novel? From this reasoning, we see
-it is not sufficient to enjoy a novel from summarized plot—but I contend that
-even the fully elaborated plot from reading the novel is not satisfactory, at
-least not without excellent execution, and by that I mean the execution is more
+then, knowing all that goes on in the novel? From this reasoning, we see it is
+not sufficient to enjoy a novel from summarized plot—but I contend that even
+the fully elaborated plot from reading the novel is not satisfactory, at least
+not without excellent execution, and by that I mean the execution is more
 important than the particular details of the motions. Why do we mandate the
 novelist have a plot in his works? We see such an assumption in the very
 question, "What is your novel about?" Here I am reminded of architect Adolf
@@ -477,9 +442,10 @@ objects of art at a time shows a more delicate sense of these limitations than
 the Western passion for multiplying effects . . . The supreme excellence is
 simplicity. Moderation, fitness, relevance—these are the qualities that give
 permanence to the work of the great architects. <i>Tout ce qui n'est pas
-nécessaire est nuisible</i>. There is a sense in which works of art may be said
-to endure by virtue of that which is left out of them, and it is this "tact of
-omission" that characterizes the master-hand.
+nécessaire est nuisible</i> [Anything that isn't necessary is harmful]. There
+is a sense in which works of art may be said to endure by virtue of that which
+is left out of them, and it is this "tact of omission" that characterizes the
+master-hand.
 </blockquote>
 Should the novelist, decorating the house of his book, be weighted down by such
 a fanciful ornament as plot? The overcrowded bibelots of characters? The
@@ -722,9 +688,9 @@ sequence of Peter Greenaway's film THE COOK, THE THIEF, HIS WIFE & HER LOVER
 the combination of these three: visuals, music, and plot, in which the camera's
 and the actors' movements are orchestrated to music against the sumptuous
 backdrop of a predominant red: the curtains and many of the clothes themselves
-are red but the color is amplified by the the red lighting casting the hue on
-the faces and the walls and the floor: a sea of red, just like Bergman's CRIES
-AND WHISPERS, but Greenaway's film uses the color not to represent repressed
+are red but the color is amplified by the red lighting casting the hue on the
+faces and the walls and the floor: a sea of red, just like Bergman's CRIES AND
+WHISPERS, but Greenaway's film uses the color not to represent repressed
 passions but rather overt, violent, reactionary revulsion to grotesque
 overconsumption. To me, the plot is merely the platform in which to embed the
 visuals and the music, and little of the plot would remain in memory if not for
@@ -828,37 +794,23 @@ there.
 If reality is too harrowing, complexity too abstract, drifts of form too
 difficult, explorations on the nature of the written story too barren, laid too
 bare to the bone, we have no choice but to accept fantasy and the conventional
-components of a narrative: plot and character. And if we must accept these
-narrative devices, why have I made all this fuss about not needing plot? But
-first some context on this situation I have put the readers in so they don't
-feel duped: in the course of my journey reading a variety of works, I have
-encountered some pieces by amateur writers whose works turned out to be like
-clickbait, drawing in readers by promising to explain a fancy or important
-concept but which in the end failed to do so or even, by their own admission,
-were just the writers' thought process of working out what they still do not
-understand, baby steps, a rudimentary draft—and so we readers are left
-dangling, unsatisfied—to which I say, back to the drawing board with you and
-your half-baked guessing; stop adding chaos and pollution to an already
-disorganized, noisy world riddled with misinformation. This militant response
-of mine is not to come across as unduly intolerant, but said writers made a
-promise, and they failed to deliver, yet they continue to share their
-incomplete work with misleading claims rather than fix their troubles before
-shamelessly spreading it further—it's a waste of everyone's time. I am not one
-of these writers. The point of this exercise is to demonstrate that plot is not
-the principal component of a satisfying novel—of course I'm using plot and
-characters in my novel, for what is a novel made of but precisely those things,
-and a generally accessible novel at that? The alternative is simply too
-esoteric, too arcane, too intellectualized to be much more than a fancy
-experiment to preoccupy brainy folks with mental weight-lifting—such a
-manifestation dissipates from one's life as soon as one puts down the dumbbells
-and showers off one's sweat from the gym, which is to say that there has been
-no impact, no lessons learned, no new perspectives gained, but just an
-interlude of staring at oneself lifting in the mirror. But I am showing that
-plot is secondary, not primary, that it is a consequence of other elements,
-that many have come before who have done away with it altogether. Further, I am
-showing to what degree a novel does not depend on plot, to what degree it is
-not necessary, to dissociate in the conventional conception a novel from plot
-and character.
+components of a narrative: plot and character. Yes, it is that we have no
+choice but to rely on these usual literary techniques. And if we must accept
+these narrative devices, why have I made all this fuss about not needing plot?
+The point of this exercise is to demonstrate that plot is not the principal
+component of a satisfying novel—of course I'm using plot and characters in my
+novel, for what is a novel made of but precisely those things, and a generally
+accessible novel at that? The alternative is simply too esoteric, too arcane,
+too intellectualized to be much more than a fancy experiment to preoccupy
+brainy folks with mental weight-lifting—such a manifestation dissipates from
+one's life as soon as one puts down the dumbbells and showers off one's sweat
+from the gym, which is to say that there has been no impact, no lessons
+learned, no new perspectives gained, but just an interlude of staring at
+oneself lifting in the mirror. But I am showing that plot is secondary, not
+primary, that it is a consequence of other elements, that many have come before
+who have done away with it altogether. Further, I am showing to what degree a
+novel does not depend on plot, to what degree it is not necessary, to
+dissociate in the conventional conception a novel from plot and character.
 
 I will say that there is a satisfaction in writing, both in the process and also
 afterwards, of having put together in one place something that coalesces all of
@@ -918,20 +870,7 @@ had taken a liking to and which have had some influence on my thoughts at the
 time but in which I, upon revisiting, may have lost interest. It may be said
 that one book read by twelve readers may be twelve different books, and it may
 be said that a book read by one reader in his youth is a different book than
-when the same reader revisits it twenty years later. As a side note, I have
-this issue when some haughty sixteen-year-old kid in his self-perceived
-precocity proclaims he's read THE BROTHERS KARAMAZOV as if it's a milestone of
-accomplishment. I doubt anyone at that age can adequately appreciate it. If you
-read it without any real life experience, how much of it do you actually
-understand? To such a kid my advice is to first experience a bit of life, the
-highs and the lows, see how many precocious others there have been, witness how
-many of one's peers have tried and failed or have discovered how long the
-journey is and have decided to let it go, maybe get married and sustain the
-waves and falls, the strains and disillusionment, of a long, committed
-relationship and maybe even endure the process of a divorce, then let some
-years pass, then learn to pick yourself back up, then let some more years pass,
-and then we can begin: it is then that the time is ripe to go back and read the
-books you've so proudly boasted of having once read. As Mahler's wife, Alma,
+when the same reader revisits it twenty years later. As Mahler's wife, Alma,
 recalls in 1910 about a concert in Buffalo, New York:
 <blockquote>
 [Mahler] came back straight after the concert in high spirits to a simple and
@@ -943,14 +882,8 @@ back to New York alone, because I did not want to leave my little girl too long
 alone with her nurse. At his suggestion I re-read THE BROTHERS KARAMAZOV on the
 journey, and I telegraphed from New York: "Splendid journey with Aliosha."
 </blockquote>
-In theoretical fields, the lack of burdensome experience paired with sheer fluid
-intelligence is helpful, but not in something like understanding life or a
-field like serious literature which reflects it. So far I have been talking
-only about one field, serious literature, but this is perhaps true: one can
-spend one's life dedicated to any one field and still not know all there is to
-know in it. And how many fields are there? This is how small we individuals
-are. I am reminded of something else Kieślowski said—bear with me even if
-you've tired of him already; this is my last reference to him:
+I am reminded of something else Kieślowski said—bear with me even if you've
+tired of him already; this is my last reference to him:
 <blockquote>
 They always ask me in interviews, which directors have influenced me the most. I
 don't know the answer to that. Probably so many, for all sorts of reasons, that
@@ -983,7 +916,7 @@ longest time have remained fixed in memory may no longer be there in reality,
 just as the person who returns to the space has changed. But the words in a
 finished book are always the same; it is the person that has changed.
 
-<br>
+<br><br>
 
 <h4>2023-06-22, 四. Some Thoughts on the Value of the Novel in the Twenty-first Century.</h4>
 Today's post is a collection of thoughts that have occurred to me at one point
@@ -1116,9 +1049,9 @@ task and spend no time actually doing it.
 Again, I'm not judging; it's other people's lives, which is none of my business.
 I'm merely making an observation, suggesting it as perhaps a problem for
 novelists, one that should be addressed, and even then, it's not that I have
-any more than vague ideas moving forward. Whether or not people end up read the
-books they buy, the most popular books are starting to get self-conscious about
-saving the trees: according to an
+any more than vague ideas moving forward. Whether or not people end up reading
+the books they buy, the most popular books are starting to get self-conscious
+about saving the trees: according to an
 <a href="https://wordsrated.com/bestselling-books-have-never-been-shorter/">analysis</a>
 by WordsRated, New York Times bestsellers have been getting shorter,
 decreasing "by 51.5 pages from 2011 to 2021, from 437.5 to 386 (11.8%)." And
@@ -2242,7 +2175,7 @@ competition from other novels but also the more immediate gratifications from
 other mediums, to use words to keep all else at bay, to say: words alone must
 suffice.
 
-<br>
+<br><br>
 
 <h4>2021-07-10, 六.</h4>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -3451,7 +3384,7 @@ free Persons, including those bound to Service for a Term of Years, and
 excluding Indians not taxed, three fifths of all other Persons"—until one
 century later when an amendment repealed such nonsense.
 
-<br>
+<br><br>
 
 <h4>2021-04-04, 日. On Religion and Roger Scruton.</h4>
 I'm an atheist, and today's post situates my views in the context of religion,
@@ -3686,7 +3619,7 @@ Wiltshire, Scruton lived until his death in January 2020. May he rest in the
 peace of eternity that I too will one day join, hopefully having attained the
 same peace in human terms.
 
-<br>
+<br><br>
 
 <h4>2021-02-11, 四. On Race, Diversity, and Immigration.</h4>
 Today's post is delicate for obvious reasons. Reader be warned, this may make
@@ -3950,7 +3883,7 @@ were children we saw ourselves as adventurers and explorers, looking out at a
 world full of mystery, curious at everything, unafraid to learn, elated to be
 alive. Where has that sense of awe and wonder gone?
 
-<br>
+<br><br>
 
 <h4>2021-02-09, 二. In Defense of Abstract Art.</h4>
 Why view abstract art? When we stand before an abstract painting, what is it
@@ -4066,7 +3999,7 @@ color and shape<br>
 size and<br>
 space
 
-<br>
+<br><br>
 
 <h4>2019-09-29, 日.</h4>
 There is a pond outside, wavelings rippling across the surface, a soft, gentle,
