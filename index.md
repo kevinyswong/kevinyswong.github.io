@@ -10,9 +10,10 @@ layout: default
 
 <h2>Ruminations</h2>
 
-<h4>2024-08-07, 三. On the Political Divide, the Migrant Crisis, Immigration, Meritocracy,
-Liberal Hypocrisy, Inequality, Social Capitalism, Man's Inner World, and
-Wandering.</h4>
+<a href="#2023-06-22">&darr;</a>
+<b id="2024-08-07">2024-08-07, 三. On the Political Divide, the Migrant Crisis, Immigration,
+Meritocracy, Liberal Hypocrisy, Inequality, Social Capitalism, Man's Inner
+World, and Wandering.</b>
 
 <span id="Introduction"></span>
   I was recently accused of being too serious, and today I aspire to introduce a
@@ -10467,7 +10468,9 @@ ___
 
 
 
-<h4>2023-06-22, 四. Some Thoughts on the Value of the Novel in the Twenty-first Century.</h4>
+<a href="#2024-08-07">&uarr;</a> <a href="#2021-07-10">&darr;</a>
+<b id="2023-06-22">2023-06-22, 四. Some Thoughts on the Value of the Novel in the Twenty-first Century.</b>
+
 Today's post is a collection of thoughts that have occurred to me at one point
 or another, some ideas and some questions I've considered, many of which I have
 not quite answered.
@@ -11726,7 +11729,9 @@ suffice.
 
 <br><br>
 
-<h4>2021-07-10, 六.</h4>
+<a href="#2023-06-22">&uarr;</a> <a href="#2021-06-29">&darr;</a>
+<b id="2021-07-10">2021-07-10, 六.</b>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 stumbling onto a fishing pier, black night surround<br>
@@ -11736,7 +11741,9 @@ a quiet sea breeze, sudden flush of peace
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h4>2021-06-29, 二. On Authenticity In Art, Politics, and Taxes.</h4>
+<a href="#2021-07-10">&uarr;</a> <a href="#2021-04-04">&darr;</a>
+<b id="2021-06-29">2021-06-29, 二. On Authenticity In Art, Politics, and Taxes.</b>
+
 David Foster Wallace mentioned a few interesting ideas when he said:
 <blockquote>
 Let me insert one thing, which I'll bet you've noticed from talking to writers,
@@ -12935,7 +12942,9 @@ century later when an amendment repealed such nonsense.
 
 <br><br>
 
-<h4>2021-04-04, 日. On Religion and Roger Scruton.</h4>
+<a href="#2021-06-29">&uarr;</a> <a href="#2021-02-11">&darr;</a>
+<b id="2021-04-04">2021-04-04, 日. On Religion and Roger Scruton.</b>
+
 I'm an atheist, and today's post situates my views in the context of religion,
 and why the religion question largely doesn't matter.
 
@@ -13170,7 +13179,9 @@ same peace in human terms.
 
 <br><br>
 
-<h4>2021-02-11, 四. On Race, Diversity, and Immigration.</h4>
+<a href="#2021-04-04">&uarr;</a> <a href="#2021-02-09">&darr;</a>
+<b id="2021-02-11">2021-02-11, 四. On Race, Diversity, and Immigration.</b>
+
 Today's post is delicate for obvious reasons. Reader be warned, this may make
 you more uncomfortable than my other posts, but this is an important issue to
 explore.<br>
@@ -13434,7 +13445,9 @@ alive. Where has that sense of awe and wonder gone?
 
 <br><br>
 
-<h4>2021-02-09, 二. In Defense of Abstract Art.</h4>
+<a href="#2021-02-11">&uarr;</a> <a href="#2019-09-29">&darr;</a>
+<b id="2021-02-09">2021-02-09, 二. In Defense of Abstract Art.</b>
+
 Why view abstract art? When we stand before an abstract painting, what is it
 that we're looking at in the indeterminate swirls that don't even remotely
 resemble a person, a place, or anything familiar? I wish to address why I prefer
@@ -13550,7 +13563,9 @@ space
 
 <br><br>
 
-<h4>2019-09-29, 日.</h4>
+<a href="#2021-02-09">&uarr;</a>
+<b id="2019-09-29">2019-09-29, 日.</b>
+
 There is a pond outside, wavelings rippling across the surface, a soft, gentle,
 constant wind billowing over its still mass. Two adolescent geese are floating
 near the edge, wings folded, necks tall and curved like cranes, feathered
