@@ -1337,10 +1337,10 @@ ___
   </blockquote>
   But Mr. Nagel, the volumes number only to the forty! This limited time of which
   you speak—is not time itself unlimited? And however we spend our time, is the
-  end not all the same? Wouldn't you agree? Oh my, I am taken aback from—what
-  loud protests I hear! On this note, it is with immense pleasure that I am
-  afforded an opportunity to mention one of my great joys in life because, as it
-  happens, Benton-Cohen
+  end not all the same? Wouldn't you agree? Oh my, I am taken aback—what loud
+  protests I hear! On this note, it is with immense pleasure that I am afforded
+  an opportunity to mention one of my great joys in life because, as it happens,
+  Benton-Cohen
   <a href="https://www.c-span.org/video/?452933-1/1911-congressional-report-immigration">appeared</a>
   on my favorite television channel, C-SPAN. I must tell you I am an avid follower
   of this astonishing news outlet. I have a daily regimen: every night, after
@@ -2037,8 +2037,11 @@ ___
   government pays is also rising. The Congressional Budget Office
   <a href="https://www.cbo.gov/publication/59727">showed</a>
   that in fiscal year 2023, the net interest was 2.4%, about half of the cost of
-  Social Security, the largest government expenditure, which came in at 5%. CBO
-  in 2020
+  Social Security, the largest government expenditure, which came in at 5%. The
+  Committee for a Responsible Federal Budget
+  <a href="https://www.crfb.org/blogs/2023-interest-costs-reach-659-billion">declared</a>
+  last year, "Interest is now the <i>fourth-largest government program</i>, behind
+  only Social Security, Medicare, and defense." CBO in 2020
   <a href="https://www.cbo.gov/publication/56910">projected</a>
   that by 2050, net interest would grow to 8%, and earlier this year
   <a href="https://www.cbo.gov/publication/60127">provided</a>
@@ -2132,6 +2135,7 @@ ___
   city's debt, when viewed in context, compares favorably to those of other large
   cities which it calls the "Peer Group". This is the rough number for the city's
   debt, as of June 30, 2023, in billions of dollars:
+
   <pre style="padding:0; border:0; background-color:white;">
   Gross Debt Outstanding                         $98
   New York Water Finance Authority (NYW)         $32.2
@@ -2140,6 +2144,7 @@ ___
 
   Total                                         $179.8
   </pre>
+
   Only the first line item is relevant to the city's official debt number, or what
   the city calls "indebtedness", which is then measured against the city's debt
   limit; the three other entities issue their own debt and are separate from the
@@ -3098,8 +3103,8 @@ ___
 
 <span id="Walk-through-woods"></span>
   I was walking in the woods a year or two ago with someone who was telling me
-  that a massive underground mycelium network connected all the trees around us.
-  He said mycelia are sentient and can live for thousands of years. Then he told
+  that a massive underground mycelium network connected all the trees around us,
+  saying that mycelia are sentient and can live for thousands of years. He told
   me that in the grand scheme of things, we humans aren't the top dog in the
   world but rather play just a small part. I didn't make much of the trite
   comment at the moment, though later the thought occurred to me: every deer,
