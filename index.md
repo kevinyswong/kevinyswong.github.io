@@ -908,7 +908,7 @@ ___
   <span class="quoter">
   —<a href="https://law.duke.edu/history/faculty/franklin">John Hope Franklin</a>
   and
-  <a href="https://www.historians.org/research-and-publications/perspectives-on-history/march-2008/in-memoriam-abraham-s-eisenstadt">Abraham Eisenstadt</a>,
+  <a href="https://www.historians.org/perspectives-article/abraham-s-eisenstadt-1920-2007-march-2008/">Abraham Eisenstadt</a>,
   Editor's Foreword to THE AMERICAN HISTORY SERIES
   </span>
 
@@ -1014,7 +1014,7 @@ ___
   were men and boys in 1920.
   </blockquote>
   If Weinstein accuses the current migrants as consisting of mostly military-aged
-  males, why does he limit himself to our these modern migrants and not go back
+  males, why does he limit himself to these modern migrants and not go back
   further into the country's history to also indict the many prior ones? One may
   even ask, when have migrants not often consisted mostly of military-aged men?
   Kraut writes further:
@@ -1281,14 +1281,14 @@ ___
   (photos from Blind Magazine) that my doleful, forsaken spirits were revived when
   the sights and sounds and people reminded me of the golden days! How I held my
   breath until then! How I savored every moment surrounded by the graffiti in the
-  subway! How I long for those days still! What great joy I had those days! As a
-  matter of fact, if you look carefully, you might find me in one of the
+  subway! How I long for those days still! What great joy I had in those days! As
+  a matter of fact, if you look carefully, you might find me in one of the
   snapshots enjoying myself! To this day, I still have one of those glamorous
   photos framed in my bedroom, for nostalgia's sake! Woody Allen portrayed a
-  corrupt, degraded New York in his 1979 movie MANHATTAN, but his abomination
+  corrupt, degraded New York in his 1979 movie, MANHATTAN, but his abomination
   does little to deter me from my memories of the city's former glory, its
-  littered and poorly lit streets full of questionable people! I am still holding
-  my breath!
+  littered and poorly lit streets full of shade, sketch, and graphite on the
+  walls! I am still holding my breath!
 
   But we are speaking of immigration! Was it a problem? Considering the massive
   influx of immigrations, how could the federal government not get involved with
@@ -1693,7 +1693,7 @@ ___
   ultimately resolve in the outcome of the person. It may be that the person's
   environment informs many opportunities or privations which enable more good
   than evil, or the other way around. One maxim from La Rochefoucauld, who
-  meditated on the deceptions of man to others and also to himself, can perhaps
+  meditated on the man's deceptions to others and also to himself, can perhaps
   be applied through a hopeful angle: "Circumstances reveal our virtues and our
   vices, like light reveals objects."
 
@@ -1954,7 +1954,7 @@ ___
   record number of removals, averaging 344,000 per year.
   </blockquote>
   <a href="https://www.brookings.edu/people/elaine-kamarck/">Elaine Kamarck</a>,
-  in Brookings, poses
+  in Brookings,
   <a href="https://www.brookings.edu/articles/fixing-the-border-four-reasons-the-immigration-crisis-isnt-going-away/">poses</a>
   the migrant crisis as a surge management problem, calculating that the the
   number of border patrol staff has remained nearly constant between 2018 and
@@ -2016,8 +2016,8 @@ ___
   Kennedy, a Republican, first confirming that one of the witnesses, Bruce
   Bartlett, was attending the hearing on the side of Democrats, commences
   (at 1:42:39) his approach which runs at all odds against every other senator's
-  reliance on decent sense, in contrary to everyone else's facts and figures,
-  rhyme and reason: he divines his victim's convictions through the victim's old
+  reliance on decent sense, contrary to everyone else's facts and figures, rhyme
+  and reason: he divines his victim's convictions through the victim's old
   tweets. Senator Kennedy, we see, adheres to the motto: "By thy tweets shall ye
   be known!" After reading out a barrage of Bartlett's openly divisive tweets,
   Senator Kennedy calmly concludes his inquiry with a sharp retort: "Mr.
@@ -2091,26 +2091,28 @@ ___
   making extremely sophisticated structures to avoid tax. They don't try to do
   things that are illegal. It's just that the tax code is so grey, they push the
   limits." But more importantly!—sure enough, Senator Kennedy recourses
-  (1:36:52) to his signature move: calling up someone's tweet—the tweet comes
+  (1:36:52) to his signature move: calling up someone's old tweet—thy tweet comes
   back for vengeance! It's too bad that this is a senate committee where words
   are held accountable, and Senator Kaine once again stepped in at the very end
-  to correct the tweet's context. But we've gotten ahead of ourselves! In the
-  heat of the moment, Senator Kennedy was commencing his profound investigation!
-  This time, though, he loses some of his charm from indulging too long on a
-  combative exchange with his victim,
+  to situate the tweet's in its original circumstance. But we've gotten ahead of
+  ourselves! In the heat of the moment, Senator Kennedy was commencing his
+  profound investigation! This time, though, he loses some of his charm from
+  indulging too long on a combative exchange with his victim,
   <a href="https://scholar.google.com/citations?user=Ili51ooAAAAJ&hl=en">Natasha Sarin</a>.
   The tweet in question this time: "The House Republican stance is, I kid you not,
   support for Israel as long as we make it easier for people to cheat on their
   taxes." As if personally offended, Senator Kennedy says he found
   Sarin "appalling", positively "appalling", because Sarin "didn't talk to any
-  of 'em." His astute verdict this time—"I'm going to remind you: you can only be
-  young once, but you can always be immature." Immediately afterwards, Senator
-  Kennedy found himself needing to stand his ground against the rebuff of the
-  committee's chairman, Senator Whitehouse, who said, "I think that the treatment
-  of the witnesses is beginning to degrade a bit here"; but Senator Kennedy
-  insisted on his insightful analysis of her revealing tweet, saying, "I'm
-  entitled to test their credibility, and I think one of our witnesses just got
-  tested." A tweet, indeed! One mighty fine test there!
+  of 'em [House Republicans]." His astute verdict this time—"I'm going to remind
+  you: you can only be young once, but you can always be immature." This was a
+  very mature comment from the senator, if the writer must say so himself!
+  Immediately afterwards, Senator Kennedy found himself needing to stand his
+  ground against the rebuff of the committee's chairman, Senator Whitehouse, who
+  said, "I think that the treatment of the witnesses is beginning to degrade a
+  bit here"; but Senator Kennedy insisted on his insightful analysis of her
+  revealing tweet, saying, "I'm entitled to test their credibility, and I think
+  one of our witnesses just got tested." A tweet, indeed! One mighty fine test
+  there! It really was quite astonishing!
 
   We were discussing illegal immigration. With the federal debt growing at the
   current rate, I am rather against the government recklessly expanding spending.
@@ -2133,7 +2135,7 @@ ___
   State Ranks Second Highest in Outstanding Debt Nationwide", while the city's
   report dedicated an entire section to note that despite a high debt burden, the
   city's debt, when viewed in context, compares favorably to those of other large
-  cities which it calls the "Peer Group". This is the rough number for the city's
+  cities which it calls the "Peer Group". This is the rough total of the city's
   debt, as of June 30, 2023, in billions of dollars:
 
   <pre style="padding:0; border:0; background-color:white;">
@@ -2145,18 +2147,20 @@ ___
   Total                                         $179.8
   </pre>
 
-  Only the first line item is relevant to the city's official debt number, or what
-  the city calls "indebtedness", which is then measured against the city's debt
-  limit; the three other entities issue their own debt and are separate from the
-  gross debt. But not all of the $98 billion counts against the debt limit, as
-  some components are excluded from indebtedness; the total indebtedness at the
-  end of FY 2023 is $96.9 billion. It may be worth noting that the city
-  comptroller's report makes no attempt at suggesting a reduction to the city's
-  debt; rather, the entire report orients itself around how much more debt the
-  city can take on until it reaches the limit, and, because the report
-  anticipates that the remaining gap to the limit, which is
-  called "debt-incurring power", will diminish from, at the end of the fiscal
-  years, $30.5 billion in 2023 to $15.9 billion in 2027, the city
+  But the city does not use on this total as its debt load. Only the first line
+  item is relevant to the city's official debt number, or what the city
+  calls "indebtedness", which is then measured against the city's debt limit; the
+  three other entities issue their own debt and are separate from the gross debt.
+  But not all of the $98 billion counts against the debt limit, as some
+  components are excluded from the city's definition of indebtedness; the total
+  indebtedness at the end of FY 2023 was computed to be $96.9 billion. It may be
+  worth noting that the city comptroller's report makes no attempt at suggesting
+  a reduction to the city's debt; rather, the entire report orients itself around
+  how much more debt the city can take on until it reaches the limit, and,
+  because the report anticipates that debt will continue to rise and that the
+  remaining gap to the limit, which is called "debt-incurring power", will
+  consequently diminish from $30.5 billion in FY 2023 to $15.9 billion in FY
+  2027 (end-of-year numbers), the city
   <a href="https://cbcny.org/research/setting-right-ceiling">requested</a>,
   according to the Citizens Budget Commission, that the state raise the debt
   limit. As stated in the city comptroller's report, according to New York State
@@ -2165,20 +2169,22 @@ ___
   arbitrary raised. Governor Kathy Hochul, instead, raised the Transitional
   Finance Authority (TFA) debt limit from $13.5 billion to $25.5 billion—this is
   debt exempt from the general debt limit, and anything above this exemption,
-  referred to as "incremental TFA", counts towards the general limit. The city,
-  of course, had already maxed out the exemption and at the end of FY 2023 had an
-  incremental TFA of $31.9 billion—in other words, the state's increasing the TFA
-  exemption by $12 billion merely adjusts the accounting on debt that already
-  exists, shifting the incremental TFA (retroactively in this example of 2023
-  numbers) down to $19.9 billion and the total indebtedness from $96.9 billion
-  down to $84.9 billion. In short, it seems that the city is content with only
-  servicing the debt, not reducing it; the comptroller report confirms that its
-  objective is to remain below the "the 15 percent [of tax revenue] ceiling used
-  to evaluate affordability as articulated in the City's debt management policy."
-  The report even goes further to poke at the definition of the state's
-  definition of the debt limit, as though it unduly restricts the city's
-  borrowing power: "[B]ecause the debt limit does not take into account the
-  City's significantly more diversified tax revenue structure [as opposed to
+  referred to as "incremental TFA", counts towards the general limit. Due to its
+  high debt, the city, of course, had already maxed out the old exemption
+  allocation and at the end of FY 2023 had an incremental TFA of $31.9 billion, a
+  high enough number that rendered the higher exemption a record-keeping trick—in
+  other words, the state's increasing the TFA exemption by $12 billion merely
+  adjusted the accounting on debt that already existed, shifting the incremental
+  TFA (retroactively in this example of 2023 numbers) down to $19.9 billion and
+  the total indebtedness from $96.9 billion down to $84.9 billion. In short, it
+  seems that the city is content with only servicing the debt and paying
+  interest, not seeking to reduce the principal; the comptroller report confirms
+  that its objective is to remain below the "the 15 percent [of tax revenue]
+  ceiling used to evaluate affordability as articulated in the City's debt
+  management policy." The report even goes further to poke at the definition of
+  the state's definition of the debt limit, as though it unduly restricts the
+  city's borrowing power: "[B]ecause the debt limit does not take into account
+  the City's significantly more diversified tax revenue structure [as opposed to
   other jurisdictions in the state, which rely primary on property taxes], the
   debt limit does not fully reflect the City's ability to assume and service debt
   to finance infrastructure." I am not suggesting that the city's objective is a
@@ -2270,8 +2276,8 @@ ___
   hearing, and that "It could be four years, four and a half years, before you
   [an asylum seeker] can ask for work authorization." As shown in the episode,
   many migrants have come to work and earn their keep, but the current laws
-  simply don't permit them to do so without waiting. Proposals have been
-  suggested to reduce the wait time. Last year, Senator Susan Collins
+  simply don't permit them to do so without protracted waiting. Proposals have
+  been suggested to reduce the wait time. Last year, Senator Susan Collins
   (a Republican)
   <a href="https://www.congress.gov/bill/118th-congress/senate-bill/255">introduced</a>
   the Asylum Seeker Work Authorization Act of 2023 to the Senate, which, the
@@ -2299,27 +2305,29 @@ ___
   after all, this has become the city's problem, and looking elsewhere for
   charity resembles irresponsible complaining.
 
-  One month later, Adams' administration, perhaps with an eye towards fiscal
-  responsibility, eventually "announced that it would implement a new policy
-  limiting shelter stays for newly arrived families with children to 60 days",
+  One month after setting up the aslyum assistance center, Adams' administration,
+  perhaps with an newfound eye towards fiscal responsibility,
+  eventually "announced that it would implement a new policy limiting shelter
+  stays for newly arrived families with children to 60 days",
   <a href="https://comptroller.nyc.gov/reports/report-on-the-investigation-of-the-implementation-of-the-60-day-rule-for-asylum-seeker-families/">according</a>
   to the city comptroller. But the comptroller's report itself is a critical
   investigation of the new policy, complains that it is "haphazard", and
   recommends that the city should end it. For some reason the comptroller is more
-  sympathetic to migrants who, though by no fault of their own, are unable to
-  work and contribute than to financial responsibility. The Library of Congress
-  <a href="https://www.loc.gov/classroom-materials/immigration/italian/tenements-and-toil/">records</a>
-  the city's tenement days when Italian immigrants, though struggling, were able
-  to work, but the laws prohibit the current migrants from doing the same.
-  Opportunities do not grow on trees, money doesn't fall from the sky, and
-  funding for asylum seekers comes from either tax revenue or incurring more
-  debt—which adds to the current burden and diminishes the city's resources for
-  everyone else—while this cost simultaneously does not entail a corresponding
-  prospect for a positive return. Without a foreseeable path to quickly enable
-  large portions of migrants to work and finance their own housing, under the
-  current surge in migrants and the present laws preventing them from working, I
-  am quite against accepting more migrants from entering the city and, by
-  extention, states like Texas that are
+  sympathetic to migrants who, through by no fault of their own, are unable to
+  work and contribute than to the city's financial responsibility. Contrast the
+  current situation with that of the Italian immigrants during the city's
+  tenement days around the early 1900's, who, as the Library of Congress
+  <a href="https://www.loc.gov/classroom-materials/immigration/italian/tenements-and-toil/">records</a>,
+  were able to work, though struggling, but the current laws prohibit this new
+  wave of migrants from doing the same. We must remember: Opportunities do not
+  grow on trees, money doesn't fall from the sky, and funding for asylum seekers
+  comes from either tax revenue or incurring more debt—which adds to the current
+  burden and diminishes the city's resources for everyone else—while this cost
+  simultaneously does not entail a corresponding prospect for a positive return.
+  Without a foreseeable path to quickly enable large portions of migrants to work
+  and finance their own housing, under the current surge in migrants and the
+  present laws preventing them from working, I am quite against accepting more
+  migrants from entering the city and, by extention, states like Texas that are
   <a href="https://gov.texas.gov/news/post/texas-transports-over-100000-migrants-to-sanctuary-cities">busing</a>
   them across the country. My contention on illegal immigration is not about race,
   culture, religion, or crime, but an inadequate and incapable asylum system
@@ -2602,33 +2610,7 @@ ___
   untested and novel ideas with both greater potential success and failure. But
   here I stress that it is with the possibility of greater reward that
   incentivizes taking on more risk; if such reward structures were not in place,
-  the norm will be the relative lack of innovation. Elon Musk described his
-  perspective on starting a company:
-  <blockquote>
-  Something that can be helpful is fatalism, to some degree. If you just accept
-  the probabilities, then that diminishes fear. So, starting SpaceX, I thought
-  the odds of success were less than 10%, and I just accepted that actually,
-  probably I would just lose everything, but that maybe would make some progress.
-  If we could just move the ball forward, even if we died, maybe some other
-  company could pick up the baton and keep it moving forward, so that would still
-  do some good. Same with Tesla, I thought the odds of a car company succeeding
-  were extremely low.
-  </blockquote>
-  Take another example in the case of the Polish film director, Krzysztof
-  Kieślowski, even more fatalist but nevertheless undeterred, who said:
-  <blockquote>
-  I haven't got a great talent for films. Orson Welles, for example, managed to
-  achieve this at the age of twenty-four or twenty-six when he made CITIZEN KANE,
-  and, with his first film, climbed to the top, to the highest possible peak in
-  cinema . . . But I'll need to take all my life to get there and I never will. I
-  know that perfectly well. I just keep on going. And if somebody doesn't want to
-  or can't understand that this is a lasting process then obviously he or she
-  will keep saying that everything I do is different, better or worse, from what
-  I've done before. But for me it isn't better or worse. It's all the same only a
-  step further, and, according to my own private scale of values, these are small
-  steps which are taking me nearer to a goal which I'll never reach anyway. I
-  haven't got enough talent.
-  </blockquote>
+  the norm will be the relative lack of innovation.
 
   Without incentives for growth and rewards, why should an entrepreneur risk
   taking out a loan to brave a business venture if she or they receive the same
@@ -2663,7 +2645,34 @@ ___
   society's operations, and a reminder is in order: without adequate production,
   there won't be enough material sustenance to go around; without innovators and
   entrepreneurs, few novelties will be conceived, much less made accessible to
-  the people through the market.
+  the people through the market. Elon Musk, who emphasizes hard work and long
+  hours, described his perspective on building a new company even in spite of
+  massive risk:
+  <blockquote>
+  Something that can be helpful is fatalism, to some degree. If you just accept
+  the probabilities, then that diminishes fear. So, starting SpaceX, I thought
+  the odds of success were less than 10%, and I just accepted that actually,
+  probably I would just lose everything, but that maybe would make some progress.
+  If we could just move the ball forward, even if we died, maybe some other
+  company could pick up the baton and keep it moving forward, so that would still
+  do some good. Same with Tesla, I thought the odds of a car company succeeding
+  were extremely low.
+  </blockquote>
+  Take another example in the case of the Polish film director, Krzysztof
+  Kieślowski, even more fatalist but nevertheless still undeterred, who said:
+  <blockquote>
+  I haven't got a great talent for films. Orson Welles, for example, managed to
+  achieve this at the age of twenty-four or twenty-six when he made CITIZEN KANE,
+  and, with his first film, climbed to the top, to the highest possible peak in
+  cinema . . . But I'll need to take all my life to get there and I never will. I
+  know that perfectly well. I just keep on going. And if somebody doesn't want to
+  or can't understand that this is a lasting process then obviously he or she
+  will keep saying that everything I do is different, better or worse, from what
+  I've done before. But for me it isn't better or worse. It's all the same only a
+  step further, and, according to my own private scale of values, these are small
+  steps which are taking me nearer to a goal which I'll never reach anyway. I
+  haven't got enough talent.
+  </blockquote>
 
   Differential performance, as a result of innovation or more industrious work, is
   essential to growth, to business, to research, to productivity. True equality
@@ -2726,14 +2735,14 @@ ___
   dependent on it from remediating their own situations.
 
   Merit stands. An example unrelated to economics: why would Olympic athletes
-  train on a demanding and grueling schedule, sacrificng much of their freedom,
-  most of their waking hours dedicated to pursuing excellence, honing their
-  bodies, optimizing their movements and every reflex to their chosen sport—and
-  this over years? Why, if not to compete for medals on their big day when they
-  can unleash their accumulated ability towards peak performance, when they can
-  push themselves and redefine the boundaries of the humanly possible? Because of
-  merit, they can share their pride and victory with those of us on the
-  sidelines.
+  train on an exceedingly taxing and grueling schedule, sacrificing much of their
+  freedom, most of their waking hours dedicated to pursuing excellence, honing
+  their bodies, optimizing their movements and every reflex to their chosen
+  sport—and this over years? Why, if not to compete for medals on their big day
+  when they can unleash their accumulated ability towards peak performance, when
+  they can push themselves and redefine the boundaries of the humanly possible?
+  Because of merit, they can share their pride and victory with those of us on
+  the sidelines.
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -2934,8 +2943,9 @@ ___
   degrees: we see the cascade from college onwards, either from graduate school
   to tenured professorship or from law school to corporate legal careers, in
   which elite aspirants in the form of degree holders compete for finite slots,
-  generating surplus elites who are positioned to assume populist leadership
-  roles at the helm of immiserated masses.
+  generating surplus elites who, excluded from the elite positions they were
+  trained to acquire, are positioned to assume populist leadership roles at the
+  helm of immiserated masses.
 
   <br>
 
@@ -3258,9 +3268,9 @@ ___
   similarly to low-status individuals on certain dimensions to avoid looking like
   middle-status individuals who themselves want to avoid looking low status.
   </blockquote>
-  What great fun! The monumental scale of our capitalist endeavors amounts to no
-  more than a collective game of tag! But we learn there's a cost! The
-  researchers continue:
+  What great fun! The monumental scale of our capitalist endeavors, even among
+  liberals who champion anti-capitalism, amounts to no more than a collective
+  game of tag! But we learn there's a cost! The researchers continue:
   <blockquote>
   While economists often suggest that widely recognizable markers will be
   preferred . . . we demonstrate that by selecting subtle signals, certain
@@ -3438,7 +3448,7 @@ ___
   consultant, manager, and executive who publicly espouses equality with
   grandiose words a great many in the highest pitch, she and her family are
   exceptions to their own principles. What about those left out of the
-  meritocracy? Ah, well, those are for other people and their kids. Ellen
+  meritocracy? Ah, well, that's a problem for other people and their kids. Ellen
   Brantlinger et al. observe in their 1996
   <a href="https://www.jstor.org/stable/1163277">paper</a>:
   <blockquote>
@@ -3523,7 +3533,7 @@ ___
   itself? Can we conjure a genie and make three wishes? To be clear, I'm sure Bui
   has the best of intentions, but words reek of duplicity and run the risk of
   hypocrisy; actions have the convenient benefit that more accurately reveal
-  people as they are, but actions, truth, and real progress, unfortunately, quite
+  people as they are, but action, truth, and real progress, unfortunately, quite
   often don't coddle anyone's feelings.
 
   <br>
@@ -5238,19 +5248,19 @@ ___
   of a more fundamental concern. I contend that race and gender are often
   mistakenly conflated with the principle unit of inequality, that race and
   gender are merely secondary concerns, and that preoccupations with them blind
-  researchers to the core differentiator—the essential tension is class, and the
-  primary conflict derives from class disparity. Class advantages confer power,
-  resources, opportunities, privilege, representation, leverage over law and
-  politics, deference, and cultural reproduction. Indeed, if class inequalities
-  are reversed in favor of the historically oppressed, in favor of the
-  marginalized races and the disadvantaged gender, the current discontent among
-  these groups will cease, for it is neither race nor gender in themselves that
-  are the crucial factors in this struggle, but power and privilege, which are
-  direct products of class. This primacy of class and its distinction from race
-  and gender are crucial: by embracing class as the principal unity of analysis,
-  we can recognize the importance of the conventional approach to the problem of
-  diversity and inequality: the material view, which is does not accentuate
-  divides between groups by race or gender.
+  researchers and the general public to the core differentiator—the essential
+  tension is class, and the primary conflict derives from class disparity. Class
+  advantages confer power, resources, opportunities, privilege, representation,
+  leverage over law and politics, deference, and cultural reproduction. Indeed,
+  if class inequalities are reversed in favor of the historically oppressed, in
+  favor of the marginalized races and the disadvantaged gender, the current
+  discontent among these groups will cease, for it is neither race nor gender in
+  themselves that are the crucial factors in this struggle, but power and
+  privilege, which are direct products of class. This primacy of class and its
+  distinction from race and gender are crucial: by embracing class as the
+  principal unity of analysis, we can recognize the importance of the
+  conventional approach to the problem of diversity and inequality: the material
+  view, which is does not accentuate divides between groups by race or gender.
 
   We first consider race. The material view stands in contrast to the approach of
   race theorists who propagate divisive agendas by recoursing to ethnic pride,
@@ -5324,22 +5334,23 @@ ___
 
   Additionally, it is incredibly short-sighted to proclaim the demise of
   Eurocentrism in favor of the prominence of an alternative, whether Black or
-  otherwise. Let us consider the difficulty of detaching from Eurocentric
+  otherwise. Let us appreciate the difficulty of detaching from Eurocentric
   systems: the persistence of the Latin language in binomial nomenclature to name
-  the species of the natural world, the Greek letters in mathematical notation.
-  The modern writing systems in countries like Vietnam, Indonesia, and the
-  Phillipines are based on the Latin script, and consider, even more drastically,
-  the wholesale adoption of Spanish in Central and South America and Portuguese
-  in Brazil. It is likely more distressing and inconvenient, if not impossible,
-  to return to what may be considered pre-European influence on culture and
-  language. Indeed, it is quite a curious task to imagine how far a particularly
-  courageous one could go were this daring spirit to attempt to cease employing
-  the very language one finds oneself and most of one's country using, or even
-  the language one is currently reading. And while it may appear to the naked eye
-  that the internet supports the full panoply of languages, were one to uproot
-  the predominant encoding known by the mystical name, UTF-8, one may notice that
-  the English alphabet, against all others, fit so neatly into the soil that they
-  take up the smallest footprint in this age of environmental crises.
+  the species of the natural world and also the Greek letters in mathematical
+  notation. The modern writing systems in countries like Vietnam, Indonesia, and
+  the Phillipines are based on the Latin script, and consider, even more
+  drastically, the wholesale adoption of Spanish in Central and South America and
+  Portuguese in Brazil. It is likely more distressing and inconvenient, if not
+  impossible, to return to what may be considered pre-European influence on
+  culture and language. Indeed, it is quite a curious task to imagine how far a
+  particularly courageous one could go were this daring spirit to attempt to
+  cease employing the very language one finds oneself and most of one's country
+  using, or even the language one is currently reading. And while it may appear
+  to the naked eye that the internet supports the full panoply of languages, were
+  one to uproot the predominant encoding known by the mystical name, UTF-8, one
+  may notice that the English alphabet, against all others, fit so neatly into
+  the soil that they take up the smallest footprint in this age of environmental
+  crises.
 
   This is all very well, but we suggest the material view's solution: why should
   these belong to one group and not also everyone else? Consider England's
@@ -5349,9 +5360,10 @@ ___
   Common Brittonic, did not suspect what later would become the language of the
   land. How silly it is to suppose that English does not belong to the
   descendants of the villager because the villager himself was simply stubborn.
-  Nor did, having established themselves in the land, the Anglo-Saxon villagers
-  of Suffolk in the eleventh century who resisted the sudden Norman French
-  incursion and their foreign language—
+  Nor did, having established themselves in the land, the progeny of the
+  country's new residents, the Anglo-Saxon villagers of Suffolk in the eleventh
+  century who resisted the sudden Norman French incursion and their foreign
+  language—
 
   <blockquote>
   This year King William [the Conqueror, who two years earlier successfully
@@ -5367,17 +5379,17 @@ ___
   —ANGLO-SAXON CHRONICLE, entry dated A.D. 1068, tr. J. Ingram and J.A. Giles
   </span>
 
-  —suspect that the intruders would later morph their native tongue. To whom does
-  the English language belong? This latest invasive group, or the Anglo-Saxons
-  before them, or the Britons before them—where does this end and the roots stop
-  moving? It is true in a sense that each group adopts new changes to the
-  language and makes it theirs, but why should we limit our understanding and
-  stop at such lock-step and intermittent language-group pairing and not reflect
-  on the broader picture, that culture and groups are a mutually informed, and
-  both are continually evolving and accumulating upon precedents? Each
-  successive group molds language and cultural artifacts to their needs and
-  preferences, and, through the union of their changes to the given formulation,
-  acquires ownership of all the prior forms.
+  —suspect that these intruders would later morph their native tongue. To whom
+  does the English language belong? This latest invading group, or the
+  Anglo-Saxons before them, or the Britons before them—where does this end and
+  the roots stop moving? It is true in a sense that each group adopts new
+  changes to the language and makes it theirs, but why should we limit our
+  understanding and stop at such lock-step and intermittent language-group
+  pairing and not reflect on the broader picture, that culture and groups are a
+  mutually informed, and both are continually evolving and accumulating upon
+  precedents? Each successive group molds language and cultural artifacts to
+  their needs and preferences, and, through the union of their changes to the
+  given formulation, acquires ownership of all the prior forms.
 
   The difficulty of separating from the Eurocentric is echoed in an essay
   collection published last year, DECOLONIZING THE ENGLISH LITERARY CURRICULUM,
@@ -6127,7 +6139,7 @@ ___
   growing up in its jurisdiction, brought up in its image, and taught its
   customs, automatically identify with the new power. This range of predicates is
   what experimenting with class entails, not in the examples of limited scope
-  Bobos considers in which individuals operate within the power of another group.
+  Bobo considers in which individuals operate within the power of another group.
   The difficulty of this task and the scope of such a demographic shift is what
   we must consider when we wish to understand the effects of class. However, we
   need not plan out and implement such a long and arduous course of events since
@@ -6237,7 +6249,7 @@ ___
   <br>
 
   <blockquote>
-  For it truth be at all within the reach of human capacity, 'tis certain it must
+  For if truth be at all within the reach of human capacity, 'tis certain it must
   lie very deep and abstruse; and to hope we shall arrive at it without pains,
   while the greatest geniuses have failed with the utmost pains, must certainly
   be esteemed sufficiently vain and presumptuous.
@@ -6492,8 +6504,8 @@ ___
   things to occupy our time, and after reaching the goal through all the
   complaint and struggle, all the protests, contention, resistance, all the
   backlash and reinstatement, all the new norms and novelty, all the flickering
-  triumph and reassurance, one may, in the aftermath of the victory once the dust
-  has settled, immersed again in the commotion of daily life, realize that the
+  triumph and reassurance, one may, in the aftermath of the victory, immersed
+  again in the commotion of daily life, the dust having settled, realize that the
   reward might not be as spectacular as one had imagined.
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -6659,14 +6671,15 @@ ___
   individual human trajectories based not primarily on reason, optimization,
   logic, but on randomness, environmental factors, coincidental encounters,
   happenstance, stumbling, blundering, grasping in the dark forest where reason
-  is only a thin beam of a flashlight shining ahead, we may understand more
-  accurately a person's behavior, knowledge, experiences over the course of a
-  lifetime, not through lofty, honorable principles and ideals but a grounding in
-  the material world of circumstances, availability, demands, options, in purview
-  of the community's knowledge, the circumstances of birth. Yet each individual,
-  out of self-protection and self-interest, projects a persona of resolve and
-  determination so that in the absence of any real clarity, one bluffs, and
-  others perceive the posturing as certitude and conviction.
+  is only the thin beam of the wavering flashlight shining ahead, we may
+  understand more accurately a person's behavior, knowledge, experiences over the
+  course of a lifetime, not through lofty, honorable principles and ideals but a
+  grounding in the material world of circumstances, availability, demands,
+  options, in purview of the community's knowledge, the circumstances of birth.
+  Yet each individual, out of self-protection and self-interest, projects a
+  persona of resolve and determination so that in the absence of any real
+  clarity, one bluffs, and others perceive the posturing as certitude and
+  conviction.
 
   <br>
 
@@ -6868,13 +6881,13 @@ ___
   What do established elites wish to attain in the restless struggle and merciless
   meritocratic competition? We can readily resort to answers based on
   evolutionary instincts, although this competition hardly poses any threat to
-  survival, or the risk of elites fearing their children will lose their esteemed
-  position, but these would be only cursory responses that do not address the
-  fundamental issue. Instead of these preliminary questions, we must inquire
-  deeper and seek the underlying framework on which these questions, among many
-  others relating to incentives and purpose—what motivates people? What causes
-  the striving and movements of animals? The question: what is the nature of
-  desire?
+  survival, or predicated upon the risk of elites fearing their children will
+  lose their esteemed position, but these would be only cursory responses that do
+  not address the fundamental issue. Instead of these preliminary questions, we
+  must inquire deeper and seek the underlying framework on which these questions,
+  among many others relating to incentives and purpose—what motivates people?
+  What causes the striving and movements of animals? The question: what is the
+  nature of desire?
 
   The writer bids the reader have patience, for we must entertain two philosophers
   because—who knew?—they remain relevant. This section delves into some of their
@@ -6898,19 +6911,19 @@ ___
   instance, we cannot jump between these three: we cannot reason in time as we do
   in space. Spatially, we can reason with the whole of a line drawn on paper, but
   we cannot reason with the totality of time as though we can comprehend at once
-  all movements that happen over time; if we could do, we could turn and rotate
-  that temporal line, skip back and forth at will, as well as understand how it
-  interacts with what else may lay on the paper. But we don't; our mental modes
-  are bound by our particular renditions of space, of time, of causality. Just as
-  a snake sees thermal heat and perceives this as the whole world, so the red
-  apple is our <i>image</i>, our <i>construction</i>, as much as that red apple
-  has attributes beyond our perception. More generally, Kant merged the two
-  philosophical strains of his time, rationalism and empiricism, by claiming that
-  our understanding of the world must consist of both our inborn mental
-  intuitions and of our experiences of external objects, but in this merging Kant
-  showed also that both fronts, our internal reasoning capacity and our
-  perception of the external world, reside in limitation, providing a systematic
-  bound on what we can possibly know.
+  all movements that happen over time; if we could, it would be in our power to
+  turn and rotate that temporal line, skip back and forth at will, as well as
+  understand how it interacts with what else may lay on the paper. But we don't;
+  our mental modes are bound by our particular renditions of space, of time, of
+  causality. Just as a snake sees thermal heat and perceives this as the whole
+  world, so the red apple is our <i>image</i>, our <i>construction</i>, as much
+  as that red apple has attributes beyond our perception. More generally, Kant
+  merged the two philosophical strains of his time, rationalism and empiricism,
+  by claiming that our understanding of the world must consist of both our inborn
+  mental intuitions and of our experiences of external objects, but in this
+  merging Kant showed also that both fronts, our internal reasoning capacity and
+  our perception of the external world, reside in limitation, providing a
+  systematic bound on what we can possibly know.
 
   Kant is not saying that things do not exist and our experiences are imaginary
   and solely in our minds—rather, things external to us very much do exist, but
@@ -7699,11 +7712,11 @@ ___
   *A group is a category of people by a measure of similarity: race, gender,
    geography, religion, age, interests, traits, abilities. Any grouping may be
    further subdivided into subgroups based on the remaining measures, and the
-   subgroups as well in turn. However, we prefer no order of group-subgroup
-   nesting, and so we may select different group arrangements. Each grouping
-   order realigns people into separate partitions, and no person remains in a
-   fixed position. In this example, for simplicity, we use only a single level of
-   grouping.
+   subgroups as well in turn. However, we prefer no particular order of
+   group-subgroup nesting, and so we may select different group arrangements.
+   Each grouping order realigns people into separate partitions, and no person
+   remains in a fixed position. In this example, for simplicity, we use only a
+   single level of grouping.
 
   <br>
 
@@ -9203,25 +9216,27 @@ ___
   Let us brave gender theorists set forth on the quest of our lives! Danger is its
   name! O waly, waly, the whole phenomenal world being our image, a monolithic
   complex of masculine will, represented in every force and obejct, we set
-  ourselves the risk and adventure to the treacherous lands of the countryside;
-  in our preparation, we summon everything we have in our power so that we may be
-  adequately equipped to do battle with this nemesis orchestrating all which
-  stands against good in the world. We bring our advanced technology, our money
-  and media, our enlightened ideology, a military campaign so adequately equipped
-  which yet nevertheless compromises none of our smug smiles or our latte-sipping
-  righteousness, and when we come near the objective of our mission, when we
-  approach the well-hidden door to their lair, we kick it down with such
-  inclusive and diverse force, wearing our hazmat suits and witch doctor masks,
-  armed with our firehoses and axepicks, and were we, standing at the entrance to
-  the source of all perils corrupting the earth, to stop at that very moment
-  before we throw in the smoke balloons and paralyzing juice, we may find looks
-  of confusion from regular folks having a drink after work. So vested in our
-  suits and armaments, playing the boom box, marching under the banner of the
-  rainbow flag, do we hurl the smoker and blinder? We look into the eyes of these
-  men and women lounging in this dungeon of malice, trying to detect with our
-  telescopic and microscopic and X-ray-scopic university-training, what manner of
-  creatures these are. Are they disguises like much of everything else,
-  objectifications and representations of the masculine will? We stumble on this
+  ourselves the risk and adventure to the treacherous lands of the countryside,
+  the land of ash and flame whence the masculine will was born and where its lord
+  still holds sway; in our preparation, we summon everything we have in our power
+  so that we may be adequately equipped to do battle with this nemesis
+  orchestrating all which stands against the good in the world. We bring our
+  advanced technology, our money and media, our enlightened ideology, a military
+  campaign so adequately equipped which yet nevertheless compromises none of our
+  smug smiles or our latte-sipping righteousness, and when we come near the
+  objective of our mission, when we approach the well-hidden door to their lair,
+  we kick it down with such inclusive and diverse force, wearing our hazmat suits
+  and witch doctor masks, armed with our firehoses and axepicks, and were we,
+  standing at the entrance to the source of all perils corrupting the earth, to
+  stop at that very moment before we throw in the smoke balloons and paralyzing
+  juice, we may find looks of confusion from regular folks having a drink after
+  work. So vested in our suits and armaments, playing the boom box, marching
+  under the banner of the rainbow flag, do we hurl the smoker and blinder? We
+  look into the eyes of these men and women lounging in this dungeon of malice,
+  trying to detect with our telescopic and microscopic and X-ray-scopic
+  university-training, what manner of creatures these are. Are they disguises
+  like much of everything else, objectifications and representations of the
+  masculine will? We stumble on this
   <a href="https://youtu.be/h9lSZlDJAC0?t=2607">scene</a>:
   a discerning viewer will notice the man sitting at the bar. We make the
   astounding realization that he is the father of the patriarchy. No wonder we
@@ -9835,9 +9850,9 @@ ___
   research towards progress. How much of this range and its proportions are
   circulated in media which tends towards outrage and sensationalist headlines?
 
-  A book published a few months ago, WHITE RURAL RAGE, painted a portrait of
-  angry, discontent rural Americans, consistent with the predominant media
-  portrayal. I do not claim that the book is untrue for a part of the rural
+  A book published a few months ago, WHITE RURAL RAGE, painted the familiar
+  portrait of angry, discontent rural Americans, consistent with the predominant
+  media portrayal. I do not claim that the book is untrue for a part of the rural
   communities, but is this the full picture? Some rural readers who read the
   book
   <a href="https://paulwaldman.substack.com/p/white-rural-rage-is-here/comments">commented</a>
