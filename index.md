@@ -585,28 +585,29 @@ ___
   I don't mean to unduly criticize Currid-Halkett, from whose book I've learned a
   few things. Yet Currid-Halkett, well-educated, mature, only seven or eight
   decades younger than me, is a mother of three, so I can fairly assume she is
-  strong enough to take honest feedback and maybe a joke here and later on, that
-  she can dare to laugh at herself and her fellow liberals. As Lucian Freud
-  observed of Sigmund Freud:
+  strong enough to take honest feedback and maybe a joke here and especially
+  later on, that she can dare to laugh at herself and her fellow liberals. As
+  Lucian Freud observed of Sigmund Freud:
   <blockquote>
   He always seemed to be in a good mood. He had what many <i>really</i>
   intelligent people have, which is not being serious or solemn. They <i>know</i>
   what they are talking about so they have no need to be earnest about it.
   </blockquote>
-  Currid-Halkett writes, "In the Enlightenment, Voltaire and Rousseau had equal
-  footing." But this is the sort of false perception caused by a retrospective
-  rose-tinted lenses along the lines of: "Rousseau's ideas have proved
-  influential; therefore he must have been popular and well-received in his
-  time." This is not true. Voltaire, an aristocrat, was hostile and antagonistic
-  to Rousseau and his upstart ideas. Rousseau, though well-known, was for the
-  most part infamous during his lifetime. It was with the French Revolution,
-  nearly a decade after Roussea's death, a radical political and social upheaval
-  priding itself on Rousseau's ideals of equality, that Rousseau's name was
-  accepted into the establishment. If Rousseau has come to be held in high
-  regard, this reputation stems largely only after his death, even if the
-  intermission was fairly short. While Rousseau was alive, his books were banned;
-  he was a fugitive for much of his life; America's founding fathers did not
-  mention his influence. As
+  We must humor ourselves with a historic name whose life ran afoul with
+  incredible jest! Currid-Halkett writes, "In the Enlightenment, Voltaire and
+  Rousseau had equal footing." But this is the sort of false perception caused by
+  a retrospective rose-tinted lenses along the lines of: "Rousseau's ideas have
+  proved influential; therefore he must have been popular and well-received in
+  his time." This is not true. Voltaire, an aristocrat, was hostile and
+  antagonistic to Rousseau and his upstart ideas. Rousseau, though well-known,
+  was for the most part infamous during his lifetime. It was with the French
+  Revolution, nearly a decade after Roussea's death, a radical political and
+  social upheaval priding itself on Rousseau's ideals of equality, that
+  Rousseau's name was accepted into the establishment. If Rousseau has come to be
+  held in high regard, this reputation stems largely only after his death, even
+  if the intermission was fairly short. While Rousseau was alive, his books were
+  banned; he was a fugitive for much of his life; America's founding fathers did
+  not mention his influence. As
   <a href="https://english.fas.harvard.edu/people/leo-damrosch">Leo Damrosch</a>
   writes in a 2012
   <a href="https://www.neh.gov/humanities/2012/julyaugust/feature/friends-rousseau">article</a>
@@ -622,7 +623,7 @@ ___
   </blockquote>
   His contemporary peers derided his work and ideas, and Rousseau wrote
   considerably to defend himself, largely to no avail. He struggled financially
-  and especially towards the end of his life. In a a 2002
+  and especially towards the end of his life. In a 2002
   <a href="https://yalebooks.yale.edu/book/9780300091410/the-social-contract-and-the-first-and-second-discourses/">collection</a>
   of Rousseau's political writings, collated and edited by
   <a href="https://web.williams.edu/humanities/sdunn/biography/biography-index.htm">Susan Dunn</a>,
@@ -694,7 +695,7 @@ ___
   out to contrast the simple, frugal ways of Sparta with the high culture of
   Athens as a strong warning that as a nation grows rich and powerful and as its
   prosperity increases, it may come to give in to a fatal craving for luxury,
-  ubranity, refined manners and pleasures. This narcissistic preoccupation with
+  urbanity, refined manners and pleasures. This narcissistic preoccupation with
   pleasure, politeness, elegance, and good taste will be fatally inimical to
   morality and to the survival of such basic, simple, and essential virtues as
   truthfulness, sincerity, loyalty, courage, humanity, and love of duty and of
@@ -815,22 +816,23 @@ ___
   extreme views . . . Many observers were taken aback by the intensity of
   the 'cancel culture' that appeared seemingly out of nowhere. But such vicious
   ideological struggles are a common phase in any revolution. Jacque Mallet du
-  Pan . . . formulated this observation as a dictum: 'Like Saturn, the Revolution
-  devours its children. This is a necessary corollary, essentially a mathematical
-  certainty, following from elite overproduction as the most important driver of
-  rebellions, revolutions, and civil wars. In order for stability to return,
-  elite overproduction somehow needs to be taken care of—historically and
-  typically by eliminating the surplus elites through massacre, imprisonment,
-  emigration, or forced or voluntary downward social mobility. In America today,
-  the losers are treated in milder ways, at least for now . . . Immiserated
-  proletarians are not the ones who run successful revolutions. The truly
-  dangerous revolutionaries are frustrated elite aspirants, who have the
-  privileges, training, and connections to enable them to wield influence at
-  scale. Even the minority of the newly credentialed youth who get into elite
-  positions right away, like the 20 percent of law school graduates with $190K
-  salaries, are not happy campers, because they feel the general insecurity. The
-  growing proportion of credentialed youth who are doomed to become the educated
-  precariat are the ones who have nothing to lose but their precarity.
+  Pan . . . formulated this observation as a dictum: 'Like Saturn, the
+  [French] Revolution devours its children. This is a necessary corollary,
+  essentially a mathematical certainty, following from elite overproduction as
+  the most important driver of rebellions, revolutions, and civil wars. In order
+  for stability to return, elite overproduction somehow needs to be taken care
+  of—historically and typically by eliminating the surplus elites through
+  massacre, imprisonment, emigration, or forced or voluntary downward social
+  mobility. In America today, the losers are treated in milder ways, at least for
+  now . . . Immiserated proletarians are not the ones who run successful
+  revolutions. The truly dangerous revolutionaries are frustrated elite
+  aspirants, who have the privileges, training, and connections to enable them to
+  wield influence at scale. Even the minority of the newly credentialed youth who
+  get into elite positions right away, like the 20 percent of law school
+  graduates with $190K salaries, are not happy campers, because they feel the
+  general insecurity. The growing proportion of credentialed youth who are doomed
+  to become the educated precariat are the ones who have nothing to lose but
+  their precarity.
   </blockquote>
   Turchin likens the potency of popular immiseration as a forest and elite
   overproduction to a fire: how long has a drought been and how dense and
@@ -852,7 +854,7 @@ ___
   The patient audience can certainly follow along with what they are saying! This
   exchange surely resembles the workings of a functioning party! But to be sure,
   the trumpy man who won the primary did not even need to show up at any of the
-  party's debate to trump his trumpets! And to add salt to the wound, debased
+  party's debates to trump his trumpets! And to add salt to the wound, debased
   conduct is by no means limited to the presidential candidates! CNN shared a
   <a href="https://www.youtube.com/watch?v=ey_r9lXICcM">video</a>
   of a recent verbal conflict during a hearing in a House of Representatives
@@ -1077,7 +1079,7 @@ ___
   patriotic grandmothers". NBC has provided raw
   <a href="https://www.youtube.com/watch?v=DXnHIJkZZAs">footage</a>
   of the scene that day. And what do we find there? Without a doubt, we see lots
-  of peace! And we surely see lots of "patriotic grandmothers"!
+  of peace! And we surely see plenty of "patriotic grandmothers"!
 
   In our abiding support for these grandmothers, we must consult immigration
   history! Francesco Cordasco's IMMIGRANT CHILDREN IN AMERICAN SCHOOLS, published
@@ -1255,7 +1257,7 @@ ___
   changed all that was good about the city! The History Collection has
   <a href="https://historycollection.com/living-hell-new-yorks-tenements-were-nightmares-in-the-early-1900s/">provided</a>
   photos for all to see how spectacular the good old days were! These are some of
-  the highest quality images I've seen. Oh! How breathtaking! But the haughty
+  the highest quality images I've seen. Oh, how breathtaking! But the haughty
   city mayor and regulators thought they were doing the public a service when
   they wanted to pass some laws! Surely, the landlords had their tenants' best
   interests in mind! How can anyone blame them for not installing windows or
@@ -1281,8 +1283,8 @@ ___
   (photos from Blind Magazine) that my doleful, forsaken spirits were revived when
   the sights and sounds and people reminded me of the golden days! How I held my
   breath until then! How I savored every moment surrounded by the graffiti in the
-  subway! How I long for those days still! What great joy I had in those days! As
-  a matter of fact, if you look carefully, you might find me in one of the
+  subway! How I long for those days still! What great joy I had back then! As a
+  matter of fact, if you look carefully, you might find me in one of the
   snapshots enjoying myself! To this day, I still have one of those glamorous
   photos framed in my bedroom, for nostalgia's sake! Woody Allen portrayed a
   corrupt, degraded New York in his 1979 movie, MANHATTAN, but his abomination
@@ -2019,13 +2021,16 @@ ___
   reliance on decent sense, contrary to everyone else's facts and figures, rhyme
   and reason: he divines his victim's convictions through the victim's old
   tweets. Senator Kennedy, we see, adheres to the motto: "By thy tweets shall ye
-  be known!" After reading out a barrage of Bartlett's openly divisive tweets,
-  Senator Kennedy calmly concludes his inquiry with a sharp retort: "Mr.
-  Bartlett, I appreciate you answering my questions. It helps me to determine the
-  credence or credibility to give to your testimony." Though the writer doesn't
-  think Senator Kennedy's approach yields much in the way of clarity, the writer
-  admits he likes the senator's style. Of course, later, Senator Tim Kaine sets
-  right the context of some of the tweets.
+  be known!" He proceeds to read out a series of Bartlett's openly political
+  tweets, and after reciting each tweet with a barely conceiled contempt, he
+  looks up at Bartlett with an innocent disbelief, asking if he read the tweet
+  correctly. And once Senator Kennedy finishes going through the tweets, he
+  calmly concludes his inquiry with a sharp retort: "Mr. Bartlett, I appreciate
+  you answering my questions. It helps me to determine the credence or
+  credibility to give to your testimony." Though the writer doesn't think Senator
+  Kennedy's approach yields much in the way of clarity, the writer admits he
+  likes the senator's style. Of course, later, Senator Tim Kaine sets right the
+  context of some of the tweets.
 
   It is no exaggeration that the national debt is a growing problem. Federal debt
   held by the public has been rising rapidly, according to
@@ -2112,7 +2117,7 @@ ___
   bit here"; but Senator Kennedy insisted on his insightful analysis of her
   revealing tweet, saying, "I'm entitled to test their credibility, and I think
   one of our witnesses just got tested." A tweet, indeed! One mighty fine test
-  there! It really was quite astonishing!
+  there! Quite astonishing!
 
   We were discussing illegal immigration. With the federal debt growing at the
   current rate, I am rather against the government recklessly expanding spending.
@@ -2147,11 +2152,11 @@ ___
   Total                                         $179.8
   </pre>
 
-  But the city does not use on this total as its debt load. Only the first line
+  But the city does not regard this total as its debt load. Only the first line
   item is relevant to the city's official debt number, or what the city
   calls "indebtedness", which is then measured against the city's debt limit; the
   three other entities issue their own debt and are separate from the gross debt.
-  But not all of the $98 billion counts against the debt limit, as some
+  Further, not all of the $98 billion counts towards the debt limit, as some
   components are excluded from the city's definition of indebtedness; the total
   indebtedness at the end of FY 2023 was computed to be $96.9 billion. It may be
   worth noting that the city comptroller's report makes no attempt at suggesting
@@ -2162,9 +2167,9 @@ ___
   consequently diminish from $30.5 billion in FY 2023 to $15.9 billion in FY
   2027 (end-of-year numbers), the city
   <a href="https://cbcny.org/research/setting-right-ceiling">requested</a>,
-  according to the Citizens Budget Commission, that the state raise the debt
-  limit. As stated in the city comptroller's report, according to New York State
-  law, the general debt limit for local governments is pegged against the
+  according to the Citizens Budget Commission, that the state raise the city's
+  debt limit. As stated in the city comptroller's report, according to New York
+  State law, the general debt limit for local governments is pegged against the
   jurisdiction's real estate value, so it doesn't seem like the debt limit can be
   arbitrary raised. Governor Kathy Hochul, instead, raised the Transitional
   Finance Authority (TFA) debt limit from $13.5 billion to $25.5 billion—this is
@@ -2316,7 +2321,7 @@ ___
   sympathetic to migrants who, through by no fault of their own, are unable to
   work and contribute than to the city's financial responsibility. Contrast the
   current situation with that of the Italian immigrants during the city's
-  tenement days around the early 1900's, who, as the Library of Congress
+  tenement days around the early 1900s, who, as the Library of Congress
   <a href="https://www.loc.gov/classroom-materials/immigration/italian/tenements-and-toil/">records</a>,
   were able to work, though struggling, but the current laws prohibit this new
   wave of migrants from doing the same. We must remember: Opportunities do not
@@ -9989,7 +9994,7 @@ ___
 
   an addict for pleasure<br>
   stumbles always further in vain<br>
-  another, bliss without pleasure<br>
+  another, bliss without joy<br>
   perished stone
 
   <br>
