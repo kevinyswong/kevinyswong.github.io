@@ -1190,7 +1190,8 @@ ___
   </blockquote>
   What a great struggle for these Italian American children to find some decent
   education, these fine folks who in a different century would have been known as
-  the Romans! And in another the originators of the Renaissance!
+  the Romans, whose ancient heritage seems to have appeal only when it is far and
+  long gone! And in another century, the originators of the Renaissance!
 
   In this rapid swelling immigrants in the cities, how can it be that anyone could
   harbor decidedly negative views towards them? It is not nativism and resistance
@@ -2319,9 +2320,9 @@ ___
   investigation of the new policy, complains that it is "haphazard", and
   recommends that the city should end it. For some reason the comptroller is more
   sympathetic to migrants who, through by no fault of their own, are unable to
-  work and contribute than to the city's financial responsibility. Contrast the
-  current situation with that of the Italian immigrants during the city's
-  tenement days around the early 1900s, who, as the Library of Congress
+  work and contribute than to the city's fiscal health. Contrast the current
+  situation with that of the Italian immigrants during the city's tenement days
+  around the early 1900s, who, as the Library of Congress
   <a href="https://www.loc.gov/classroom-materials/immigration/italian/tenements-and-toil/">records</a>,
   were able to work, though struggling, but the current laws prohibit this new
   wave of migrants from doing the same. We must remember: Opportunities do not
@@ -5218,7 +5219,7 @@ ___
   loneliness who has not tasted them himself.
   </blockquote>
   <span class="quoter">
-  —<a href="https://picoiyerjourneys.com">Pico Iyer</a>, THE LADY AND THE MONK: FOUR SEASONS IN KYOTO
+  —<a href="https://web.archive.org/web/20240707220646/https://picoiyerjourneys.com/">Pico Iyer</a>, THE LADY AND THE MONK: FOUR SEASONS IN KYOTO
   </span>
 
   <br>
@@ -7081,8 +7082,8 @@ ___
   nothing left for heaven but boredom.
   </blockquote>
 
-  Let us get specific on Schopenhauer's psychology of the human condition and
-  human desire. Summaries are fine and well, but—
+  Let us understand more deeply Schopenhauer's psychology of the human condition
+  and human desire. Summaries are fine and well, but—
 
   the writer, on reflection, realized he should explain his approach so as to
   squeeze out any room for misunderstanding, as it may not come naturally to all
@@ -7890,16 +7891,16 @@ ___
   <i>Signaling:</i>
 
   <blockquote>
-  [E]ach participant is expected to suppress his immediate heartfelt feelings,
-  conveying a view of the situation which he feels the others will be able to
-  find at least temporarily acceptable. The maintenance of this surface
-  agreement, this veneer of consensus, is facilitated by each participant
+  [E]ach participant [of public life] is expected to suppress his immediate
+  heartfelt feelings, conveying a view of the situation which he feels the others
+  will be able to find at least temporarily acceptable. The maintenance of this
+  surface agreement, this veneer of consensus, is facilitated by each participant
   concealing his wants behind statements which assert values to which everyone
   present feels obliged to pay lip service . . . [I]f a baseball umpire is to
   give the impression that he is sure of his judgment, he must forgo the moment
   of thought which might make him sure of his judgment; he must give an
   instantaneous decision so that the audience will be sure that he is sure of his
-  judgment . . .[I]f a secretary is to tell a visitor tactfully that the man he
+  judgment . . . [I]f a secretary is to tell a visitor tactfully that the man he
   wishes to see is out, it will be wise for the visitor to step back from the
   interoffice telephone so that he cannot hear what the secretary is being told
   by the man who is presumably not there to tell her [Why not also a him? How can
@@ -8389,11 +8390,11 @@ ___
   <a href="https://jsis.washington.edu/people/daniel-bessner/">David Bessner</a>
   wrote in this year's May issue of Harper's Magazine an
   <a href="https://harpers.org/archive/2024/05/the-life-and-death-of-hollywood-daniel-bessner/">article</a>
-  about growing corporate control in the film and television, with major studios
-  merging and then themselves being bought by asset-management firms, explaining
-  that the relatively recent proliferation of intellectual property like the
-  Marvel Universe is a result of these films' appeal for lower risk and securing
-  the bottom line. Another recent
+  about growing corporate control in the film and television industries, with
+  major studios merging and then themselves being bought by asset-management
+  firms, explaining that the relatively recent proliferation of intellectual
+  property like the Marvel Universe is a result of these films' appeal for lower
+  risk and securing the bottom line. Another recent
   <a href="https://www.theatlantic.com/ideas/archive/2024/04/boeing-corporate-america-manufacturing/678137/">article</a>,
   by
   <a href="https://www.theatlantic.com/author/jerry-useem/">Jerry Useem</a>
@@ -8437,8 +8438,8 @@ ___
   from the Cato Institute that likens taxes to the Great Depression. Garrett
   Watson suggested in a Tax Foundation
   <a href="https://taxfoundation.org/blog/trump-corporate-tax-cut/">article</a>
-  that Trump is considering, if elected again, reducing the flat rate further, to
-  15%.
+  that Trump is considering, if elected again, reducing the flat corporate tax
+  rate further, to 15%.
 
   <br>
 
@@ -9254,10 +9255,12 @@ ___
   globalized spectacle, do we let them off the hook for being images and
   phenomena of the indomitable masculine will? Or could it be that they are
   regular people? If so, would their very beings morph into pan-phobic machines
-  if we see them at a Trump rally? Could it be that they are simpler folks who
-  don't appreciate lies and hypocrisy, as a certain James, who supports Trump,
-  says in this
+  if we see them at a Trump rally? Could it in fact be that they are simple folks
+  who don't appreciate lies and hypocrisy, as a certain James, who supports
+  Trump, says in this
   <a href="https://youtu.be/f78ZVLVdO0A?t=1700">video</a>?
+
+  <br>
 
   <blockquote>
   When I called Craig [a rural American] a few months after our first
@@ -9271,6 +9274,8 @@ ___
   <span class="quoter">
   —Currid-Halkett, THE OVERLOOKED AMERICANS
   </span>
+
+  <br>
 
   Though we know that we cannot possibly perceive the black heart of man, we
   understand that the singularity, without space or time, is most discriminatory
