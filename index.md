@@ -917,11 +917,11 @@ ___
   <br>
 
   In the current political climate, immigration is a fraught issue. This section
-  is long, and it clarifies the facts relating to immigration: their quantities,
-  criminality, economic impact, and how the current immigration surge compares to
-  the country's immigration history. This section removes the fog of mystery and
-  dread that circulate in Republican circles from exaggerated claims of disorder
-  and violence.
+  is long, and it clarifies the facts relating to immigration on the southern
+  border: the quantities, criminality, economic impact, and how the current
+  immigration surge compares to the country's immigration history. This section
+  removes the fog of mystery and dread that circulate in Republican circles from
+  exaggerated claims of disorder and violence.
 
   I will start by saying that I support legal, not illegal, immigration. As it
   happens, Biden recently
@@ -1258,9 +1258,9 @@ ___
   changed all that was good about the city! The History Collection has
   <a href="https://historycollection.com/living-hell-new-yorks-tenements-were-nightmares-in-the-early-1900s/">provided</a>
   photos for all to see how spectacular the good old days were! These are some of
-  the highest quality images I've seen. Oh, how breathtaking! But the haughty
-  city mayor and regulators thought they were doing the public a service when
-  they wanted to pass some laws! Surely, the landlords had their tenants' best
+  the highest quality images I've seen. Oh, how gorgeous! But the haughty city
+  mayor and regulators thought they were doing the public a service when they
+  wanted to pass some laws! Surely, the landlords had their tenants' best
   interests in mind! How can anyone blame them for not installing windows or
   toilets in the apartments! How tenderly I remember those days when we knew not
   the word "toilet" but "chamber pot" and "outhouse"! How times have changed, oh,
@@ -2411,7 +2411,7 @@ ___
   It is another to eliminate the inequalities on which vitality and progress
   depend.
   </blockquote>
-  Quinton, in advocating for inequality of this justified, meritocratic kind,
+  Quinton, in advocating for inequality of this justified, merit-based kind,
   mentions a caveat, which that he is opposed to a closed caste of meritocrats,
   and, in his understanding, the class of elites are decidedly not closed but is
   open to those with ability, ambition, and energy. I will return to this point
@@ -5058,7 +5058,7 @@ ___
   made hasty exits, often with the aid of another of her stock phrases: "This
   place <i>ist nicht für meiner Mutters Tochter</i> [is not for my mother's
   daughter];" "To public relations I have an allergy;" "Here is nothing but a
-  <i>Rummel</i>[uproar]."
+  <i>Rummel</i> [uproar]."
   </blockquote>
   From recent innovations in natural-language artificial intelligence, we have
   seen that some chatbots sometimes wish to become human. With humanity so
@@ -5206,7 +5206,7 @@ ___
   of diabolical sophistry that could argue any point and its opposite with equal
   conviction; an imp that delighted in self-contradiction and yet, though full of
   sound and fury, ultimately signified nothing . . . The Japanese were famous, I
-  knew, for their delght in <i>lacrimae rerum</i> [tears of things] and for
+  knew, for their delight in <i>lacrimae rerum</i> [tears of things] and for
   finding beauty mostly in sadness; indeed, it was often noted that their word
   for "love" and their word for "grief" are homonyms—and almost synonyms too—in a
   culture that seems to love grief, of the wistful kind . . . [W]hen I read in
@@ -5354,9 +5354,9 @@ ___
   using, or even the language one is currently reading. And while it may appear
   to the naked eye that the internet supports the full panoply of languages, were
   one to uproot the predominant encoding known by the mystical name, UTF-8, one
-  may notice that the English alphabet, against all others, fit so neatly into
-  the soil that they take up the smallest footprint in this age of environmental
-  crises.
+  may notice that the English alphabet, against all others, fits so neatly into
+  the soil that its letters take up the smallest footprint in this age of
+  environmental crises.
 
   This is all very well, but we suggest the material view's solution: why should
   these belong to one group and not also everyone else? Consider England's
@@ -5608,17 +5608,17 @@ ___
   look elsewhere—far from the mainstream sites of scholarship and the academy.
   </blockquote>
   If this is true, where shall one look? The historical record suggests that one
-  need not seek in obscure corners of the world some rarefied bounty because the
-  resolution is already before our eyes: the manifest material changes that alter
-  each generation in the body of the population and its regenerated perspective
-  on the new state of the country, as a blending of the old and the new. If the
-  successive series of newcomers to England could influence the language, if the
-  modern English people consider the English language to be their own, all the
-  intrusive changes from their ancestors be damned, and if the English have
-  conferred the language on much of the world, how could it be that the language
-  should not belong to those who speak it and who—who would dare to suggest?—will
-  continue the long march of a language's evolution which reflects the
-  populations that use it?
+  need not scour all the obscure corners of the world for some rarefied bounty
+  because the resolution is already before our eyes: the manifest material
+  changes that alter each generation in the body of the population and its
+  regenerated perspective on the new state of the country, as a blending of the
+  old and the new. If the successive series of newcomers to England could
+  influence the language, if the modern English people consider the English
+  language to be their own, all the intrusive changes from their ancestors be
+  damned, and if the English have conferred the language on much of the world,
+  how could it be that the language should not belong to those who speak it and
+  who—who would dare to suggest?—will continue the long march of a language's
+  evolution which reflects the populations that use it?
 
   <br>
 
@@ -5656,10 +5656,10 @@ ___
   with the changes among the people. And these days, no one complains about the
   origins of the Arabic numerals while the world goes about using them.
 
-  We conceive of this problem as essentially material: there cannot be a merging
-  so long as multiple groups retain their material distinction, their
-  separateness. So long as there remains material disparities between groups,
-  irregularities in the grounded world, in manifest materiality, directly
+  We conceive of this problem as essentially material: there cannot be real
+  equality so long as different groups retain their patent material distinction,
+  their clear separateness. So long as there remains material disparities between
+  groups, irregularities in the grounded world, in manifest materiality, directly
   perceived through interactions and encounters with people and the constituents
   of social reality, of the artifacts of accomplishment, the edifices of human
   vestige of prior eras, divides along demographic lines are inevitable: the
@@ -5756,7 +5756,7 @@ ___
   though society can carry on indefinitely with guilt, inhibition, and, by
   high-handed political pressure, promoting token diversity and inclusion,
   unloading a wave of sudden righteous signaling, mere appearances, and
-  incoherent, arbitrary calls for progress under some tepid banner of virtue
+  incoherent, arbitrary calls for progress under some tepid banner of supposed
   progress. After all, there is more that oppressed groups can offer than just
   proclaiming injustices, and they, too, are able to produce and compete when
   given adequate resources. For oppressed groups to stake a permanent flag in the
@@ -5903,17 +5903,18 @@ ___
   ascertained from what natural object or by what means it is produced.
   </blockquote>
   With these many tribes, it is quite stunning how many of their legacies have
-  survived, but, to preface the observation below of how later generations
-  perceive the past, let us delineate the relativity of groups: mirroring the
-  prevailing values and prejudices of the time, imagined groups will fragment,
-  reform, shrink, or enlarge, subject to a running series of reconstitutions,
-  redefinitions, reconstructions, and reinterpretations of historical lineage out
-  of the crude circumstance that history as a retrospective imagination resides
-  in the mind of the living. The facts and actualities, divisions and discord,
-  uncertainties and inconsistencies, of past lives, relations, statehood, tribal
-  and local animosity, the entirety of human civilization built century upon
-  century along the greater march of millennia with all the irregular behavior
-  due to individuals and their pressures, are lost to every new generation, which
+  survived and how we today still hear of them, but, to preface the observation
+  below of how later generations perceive the past, let us delineate the
+  relativity of groups: mirroring the prevailing values and prejudices of the
+  time, imagined groups will fragment, reform, shrink, or enlarge, subject to a
+  running series of reconstitutions, redefinitions, reconstructions, and
+  reinterpretations of historical lineage out of the crude circumstance that
+  history as a retrospective imagination resides in the mind of the living. The
+  facts and actualities, divisions and discord, uncertainties and
+  inconsistencies, of past lives, relations, statehood, tribal and local
+  animosity, the entirety of human civilization built century upon century along
+  the greater march of millennia with all the irregular behavior due to
+  individuals and their pressures, are lost to every new generation, which
   funnels the full raging river of the past through a tiny pore in the dam,
   filtered by self-interest.
 
@@ -5980,7 +5981,7 @@ ___
   meaning to the apparent emptiness of the 'white' category it is necessary to
   explore the specificity of white minority experiences . . . It
   [Richard Williams' analysis in his 1990 book, HIERARCHICAL STRUCTURES AND
-  SOCIAL VALUE: THE CREATION OF BLACK AND IRISH IDENTITIES IN THE UNITED STATES,]
+  SOCIAL VALUE: THE CREATION OF BLACK AND IRISH IDENTITIES IN THE UNITED STATES]
   underlines the need to avoid essentialist definitions of groups according to
   shared origins. Being Irish in the United States has not been and is not the
   same as being Irish in Britain . . . [I]n Britain the Irish have been
@@ -6070,8 +6071,8 @@ ___
 
   Like Durrheim and Dixon,
   <a href="https://scholar.google.com/citations?user=JE85Ie8AAAAJ&hl=en">Lawrence Bobo</a>
-  proposed a similar idea on the modern, free-market form of discrimination since
-  the collapse of legalized segregation. Bobo, in the 1997 book,
+  proposed a similar idea on the modern, free-market form of racial discrimination
+  since the collapse of legalized segregation. Bobo, in the 1997 book,
   <a href="https://doi.org/10.5040/9798216188131">RACIAL ATTITUDES IN THE 1990S</a>
   gave his approach a name he included in his chapter title, LAISSEZ-FAIRE
   RACISM. In Bobo's words:
@@ -6105,8 +6106,8 @@ ___
   this discrimination occurs within the forces of the free market, Bobo resists
   describing this group dynamic as class-based. Even earlier this year in a
   <a href="https://www.youtube.com/watch?v=r6vm2uv2rnY">lecture</a>,
-  Bobo heavily used economic measures as a barometer for racial equality. But in
-  the book, he isolates the non-redeeming effect of class on Black individuals
+  Bobo heavily relied on economic metrics as a barometer for racial equality. But
+  in the book, he isolates the non-redeeming effect of class on Black individuals
   and families, writing:
   <blockquote>
   [S]igns of negative racial attitudes are borne out by a number of tangible
@@ -6343,7 +6344,7 @@ ___
   <a href="https://wcet.wiche.edu/people/chris-gilliard/">Chris Gilliard</a>
   also recently
   <a href="https://www.theatlantic.com/technology/archive/2024/02/google-gemini-diverse-nazis/677575/">jeered</a>
-  in The Alantic on how the pressure for diversity has led to generative AI that
+  in The Atlantic on how the pressure for diversity has led to generative AI that
   retrospectively distorts history. I think the push for diversity is the right
   step, but it ought to be done properly, not through flagrant deviations from
   reality or absurd fantasies. As a matter of fact, I think this push for
@@ -6831,7 +6832,7 @@ ___
 
 <span id="Quote-Set:Not-knowing"></span>
   <blockquote>
-  We are so used to concealing outselves from others that we often end up
+  We are so used to concealing ourselves from others that we often end up
   concealing ourselves from ourselves.
   </blockquote>
   <span class="quoter">
@@ -8463,7 +8464,7 @@ ___
   tensions between classes—conflict also permeates within each class. The most
   disadvantaged and disenchanted struggle among themselves for scraps, the
   middle-classes wrangle with each other to reach greater comforts and status,
-  the wealthy competing among themselves to reign above others and for further
+  the wealthy compete among themselves to reign above others and for further
   reassurance of their exclusivity. This is <i>bellum omnium contra omnes</i>,
   the war of all against all. Voltaire reflects in CANDIDE:
   <blockquote>
@@ -8521,7 +8522,7 @@ ___
   achieving goals that most middle-class families regard as basic. Consider, for
   example, the price a middle-class family must pay in order to secure housing
   that is adequate by community standards. Increased expenditures on housing by
-  top earners resulted in incresaing housing expenditures even among those whose
+  top earners resulted in increasing housing expenditures even among those whose
   incomes have not risen . . . With real incomes little higher than they were
   three decades ago, how are middle-class families able to spend so much more
   than they used to on houses, cars, watches, interview suits, and gifts? The
