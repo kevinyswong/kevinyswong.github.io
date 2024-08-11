@@ -31,7 +31,7 @@ World, and Wandering.</b>
   fun as possible. I suppose everything I've done is slightly existential as
   well. From THE OFFICE, it's about, you know, people becoming forty, and are
   they doing the right thing? DEREK—it was about people at the end of their
-  life—what can they pass on? Even my children's book FLANIMALS was about the
+  life—what can they pass on? Even my children's book, FLANIMALS, was about the
   sort of the futility of life and nature and ironic deaths. And I don't know why
   that is, really. I think it's funny, life. It's amusing because we take
   everything so seriously. We care about everything passionately; we have fights,
@@ -95,14 +95,14 @@ World, and Wandering.</b>
   words, which may be overlooked at first, are there and perhaps will be more
   apparent to matured eyes, and they hint at the advice that the story is, if not
   a proof, then an example by contradiction, a kind of living that Hesse warned
-  against. Hesse himself adds a caution in the introductory Author's Note in
+  against. Hesse himself adds a caution in the introductory author's note in
   STEPPENWOLF, written thirty-four years after the book's publication and one
   year before his death, about readers who:
   <blockquote>
   strangely enough perceived only half of what I intended. These readers, it seems
   to me, have recognized themselves in the Steppenwolf, identified themselves
-  within him suffered his griefs, and dreamed his dreams; but they have
-  overlooked the fact this this book knows of and speaks about other things . . .
+  within him, suffered his griefs, and dreamed his dreams; but they have
+  overlooked the fact that this book knows of and speaks about other things . . .
   I would be happy if many of them were to realize that the story of the
   Steppenwolf pictures a disease and crisis—but not one leading to death and
   destruction, on the contrary: to healing.
@@ -258,24 +258,24 @@ ___
   the hope, you enact the hope and it's in your music, that is the blues."
 
   The blues captures the sentiment of this piece. The writer realized at some
-  point while writing it that some of parts of his composition may impress the
-  reader as accusatory or more than moderately acerbic. The writer has no
-  intention to slander or defame, but if any of the implied foibles of others
-  hold true, the writer too is not free of blame. The writer's intention is to
-  portray his views on these issues as he understands, within the limits of his
-  powers, with a generous latitude for honesty, faithful to fact and reason, with
-  the aim of depicting some semblance of truth. Where the reader feels the
-  writing is lofty, that may indeed be an accurate interpretation, but where the
-  reader comes across a pointed remark, then that may also be an apt rendition of
-  the current affairs, and something of a reminder of honesty may be of use, and
-  when it comes to matters of seeking clarity and truth, the writer feels more
-  obliged to pulling up the curtain concealing deceit than let the audience rest
-  in comfort watching a misguiding puppet show. The writer makes no claim to
-  possess knowledge of the whole truth but hopes this piece points in its
-  direction and suggests its general contour, even if vaguely. If the writer were
-  to condense this piece into one statement, it is this: we know quite a bit less
-  than our pride has convinced us. Rather than unrealistic idealism, let us work
-  with the reality we have before our eyes while also keeping our wits about us.
+  point while writing it that some of parts of his composition may read as
+  accusatory, whose comments seem acerbic. The writer has no intention to slander
+  or defame, but if any of the implied foibles of others hold true, the writer
+  too is not free of blame. The writer's intention is to portray his views on
+  these issues as he understands, within the limits of his powers, with a
+  generous latitude for honesty, faithful to fact and reason, with the aim of
+  depicting some semblance of truth. Where the reader feels the writing is lofty,
+  that may indeed be an accurate interpretation, but where the reader comes
+  across a pointed remark, then that may also be an apt rendition of the current
+  affairs, and something of a reminder of honesty may be of use, and when it
+  comes to matters of seeking clarity and truth, the writer feels more obliged to
+  pulling up the curtain concealing deceit than let the audience rest in comfort
+  watching a misguiding puppet show. The writer makes no claim to possess
+  knowledge of the whole truth but hopes this piece points in its direction and
+  suggests its general contour, even if vaguely. If the writer were to condense
+  this piece into one statement, it is this: we know quite a bit less than our
+  pride has convinced us. Rather than unrealistic idealism, let us work with the
+  reality we have before our eyes while also keeping our wits about us.
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -2571,7 +2571,7 @@ ___
   teams receive more of their citations rapidly, as their work is immediately
   relevant to more contemporaries whose ideas they develop and audiences primed
   to appreciate them. Conversely, smaller teams experience a much longer citation
-  delay . . .[E]ven though small teams receive less recognition overall owing to
+  delay . . . [E]ven though small teams receive less recognition overall owing to
   the rapid decay of collective attention . . ., their successful research
   produces a ripple effect, which becomes an influential source of later
   large-team success.
@@ -2744,11 +2744,11 @@ ___
   train on an exceedingly taxing and grueling schedule, sacrificing much of their
   freedom, most of their waking hours dedicated to pursuing excellence, honing
   their bodies, optimizing their movements and every reflex to their chosen
-  sport—and this over years? Why, if not to compete for medals on their big day
-  when they can unleash their accumulated ability towards peak performance, when
-  they can push themselves and redefine the boundaries of the humanly possible?
-  Because of merit, they can share their pride and victory with those of us on
-  the sidelines.
+  sport—and this over years? Why, if not to set their names down in history and
+  compete for medals on their big day when they can unleash their accumulated
+  ability towards peak performance, when they can push themselves and redefine
+  the boundaries of the humanly possible? Because of merit, they can share their
+  pride and victory with those of us on the sidelines.
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -2949,7 +2949,7 @@ ___
   degrees: we see the cascade from college onwards, either from graduate school
   to tenured professorship or from law school to corporate legal careers, in
   which elite aspirants in the form of degree holders compete for finite slots,
-  generating surplus elites who, excluded from the elite positions they were
+  generating surplus elites who, excluded from the elite occupations they were
   trained to acquire, are positioned to assume populist leadership roles at the
   helm of immiserated masses.
 
@@ -3136,11 +3136,10 @@ ___
   <br>
 
   <blockquote>
-  Look, make yourself a gift of this present time. Those who are more inclined to
-  pursue fame hereafter fail to reckon that the next generation will have people
-  just like those they dislike now: and they too will die. What, anyway, is it to
-  you if this is the echo in future voices and this is the judgment they make of
-  you?
+  Those who are more inclined to pursue fame hereafter fail to reckon that the
+  next generation will have people just like those they dislike now: and they too
+  will die. What, anyway, is it to you if this is the echo in future voices and
+  this is the judgment they make of you?
   </blockquote>
   <span class="quoter">
   —Marcus Aurelius, MEDITATIONS
@@ -3444,7 +3443,7 @@ ___
   fully as they approach the college application process, I certainly will. Why
   wouldn't I do as much as I possibly can to help my children reach their
   potential, to get into the college of their dreams? But I am aware of how this
-  process if alien to most American families. So much so that Richard Reeves
+  process is alien to most American families. So much so that Richard Reeves
   calls the meritocratic elite "dream hoarders." Reeves argues [in his book DREAM
   HOARDERS] that the entire system is set up such that social mobility remains
   among a rarified echelon of American society (his cutoff is the top 20 percent,
@@ -3720,7 +3719,7 @@ ___
 <span id="Quote-set:Not-speaking"></span>
   <blockquote>
   Mock-modest people, who understate things, seem more attractive in character;
-  for they are thought to speak not for gain but to avoid parade . . .[T]hose who
+  for they are thought to speak not for gain but to avoid parade . . . [T]hose who
   use understatement with moderation and understate about matters that do not
   very much force themselves on our notice seem attractive. And it is the boaster
   that seems to be opposed to the truthful man; for he is the worse character.
@@ -4849,10 +4848,6 @@ ___
   <br>
 
   <blockquote>
-  Give up learning, and put an end to your troubles.<br>
-  <br>
-  [. . .]<br>
-  <br>
   Oh, I drift like the waves of the sea,<br>
   Without direction, like the restless wind.
   </blockquote>
@@ -4993,8 +4988,8 @@ ___
   given period by shortening his life.
   </blockquote>
   Instead, what I am discouraging is passivity, indolence, and the lack of
-  productivity. One must work and contribute value, but not at the cost of one's
-  brutal demise. However, I am agitated when Huberman says:
+  productivity. One must work and contribute value, but not to the point of death
+  by attrition. However, I am agitated when Huberman says:
   <blockquote>
   [A]t times I wonder whether or not our philosophy on stress should be that
   stress is fantastic for us, except when it interferes with our sleep. And when
@@ -6883,7 +6878,8 @@ ___
 
 
 <u id="kant-schopenhauer">Confinement: Kant, and Desire: Schopenhauer</u><br>
-  Why does the upper middle class continue to hoard privilege?
+  We saw in the meritocracy section how advantage passes down over generations. It
+  is worth asking: why does the upper middle class continue to hoard privilege?
 
   What do established elites wish to attain in the restless struggle and merciless
   meritocratic competition? We can readily resort to answers based on
@@ -8645,16 +8641,17 @@ ___
   excellence in some art, or other ability of the mind.
   </blockquote>
   It must be noted, however, that we are not defending a welfare system which
-  demotivates those able yet unemployed to live off the state's aid indefinitely.
-  Just as unrestrained desire which seeks continually in vain to sate itself is
-  harmful both to the person and others, so is the absence of desire, of
-  helplessness and reliance on state aid, of lethargy and apathy. The hazardous
-  potential of the unproductive ought to be kept in mind, but a solution to the
-  country's inequality cannot stem primarily from further depriving the least
-  privileged. Providing schooling, job training, and opportunities is possible
-  only with resources, and motivating the underserved must begin with investing
-  in their functioning relation to the economy. In the broad scheme, it is the
-  wealthy that concentrates economic power in their own reserves.
+  demotivates those able-bodied yet unemployed to live off the state's aid
+  indefinitely. Just as unrestrained desire which seeks continually in vain to
+  sate itself is harmful both to the person and others, so is the absence of
+  desire, of helplessness and reliance on state aid, of lethargy and apathy. The
+  hazardous potential of the unproductive ought to be kept in mind, but a
+  solution to the country's inequality cannot stem primarily from further
+  depriving the least privileged. Providing schooling, job training, and
+  opportunities is possible only with resources, and motivating the underserved
+  must begin with investing in their functioning relation to the economy. In the
+  broad scheme, it is the wealthy that concentrates economic power in their own
+  reserves.
 
   <br>
 
@@ -9124,8 +9121,8 @@ ___
   We take such pride in our ancestors, the achievements dutifully recorded in the
   annals of human civilization, the great trophies and marches of antiquity, the
   dignity of the ancients, and how we, their descendants, share that glory, but
-  what is our collective memory, dating back a few thousands of years when,
-  juxtaposed against the entirety of all we know, it has been hundreds of
+  what is our collective memory, dating back a few thousand years when,
+  juxtaposed against the entirety of all we know, it has been for hundreds of
   thousands of years that lions have been hunting and preying in the African
   prairies? All this prowling, starving, and feasting has repeated over and over
   across stretches of time beyond our nibbling occupation of the earth—behind
@@ -9222,7 +9219,7 @@ ___
 
   Let us brave gender theorists set forth on the quest of our lives! Danger is its
   name! O waly, waly, the whole phenomenal world being our image, a monolithic
-  complex of masculine will, represented in every force and obejct, we set
+  complex of masculine will, represented in every force and object, we set
   ourselves the risk and adventure to the treacherous lands of the countryside,
   the land of ash and flame whence the masculine will was born and where its lord
   still holds sway; in our preparation, we summon everything we have in our power
@@ -10168,7 +10165,7 @@ ___
   simplicity, the breath of relief and rest, a sensible temperance when free of
   constant comparison. As Currid-Halkett observes:
   <blockquote>
-  But if you live in rural America and you are told only 0.5 percent of people
+  [I]f you live in rural America and you are told only 0.5 percent of people
   attend an Ivy League and the top 1 percent includes tautologically, just 1
   percent of the population, do these feel like issues that concern you? You've
   got a house, your kids live nearby, you see them and your grandchildren almost
