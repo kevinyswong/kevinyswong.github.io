@@ -4180,8 +4180,8 @@ ___
   Before I was blind but now I see! Having consulted the terms of gender, I must
   now introduce zer high-zess of zer person:
 
-  Name: Zanuva
-  Pronoun: ze/zer/zeself
+  Name: Zanuva<br>
+  Pronoun: ze/zer/zeself<br>
   Personality: superhero with unimaginable powers but who utilizes her powers only
   to shape shift, making lots of noise while doing so. Ze has the minor fault of
   being prone to self-display. It may be asked as to why does Zanuva, with all
@@ -5087,7 +5087,7 @@ ___
   the bustle of society when he noticed the markedly slower pace of life and the
   appreciation of the little things, not in the decadent bourgeois sense of
   escaping a hectic work life to some remote and tranquil getaway with
-  breathtaking and landscaped scenery reeking of exclusivity. This particular
+  breathtaking and landscaped scenery reeking of exclusivity—this particular
   coffee shop was ordinary, with humble, middle-aged, working folks coming in
   briefly for a bagel or a black coffee before heading back out. These were
   locals of the community, going about their day, making the best of what they
@@ -5113,7 +5113,9 @@ ___
   different location. And these city folks fly to London and Rome and Bali and
   Tokyo, spending more of their hard-earned money from employment in globalized
   industries in the metropolises of other countries than in the small towns of
-  their own. This must've been what Roger Scruton meant when he said:
+  their own. This contrast between the settled folks in the neighborhood and the
+  unmoored visitors constantly in motion must've been what Roger Scruton meant
+  when he said:
   <blockquote>
   They [locals going fox-hunting] have been absolutely rooted in this little piece
   of land all their lives and have always related to the local economy and also
@@ -5123,11 +5125,11 @@ ___
   social attachments and also attachment to the place. The problem with the
   modern world, in my view, is that people no longer dwell on the earth. They
   move nomadically around it in search of something they know not what, never
-  finding it, moving from person to person, place to place . . . These people
-  still dwell, as Heidegger would say, <i>wohnen</i> in the land. I'm not a big
-  fan of Heidegger, but it's one of the few things that he said which is
-  absolutely true, that only if we learn how to dwell can we build, and only if
-  we build can we actually live with each other.
+  finding it, moving from person to person, place to place . . . [On the
+  contrary,] [t]hese [local] people still dwell, as Heidegger would say,
+  <i>wohnen</i> in the land. I'm not a big fan of Heidegger, but it's one of the
+  few things that he said which is absolutely true, that only if we learn how to
+  dwell can we build, and only if we build can we actually live with each other.
   </blockquote>
   Coincidentally, the book the writer brought to the coffee shop was
   Currid-Halkett's THE OVERLOOKED AMERICANS.
@@ -9481,18 +9483,18 @@ ___
   addition or in lieu of the present ones. For example, interracially married
   couples are twice the number they were in 1980 . . . Another possibility is
   that Hispanic Americans may not be a minority group, as many European groups no
-  longer are. They may have become absorbed into the collctive identity
+  longer are. They may have become absorbed into the collective identity
   of "mainstream American" or extensively intermarried with other groups by
   then.
   </blockquote>
   Those writing and reading at present, situated in the current era's mores and
   values, confined by the short-sightedness of inflated, self-important egos,
   predicated on the existing systems and social structure, class inequalities,
-  race and gender difference, the prejudices and interests born from the
-  immediate material reality, may in fact matter quite a bit less than we
-  suspect. It wouldn't be entirely incorrect to say that the present distinctions
-  over which we labor, over which these many struggles accumulate, over all this
-  energy, repulsion, resistance, may matter not.
+  race and gender difference, the prejudices and interests entwined with the
+  inequalities of the immediate material reality, may in fact matter quite a bit
+  less than we suspect. It wouldn't be entirely incorrect to say that the present
+  distinctions over which we labor, over which these many struggles accumulate,
+  over all this energy, repulsion, resistance, may matter not.
 
   <br>
 
@@ -9514,7 +9516,7 @@ ___
 
   <br>
 
-  When the immigrants of the early twentieth century America and their descendants
+  When the immigrants in early twentieth century America and their descendants
   accumulated wealth, set up their own institutions, acquired renown, exerted
   their presence, did they not alter the country's populace and culture as they
   immersed themselves in it? Technology, material substance, norms, and
@@ -9664,10 +9666,9 @@ ___
   phase had gone as differently as could be imagined—if say, Zheng He had really
   gone to Tenochtitlán, if there had been a kind of Pacific rather than a new
   kind of Atlantic economy, if there had been a Chinese rather than a British
-  industrial revolution, and if Albert had gone to Beijing rather than Looty to
-  Balmoral—the deep forces of biology, sociology, and geography would still have
-  pushed history in much the same direction . . . And East and West would still
-  be losing their significance.
+  industrial revolution . . .—the deep forces of biology, sociology, and
+  geography would still have pushed history in much the same direction . . . And
+  East and West would still be losing their significance.
   </blockquote>
   <span class="quoter">
   —Ian Morris, WHY THE WEST RULES—FOR NOW
@@ -9691,7 +9692,7 @@ ___
   This collective amnesia is beautiful because through all the struggle and
   torment and pain and ambition and resentment and ego and vanity, in the end,
   nothing has to do with us, petty and selfish and deceitful creatures—what a
-  relief it is to realize we have no significance, no crash and fire, no impact
+  relief it is to realize we have no significance, no crash or fire, no impact
   reflecting the mass of groans we reply to every plight, no weight upon us
   whatsoever, our measly noises eking out just one breath in the cosmic
   landscape, a distraught cry born of dread and exasperation against the
