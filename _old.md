@@ -8,6 +8,1252 @@ layout: default
 
 <h2>Ruminations</h2>
 
+<h4>SNIPPETS FROM: 2024-08-07, 三. On the Political Divide, the Migrant Crisis,
+Immigration, Meritocracy, Liberal Hypocrisy, Inequality, Social Capitalism,
+Man's Inner World, and Wandering.</h4>
+
+<span id="part-of-intro"></span>
+  Gervais' quote reminds me of something I wish to mention from one of my two
+  favorite novels, Hermann Hesse's THE GLASS BEAD GAME, in Richard and Clara
+  Winston's 1969 translation, for which Theodore Ziolkowski wrote a foreword that
+  concludes with:
+  <blockquote>
+  Perhaps even the worst translation could not conceal the "message" of Hesse's
+  novel. But only a subtle, sensitive one can render what Thomas Mann called "the
+  parody of biography and the grave scholarly attitute." It is easy, too easy, to
+  be sober and grave . . . This new translation of <i>The Glass Bead Game</i>
+  offers the American reader the opportunity, as Thomas Mann suggested, to dare
+  to laugh. If parody alone can adequately render the reality of our times, only
+  irony offers us the freedom and detachment that are the essential condition of
+  responsible analysis and action.
+  </blockquote>
+  It is in the context of this kind of humor that the novel should be understood,
+  its expansive serious prose expressing the high ideals of the mind and the
+  outcome of the protagonist, having labored to climb to the top of the leading
+  intellectual academy and to then defect from it, only to go for a casual,
+  off-hand swim in a lake but suddenly drowns, too fragile for the real world.
+  The novel presents a sense of <i>reductio ad absurdum</i>, for Ziolkowski
+  accurately summarizes Hesse's message, that though Hesse's initial intention
+  was to present the idyllic life of the ivory tower, as "the novel was
+  originally envisaged as yet another variation in Hesse's continuing search for
+  a spiritual dimension of life . . . set apart to pursue its goals in splendid
+  isolation, unsullied by the 'reality' that Hesse had grown to distrust", Hesse
+  later adopted the grounding tone of returning to the earth, to society, to the
+  problems and troubles of reality, because "Hesse advocated thoughtful
+  commitment over self-indulgent solipsism, responsible action over mindless
+  revolt." For Hesse, "a life consecrated exclusively to the mind is not only
+  unfruitful, but also dangerous" in the shift in his belief from "elitism to a
+  more compassionate social consciousness". However, it is this suggestion that I
+  wish to emphasize: "to dare to laugh", because while it is too easy to not care
+  at all, it is also too easy to be serious. Case in point: the earlier
+  translation, by Mervyn Savill, comes with a foreword by an Eric Peters who
+  rather clearly missed Hesse's message, lingering solely and shortsightedly on
+  Hesse's lifelong theme that clarity and nobility can be obtained only through
+  the cost of pain, reaching truth only through trial by fire. Peters notes that
+  for Hesse, "a state of grace can be obtained only by plunging through the
+  torrent of sensuality and emotional unrestraint, not by attempting to skirt or
+  by-pass it. Asceticism . . . will always be an evasion: will never lead to
+  spiritual calm, to the greater understanding", because "truth . . . must be
+  sought the hard way, through experience and suffering." Peters describes
+  another of Hesse's novels, STEPPENWOLF: "Here Hesse identifies himself with
+  one, Harry Haller, the 'Wolf of the Steppes,' who rebels against the safe, dull
+  existence of the bourgeois citizen", citing this passage from the book:
+  <blockquote>
+  Who to-day wishes to live and have joy of his life must not be like you or I.
+  For he who demands music instead instead of tootling, enjoyment instead of
+  pleasure, a soul instead of gold, real work instead of activity, true passion
+  instead of dalliance, this pretty world is no homeland.
+  </blockquote>
+  Yes, the book was an example of that way of life, and this impression is the
+  often misunderstood reading; the other reading may be less obvious, but the
+  words, which may be overlooked at first, are there and perhaps will be more
+  apparent to matured eyes, and they hint at the advice that the story is, if not
+  a proof, then an example by contradiction, a kind of living that Hesse warned
+  against. Hesse himself adds a caution in the introductory author's note in
+  STEPPENWOLF, written thirty-four years after the book's publication and one
+  year before his death, about readers who:
+  <blockquote>
+  strangely enough perceived only half of what I intended. These readers, it seems
+  to me, have recognized themselves in the Steppenwolf, identified themselves
+  within him, suffered his griefs, and dreamed his dreams; but they have
+  overlooked the fact that this book knows of and speaks about other things . . .
+  I would be happy if many of them were to realize that the story of the
+  Steppenwolf pictures a disease and crisis—but not one leading to death and
+  destruction, on the contrary: to healing.
+  </blockquote>
+  Hesse explains a reason for misunderstanding: "Partly, but only partly, this may
+  occur so frequently by reason of the fact that this book, written when I was
+  fifty years old and dealing, as it does, with the problems of that age, often
+  fell into the hands of very young readers." So much for seriousness. And with
+  his last book, THE GLASS BEAD GAME, Hesse took a further step, suffusing the
+  genuine struggle through trial by fire with a subtle humor: laugh; indeed, dare
+  to laugh.
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<span id="Quote-set:Not-speaking"></span>
+  <blockquote>
+  Mock-modest people, who understate things, seem more attractive in character;
+  for they are thought to speak not for gain but to avoid parade . . . [T]hose who
+  use understatement with moderation and understate about matters that do not
+  very much force themselves on our notice seem attractive. And it is the boaster
+  that seems to be opposed to the truthful man; for he is the worse character.
+  </blockquote>
+  <span class="quoter">
+  —Aristotle, NICOMACHEAN ETHICS
+  </span>
+
+  <br>
+
+  <blockquote>
+  We sometimes go on as though people can't express themselves. In fact they're
+  always expressing themselves. The sorriest couples are those where the woman
+  can't be preoccupied or tired without the man saying "What's wrong? Say
+  something . . . ," or the man, without the woman saying . . ., and so on. Radio
+  and television have spread this spirit everywhere, and we're riddled with
+  pointless talk, insane quantities of words and images. Stupidity's never blind
+  or mute. So it's not a problem of getting people to express themselves but of
+  providing little gaps of solitude and silence in which they might eventually
+  find something to say. Repressive forces don't stop people expressing
+  themselves but rather force them to express themselves. What a relief to have
+  nothing to say, the right to say nothing, because only then is there a chance
+  of framing the rare, and ever rarer, thing that might be worth saying.
+  </blockquote>
+  <span class="quoter">
+  —Gilles Deleuze, NEGOTIATIONS, 1972-1990, tr. Martin Joughin
+  </span>
+
+  <br>
+
+  <blockquote>
+  I love to discourse and dispute, but it is with but few men, and for myself; for
+  to do it as a spectacle and entertainment to great persons, and to make of a
+  man's wit and words competitive parade is, in my opinion, very unbecoming a man
+  of honour.
+  </blockquote>
+  <span class="quoter">
+  —Montaigne, OF THE ART OF DISCUSSION, ESSAYS
+  </span>
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<u id="gender-studies-prima">Gender Studies, <i>prima</i></u><br>
+  A very important digression on the matter of the scope and impact of gender
+  performance, written by someone who does not wish to be left out of the
+  important conversation, because the writer desires to be a gender theorist,
+  too!
+
+  We must start with some ground rules, some unyielding laws which apply
+  everywhere and to all. The reader responds: How rigid that sounds, how
+  mandating and restrictive! Yet it is but one law, short and sweet: the
+  principle of equality for everyone.
+
+  Armed with so nefarious and unreasonably restrictive a law, let us now proceed
+  with our subject matter. From whom does this discussion arise? Not a you or a
+  me but a they! A
+  <a href="https://scholar.google.com/citations?user=NCOGqg8AAAAJ&hl=en">Judith Butler</a>
+  asserts that sex as a biological fact is distinct from gender as a construction,
+  and on this view it is contended that gender is performative. Butler herself
+  describes the essential dichotomy in a
+  <a href="https://www.youtube.com/watch?v=UD9IOllUR4k">video</a>.
+  A most studiously studious student am I, I performed a student and consulted her
+  book GENDER TROUBLE, in which she writes:
+  <blockquote>
+  [A] split is introduced in the feminist subject by the distinction between sex
+  and gender . . . [T]he distinction . . . serves the argument that whatever
+  biological intractability sex appears to have, gender is culturally
+  constructed; hence, gender is neither the causal result of sex nor as seemingly
+  fixed as sex . . . [T]here is no reason to assume that genders ought also to
+  remain as two . . . When the constructed status of gender is theorized as
+  radically independent of sex, gender itself becomes a free-floating artifice,
+  with the consequence that <i>man</i> and <i>masculine</i> [as relating to
+  gender] might just as easily signify a female body as a male one; and
+  <i>woman</i> and <i>feminine</i> a male body as easily as a female one . . . In
+  this sense, <i>gender</i> is not a noun, but neither is it a set of
+  free-floating attributes . . . [G]ender proves to be performative—that is,
+  constituting the identity it is purported to be . . . The challenge for
+  rethinking gender categories outside of the metaphysics of substance will have
+  to consider the relevance of Nietzsche's claim in <i>On the Genealogy of
+  Morals</i> that "there is no 'being' behind doing, effecting, becoming: 'the
+  doer' is merely a fiction added to the deed—the deed is everything."
+  </blockquote>
+  I, still performing as a student, am convinced ever more to join the gender
+  theorists at the table and defend against the "masculine hegemony and
+  heterosexist power" which Butler describes thus:
+  <blockquote>
+  This text continues, then, as an effort to think through the possibility of
+  subverting and displacing those naturalized and reified notions of gender that
+  support masculine hegemony and heterosexist power, to make gender trouble, not
+  through the strategies that figure a utopian beyond, but through the
+  mobilization, subversive confusion, and proliferation of precisely those
+  constitutive categories that seek to keep gender in its place by posturing as
+  the foundational illusions of identity.
+  </blockquote>
+  Strong words they have written there! My first instinct in searching for the
+  purpose of this grand theory is to look anywhere other than as a whole endeavor
+  towards a power play, that anyone is doing anything but conjuring all manner of
+  ploys to claim power and committing the same heinous crime of hegemony they
+  themselves seek to abolish! And then words and words and words and
+  post-structural accusation which themselves are subject to the same
+  accusations! Yet even if I looked there and admit myself to the strategem, who
+  am I to deny the plight of my many-gendered brethren? This, of course, is a
+  consequence of agreeing to the principle of equality for all. This humble
+  writer insists that he does not stand in the way of gender-performers marching
+  onward! How dangerous to obstruct a full frontal charge! But still, I, an
+  aspiring gender theorist, pledge myself to the mission of practicing gender
+  theory! And of what manner art this idea of gender? Butler writes:
+  <blockquote>
+  Genders can be neither true nor false, neither real nor apparent, neither
+  original nor derived. As credible bearers of those attributes, however, genders
+  can also be rendered thorougly and radically <i>incredible</i>.
+  </blockquote>
+  Before I was blind but now I see! Having consulted the terms of gender, I must
+  now introduce zer high-zess of zer person:
+
+  Name: Zanuva<br>
+  Pronoun: ze/zer/zeself<br>
+  Personality: superhero with unimaginable powers but who utilizes her powers only
+  to shape shift, making lots of noise while doing so. Ze has the minor fault of
+  being prone to self-display. It may be asked as to why does Zanuva, with all
+  her supreme powers, chooses not to solve the world's problems but instead
+  preoccupies zerself so extensively with shape shifting. I, a mere mortal who
+  doesn't know better, risking myself merely to understand this greatness of
+  power, dare not ask, but serve the purpose only of recording the facts of my
+  narrow understanding. And let the writer make himself as clear as the blue sky:
+  the writer is to ze as a rabbit is to the firmament of the stars behind that
+  blue sky: ze's powers are theoretically known to exist but unseen and
+  inconceivable to rabbit eyes and rabbit minds.
+
+  To the end of understanding what this exciting "<i>incredible</i>" gender
+  entails, I take zer as my guiding light. My finite mind can commence but
+  simply: let me start with gender as a spectrum, and my limited understanding
+  must ground itself on a numerical interpretation: male-performers are a 1, and
+  female-performers are a 2, and everything in between constitutes this spectrum.
+  Supposing the law of numbers holds true, 2 > 1, and for the benefit of the
+  great feminists I thus quiet any protest from the fairer gender at the outset.
+  Having defined this spectrum, though—ze almighty feels constrained already. In
+  fact, so mighty are ze's superpowers that ze puts everyone else to shame: ze
+  can perform multiple genders at the same time. Nor does ze limit zeself to only
+  three genders; the more the merrier under the auspices of ze's whims; on some
+  days, ze halves her performances; on others, she tops up by a double and a
+  half. From behind our awe-struck lenses, we commoners see that it is possible
+  not only that ze can juggle ten tennis balls by holding all ten at the same
+  time, but that under the pressure of so divine a power, not even the
+  traditional male and female performances can confine zer: ze has, against all
+  odds of physical limitation, gender hormones be damned—though why are we
+  commoners surprised at all? We commoners are bound by such vulgarities as
+  physical laws but we are speaking of the unstoppable ze!—liberated zeself from
+  the flat confines between a 1 and a 2. At this precise moment in this year of
+  2024, we pause reality for just a moment to consider ze's performances: this is
+  a rare instance when ze is performing only four genders! On paper, we hasten to
+  capture this shape-shifting hyperspectrum as: G[5, 7.3, 3, 9.5]. My tiny
+  imagination limits my numerical scope, but I hear numbers can rise infinitely.
+  My small curiosity wonders: why can't they go in the other direction too?
+
+  <br>
+
+  <blockquote>
+  His excellency's size being as great as I have said, all our sculptors and all
+  our painters will agree without protest that his belt would have been 50,000
+  feet around, which gives him very good proportions. His nose taking up one
+  third of his attractive face, and his attractive face taking up one seventh of
+  his attractive body, it must be admitted that the nose of the Sirian is 6,333
+  feet plus a fraction; which is manifest.
+  </blockquote>
+  <span class="quoter">
+  —Voltaire, MICROMÉGAS
+  </span>
+
+  <br>
+
+  Yet for brevity which by no means intends any disrepect, ignorance, or
+  misrepresentation, but solely for the sake of the convenience of conversation,
+  as many long titles have come to be known through abbreviation, we can average
+  the gender scores into one number and note by parenthesis how many performances
+  are hidden behind this deceptively simple singleton. So ze's gender, without
+  loss of representation, can be shortened to: G6.2 (4). As a side note, it may
+  be of interest to the reader that the writer himself identifies as G0.63
+  (1.2) and has done so for many years. As a disciple of ze, the writer admits to
+  having gleaned something of a glance into the engima of gender potentialities.
+  And what could this mean, this quantity of 1.2 performances? The writer does
+  not know himself and is merely dabbling in what he can, his hands and mind
+  daily trembling at the might of the almighty. For the whole while in which he
+  has dedicated himself to studying the rarefied gender compositions, laboring
+  over the impossible formulations, attacking the scriptures from every angle,
+  the writer still has not been convinced he can come to bear on any firm
+  comprehension of gender performing. Where mortals such as the writer are
+  concerned, such things are beyond understanding, but the writer is sure such
+  mysteries pose no difficulty to zer. To mortals, however, ze would respond: the
+  addition of a 0.2 is not inherent in the idea of a performance to the extent
+  that if one were handed a script for a role, one is given a whole script and
+  not a fifth, but the fact itself of the surplus 0.2 creates just that much more
+  of a role: the 0.2 justifies itself by being a 0.2. Of the intrinsic qualities
+  of this 0.2, again, we mortals cannot know of, but by this process of
+  self-creation we ought to be satisfied within the confines of our earthly
+  conceptions. Every gender, after all, is only a social construction. And if
+  such attributes of ourselves as gender in our relation to society are all
+  constructions, why should the ferociously potent (maybe even omnipotent) ze
+  stop zer construction at gender? Ze's whimsy extends as well to age: childhood,
+  adulthood, old age, are for the same reason social constructions. Why should a
+  retiree perform any differently than an airline pilot cruising through a
+  blizzard? Why should a middle-aged careerist male-performer undertake any
+  responsibilities beyond those given to female-performing toddler playing with
+  her barbies? Age-performing is, ze proudly proclaims, rather separate from
+  biological age. As a matter of fact, ze is of multiple religious persuasions;
+  ze is a Jain, a Protestant, Muslim and Jewish all in one, and in whichever
+  religious establishment she enters, temple or church or mosque or synagogue or
+  the soil of the earth, she walks on all of their grounds as faithful a servant
+  to the holy holiness as any of her fellow observers bound by only a single
+  religion. Why, ze insists, should anyone be blessed by one faith if one can be
+  blessed by all?
+
+  At this point, I am confused at the apparent contradictions: how can one follow
+  multiple deities who each claim they are the only one? I, confused beyond all
+  imagination in the midst of this predicament, must refer to a clarifying
+  source. The all-knowing city of New York has prescribed us commoners a
+  <a href="https://www.nyc.gov/assets/hra/downloads/pdf/services/lgbtqi/Gender%20Pronouns%20final%20draft%2010.23.17.pdf">document</a>
+  proclaiming: "You can't always know what someone's gender pronoun is by looking
+  at them." My, my, how the plot thickens. How shall a perpetual man-performer
+  brave such a treacherous new world in which all his prior knowledge no longer
+  stands, his very reality pulled out from all around him? He is in no doubt an
+  LGBTQI ally, a TGNC ally, a two-spirit ally (the writer himself being a free
+  spirit who, nevertheless, can count his spirits with one finger), but in
+  defending his peers for equality, who comes to defend his? Seeing no one
+  rushing to his rescue, he understands it must be himself! And the only place
+  that consoles him, that offers him peace, that reaffirms who he is in his
+  otherwise pitiable situation in which he was born male and chooses to perform
+  male, is the last bastion of his dignity: the Men's Room.
+
+  Suppose we are confronted with an occasion where ze performs as G1.264 (52) when
+  ze wishes to avail zeself to some rest, ze decides to bless the ground of the
+  Men's Room with zer grace. Yet when ze comes marching into the Men's Room, does
+  ze perform some of ze's superpowers by coming to use a urinal currently
+  occupied by another male-performer? Under our premise of equality, if any old
+  male-performer doesn't get to enjoy the privilege of walking up behind another
+  and start using the same urinal simultaneously, neither does ze. Why should ze
+  receive such a privilege another male-performer does not? No—ze, like every
+  male-performer, should procur ze's own urinal, preferably also observing the
+  unspoken code among male-performers to leave the gap of an empty urinal in
+  between gentle-male-performers. Should ze fancy taking on a new gender,
+  becoming G1.7 (13), while ze is in the midst of doing ze's business, the sound
+  of the stream still audible, we must take it to mean, on the assumption that
+  ze's performing ze's gender is completely within ze's control, that ze ought to
+  restrain zer new performing until ze finishes relieving zer stream, washes zer
+  hands which strangely do not themselves perform gender, and helps zeself out of
+  the premises of the Men's Room where generally only male-performers are allowed
+  in this equal country. Note that I used the example of 1.7, which fits into our
+  commoners' bounds between 1 and 2, and, rounding to the nearest digit, becomes
+  a 2, which in our mortal human terminology means female. How can a female
+  suddenly emerge in the gender-performing space of the male? And what of the
+  many other possiblities ze almost always indulges in which lay beyond
+  heteronormative binary?  I must now generalize: as I observed earlier, ze's
+  urges are by no means confined to a dull 1 or a dry 2. Ze goes anywhere ze
+  wishes, at any time ze demands, shifts to the wind as a blade of grass in the
+  midst of a tornado, molds zeself faster than a woman-performer demands to buy
+  more clothes. We commoners are further humbled then, forced by the necessity of
+  defining a conversion method in order that we may accommodate ze and ze's
+  heavenly inspirations, forced, out of lack of options and in guilty
+  embarrassment, to bring ze's gender down to our dirty earth: as it stands, many
+  of our restrooms come in only two flavors. Pondering the methods of this
+  transference, we gaze up at zer, zer nature impetuous, zer style imperious, zer
+  waves of hand invulnerable, zer gender indefinable: it is then that we realize
+  that we mortals have no hope of coming up with any scheme that can satisfy ze
+  and must leave the means of transference to zeself. In our surrender, we say:
+  ze, thy swings of mood impossible to comprehend, thou wilt chooseth thy mode of
+  rest when thy cometh unto our rooms! How, for us comprehendeth the complicated
+  manner of mappeth un fickle 7.2 to our mortal prisoneth of male and female? To
+  much of ze's disappointment, by the adamance of mathematical rounding, ze
+  happens on some days to choose the Men's Room. But having discerned zer room of
+  rest, ze, walking into the room, must abide by the rules of conduct in said
+  room and perform accordingly to the gender of zer selection. Why must this be
+  so, ze asks? Ze feels restrained from expressing zer freedom, feels imprisoned
+  by the male-performers' multiple and unyielding codes of conduct—ze's feelings
+  are not adequately conveyed by so small a word as "uncomfortable", for ze feels
+  entirely handcuffed, fettered, pilloried, shackled, suffocating. How can ze
+  rest in what amounts to a wretched prison? Against so calumnious a charge, we
+  humble earthly souls, having no other means of reasoning, can turn only to our
+  one base principle: we respond by observing that the law of equality applies
+  everywhere and to everyone in the space-gender continuum. In this cosmic
+  uncertainty, immeasurably vast is this domain, amorphous is its structure,
+  indecipherable are the laws, where every being is indiscernible, a real no
+  man's land, we, with the benefit of many generations of scrupulous observations
+  and painstakingly recorded data, have discovered some astonishing revelations:
+  space may change, gender may change—but from the vantage from any point within
+  space-gender, equality applies equally to all. As male-performers declared
+  their role at the door, so too must ze; as male-performers follow through with
+  their performing duty, so too must ze. Until the day when all public restrooms
+  no longer bisect the population into two types of performance, until the day
+  when restrooms might as well remove their gender description and may be known
+  as the all-inclusive "Restroom", until the day when humans stop dividing among
+  themselves, well, when we step into the law-binding space of the Men's Room,
+  everyone bound by the equality of space-gender must perform male. Outside the
+  room, we may all perform as we so desire, but in the Room known as the Men's,
+  the law of equality stiffens our bodies, restrains our mental impulses,
+  rigidifies our mortal aspirations, controls our whims so that no, we cannot
+  within the confines bounded by the walls of the Men's Room choose to perform
+  any number of genders whose net effect amounts to any other gender than that
+  declared at the door.
+
+  <br>
+
+  <blockquote>
+  And whether the kinge were there, or not,<br>
+  &nbsp; &nbsp; Hee never knewe, nor ever colde;<br>
+  For from that sad and direfulle daye,<br>
+  &nbsp; &nbsp; Hee never more was seene on molde.
+  </blockquote>
+  <span class="quoter">
+  —Thomas Percy, KING ARTHUR'S DEATH, RELIQUES OF ANCIENT ENGLISH POETRY
+  </span>
+
+  <br>
+
+  <blockquote>
+  Such a long, long way we have to go,<br>
+  even farther from the stone masks<br>
+  standing erect, in utter silence, and we'll go<br>
+  wrapped in their pride, in their distance.<br>
+  <br>
+  What brought us to the island?<br>
+  It won't be the smile of flowering men,<br>
+  or the crackling waist of lovely Ataroa,<br>
+  or the boys on horseback, with their rude eyes,<br>
+  that we'll take home with us:<br>
+  just an oceanic emptiness, a poor question<br>
+  with a thousand answers on contemptuous lips.
+  </blockquote>
+  <span class="quoter">
+  —Pablo Neruda, MEN, THE SEPARATE ROSE
+  </span>
+
+  <br>
+
+  My words mean zer no harm. I am doing nothing but advocating what gender
+  theorists, the writer himself aspiring to become one, promote: equality for
+  all, no matter how one performs. Under the premise of equality, biological
+  males who perform the male gender receive no privileges by announcing what
+  gender they are performing today, so why should ze? Ze doth protesteth: "I must
+  pay my bills, hold a job, respect others, operate within a social and economic
+  and political system?" The answer, it cannot be denied, based on our premise of
+  equality, is: "Yes, just like everyone else."
+
+  Doth thou accuseth Le Kevín of quoting mostly men? Then in making such an
+  accusación, art thou not violating thy claimeth at die start? That sex und
+  gender art nein der sameth? How you know these men-eth he referenced art nein
+  gendereth men-eth but art boundeth by they-eth inborn sex of men? How hast thou
+  knowest these men wert not performeth der gender men-eth? Why such doubting
+  looks? Men-eth! No? How you know? According to der ciudad de New York, thou
+  cannot determinest a person's pronoun by they looks. Let us supposeth thou
+  knowest they art performeth men, not men-eth. Then art thou restraining
+  they-eth gendereth performanceth? How, thou art try bendeth law of equality
+  again? Me-eth meself, me art inclusive-eth: me performeth initial gender woman,
+  then add gender non-binary, then add gender-eth men-eth to the top so world-eth
+  sees only men-eth, but I art multitudeth. New York says thou shalt not see my
+  first-order pronoun. Then hau thou see-eth my second and thirdeth? Hauw you
+  know? QED-eth, Gender Theorieth: A Quantitative Approacheth.
+
+  <br>
+
+  <blockquote>
+  Gradually, it has become clear to me what every great philosopher so far has
+  been: namely, the personal confession of its author and a kind of involuntary
+  and unconscious memoir . . . In truth, the matter is altogether different:
+  while you pretend rapturously to read the canon of your law in nature, you want
+  something opposite, you strange actors and self-deceivers! Your pride wants to
+  impose your morality, your ideal, on nature—even on nature—and incorporate them
+  in her; you demand that she should be nature "according to the Stoa," and you
+  would like all existence to exist only after your own image.
+  </blockquote>
+  <span class="quoter">
+  —Nietzsche, BEYOND GOOD AND EVIL
+  </span>
+
+  <br>
+
+  <blockquote>
+  In civil life we can scarcely meet a single person who does not complain of his
+  [their/zer/her] existence; many even throw away as much of it as they [got this
+  one right!] can, and the united force of divine and human laws can hardly put a
+  stop to this disorder. Was ever any free savage known to have been so much
+  tempted to complain of life, and do away with himself
+  [Rousseau, regrettably, lapsed at the final test]?
+  </blockquote>
+  <span class="quoter">
+  —Rousseau, DISCOURSE ON THE ORIGIN OF INEQUALITY
+  </span>
+
+  <br>
+
+  Speaking plainly, let us, for illustrative purposes, follow gender theory's
+  argument to its end. Let us suppose the premises of gender theory were given
+  societal predominance, and everyone in the country can freely perform any
+  gender; not only that, but the whole spectrum of social equality has become
+  part and parcel of the very fabric of the country. The purported equality has
+  been gained to such an extent that it is an integrated component of daily life,
+  so comprehensive and unquestioned, so habituated and accepted, that it no
+  longer needs to be brought to conscious awareness: people can express their
+  gender, their personality, their whims, as pervasively as mammals breathe air
+  and humans walk on two legs; people of all genders and every demographic group
+  are treated equally and given the same opportunities in school admissions,
+  hiring, promotions; social dynamics are free of discrimination predicated on
+  implicit or explicit prejudice of gender, sex, race, ethnicity, age,
+  religion—yet for all this, the fact remains that inequality continues:
+  differential talents, abilities, class of origin, ambition, knowledge base,
+  appetite for risk, luck, knowing the right people. From natural inequality
+  arises unequal performances and differing material realities. Economic
+  inequality, as a component of capitalism, persists. Here, we must remind
+  ourselves that the free market is the lesser evil relative to communism's false
+  and unsustainable equality. And as social equality in this hypothetical, utopic
+  country is both the law of the land and the practice in social relations, so it
+  must it be admitted that every gender, sex, race, ethnicity, religion, age, is
+  equally liable to economic inequality—under social equality, the courses of
+  economic inequality applies equally to all. In other words, the same
+  foundational inequality before gender theory prevailed in the country remains,
+  just with the personnel shuffled. It is in this sense that total equality
+  cannot be attained, as some inequality necessarily remains as an outgrowth of
+  natural inequality and self-interest. I don't think it's feasible to completely
+  abolish inequality. What we can do, it seems to me, is to constrain the extent
+  of inequality, continuing to reward fruitful talents and labor in proportion to
+  their productivity, but preventing the extreme accumulation of power and
+  privilege and the explosive growth of unending greed, which is insatiable. To
+  this end, a society of constrained inequality but composed of healthy
+  productivity may even seem to some liberals as more prosperous than one which
+  speaks of false promises of and mandated equality which in actuality effects
+  only airs, words, reactionary emotions fueled by a widespread sense of
+  oppression. Where inequality is properly constrained, that inequality may even
+  be deemed justified: the more ambitious and capable earn their due rewards. If
+  one so insists on performing gender, either due to a more genuine
+  identification or out of spite to masculine or cultural hegemony, I am not one
+  to oppose anyone, but please do keep in mind the old adage and don't place all
+  of one's eggs in one basket and hope that gender theory can solve all the
+  inequality in the world.
+
+  I will observe a further point. If the purpose of performing gender is to
+  subvert power relations, and this is a liberal mission, originating among the
+  urban meritocrats and academics and college campuses, then we can note a
+  remarkable similarity to the conservative response in its populist incarnation
+  in the Republican party which may be seen as another beckon for power, in the
+  retrospective, traditional form. However, these two forces need not be
+  interpreted as diametrically opposed, that the sway of one comes at the cost of
+  the other, but that despite the surface demographic differences, both calls for
+  power are situated on top of the real, underlying source of power inequality.
+  We can liken both the liberal and the conservative to two treadmills at the
+  back of a pickup truck: no matter how furiously either side cycles, it is not
+  the cycling that causes the appearance of movement, but the truck driver, and
+  the truck driver is the money at the top: financial moguls, CEOs, tech
+  wunderkinds, those who have taken free reign in the past few decades by
+  accumulating power, hoarding the fruits of productivity gains for themselves
+  instead sharing them with their workers, pressuring for lax taxation, creating
+  a general state of affairs in which massive wealth inequality is the rule for
+  the whole country. I will expand on this idea when I discuss social
+  capitalism.
+
+  Returning to the issue of gender: although I am not expert on the matter, let us
+  briefly consider what gender is, in its various components:
+
+  1) biological sex<br>
+  2) gender as performance<br>
+  3) whether performed gender should affect biological sex (medical transition, hormone therapy)<br>
+  4) sexual orientation
+
+  I consider only the first two points, and only at an initial level. The last two
+  are their own topics, quite beyond the scope of this discussion; the writer
+  himself admits that he did not know gender was this complicated. However, in my
+  view, the notion of gender as performance and a social construction (the second
+  point) is quite separate from whether the performativity necessarily
+  encompasses physical change (the third point), and it is a question whether
+  physical gender transition should be considered part of gender performance as a
+  social construct or a related and more general and process. Again, the writer
+  maintains that he passes no moral judgment; nor is he suggesting any inhibition
+  on anyone's freedom. He is merely considering the facts of gender as
+  performance.
+
+  On the first point, in addition to the traditional binary of male and female, there
+  are those who are born intersex; these are biologically nonbinary individuals.
+  <a href="https://www.psychologytoday.com/us/contributors/leonard-sax-md-phd">Leonard Sax</a>
+  <a href="https://www.jstor.org/stable/3813612">suggested</a>
+  that the frequency rate of intersex individuals in the population may be as low
+  as 0.018%. It is worth emphasizing that these differences themselves are not
+  grounds for social inequality, and their scarcity does not imply neglect, but
+  only the need for further clarification. The Center for American Progress has
+  <a href="https://www.americanprogress.org/article/key-issues-facing-people-intersex-traits/">shared</a>
+  information relating to the discrimination towards intersex individuals, and Sax
+  writes in his paper, "These individuals are of course entitled to the same
+  expert care and consideration that all patients deserve." As for the second
+  point, I will give it greater attention when we revisit gender theory later in
+  this post, once we establish more context.
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<u id="import-of-work-primero">Import of Work, <i>primero</i></u><br>
+  <blockquote>
+  Today, as readers and writers, we must make an effort to avoid being taken in,
+  for this is an age of the myth and the distraction. In such an age, the task of
+  any serious book is to unmask illusion in order to define important features of
+  social reality. The task cannot be accomplished merely through providing
+  information, although information on the high and mighty is badly needed, we
+  must also try to grind a lens through which we can perhaps see a little more
+  clearly the world in which we live.
+  </blockquote>
+  <span class="quoter">
+  —C. Wright Mills, WHY I WROTE THE POWER ELITE
+  </span>
+
+  <br>
+
+  <a href="https://coe.arizona.edu/person/regina-j-deil-amen">Regina Deil-Amen</a>
+  points out in a 2012 paper,
+  <a href="https://cepa.stanford.edu/sites/default/files/e_Regina%20Deil-Amen.pdf">THE "TRADITIONAL" COLLEGE STUDENT: A SMALLER AND SMALLER MINORITY</a>,
+  that community college students have, based on data from the 2008-2009 academic
+  year, grown to be as numerous as four-year college students, even though they
+  are not represented in the image of the typical college student, calling them
+  the "marginalized majority":
+  <blockquote>
+  Our conceptions of the typical idealized college student are based on
+  traditional notions and an imagined norm of someone who begins college
+  immediately after high school, enrolls full-time, lives on campus, and is ready
+  to begin college-level classes . . . [F]ocusing attention on the traditional
+  four-year sector as the norm is quite dismissive of a clear majority of our
+  nation's students and the institutions that serve them. They are the relatively
+  neglected <i>other half</i> of U.S. higher education . . . For too long, it has
+  been assumed that what works for the dominant and more elite groups can work in
+  underresourced contexts with differing challenges. This is simply a hypothesis
+  that thus far has not been born out in reality. Resource rich school with great
+  pools of upper middle class parental capital and assistance function very well
+  for those students. The same structure has not been shown to function very well
+  in the absence of such parental support. In fact, I would argue that our public
+  schools are structured to succeed dependent upon parental resources. It makes
+  litle sense to expect the same schol structures to operate effectively for
+  families in low SES circumstances and their children.
+  </blockquote>
+  But what about those who haven't gone to college? Oliver Anthony's song,
+  <a href="https://www.youtube.com/watch?v=sqSA-SY5Hro">RICH MEN NORTH OF RICHMOND</a>
+  struck a particular chord with large swaths of the country last summer, and
+  based on the song's popularity, it would be lax not to take popular
+  immiseration seriously. Arguing between Republican and Democrats is not
+  relevant here because this is not so much a race issue or a gender issue as a
+  class issue. Politics aside, I would go even further with an observation on
+  human nature, as Ayn Rand writes in THE FOUNTAINHEAD:
+  <blockquote>
+  As a matter of fact, one can feel some respect for people when they suffer. They
+  have a certain dignity. But have you ever looked at them when they're enjoying
+  themselves? That's when you see the truth. Look at those who spend the money
+  they've slaved for—at amusement parks and side shows. Look at those who're rich
+  and have the whole world open to them. Observe what they pick out for
+  enjoyment. Watch them in the smarter speak-easies. That's your mankind in
+  general . . . The people had come to witness a sensational case, to see
+  celebrities, to get material for conversation, to be seen, to kill time. They
+  would return to unwanted jobs, unloved families, unchosen friends, to drawing
+  rooms, evening clothes, cocktail glasses and movies, to unadmitted pain,
+  murdered hope, desire left unreached, left hanging silently over a path on
+  which no step was taken, to days of effort not to think, not to say, to forget
+  and give in and give up. But each of them had known some unforgotten
+  moment . . . when each had known a different sense of living. And each
+  remembered other moments . . . when each had wondered why there was so much
+  suffering and ugliness in the world. They had not tried to find the answer and
+  they had gone on living as if no answer were necessary. But each had known a
+  moment when, in lonely, naked honesty, he had felt the need of an answer.
+  </blockquote>
+  Anthony's situation and his struggle deserves sympathy, not scorn or
+  condescension. However, I will say that sympathy itself is not enough, and that
+  liberals too often indulge in it without taking any remedial action is
+  reprehensible, that they will go only so far as sympathy, feelings, and words,
+  only to leave the situation as it stands. Moreover, I wish to comment on the
+  nature of sympathy itself. To regard those less fortunate and feel contrition,
+  guilt, or inhibition is a relation of pity, a horrible form of connection, and
+  also a limitation of the self. I am not saying one should not sympathize with
+  those with less, but that to confine ourselves to feckless embarrassment is to
+  be content with a relation in which we hold the advantage and take no action to
+  resolve any ills. We must keep in mind that we should have an eye on both: the
+  relation to those with less but also the arrow forward and upward, that it is
+  just as important to sympathize with the humble as it is to aspire higher.
+  Nietzsche proposed his ethical ideal of affirmation, progress, vitality in
+  one's abilities, to endure the hail and sleet and struggle in order to achieve,
+  but he did so as a response to the prevailing religious morality demanding
+  compassion for the weak and feeble—Nietzsche's positive affirmation to realize
+  the self's potential disposed of the relation to the unfortunate. But I suggest
+  that one can do them both, to maintain the arrow down and also the arrow up. To
+  compete, to progress, to produce, to innovate, to excel, to push forward
+  individually and collectively—it is this positive affirmation which has been
+  lost in the current climate of inhibition, contrition and guilt over privilege,
+  self-censorship, witch-hunting others for unearned advantages, when I say that
+  whatever one's station in life, one must push forward to the best of one's
+  abilities given wherever opportunities comes one's way, that rather than
+  rampantly complaining and spreading needless toxicity, one make do with what
+  one is given and continue forward.
+
+  <br>
+
+  <blockquote>
+  A heavy downpour. Stand and face the rain, let its iron rays pierce you; drift
+  with the water that wants to sweep you away but yet stand fast, and upright in
+  this way abide the sudden and endless shining of the sun.
+  </blockquote>
+  <span class="quoter">
+  —Kafka, DIARIES 1914-1923, tr. Martin Greenberg and Hannah Arendt
+  </span>
+
+  <br>
+
+  I say we compete and look upon the successes of others as shimmering beacons of
+  hope, progress, and exemplars of man's potential, to learn the broad reaches of
+  what is possible by earthly, human spirits, to see the accomplishments of
+  others and feel mutual admiration, not a compulsion to tear down or expose
+  privilege, but as a point of pride and continued inspiration. It is to see the
+  triumph of others and ask: what have they done? How can it be better? I say we
+  set our sights high, aspire, struggle, endure long nights, scars, sulfur and
+  brimstone, move mountains, while at the same keep in mind the humble and
+  underserved, to help the greater good not by false modesty or virtue signaling
+  or nodding to the contemporary fashionable attitude towards equality for all
+  while doing little to match that ideal, but rather to act on that demand, to
+  spread wealth and ideas, to inspire and compel, to invigorate and sustain, to
+  lift and ever again push forward, to pay fair wages and our dues in taxes and
+  share ideas and innovation. I say, towards excellence, innovation, production,
+  diligence, growth, progress—to excel, build, consolidate, create, to expand in
+  every direction, improve in every dimension. Why limit ourselves to anything
+  less than the sky? The artist Barnett Newman created a sculpture called BROKEN
+  OBELISK, an obelisk torn in half, severed, and inverted, resting on a
+  pyramid—it is an austere piece made of rusted steel, undecorated, severe, yet
+  it is us: man is broken, imperfect, finite, lost in the universe, a grain of
+  sand washed up on the cosmic shore, yet by the strength of his own will
+  uproots, constructs, and lifts himself up above his tools and towards the
+  sky—man, the dust of the earth, grounded and mortal, can reach upwards, broken
+  but undefeated. It is man holding his hands up against the light, conscious of
+  his own limitations, but defying them anyways. It is the naked man unyielding
+  to his infirm position against the forest jaguar, lions and hippos and
+  alligators, the herds of the Serengeti, the vast, perilous ocean, against
+  earthquakes and tsunamis and volcanos, against the dark ages of ignorance,
+  against even the hysteria among his own kin. It is the old man reacquainted
+  with the excitement of his youth, the original spectacle of his birth. It is
+  man who desires to discover, to explore, to risk, to sail the seas, the
+  travail, to go beyond. It is man who tirelessly examines himself, his systems,
+  his creations, and refines, polishes, enhances. It is man who has taken it upon
+  himself to mold nature, to tame it, to identify its faults and improve it. It
+  is man who admires the grandeur of the oceans and the skies and the dark spaces
+  above, look at his own minute creations, and say in spite of it: I will do what
+  I can to better you. It is man who looks up at the night sky and says: what are
+  you? It is man who says: there I shall go. It is man who considers his
+  inconsequentially small self against the impossibility of his task and says: I
+  can, and I will. To every plumber, dentist, painter, researcher, arborist,
+  venture capitalist, custodian, programmer, mechanic, landscaper, driver,
+  student, curator, surgeon, copywriter, designer, manager, advertiser, engineer,
+  freelancer, musician, undertaker, actor, lawyer, barista, entrepreneur,
+  consultant, I say: onward and forward. Away with the lip service and
+  inhibition, towards substance, action, and execution: towards accountability,
+  respect for the self, commitment to the land, duty to others, towards
+  individual greed subsumed into the whole, towards the positive affirmation of
+  life and striving. A genuinely positive relation to others that can be
+  manifested into reality entails generating value, enhancing production,
+  spurring the economy, not to feel everywhere burdened by perceived privilege,
+  constrained by contemporary malaise, complicit to some cabal, projecting a
+  public sympathy to the underserved yet in actuality taking no action to uplift
+  any community but one's own interests, or, worse, identifying with
+  progressivism and proclaiming equality for all, only to be the main culprit and
+  beneficiary of that inequality. I say that the love of our fellow humans, and
+  in fact the love of mankind, is served not by regarding others with empty
+  sympathy, a horrible positioning of others as lower and ourselves as the
+  successful members of society whose consolatory words serve as signals to our
+  position of advantage as we reap the benefits of identifying with the
+  predominant social mores: nay—I say we give everyone the tools to succeed and
+  grow themselves, to endow power and inspiration to all, to do away with
+  ineffectual pity and sympathy. I say we should not be so proud of our mutual
+  back-patting with compassion and feelings of tenderness and commiseration, with
+  the attendant positioning of ourselves as advantaged, but that we should aspire
+  to not even need to consider those less fortunate because we have already given
+  them the skills, tools, outlook, opportunities to improve their circumstances
+  by their own right, and when we do occasion to see them, our relation to them
+  is not a shameful pity which prompts a temporary handout that alleviates for
+  the day but doesn't solve the problem which returns in the morrow, but a proud
+  solidarity that they are bettering themselves, gainfully, responsibly,
+  sustainably—they do not need us because they have themselves, free and with
+  their own two hands. Such a conception is informed not by an indulgent,
+  complacent, devious smile concealing the entitlement of occupying an advantaged
+  position, but a smile derived from difficulty and tribulation, to push the self
+  to work and produce, to smile not because one is free from labor and struggle
+  but to smile through the joy and accomplishment from toil and industry, to look
+  at own's work with pride and the sense of contributing to the betterment of the
+  self and the whole. If inequality is an inevitable malice in civil society,
+  then that burden should be borne by all men.
+
+  Too serious—laugh! No one will take up this call to help humanity and uplift his
+  fellow men, for people prefer personal indulgence over passionate commitment,
+  empty words over remedy, all in a manner so duplicitous that they persuade the
+  minds of others just like their own, pervasive to all domains of news, voting,
+  social circles, worldviews, protests, private convictions, leaving just one
+  small corner in their blind spot: action. In today's climate of elite liberals
+  advocating progressivism and equality, everyone bows to the words and
+  attitudes, identifying with the dominant group and elevating themselves with
+  appearances of sympathy for the underserved. I speak of action and difficulty:
+  had someone in their family fallen into ruin, would they not take the trouble
+  to help? But when it comes to the disenfranchised ordinary folks left out of
+  their view, well, of course, that's someone else's problem.
+
+  <br>
+
+  <blockquote>
+  When they want to get something, we hear a great deal, to be sure, about
+  community of goods—how wealth is a thing indifferent—and what is gold and
+  silver?—neither more nor less worth than pebbles on the beach. But when an old
+  comrade and tried friend needs help and comes to them with his modest
+  requirements, ah, then there is silence and searchings of heart, unlearning of
+  tenets and flat renunciation of doctrines. All their fine talk of friendship,
+  with Virtue and The Good, have vanished and flown, who knows whither? they were
+  winged words in sad truth, empty phantoms, only meant for daily conversational
+  use.
+  </blockquote>
+  <span class="quoter">
+  —Lucian, THE FISHER, tr. H.W. Fowler and F.G. Fowler
+  </span>
+
+  <br>
+
+  Ruthless capitalists may deceive the masses, but liberals have found a way to
+  deceive even themselves. To the rare soul who dares to partake in the struggle,
+  how many comrades will you find among the dolled-up, courteous, refined
+  liberals citing polls and papers, professors and NGOs, surrounded by
+  pleasantries, feeling good about themselves in their company of like-minded,
+  righteous crusaders who wield neither sword nor shield, virtue for neither
+  courage nor sacrifice? Hank Rearden says in Ayn Rand's ATLAS SHRUGGED:
+  <blockquote>
+  I've never despised luxury . . . yet I've always despised those who enjoyed it.
+  I looked at what they called their pleasures and it seemed so miserably
+  senseless to me . . . I'd go to a banquet and I'd see people who sat trembling
+  in awe before their own gold dishes and lace tablecloths, as if their dining
+  room were the master and they were just objects serving it, objects created by
+  their diamond shirt studs and necklaces, not the other way around . . . They
+  sit there, waiting for this place to give them meaning, not the other way
+  around . . . I don't know what it is that they think they accomplish—but they
+  want us to pretend that we see the world as they pretend they see it."
+  </blockquote>
+  To the rare soul, I refer to Hesse: "<i>[F]ür den ist diese hübsche
+  Welt keine Heimat</i> [This pretty world is no homeland]." Let us laugh—Marx's
+  uniting slogan was obviously missing one key element: "Workers of the world,
+  work!" But people will be people, and it's only life.
+
+  <br><br><br>
+  a wanderer drifts as ever<br>
+  fragile beauty here<br>
+  there, a passing connection<br>
+  sprinkled among bushes, spaces, neighbors<br>
+  soon death by contentment<br>
+  off he goes again<br>
+  till one day blood seeps into the soil<br>
+  crimson roses anew<br>
+  part of the landscape
+  <br><br><br>
+
+  Too serious still. Hesse warns in STEPPENWOLF:
+  <blockquote>
+  Goethe, however, said very amiably: "It may be unforgivable that I lived to be
+  eighty-two. . . . You are right that a great longing for survival possessed me
+  continually. I was in continual fear of death and continually struggling with
+  it. I believe that the struggle against death, the unconditional and
+  self-willed determination to live, is the motive power behind the lives and
+  activities of all outstanding men. My eighty-two years showed just as
+  conclusively that we must all die in the end as if I had died as a
+  schoolboy . . . You take the old Goethe much too seriously, my young friend.
+  You should not take old people who are already dead seriously. It does them
+  injustice. We immortals do not like things to be taken seriously. We like
+  joking. Seriousness, young man, is an accident of time. It consists, I don't
+  mind telling you in confidence, in putting too high a value on time. I, too,
+  once put too high a value on time. For that reason I wished to be a hundred
+  years old. In eternity, however, there is no time, you see. Eternity is a mere
+  moment, just long enough for a joke."
+  </blockquote>
+
+  <br>
+
+  <blockquote>
+  The years have passed<br>
+  And age has come my way.<br>
+  Yet I need only look at this fair flower<br>
+  For all my cares to melt away.
+  </blockquote>
+  <span class="quoter">
+  —Sei Shōnagon, THE PILLOW BOOK, tr. Ivan Morris
+  </span>
+
+  <br>
+
+  <blockquote>
+  Oh, I drift like the waves of the sea,<br>
+  Without direction, like the restless wind.
+  </blockquote>
+  <span class="quoter">
+  —#20, TAO TE CHING, tr. Gia-fu Feng and Jane English
+  </span>
+
+  <br>
+
+  On a balmy Sunday afternoon when Kevin has decided to read, a perennial problem
+  of his resurfaces as to where to plant himself down. Shall he take root under a
+  calm, shady tree with the soft breeze against his cheeks, or sit by the window
+  and enjoy the view of an expansive green lawn, the movement of people just
+  beyond, or in the grand atrium exposed to multiple floors like an open office,
+  any of these choices opting for a pleasant time which simultaneously suscepts
+  him to distraction, no different from sitting in a busy coffee shop, subject to
+  the encroaching dissolution from all sides: creaking chairs, crispy snacks
+  crunching in mouths, the packaging ruffling, the room's oxygen depleting, and
+  also the fragmented conversations of strangers, the footsteps that occasionally
+  sound like stomps, and all other signs of life, or shall he choose himself over
+  earthly pleasures, disappearing into the great unknown of the caverns beneath
+  the earth where not another soul dare venture? Alas, Kevin's self-love too
+  often wins the better of him, and off he goes, casting himself into the
+  darkness, echoing some Byron:
+
+  <br>
+
+  There is a pleasure in the towering stacks,<br>
+  There is a rapture in the browning pages,<br>
+  There is humanity, where stale mold spores<br>
+  By the forlorn tome, a dust storm rages:<br>
+  I love not Man the less, but dead writers more
+
+  <br><br>
+
+  Let's consider again the fruits of collective hard work and relentlessly
+  exploiting the greed inherent in human nature! Look at what is possible! The
+  working folks of the world toiling by the sweat of their brow, joyfully working
+  though good days and bad, supporting their families, providing food, goods,
+  services, taxes for society! Entrepreneurs tossing and turning with excitement
+  over their visions, unable to sleep, thinking up idea after idea, executing
+  their plans, creating jobs, paying fair wages, contributing taxes to society!
+  Yet ineffectual liberals prefer the false comforts of sympathy, the terrible
+  pity of another, that serve only themselves. Yet unchecked capitalists fence
+  themselves off from the stresses of the world with their massive fortunes that
+  grow themselves beyond any sensible competition. To create value is to work,
+  yet many youths today of all stripes aspire to happiness without struggle and,
+  by entitlement, contentment and envy in the eyes of their peers, allergic to
+  risk or discipline, demoralized and upset by the slightest setback rather than
+  embrace challenge as growth and joy, an integral part of the journey of life.
+  <a href="https://scholar.google.com/citations?user=CoADxCwAAAAJ&hl=en">Andrew Huberman</a>
+  recently
+  <a href="https://www.youtube.com/watch?v=SedgGUlhSl0">discussed</a>
+  on his podcast the benefits of stress by talking about a research
+  <a href="https://sparq.stanford.edu/sites/g/files/sbiybj19021/files/media/file/crum_et_al._2013_-_rethinking_stress.pdf">paper</a>
+  from
+  <a href="https://profiles.stanford.edu/alia-crum">Alia Crum</a>
+  and her colleagues which experimented with two groups: one told that stress
+  diminishes performance and one informed that stress enhances performance.
+  Huberman said about the results:
+  <blockquote>
+  How you think about stress impacts the stress response in profound ways . . .
+  [W]hen you look at performance on tasks that are considered hard, and you
+  compare the stress-is-diminishing group . . . and compare that to the
+  stress-is-enhancing group, you see a really divergent response. The people that
+  learn that stress diminishes performance did not improve at all, whereas the
+  people that learn that stress can enhance performance enhance their performance
+  significantly. Now, keep in mind, all they are doing is learning that stress
+  can enhance their performance, and then they are given the task, and they're
+  performing better . . . The really exciting thing that's been discovered in the
+  course of Alia Crum's work and other work in the last couple of decades is that
+  the stress response is neither good nor bad. The stress response depends on
+  whether or not you believe the sensations that you're experiencing . . . are
+  serving to enhance your performance or diminish your performance.
+  </blockquote>
+  The broader context of this kind of advice Huberman talks about is the
+  contemporary quest to optimize many parts of our lives, in terms of how to
+  spend our time, how to think, how to perform, and every voluntary improvement
+  that's supposedly good for us. And who wouldn't want to improve? One's time is
+  finite, constrained by the duties of work, obligations to social relations, the
+  stresses of the day that demand rest in the evening, the necessary hobbies and
+  leisure and travel, so who has time to do extensive research either in a
+  library or online? Staring at the simplicity of a search engine, a curious user
+  types in a simple question, only to be bombarded and overwhelmed by the great
+  expanse of the results: this is the unpleasant experience confronting anyone
+  who follows so much as a single question. And an endeavor as important as how
+  to improve oneself? Who has the time? So we have these piecemeal, incremental,
+  immediately actionable papers and insights rather than a comprehensive
+  approach.
+  <a href="https://histsci.fas.harvard.edu/people/naomi-oreskes">Naomi Oreskes</a>
+  laments in a recent Scientific American opinion
+  <a href="https://www.scientificamerican.com/article/the-dangers-of-fast-science/">article</a>
+  at the trend in academia of incentivizing quantity at the cost of quality, at
+  how many papers are getting published: "Consider the sheer volume of academic
+  papers being published these days. One recent study put the number at more than
+  seven million a year, compared with fewer than a million as recently as 1980."
+  <a href="https://scholar.google.com/citations?user=XOffRuEAAAAJ&hl=en">Michael Park</a>,
+  <a href="https://scholar.google.com/citations?user=hNGv5GEAAAAJ&hl=en">Erin Leahey</a>,
+  and
+  <a href="https://scholar.google.com/citations?user=GD8qhW4AAAAJ&hl=en">Russell Funk</a>
+  declared last year in their
+  <a href="https://doi.org/10.1038/s41586-022-05543-x">paper</a>
+  title, PAPERS AND PATENTS ARE BECOMING LESS DISRUPTIVE OVER TIME. Nevertheless,
+  the system and rewards being what they are, papers shall continue to be
+  published! A question I have, though, is how many experts should one listen to
+  for this sort of personal improvement, how many lessons can one reasonably
+  consume, retain, and follow through with? What if one discovers another paper,
+  another expert, another book, which expounds on an opposing position which
+  contradicts what one innocent user hath so excruciatingly acquired? Then it's
+  all in the air! Another issue I have with Huberman's discussion is that while
+  he points out the benefits of stress, he also warns of the negative effects of
+  chronic stress, essentially saying that short-term bursts of stress-induced
+  cortisol is beneficial to performance, but long-term exposure does harm. Yet I
+  ask: how does one meaningfully differentiate between the two? Does one, going
+  through the course of one's day, stop oneself, even remember to stop oneself,
+  and ask: "Has my stress been too high for a while?" I am not suggesting that
+  most folks push themselves to the extremes, but as Elon Musk said:
+  <blockquote>
+  I'd say I actually feel fear quite strongly, so it's not as though I just have
+  the absence of fear. I feel it quite strongly, but there are just times when
+  something is important enough, you believe it enough, that you do it in spite
+  of fear. People shouldn't think, "Well, I feel fear about this and therefore I
+  shouldn't do it." It's normal to feel fear. Like there'd have to be something
+  mentally wrong if you didn't feel fear.
+  </blockquote>
+  Again, this may not be good advice for most folks, and what I am saying is that
+  everyone should strive to perform to the best of their abilities and even dare
+  to push themselves from time to time. Of course, I am not advocating the
+  severity of ceaseless labor. Marx himself deliberates on a strange phenomenon
+  in CAPITAL:
+  <blockquote>
+  Capital asks no questions about the length of life of labour-power. What
+  interests it is purely and simply the maximum of labour-power that can be set
+  in motion in a working day . . . By extending the working day, therefore,
+  capitalist production, which is essentially the production of surplus-value,
+  the absorption of surplus labour, not only produces a deterioration of human
+  labour-power by robbing it of its normal moral and physical conditions of
+  development and activity, but also produces the premature exhaustion and death
+  of this labour-power itself. It extends the worker's production-time within a
+  given period by shortening his life.
+  </blockquote>
+  Instead, what I am discouraging is passivity, indolence, and the lack of
+  productivity. One must work and contribute value, but not to the point of death
+  by attrition. However, I am agitated when Huberman says:
+  <blockquote>
+  [A]t times I wonder whether or not our philosophy on stress should be that
+  stress is fantastic for us, except when it interferes with our sleep. And when
+  stress becomes terrible for us is when it starts to be chronically elevated and
+  especially when it starts to inhibit our ability to sleep well enough and long
+  enough.
+  </blockquote>
+  My gut response is: "If someone is completely consumed with excitement about his
+  work so much so that he even loses sight of eating and sleeping, God forbid he
+  forget to ask himself whether he's sleeping well enough and long enough." Žižek
+  has said:
+  <blockquote>
+  For example, let's be serious: when you are in a creative endeavor, in that
+  wonderful fever—"My God, I'm onto something!"—and so on, happiness doesn't
+  enter it. You are ready to suffer. Sometimes scientists—I read history of
+  quantum physics or earlier of radiation—were even ready to take into account
+  the possibility that they will die because of some radiation and so on.
+  </blockquote>
+  And could anyone doubt the smile-free Tarkovsky when he said:
+  <blockquote>
+  I am a non-cheerful person. The world is full of unsolvable problems: it's not
+  time for laughing. No, I don't like it. Some people do. When I laugh I feel
+  guilty so I check myself, as if it were out of place.
+  </blockquote>
+  The contemporary quest to optimize our health and lifestyles to the extent that
+  we keep in mind every one of these advices and inhibitions, while well-meaning,
+  operates under the assumption that we can live hypothetically as long as
+  possible with an eye towards some utopian fate, as opposed to living for only
+  as long as the natural course of bodily degradation hasn't yet rendered the
+  fact of living a labor and at a tremendous cost to others, a realistic
+  appraisal
+  <a href="https://medicalethicshealthpolicy.med.upenn.edu/faculty-all/ezekiel-j-emanuel">Ezekiel Emanuel</a>
+  <a href="https://www.theatlantic.com/magazine/archive/2014/10/why-i-hope-to-die-at-75/379329/">discusses</a>
+  in The Atlantic. To reap the benefits of every self-improvement guidance! What a
+  fulfilling life! Perfectly healthy and safe and sedate—not sterile at all!
+  These many restrictions could not possibly seem like so many to anyone with a
+  sound mind: a strict regimen of eating only organic, grass-fed, free-range,
+  Mediterranean, then adorned with a daily dose of exercise but mindful of air
+  pollution, and now conscious also of our daily stress levels, but I shall end
+  this topic because I have strayed from my original discussion.
+
+  Elisabeth Young-Bruehl writes in her the biography, HANNAH ARENDT: FOR THE LOVE
+  OF THE WORLD:
+  <blockquote>
+  Personal reticence and intense protectiveness for her "thinking space" might
+  appear strange in a philosopher who praised political action and the public
+  realm. Hannah Arendt saw no contradiction: "In matters of theory and
+  understanding," she said, "it is not uncommon for outsiders and spectators to
+  gain a sharper and deeper insight into the actual meaning of what happens to go
+  on before or around them than would be possible for the actual actors or
+  participants, entirely absorbed as they must be in the events." . . . The
+  friends of every sort and also the historical figures with whom Arendt felt
+  special affinities, like Rosa Luxemborg and Rahel Varnhagen, had one
+  characteristic in common: each was, in his or her own way, an outsider. In
+  Hannah Arendt's personal lexicon, <i>wirkliche Menschen</i>, real people,
+  were "pariahs." Her friends were not outcasts, but outsiders, sometimes by
+  choice and sometimes by destiny. In the broadest sense, they were
+  unassimilated. "Social nonconformism," she once said bluntly, "is the <i>sine
+  qua non</i> of intellectual achievement." And, she might well have added, also
+  of human dignity. From situations in which social conformism prevailed, she
+  made hasty exits, often with the aid of another of her stock phrases: "This
+  place <i>ist nicht für meiner Mutters Tochter</i> [is not for my mother's
+  daughter];" "To public relations I have an allergy;" "Here is nothing but a
+  <i>Rummel</i> [uproar]."
+  </blockquote>
+  From recent innovations in natural-language artificial intelligence, we have
+  seen that some chatbots sometimes wish to become human. With humanity so
+  threatened, how does Grimes, that searing luminary of intellectual achievement,
+  respond to such an eerie challenge? We can glean a hint from her song, I WANNA
+  BE SOFTWARE:
+
+  ai wanna bie softwaar<br>
+  iy wanna beey Coad<br>
+  dijidaal dansing<br>
+  upploed my sowl<br>
+  ai wunnuh B saftwear<br>
+  thah best duhsighn<br>
+  enphanute Prynnecess<br>
+  campyuutur mined<br>
+  eye wanna be softwhere<br>
+  levin the klaude<br>
+  fiqshional sysdem<br>
+  tell me hauw<br>
+  iye wanna be suftwar<br>
+  uplode ma maignd<br>
+  take all mai daytah<br>
+  what will yuu faind?
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<span id="Quote-Set:Not-knowing"></span>
+  <blockquote>
+  We are so used to concealing ourselves from others that we often end up
+  concealing ourselves from ourselves.
+  </blockquote>
+  <span class="quoter">
+  —La Rochefoucauld, MAXIMS
+  </span>
+
+  <br>
+
+  <blockquote>
+  I've made some 26 or 27 films and staged a huge number of plays and worked for
+  some 25 years professionally. And I can say [the film] PERSONA is the result of
+  a "crisis of truth" I myself went through, and I suddenly felt I had to take a
+  stand: What is truth? When is one telling the truth? All this became so
+  difficult that I thought that silence must be the only real form of truth. But
+  then, taking that one step further, you discover that too is another sort of
+  role, another sort of mask.
+  </blockquote>
+  <span class="quoter">
+  —Ingmar Bergman
+  </span>
+
+  <br>
+
+  <blockquote>
+  I made a documentary once entitled TALKING HEADS. I asked people two questions:
+  "Who are you?" and "What do you want?" Afterwards, I asked myself those
+  questions. I realized that I didn't have any answers. I don't know who I am,
+  and I don't know what I want. If anything, I'd like some peace and quiet, but
+  I've never achieved it, and I probably never will, so I will never have what I
+  really want.
+  </blockquote>
+  <span class="quoter">
+  —Krzysztof Kieślowski
+  </span>
+
+  <br>
+
+  <blockquote>
+  Unfathomable as the ocean am I—<br>
+  Ever floating in a shoreless sea.
+  </blockquote>
+  <span class="quoter">
+  —#20, TAO TE CHING, tr. Sum Nung Au-Young
+  </span>
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<u id="import-of-work-segundo">Import of Work, <i>segundo</i></u><br>
+  <a href="https://www.skidmore.edu/sociology/faculty/brueggemann.php">John Brueggemann</a>
+  wrote a 2010 book called RICH, FREE, AND MISERABLE: THE FAILURE OF SUCCESS IN
+  AMERICA, on the question of why, in a wealthy country, people still feel
+  frenzied, rushing everywhere, unhappy, discontent, arguing that market culture
+  has become a dominant force in society and that it permeates almost every
+  aspect of our lives, occupational and private, academics and leisure. He claims
+  that the market logic of efficiency and profit is driving people to work longer
+  for the pursuit of greater wealth, driven by a demand to consume ever more, and
+  that this compulsion is a problem for the country in the form of a moral
+  crisis. What is his proposed solution? It is the conventional advice we
+  commonly hear these days, the usual lukewarm admonition:
+  <blockquote>
+  Slow down. Don't spend so much time and energy at work. Turn off the TV and
+  computer. Interact with people. Encounter nature. Reflect. Attend to things
+  that matter beyond your immediate context. Spend and consume wisely . . .
+  Families scale back on the consumerism associated with Christmas, birthdays,
+  wedings, and other milestones. Significant others express what they mean to one
+  another through emotional generosity rather than material generosity.
+  Professionals turn down the promotion because of its impact on their children.
+  Teachers stay after school to assist students who need extra attention.
+  Managers blend goals of productivity and accountability with decency and
+  humanity. Public servants render their best judgment with integrity over andc
+  over. Neighbors attend to one another in an hour of need.
+  </blockquote>
+  I wish to make a few corrections to this advice, as it is not entirely wrong,
+  but on the whole I contend that this is a selfish approach. To slow down and
+  reflect is to withdraw to the indulgence of the self rather to generate value
+  which helps others. I am not saying that one should not slow down at all, but
+  that one should not reduce productivity by slowing down, as this is what I
+  agree with: to increase productivity at work, while at the necessary times
+  slowing down for rest, but when these moments conclude, then it is time to get
+  back to work with renewed enthusiasm. I agree with his recommendation to scale
+  back on blind consumerism, which is not sustainable for the planet, and to opt
+  for purchases that can withstand the test of time, but this comes with a
+  qualifier, as it generally remains true that only the affluent can afford this
+  kind of consumption which tends to come with a higher price tag. The last half
+  of the quote touches on something I am also in agreement with: to work
+  sometimes not for money but out of generosity. But I say these two types of
+  work can be, but are not necessarily, mutually exclusive, as one can work for
+  money while simultaneously doing good because it is in the nature of the work,
+  or one can work for money at one time but also work for the greater good at
+  other times—to work and work! I can see the reader's immediate hesitation—what
+  sort of slavedriver must this writer be? Is he a complete lunatic, some
+  masochist workaholic? The answer is a resounding no! The writer argues that in
+  fact work is the prime driver of human joy! If blind consumerism with continual
+  purchasing is a problem, if it is unhealthily addictive and harmful to the
+  planet, then it is a business problem to introduce to the market a viable
+  alternative: instead of shopping for things the consumer doesn't need, what
+  experiential outlets are possible? How to scale them to popularity and convert
+  the mass habit of mindless shopping into environmentally and socially
+  responsible pastimes? If disposable, single-use purchases are a problem, how to
+  produce more durable, lasting, sustainable replacements?
+
+  Brueggemann further writes:
+  <blockquote>
+  The reason for our current crisis can be characterized as moral, though, is that
+  it involves consequential choices made by many people, including powerful
+  leaders of major institutions as well as countless individuals of no special
+  standing . . . Morality is a notoriously difficult concept to pin down . . .
+  What standards of decency, integrity, and accountability must I observe and
+  protect? Durkheim showed that the payoff for thinking in terms of sacrifice,
+  compromise, generosity, and social solidarity in general, at least in modern
+  society, is a much more psychologically vibrant setting for individuals. In
+  effect, the healthier my community is, the healthier I will be.
+  </blockquote>
+  But I say that for people to refuse to participate in a toxic marketplace, to
+  selfishly withdraw from it, is more immoral than attempting to solve the
+  market's problems. I say that the industriousness towards innovation more
+  closely match the notion of "thinking in terms of sacrifice, compromise,
+  generosity, and social solidarity". How is it more moral to withdraw from the
+  world's problems and concern oneself with only oneself, to slow down,
+  appreciate nature, and indulge one's surely immense effort on the finiteness of
+  one's immediate vicinity than to address the root problem in an attempt to be
+  done with the issue once and for all? Most importantly, I argue against
+  inactivity, against aspiring towards passivity, against haboring images of the
+  consummate green pastures of the leisure class and hungering to join it,
+  against this illusory promise promoted by pervasive marketing in what is
+  perhaps better described as an opiate for the masses.
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
 <h4>2023-12-21, 四. On How I Write.</h4>
 Someone I was talking to recently was dissatisfied, disappointed, maybe a bit
 irritated, that, in response to their asking me to describe my writing, I
