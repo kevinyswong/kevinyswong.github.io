@@ -10,27 +10,11 @@ permalink: /about
   {%- include social.html -%}
 </div>
 
-<div>
-  <p>
-  I am a writer working on my first novel on race, family intergenerationality,
-  the Asian American narrative. My intention is to write one story that's
-  symbolic of the greater, universal immigrant experience, in this era and
-  those prior, accessible to every American whose family at one point or another
-  had borne by itself and its children the chasm over sea, over air, over land,
-  a story encapsulating the experience of all those restless vagrants who've
-  settled in this country or the next.
-  </p>
+I'm writing a story about a couple growing further and further apart as they
+navigate their lives across a growing urban-suburban divide, centered on themes
+of class, race, community, and aging.
 
-  <p>
-  Prose texture: Dostoyevsky's penetrating insightful depths embedded in Garcia
-  Marquez's playful levity, doused in Beckett's and Camus' absurdity of the
-  human condition. The taste is predominantly humorous, overlaid on the real and
-  what is customarily left out of polite conversation due to idle courtesy, but
-  with intermittent lapses like Ishiguro's brief window into the profound.
-  </p>
+<br><br><br><br><br><br><br><br>
 
-  <p>
-  I finished my master's at the University of Notre Dame. Prior to that,
-  I did my undergrad at NYU and then spent a few years in industry.
-  </p>
-</div>
+I finished my master's at the University of Notre Dame. Prior to that, I did my
+undergrad at NYU and then spent a few years in industry.
