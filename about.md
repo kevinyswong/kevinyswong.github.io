@@ -11,8 +11,8 @@ permalink: /about
 </div>
 
 I'm writing a story about a couple growing further and further apart as they
-navigate their lives across a growing urban-suburban divide, centered on themes
-of class, race, community, and aging.
+navigate their lives across a growing urban-rural divide, centered on themes of
+class, race, community, and aging.
 
 <br><br><br><br><br><br><br><br>
 
