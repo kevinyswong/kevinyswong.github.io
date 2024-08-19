@@ -1879,8 +1879,8 @@ ___
   <a href="https://www.migrationpolicy.org/article/immigrants-asia-united-states-2020">Asia</a>,
   <a href="https://www.migrationpolicy.org/article/central-american-immigrants-united-states-2019">Central America</a>,
   <a href="https://www.migrationpolicy.org/article/european-immigrants-united-states">Europe</a>,
-  <a href="https://www.migrationpolicy.org/article/middle-eastern-and-north-african-immigrants-united-states">Middle Eastern and North African</a>,
   <a href="https://www.migrationpolicy.org/article/mexican-immigrants-united-states">Mexico</a>,
+  <a href="https://www.migrationpolicy.org/article/middle-eastern-and-north-african-immigrants-united-states">Middle Eastern and North African</a>,
   <a href="https://www.migrationpolicy.org/article/south-american-immigrants-united-states">South America</a>,
   and
   <a href="https://www.migrationpolicy.org/article/sub-saharan-african-immigrants-united-states-2019">Sub-saharan African</a>.
@@ -2837,7 +2837,7 @@ ___
   institutions and schools, leveraging their familiarity to obtain help and
   advantage, and this knowledge is passed on to their children.
 
-  In particular, the upper middle class:
+  Of the upper middle class:
   <a href="https://scholar.google.com/citations?user=ZWZ98swAAAAJ&hl=en">Richard Reeves</a>,
   writes in his 2017 book, DREAM HOARDERS:
   <blockquote>
@@ -2864,7 +2864,7 @@ ___
   This occurs when the upper middle class does not win by being better but by
   rigging the competition in our favor.
   </blockquote>
-  And specifically the rich: last year,
+  And specifically the wealthiest: last year,
   <a href="https://scholar.google.com/citations?user=PhDDPiUAAAAJ&hl=en">Raj Chetty</a>
   released a working
   <a href="https://opportunityinsights.org/paper/collegeadmissions/">paper</a>
@@ -2874,11 +2874,11 @@ ___
   published a
   <a href="https://opportunityinsights.org/paper/losteinsteins/">paper</a>
   on how the children who grow up to be inventors are more likely to come from
-  high-income households, even among children who had similar test scores.
-  Chetty's study further reveals that environmental effects play an important
-  role in children's eventual likelihood to innovate, which is enhanced by early
-  exposure to innovative environments through their parents or neighborhoods.
-  Chetty elaborates:
+  high-income households, even among children who had similar test scores, a
+  barometer for equal ability. Chetty's study further reveals that environmental
+  effects play an important role in children's eventual likelihood to innovate,
+  which is enhanced by early exposure to innovative environments through their
+  parents or neighborhoods. Chetty elaborates:
   <blockquote>
   [T]he data point to mechanisms such as transmission of specific human capital,
   access to networks that help children pursue a certain subfield, acquisition of
@@ -4854,6 +4854,8 @@ ___
   <span class="quoter">
   —#20, TAO TE CHING, tr. Gia-fu Feng and Jane English
   </span>
+
+  <br>
 
   On a balmy Sunday afternoon when Kevin has decided to read, a perennial problem
   of his resurfaces as to where to plant himself down. Shall he take root under a
@@ -9209,15 +9211,16 @@ ___
   driver of the life force, but we gender theorists do him one better: we clarify
   that the will, evil and terrible, residing in the dark, is undeniably
   masculine: what Schopenhauer labored to describe has always been the blind
-  masculine will. All creatures are propelled by this blind, insatiable will, the
-  will-to-masc. Only within the confines of our limited cognition of the
-  masculine will do the electromagnetic laws, the force of gravity, the fabric of
-  reality, exist: they are not the independent thing-in-itself, which itself must
-  be a single, dominating will, free of space and free of time, unmoved by cause
-  and unhindered by sympathy: the unitary thing-in-itself is the black heart of
-  masculine will! All phenomena we perceive, all thoughts we entertain, all
-  sensible stimuli, are only objectifications of the will, which within the cage
-  of our humanity are mere representations of the insatiable masculine will.
+  masculine will. All creatures are propelled by this vile, unyielding will: the
+  will-to-masc that surrounds us all. Only within the confines of our limited
+  cognition of the masculine will do the electromagnetic laws, the force of
+  gravity, the fabric of reality, exist: they are not the independent
+  thing-in-itself, which itself must be a single, dominating will, free of space
+  and free of time, unmoved by cause and unhindered by sympathy: the unitary
+  thing-in-itself is the black heart of masculine will! All phenomena we
+  perceive, all thoughts we entertain, all sensible stimuli, are only
+  objectifications of the will, which within the cage of our humanity are mere
+  representations of the insatiable masculine will.
 
   Let us brave gender theorists set forth on the quest of our lives! Danger is its
   name! O waly, waly, the whole phenomenal world being our image, a monolithic
