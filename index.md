@@ -10,7 +10,21 @@ layout: default
 
 <h2>Ruminations</h2>
 
-<a href="#2023-06-22">&darr;</a>
+<a href="#2024-08-07">&darr;</a>
+<b id="2024-08-18">2024-08-18, 日.</b>
+
+Last year, someone shared with me an episode from the Poem-a-Day podcast. In it,
+Tiana Clark reads her poem, AFTER THE READING, which is about the moments after
+a poetry reading when some of the audience comes up to the poet for
+conversation. I didn't make much of the poem at the time, as wasn't the kind of
+poetry I tend to enjoy, but after the passing of some recent events, today I
+listened again, and how differently the poem hits. I recall something a
+writer—maybe Zadie Smith?—said in an interview to the effect of: "When I was
+young I was a know-it-all. Now that I'm older, I think I know very little."
+
+<br>
+
+<a href="#2024-08-18">&uarr;</a> <a href="#2023-06-22">&darr;</a>
 <b id="2024-08-07">2024-08-07, 三. On the Political Divide, the Migrant Crisis,
 Immigration, Meritocracy, Liberal Hypocrisy, Inequality, Social Capitalism,
 Man's Inner World, and Wandering.</b>
@@ -3899,16 +3913,8 @@ ___
   imagination.
   </blockquote>
   Where art thou now, Rue-so? Art thou still wandering, exiled, a fugitive,
-  penniless, longing, and restless? Hast thou joinest Jung in the desert? It wert
-  the desert too that predominates in Wong Kar Wai's ASHES OF TIME, who
-  commenteth of his film that "the desert is a philosphy": the desert as eternity
-  in which man obliges his duties and endures but inwardly gasping for breath,
-  longing and failing, one insignificant figure trickling across the majestic,
-  colossal landscape, the passing of time its only certainty, the characters'
-  private, lifelong reach for meaning externalized as sea-splitting spectacle.
-  Wong Kar Wai saith on a separate occasion, "There's a Chinese poem which is
-  very beautiful: 'The blossom will always be there, but the faces will change.'"
-  To sucheth lukewarmeth resignationeth, Camus positeth positivity through-eth
+  penniless, longing, and restless? Hast thou joinest Jung in the desert? To
+  sucheth lukewarmeth resignationeth, Camus positeth positivity through-eth
   revolteth in THE MYTH OF SISYPHUS:
   <blockquote>
   If this myth is tragic, that is because its hero is conscious. Where would his
@@ -7906,7 +7912,7 @@ ___
 
 
 
-<u id="gender-studies">Gender Studies, <i>seconda</i></u><br>
+<u id="gender-studies">Gender Studies</u><br>
   A very important digression on the matter of the scope and impact of gender
   performance. Gender studies: A Schopenhauerian Approach. "The world is my
   idea"—the great Schopenhauer rightly opened his majestic book with this line.
