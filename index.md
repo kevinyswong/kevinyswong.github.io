@@ -7839,12 +7839,12 @@ ___
   annals of human civilization, the great trophies and marches of antiquity, the
   dignity of the ancients, and how we, their descendants, share that glory, but
   what is our collective memory, dating back a few thousand years when,
-  juxtaposed against the entirety of all we know, it has been for hundreds of
-  thousands of years that lions have been hunting and preying in the African
-  prairies? All this prowling, starving, and feasting has repeated over and over
-  across stretches of time beyond our nibbling occupation of the earth—behind
-  these innumerable cycles of births, struggles, and deaths, what reason could
-  there have been all this time?
+  juxtaposed against the entirety of all we know, it has been for millions of
+  years that lions have been hunting and preying in the African prairies? All
+  this prowling, starving, and feasting has repeated over and over across
+  stretches of time beyond our nibbling occupation of the earth—behind these
+  innumerable cycles of births, struggles, and deaths, what reason could there
+  have been all this time?
 
   <br>
 
@@ -7860,13 +7860,13 @@ ___
   <br>
 
   What makes us new arrivals think we can ascribe any purpose to the many
-  creatures around us or even to ourselves? And against the millions and billions
-  of years of evolution, what is a momentary human joy or a little human anguish?
-  Human desire knows no bounds, even venturing to seek purpose for itself when
-  all it effects is self-flattery and delusion. But let us follow these arguments
-  and celebrate among the crowds with hurrah, fanfare, and confetti: it may well
-  be true, according to some old book, that it was for us that dinosaur bones
-  have waited beneath the earth for millions of years.
+  creatures around us or even to ourselves? And against the billions of years of
+  evolution, what is a momentary human joy or a little human anguish? Human
+  desire knows no bounds, even venturing to seek purpose for itself when all it
+  effects is self-flattery and delusion. But let us follow these arguments and
+  celebrate among the crowds with hurrah, fanfare, and confetti: it may well be
+  true, according to some old book, that it was for us that dinosaur bones have
+  waited beneath the earth for millions of years.
 
   <br>
 
