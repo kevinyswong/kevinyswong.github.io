@@ -16,8 +16,8 @@ layout: default
 Last year, someone shared with me an episode from the Poem-a-Day podcast. In it,
 Tiana Clark reads her poem, AFTER THE READING, which is about the moments after
 a poetry reading when some of the audience comes up to the poet for
-conversation. I didn't make much of the poem at the time, as wasn't the kind of
-poetry I tend to enjoy, but after the passing of some recent events, today I
+conversation. I didn't make much of the poem at the time, as it wasn't the kind
+of poetry I tend to enjoy, but after the passing of some recent events, today I
 listened again, and how differently the poem hits. I recall something a
 writer—maybe Zadie Smith?—said in an interview to the effect of: "When I was
 young I was a know-it-all. Now that I'm older, I think I know very little."
