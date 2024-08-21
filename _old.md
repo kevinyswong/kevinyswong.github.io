@@ -2,6 +2,31 @@
 layout: default
 # title: Ruminations
 ---
+<!--
+NOTE TO SELF:
+This file serves as an archive of index.md, and its sections fall into one of
+these case:
+  1) Old posts I've removed in their entirely and moved them here for my records
+  2) Snippets I've deleted from posts still live in index.md
+  3) Original posts I've edited so extensively that simply moving some snippets
+  here did not make sense, as I removed paragraphs and also changed the text of
+  the sections I kept
+In addition to these three, because this archive was originally created as a
+direct duplication of the index.md at a certain point in time, some of the
+older sections here are exact copies of what remain in index.md.
+
+In the second case above, the paragraphs within some snippets here should not be
+read as contiguous blocks of text, as I may have moved snippets that were
+originally interspersed in the original.
+
+This file should not be interpreted as a comprehensive archive whose sections
+can simply be re-inserted into the original to recreate my original writing. In
+fact, this file should be seen as a lax record, as I have also edited much of
+index.md without relocating the original passages here. This file is maintained
+to keep the significant parts of my older writings in one place. For the actual
+snapshots of the originals, refer to the version history in GitHub, but in that
+case, there are many versions to search through.
+ -->
 <style>
   blockquote { font-size: 16px; font-style: normal; letter-spacing: .005px; }
 </style>
@@ -13,6 +38,25 @@ Immigration, Meritocracy, Liberal Hypocrisy, Inequality, Social Capitalism,
 Man's Inner World, and Wandering.</h4>
 
 <span id="part-of-intro"></span>
+  I want to start by bounding this levity, for it is not the usual escapist sort
+  of humor but rather the kind of levity couched in sobriety, not by a turning
+  away from reality for a momentary respite but in the incisive, deep humor
+  rooted in the unpleasantness of reality, a humor derived from embracing and
+  accepting that reality, a humor not in spite of truth but through it and
+  thoroughly embedded in it. As Ricky Gervais said at the Oxford Union:
+  <blockquote>
+  I've just always got up in the morning and wanted to fill the day with as much
+  fun as possible. I suppose everything I've done is slightly existential as
+  well. From THE OFFICE, it's about, you know, people becoming forty, and are
+  they doing the right thing? DEREK—it was about people at the end of their
+  life—what can they pass on? Even my children's book, FLANIMALS, was about the
+  sort of the futility of life and nature and ironic deaths. And I don't know why
+  that is, really. I think it's funny, life. It's amusing because we take
+  everything so seriously. We care about everything passionately; we have fights,
+  wars, worry about little things, and then we die. And there's nothing. It was
+  pointless—pointless—we return to the stars. So I've always thought I want to
+  fill my days with fun.
+  </blockquote>
   Gervais' quote reminds me of something I wish to mention from one of my two
   favorite novels, Hermann Hesse's THE GLASS BEAD GAME, in Richard and Clara
   Winston's 1969 translation, for which Theodore Ziolkowski wrote a foreword that
@@ -87,9 +131,72 @@ Man's Inner World, and Wandering.</h4>
   fell into the hands of very young readers." So much for seriousness. And with
   his last book, THE GLASS BEAD GAME, Hesse took a further step, suffusing the
   genuine struggle through trial by fire with a subtle humor: laugh; indeed, dare
-  to laugh.
+  to laugh. Reality, as with many other heavy subjects, often changes flavor and
+  becomes more palatable through the inflection of humor, with the semblance of
+  carefree distance, looking back on our present circumstances, even though that
+  semblance is only a momentary illusion. Today's post is long, and it is one
+  that references old writers who wrote a fair bit more lengthily and intensely
+  than modern appetites permit, but I invite the reader to preserve a sense of
+  humor even in the worst of it. Some of them been gone for generations. But
+  there is some truth to the observation that it is often with difficulty and
+  discomfort that genuine growth and expansion can occur, so I bid the reader
+  retain a sense of humor and find the space to laugh. After all, we're only
+  human, and it's just life.
+
+  As for the inspiration for this post, I can only say that my sensibilities were
+  granted a visit by a longing which the writer Arthur Machen quite faithfully
+  described in the dedication of his 1922 autobiography, FAR OFF THINGS, to his
+  editor Alfred Turner:
+  <blockquote>
+  This is a book, my dear Turner, which I had in my heart to write for many years.
+  The thought of it came to me with that other thought that I was growing—rather,
+  grown—old; that the curtain had definitely been rung down on all the days of my
+  youth. And so I got into the way of looking back, of recalling the far gone
+  times and suns of the 'seventies and early 'eighties when the scene of my life
+  was being set. I made up my mind that I would write about it all—some day.
+  </blockquote>
+  The 'seventies and 'eighties Machen was referring to were, of course, those of
+  the nineteenth century, of which I, too, recall rather fondly, sharing with
+  Machen a sense of wistful passing, an enduring homesickness, surely the pouting
+  pines for the times of one's childhood. In case the reader has the slightest
+  inkling of a doubt on this claim of mine, I insist that those decades were, for
+  me too, the far-gone times when the scene of my own life were endowed an early
+  set. The question the reader may be asking is this: whether I am a vampire
+  blessed with eternal life. We shall see, my dear reader, we shall see, for the
+  reader is not the only one who ponders that question.
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<span id="Describe-table-of-contents"></span>
+  This piece is best read chronologically, but the writer realizes regrettably
+  that it has grown rather lengthy and cumbersome. The writer initially intended
+  and still, on completion, intends for this piece to be read from beginning to
+  end, as the topics build upon one another, and it is with doleful resignation,
+  out of this piece's unwieldy stretch, that the writer provides a listing of the
+  major sections, whose very structure presumes their clear separability, which
+  is dubious. This piece is, the writer concedes, long and heavy, and the reader
+  should not expect to finish it in one sitting. Thus, for guidance, is an
+  itinerary for our adventure, but we are duly reminded that true adventure is
+  treacherous and unmarked, and the fearless traveler needs no itinerary. Hermann
+  Keyserling elaborates his thoughts on the matter in THE TRAVEL DIARY OF A
+  PHILOSOPHER:
+  <blockquote>
+  Why should I still go travelling? . . . I want to let the climate of the
+  tropics, the Indian mode of consciousness, the Chinese code of life and many
+  other factors, which I cannot envisage in advance, work their spell upon me one
+  after the other, and then watch what will become of me . . . [W]hen all other
+  means fail me, I employ a mechanical device: I take the train and leave my
+  world until I have become so estranged from it that I can envisage it as a
+  whole and regain my mastery of it . . . In truth, who am I? The older problems
+  come up again; only this time they appear less clear than usual, just as if the
+  vibrations of the mind were softened by the waves of the sea.
+  </blockquote>
+  Without further circumnavigating circuition concealing circumlocution, we shall
+  gracefully pass over the following random words whose informative shape is an
+  arrow pointing downwards. Out of the corner of our eyes, we see in the
+  bothersome yonder a trail map no one suffers the trouble to stop and look at:
 
 
 
@@ -142,6 +249,7 @@ Man's Inner World, and Wandering.</h4>
 
 
 <u id="gender-studies-prima">Gender Studies, <i>prima</i></u><br>
+
   A very important digression on the matter of the scope and impact of gender
   performance, written by someone who does not wish to be left out of the
   important conversation, because the writer desires to be a gender theorist,
@@ -1170,7 +1278,265 @@ Man's Inner World, and Wandering.</h4>
 
 
 
-<u id="import-of-work-segundo">Import of Work, <i>segundo</i></u><br>
+<u id="kant-schopenhauer">SNIPPET FROM: Confinement: Kant, and Desire: Schopenhauer</u><br>
+
+  Let us understand more deeply Schopenhauer's psychology of the human condition
+  and human desire. Summaries are fine and well, but—
+
+  the writer, on reflection, realized he should explain his approach so as to
+  squeeze out any room for misunderstanding, as it may not come naturally to all
+  readers that history, serious texts, even philosophers can be read
+  half-jokingly, half-cynically, without compromising the truth. One can read
+  what follows solemnly, gravely, bearing the weight of the world, but the writer
+  prefers the jest of gliding over like a feather. As Epictetus muses in his
+  DISCOURSES: "That is the harbour for all, death; that is the refuge, and, for
+  that reason, there is nothing difficult in life." Or as Marcus Aurelius wrote
+  to himself in MEDITATIONS:
+  <blockquote>
+  If you remove your judgment of anything that seems painful, you yourself stand
+  quite immune to pain. "What self?" Reason. "But I am not just reason." Granted.
+  So let your reason cause itself no pain, and if some other part of you is in
+  trouble, it can form its own judgment for itself.
+  </blockquote>
+
+  —Schopenhauer's prose is such a pleasurable and exquisite read that it would be
+  negligent of me to deprive the reader of enjoying the experience of even a
+  glimpse at the joy. This quotation is from the same book but in the Haldane
+  and Kemp translation, whose rendition of these passages I find a fair bit more
+  delectable. In proportion to the observation that a joke is funny insofar as
+  it is true, the greater its comedic value if its liberating clarity penetrates
+  self-deception and self-protecting complacency, disabusing our minds' firm
+  grasp on fragile comforts and false facades. Schopenhauer is first and
+  foremost comedic and only secondarily tragic; Schopenhauer starts telling a
+  joke:
+  <blockquote>
+  All satisfaction, or what is commonly called happiness, is always really and
+  essentially only <i>negative</i>, and never positive. It is not an original
+  gratification coming to us of itself, but must always be the satisfaction of a
+  wish, for the wish, i.e., some want, is the condition which precedes every
+  pleasure, but with the satisfaction the wish and therefore the pleasure cease.
+  Thus the satisfaction or the pleasing can never be more than the deliverance
+  from a pain, from a want . . . It is, however, hard to attain or achieve
+  anything; difficulties and troubles without end are opposed to every purpose,
+  and at every step hindrances accumulate. But when finally everything is
+  overcome and attained, nothing can ever be gained but deliverance from some
+  sorrow or desire, so that we find ourselves in just the same position as we
+  occupied before this sorrow or desire appeared . . . The satisfaction and the
+  pleasure we can know only indirectly through the remembrance of the preceding
+  suffering and want, which cease with their appearance. Hence it arises that we
+  are not properly conscious of the blessings and advantages we actually possess,
+  nor do we prize them; but we think of them merely as a matter of course, for
+  they gratify us only negatively by restraining suffering . . . That all
+  happiness is only of a negative, not a positive, nature, that just on this
+  account it cannot furnish lasting satisfaction and gratification, but merely
+  delivers us from some pain or want which must be followed either by a new pain,
+  or by languor, empty longing, and <i>ennui</i>—this finds support in art, that
+  true mirror of the world and life . . . Every epic and dramatic poem can
+  represent only a struggle, an effort, a fight for happiness, but never enduring
+  and complete happiness itself. It conducts its heroes through a thousand
+  difficulties and dangers to the goal, yet, as soon as this is reached, it
+  hastens to let the curtain fall; for then there remains nothing for it to do
+  but show that the glittering goal in which the hero expected to find happiness
+  had only disappointed him, and that after its attainment he was no better off
+  than before.
+  </blockquote>
+
+  . . .
+
+  But wait! Schopenhauer is not done yet! Here's the punchline!:
+  <blockquote>
+  It really is incredible how meaningless and void of significance when looked at
+  from without, how dull and unenlightened by intellect when felt from within, it
+  is the course of the life of the great majority of men. It is a weary longing
+  and complaining, a dream-like staggering through the four ages of life to
+  death, accompanied by a series of trivial thoughts.
+  </blockquote>
+  What a wonderful portrait of mankind Schopenhauer has provided us! Always they
+  remain, in the back of one's mind, these observations routinely returning to
+  the fore as one endeavors through one's days and is reminded with frightful
+  clarity of the truth, but: one faces it with a smile—did I not promise we must
+  laugh? Schopenhauer admits as much (in the Payne translation, which is used for
+  the rest of this discussion):
+  <blockquote>
+  The life of every individual, if we survey it as a whole and in general and lay
+  stress only upon its most significant features, is really always a tragedy,
+  but, gone through in detail, it has the character of a comedy . . . [A]s if
+  fate would add derision to the misery of our existence, our life must contain
+  all the woes of tragedy, and yet we cannot even assert the dignity of tragic
+  characters, but in the broad detail of life we must inevitably be the foolish
+  characters of a comedy.
+  </blockquote>
+  How hilarious! We want more!—please illustrate for us, what is this tragicomedy
+  of our condition?
+
+  . . .
+
+  All is well and good in jubilation and exultation! Gather the crowds to witness
+  this spectacle! What does this Schopenhauer offer as a solution to these
+  dazzling predicaments of ours? He suggests a firm and resolute denial:
+
+  . . .
+
+  That asceticism, self-renunciation, is a sustainable way of life was also
+  discovered elsewhere. Bryan Magee writes in THE PHILOSOPHY OF SCHOPENHAUER:
+  <blockquote>
+  What happened was that, working entirely within the central tradition of Western
+  philosophy—before all else continuing and completing, as he believed, the work
+  of Kant—he arrived at positions which <i>he then almost immediately
+  discovered</i> were similar to some of the doctrines central to Hinduism and
+  Buddhism . . . Indeed in his mind the most important point lay in the fact that
+  there was no influence: the profoundest thinkers of East and West, working
+  unknown to each other in virtually unrelated traditions and languages—evolved
+  quite separately over huge stretches of time, indeed in different historical
+  epochs and completely different kinds of society—had been led to the same
+  fundamental conclusions about the nature of the world.
+  </blockquote>
+  The answers unknown, Wittgenstein, influenced by Schopenhauer, believed they
+  are unknowable. Magee writes:
+  <blockquote>
+  He [Wittgenstein] insists that <i>everything to do with</i> those matters which
+  have the greatest import for us—the fact that the world (including us) exists
+  at all; the relationship of the willing subject to the phenomenal world; our
+  apprehension of the limits of our actual and possible experience; the nature of
+  our death; the possibility of any existence for us outside this world of
+  phenomena; the nature of morality; the nature of art; all those things, in
+  short, that are so often subsumed under some phrase as 'the significance of
+  life'—have their roots in a knowledgeless realm where language can have no
+  purchase or meaning. 'For an answer which cannot be expressed the question too
+  cannot be expressed. <i>The riddle</i> does not exist.' (<i>Tractatus</i> 6.5)
+  Any attempt to talk about them, however tentative, lands us straight into
+  nonsense . . . As Wittgenstein put it, referring to the <i>Tractatus</i> in a
+  private letter: 'My work consists of two parts: the one presented here plus all
+  that I have <i>not</i> written. And it is precisely this second part that is
+  the important one . . . I am convinced that this is the ONLY <i>rigorous</i>
+  way of drawing those limits. In short, I believe that where <i>many</i> others
+  today are just <i>gassing</i>, I have managed in my book to put everything
+  firmly into place by being silent about it.'
+  </blockquote>
+
+  <br><br>
+
+  <blockquote>
+  Sorrow is like a light that gleams in the heart,<br>
+  Darkness is a glow that searches our night.<br>
+  We need strike only the small, mournful flame<br>
+  To find our way home, like shadows, through the<br>
+  &nbsp; &nbsp; &nbsp; long, broad night.<br>
+  The woods, the city, the street, the tree are<br>
+  &nbsp; &nbsp; &nbsp; luminous.<br>
+  Lucky is he who has no home; he sees it still<br>
+  &nbsp; &nbsp; &nbsp; in his dreams.
+  </blockquote>
+  <span class="quoter">
+  —Hannah Arendt (1946)
+  </span>
+
+  <br>
+
+  When Camus set out to declare his revolt against the absurd, his premise was the
+  problem of the silent, apathetic, meaningless universe—in a sense, a problem
+  posed by the absence of god, the lack of faith, the privation of religion and
+  comfort in a higher order, and his revolt was a spiteful, reactionary defiance
+  by a radical humanizing passion at the emptiness. Yet in this revolt, fervent,
+  intense, full of faithful struggle, we are so blinded by an overzealous flame
+  that we do not see we have not progressed beyond the fundamental problems of
+  material striving Schopenhauer detailed a century prior. However much we may
+  revolt, the ardor of the revolt does not endure the decades, and the adamance
+  of material reality reasserts itself at every waking moment: to desire, to
+  acquire, to seek joy and comfort—a hunger which again exposes us to happiness
+  in the Schopenhauerian negative, happiness only as a privation of suffering,
+  happiness as fleeting, always evasive, never persisting. Here I am not
+  confining myself to the limited scope of an armchair philosopher brooding over
+  a thick tome, but tangibly: how shall one respond to a child smiling with
+  unbounded joy, the working man toiling day by day to support his family, every
+  decent person, every ambitious youth, every fellow human who looks hopefully
+  towards the future? I am not one to erase joy or spread undue cynicism, but the
+  problem remains. I will be short in my response and with a degree of
+  resignation write: I do not have the solution. I make no promise of offering an
+  answer on how to find everlasting happiness or enduring peace. A caveat: this
+  problem, however, is one which afflicts only those know have spent too much
+  time consumed by books or who unhealthily collect examples and evidence of the
+  transient nature of things. Happiness exists; the problem is, as Schopenhauer
+  pointedly observed, it doesn't last. Against the toxin of knowledge, the
+  remediating courses of action are to turn away: escapist fantasy, ignorance,
+  and generational amnesia. This solution is reiterated in the observation that
+  for those who have not encountered this blight, it is not, at least
+  consciously, a problem at all.
+
+  I wish to emphasize that the Schopenhaurian pessimism is precisely the problem
+  of the overintellectualized, well-bred bourgeois to encounter, for those who
+  contemplate such notions as the nature of happiness to, in the course of the
+  contemplation, lose the capacity for actual happiness.
+  <a href="https://www.ashland.edu/faculty/robert-wyllie-phd">Robert Wyllie</a>
+  wrote a
+  <a href="https://www.jstor.org/stable/10.5325/cormmccaj.14.2.0186">paper</a>
+  interpretting Cormac McCarthy's play, SUNSET LIMITED, heavily based on dialogue,
+  as a discussion between a consoling, redemptive, religious Kierkegaardian and a
+  weary, despairing, atheist Schopenhaurian. It is the atheist professor, with
+  his privileges and educated sensibilities, who falls into the Schopenhauerian
+  despair and existential malaise, and it is the ex-convict coming from an
+  impoverished background and subject to the whips and lashes of life who
+  radiates hope and vigor, albeit with a religious conviction. The problem is
+  created by intellectuals who inflict on themselves the theoretical concerns
+  beyond the tangible scope of any person, topics which are entertaining to
+  consider in passing but toxic to brood and, worse, manifest. When it comes to
+  the meaning of things as important as happiness, art, religion, life, and
+  death, well, let us find solace in Wittgenstein's silence.
+
+  <br>
+
+  <blockquote>
+  The years have passed<br>
+  And age has come my way.<br>
+  Yet I need only look at this fair flower<br>
+  For all my cares to melt away.
+  </blockquote>
+  <span class="quoter">
+  —Sei Shōnagon, THE PILLOW BOOK, tr. Ivan Morris
+  </span>
+
+  <br>
+
+  <blockquote>
+  Oh, I drift like the waves of the sea,<br>
+  Without direction, like the restless wind.
+  </blockquote>
+  <span class="quoter">
+  —#20, TAO TE CHING, tr. Gia-fu Feng and Jane English
+  </span>
+
+  <br>
+
+  But I do want to end this thought on a separate note: woe to the self-respecting
+  atheist who must resort to what he considers false comforts and wishful
+  thinking to attain any light. The brightness of the sun and the merriment seen
+  and embodied as natural among the less brooding folk are present as they've
+  always been and will be, just as the original innocence and carefree, unbounded
+  shrieks of joy in the toddler jumping in the playground return afternoon after
+  afternoon. The gap between these scenes and the endless turmoil of the mind may
+  simply come down to a switch of perspective.
+
+  <br>
+
+  <blockquote>
+  These are the defects which, like a storm at sea, torment rich and poor alike,
+  that afflict the married as well as the unmarried; because of these men avoid
+  public life, then find their life of quiet unbearable; because of these men
+  seek advancement at court, by which, when they have gained it, they are
+  immediately bored . . . But later, when the disease is over and a sounder
+  disposition supervenes, health returns and makes everything pleasant and
+  agreeable: he that yesterday loathed eggs and delicate cakes and fine bread
+  to-day eats eagerly and willingly of a coarse loaf with olives and
+  water-cress.
+  </blockquote>
+  <span class="quoter">
+  —Plutarch, ON TRANQUILITY OF MIND, MORALIA, tr. W. C. Helmbold
+  </span>
+
+
+
+<u id="import-of-work-segundo">SNIPPET FROM: Import of Work, <i>segundo</i></u><br>
+
   <a href="https://www.skidmore.edu/sociology/faculty/brueggemann.php">John Brueggemann</a>
   wrote a 2010 book called RICH, FREE, AND MISERABLE: THE FAILURE OF SUCCESS IN
   AMERICA, on the question of why, in a wealthy country, people still feel
@@ -1249,6 +1615,53 @@ Man's Inner World, and Wandering.</h4>
   consummate green pastures of the leisure class and hungering to join it,
   against this illusory promise promoted by pervasive marketing in what is
   perhaps better described as an opiate for the masses.
+
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<span id="Meaningless-universe.Silence"></span>
+  The universe has always been so, and if we at last see with clarity its gaping
+  void and senseless opera, it is because the clouds in the mind have drifted
+  away. But why are we petulant enough to mutiny our posts when we realize our
+  roles have no higher purpose? Why throw tantrums and concede defeat when in the
+  short glimpse of our horizon we see that we were defeated even before the sun's
+  first dawn? Dearth of meaning? What's new? Why fall into dejection when
+  recognizing ourselves in the mirror is where we should begin?
+
+  <br>
+
+  <blockquote>
+  I prefer to leave the paintings to speak for themselves.
+  </blockquote>
+  <span class="quoter">
+  —Barnett Newman
+  </span>
+
+  <br>
+
+  <blockquote>
+  The questions you've posed to me are, many of them, difficult questions, and
+  it's my habit of mind to reflect and revise and try to attain a certain
+  completion and perfection in my responses, and that is incompatible with the
+  interview medium. That's why I've been so extremely uncomfortable.
+  </blockquote>
+  <span class="quoter">
+  —John Coetzee, interviewed (2000)
+  </span>
+
+  <br>
+
+  <blockquote>
+  I'm a very sociable person. The fact that I dislike interviews doesn't mean I'm
+  a recluse . . . People keep telling me how humble I am. I'm not humble . . . I
+  think I write about mortality because it was a terrible shock to me to discover
+  in childhood that you don't get this forever . . . Most of what I have to say
+  of any real urgency comes out in poems, and the rest is just entertainment.
+  </blockquote>
+  <span class="quoter">
+  —Louise Glück, New York Times interview (2020)
+  </span>
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

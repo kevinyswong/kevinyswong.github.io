@@ -15,12 +15,12 @@ layout: default
 
 Last year, someone shared with me an episode from the Poem-a-Day podcast. In it,
 Tiana Clark reads her poem, AFTER THE READING, which is about the moments after
-a poetry reading when some of the audience comes up to the poet for
-conversation. I didn't make much of the poem at the time, as it wasn't the kind
-of poetry I tend to enjoy, but after the passing of some recent events, today I
-listened again, and how differently the poem hits. I recall something a
-writer—maybe Zadie Smith?—said in an interview to the effect of: "When I was
-young I was a know-it-all. Now that I'm older, I think I know very little."
+a poetry reading when part of the audience comes up to converse with the poet.
+I didn't make much of the poem at the time, as it wasn't the kind of poetry I
+tend to enjoy, but after the passing of some recent events, today I listened
+again, and how differently the poem hits. I recall something a writer—maybe
+Zadie Smith?—said in an interview to the effect of: "When I was young I was a
+know-it-all. Now that I'm older, I think I know very little."
 
 <br>
 
@@ -34,118 +34,33 @@ Man's Inner World, and Wandering.</b>
   dampening direction to my writing. I invite the reader to witness my attempt at
   levity.
 
-  I want to start by bounding this levity, for it is not the usual escapist sort
-  of humor but rather the kind of levity couched in sobriety, not by a turning
-  away from reality for a momentary respite but in the incisive, deep humor
-  rooted in the unpleasantness of reality, a humor derived from embracing and
-  accepting that reality, a humor not in spite of truth but through it and
-  thoroughly embedded in it. As Ricky Gervais said at the Oxford Union:
-  <blockquote>
-  I've just always got up in the morning and wanted to fill the day with as much
-  fun as possible. I suppose everything I've done is slightly existential as
-  well. From THE OFFICE, it's about, you know, people becoming forty, and are
-  they doing the right thing? DEREK—it was about people at the end of their
-  life—what can they pass on? Even my children's book, FLANIMALS, was about the
-  sort of the futility of life and nature and ironic deaths. And I don't know why
-  that is, really. I think it's funny, life. It's amusing because we take
-  everything so seriously. We care about everything passionately; we have fights,
-  wars, worry about little things, and then we die. And there's nothing. It was
-  pointless—pointless—we return to the stars. So I've always thought I want to
-  fill my days with fun.
-  </blockquote>
+  <br>
 
-  Reality, as with many other heavy subjects, often changes flavor and becomes
-  more palatable through the inflection of humor, with the semblance of carefree
-  distance, looking back on our present circumstances, even though that semblance
-  is only a momentary illusion. Today's post is long, and it is one that
-  references old writers who wrote a fair bit more lengthily and intensely than
-  modern appetites permit, but I invite the reader to preserve a sense of humor
-  even in the worst of it. Some of them been gone for generations. But there is
-  some truth to the observation that it is often with difficulty and discomfort
-  that genuine growth and expansion can occur, so I bid the reader retain a sense
-  of humor and find the space to laugh. After all, we're only human, and it's
-  just life.
 
-  As for the inspiration for this post, I can only say that my sensibilities were
-  granted a visit by a longing which the writer Arthur Machen quite faithfully
-  described in the dedication of his 1922 autobiography, FAR OFF THINGS, to his
-  editor Alfred Turner:
-  <blockquote>
-  This is a book, my dear Turner, which I had in my heart to write for many years.
-  The thought of it came to me with that other thought that I was growing—rather,
-  grown—old; that the curtain had definitely been rung down on all the days of my
-  youth. And so I got into the way of looking back, of recalling the far gone
-  times and suns of the 'seventies and early 'eighties when the scene of my life
-  was being set. I made up my mind that I would write about it all—some day.
-  </blockquote>
-  The 'seventies and 'eighties Machen was referring to were, of course, those of
-  the nineteenth century, of which I, too, recall rather fondly, sharing with
-  Machen a sense of wistful passing, an enduring homesickness, surely the pouting
-  pines for the times of one's childhood. In case the reader has the slightest
-  inkling of a doubt on this claim of mine, I insist that those decades were, for
-  me too, the far-gone times when the scene of my own life were endowed an early
-  set. The question the reader may be asking is this: whether I am a vampire
-  blessed with eternal life. We shall see, my dear reader, we shall see, for the
-  reader is not the only one who ponders that question.
-
-<br>
-
-___
-
-<br>
-
-<span id="Describe-table-of-contents"></span>
-  This piece is best read chronologically, but the writer realizes regrettably
-  that it has grown rather lengthy and cumbersome. The writer initially intended
-  and still, on completion, intends for this piece to be read from beginning to
-  end, as the topics build upon one another, and it is with doleful resignation,
-  out of this piece's unwieldy stretch, that the writer provides a listing of the
-  major sections, whose very structure presumes their clear separability, which
-  is dubious. This piece is, the writer concedes, long and heavy, and the reader
-  should not expect to finish it in one sitting. Thus, for guidance, is an
-  itinerary for our adventure, but we are duly reminded that true adventure is
-  treacherous and unmarked, and the fearless traveler needs no itinerary. Hermann
-  Keyserling elaborates his thoughts on the matter in THE TRAVEL DIARY OF A
-  PHILOSOPHER:
-  <blockquote>
-  Why should I still go travelling? . . . I want to let the climate of the
-  tropics, the Indian mode of consciousness, the Chinese code of life and many
-  other factors, which I cannot envisage in advance, work their spell upon me one
-  after the other, and then watch what will become of me . . . [W]hen all other
-  means fail me, I employ a mechanical device: I take the train and leave my
-  world until I have become so estranged from it that I can envisage it as a
-  whole and regain my mastery of it . . . In truth, who am I? The older problems
-  come up again; only this time they appear less clear than usual, just as if the
-  vibrations of the mind were softened by the waves of the sea.
-  </blockquote>
-  Without further circumnavigating circuition concealing circumlocution, we shall
-  gracefully pass over the following random words whose informative shape is an
-  arrow pointing downwards. Out of the corner of our eyes, we see in the
-  bothersome yonder a trail map no one suffers the trouble to stop and look at:
-
-  <br><br>
 
 <u>Contents</u>
 
-<a href="#currid-halkett">Peace: Currid-Halkett</a><br>
-<a href="#turchin">Trouble: Turchin</a><br>
-<a href="#immigration">Immigration</a><br>
-<a href="#merit">Merit</a><br>
-<a href="#meritocracy">Meritocracy</a><br>
-<a href="#liberal-hypocrisy">Liberal Hypocrisy</a><br>
-<a href="#inequality">Inequality: Rousseau</a><br>
-<a href="#race-gender-class">Race and Gender as Secondary to Class, and the Material View</a><br>
-&nbsp; &nbsp; <a href="#first-field">First Field</a><br>
-<a href="#kant-schopenhauer">Confinement: Kant, and Desire: Schopenhauer</a><br>
-<a href="#import-of-work">Import of Work</a><br>
-&nbsp; &nbsp; <a href="#second-field">Second Field</a><br>
-<a href="#social-capitalism">Social Capitalism</a><br>
-&nbsp; &nbsp; <a href="#gender-studies">Gender Studies</a><br>
-<a href="#perceptions-media">Perceptions from Media, and Art: Serious vs Popular</a><br>
-<a href="#urban-rural-divide">Urban-Rural Divide</a><br>
-<a href="#finis"><i>Finis</i></a>
+  <a href="#currid-halkett">Peace: Currid-Halkett</a><br>
+  <a href="#turchin">Trouble: Turchin</a><br>
+  <a href="#immigration">Immigration</a><br>
+  <a href="#merit">Merit</a><br>
+  <a href="#meritocracy">Meritocracy</a><br>
+  <a href="#liberal-hypocrisy">Liberal Hypocrisy</a><br>
+  <a href="#inequality">Inequality: Rousseau</a><br>
+  <a href="#race-gender-class">Race and Gender as Secondary to Class, and the Material View</a><br>
+  &nbsp; &nbsp; <a href="#first-field">First Field</a><br>
+  <a href="#kant-schopenhauer">Confinement: Kant, and Desire: Schopenhauer</a><br>
+  <a href="#import-of-work">Import of Work</a><br>
+  &nbsp; &nbsp; <a href="#second-field">Second Field</a><br>
+  <a href="#social-capitalism">Towards Social Capitalism</a><br>
+  &nbsp; &nbsp; <a href="#gender-studies">Gender Studies</a><br>
+  <a href="#perceptions-media">Perceptions from Media, and Art: Serious vs Popular</a><br>
+  <a href="#urban-rural-divide">Urban-Rural Divide</a><br>
+  <a href="#finis"><i>Finis</i></a>
 
-<br><br>
+  <br><br>
+
+
 
 <span id="Cornel-West-and-Robert-George"></span>
   I wish to ground this political discussion with a tempered start, as topics of
@@ -165,7 +80,7 @@ ___
   need to continually regenerate a sense of propriety and humility, which I am
   also in agreement with. It's comforting to watch and regain perspective in the
   midst of the current climate of polarization, to see that it's possible to have
-  civil dialogue and grow from it despite disagreement in viewpoints. George
+  civil dialogue and grow from it despite deep disagreement in views. George
   says:
   <blockquote>
   It's tribalism that makes me think that if I'm a conservative, I must believe X.
@@ -211,13 +126,14 @@ ___
   pride has convinced us. Rather than unrealistic idealism, let us work with the
   reality we have before our eyes while also keeping our wits about us.
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 <u id="currid-halkett">Peace: Currid-Halkett</u><br>
+
   As I mentioned, let's start slow, before the discussion gets heated and my
   comments take a criticizing turn, which springs from my view that we should aim
-  towards truth and away from self-conceit. The first book I discuss has the same
+  towards truth and away from self-conceit. This first section commences from the
   spirit of unity, of reminding us that the country, across divides, remain
   considerably similar and have much in common.
   <a href="https://priceschool.usc.edu/people/elizabeth-currid/">Elizabeth Currid-Halkett</a>
@@ -246,7 +162,7 @@ ___
   Currid-Halkett reference in the book consistently display these urban-rural
   matches when responses have been grouped by other variables like general
   attitudes, race, or education, which helps her conclude that there isn't an
-  actual divide in the country between the urban-rural split, which is commonly
+  actual divide in the country between geographic red and blue, which is commonly
   portrayed in the predominant narrative as a major reason for the current state
   of political polarization). Currid-Halkett remarks that it is certainly true
   that educated folks support racial integration policies, but the support is
@@ -390,7 +306,8 @@ ___
   chipped away in the search for truth. With such an income analysis as
   Currid-Halkett's, we ought to make the attempt.
 
-  Moreover, Currid-Halkett inaccurately writes, "Rousseau argued that the root of
+  As a further note of my critique, my comments here perhaps tempting towards
+  pedantry, Currid-Halkett inaccurately writes, "Rousseau argued that the root of
   inequality was not "natural inequality" (for example, physical strength) but
   rather "moral inequality" as a result of human decisions made in a civil
   society." This statement of hers doesn't seem to be the correct interpretation.
@@ -533,15 +450,15 @@ ___
   a retrospective rose-tinted lenses along the lines of: "Rousseau's ideas have
   proved influential; therefore he must have been popular and well-received in
   his time." This is not true. Voltaire, an aristocrat, was hostile and
-  antagonistic to Rousseau and his upstart ideas. Rousseau, though well-known,
-  was for the most part infamous during his lifetime. It was with the French
-  Revolution, nearly a decade after Roussea's death, a radical political and
-  social upheaval priding itself on Rousseau's ideals of equality, that
-  Rousseau's name was accepted into the establishment. If Rousseau has come to be
-  held in high regard, this reputation stems largely only after his death, even
-  if the intermission was fairly short. While Rousseau was alive, his books were
-  banned; he was a fugitive for much of his life; America's founding fathers did
-  not mention his influence. As
+  antagonistic to Rousseau and his upstart ideas. Rousseau, though well-known
+  then and now, was for the most part infamous during his lifetime. It was with
+  the French Revolution, nearly a decade after Roussea's death, a radical
+  political and social upheaval priding itself on Rousseau's ideals of equality,
+  that Rousseau's name was accepted into the establishment. If Rousseau has come
+  to be held in high regard, this reputation stems largely only after his death,
+  even if the intermission was fairly short. While Rousseau was alive, his books
+  were banned; he was a fugitive for much of his life; America's founding fathers
+  did not mention his influence. As
   <a href="https://english.fas.harvard.edu/people/leo-damrosch">Leo Damrosch</a>
   writes in a 2012
   <a href="https://www.neh.gov/humanities/2012/julyaugust/feature/friends-rousseau">article</a>
@@ -572,7 +489,7 @@ ___
   preoccupied with justifying and explaining himself, he begins writing
   <i>Dialogues: Rousseau[,] Judge of Jean-Jacques</i>."—1776-1778: "He works on
   his <i>Reveries of the Solitary Walker</i> . . ., a poignant, introspective
-  work . . . He makes a public plea for financial help." And "He dies on 2 July
+  work . . . He makes a public plea for financial help." And: "He dies on 2 July
   1778, five days after his sixty-sixth birthday." As a matter of fact,
   DIALOGUES: ROUSSEAU, JUDGE OF JEAN-JACQUES is a most curious piece of work, in
   which Rousseau is a character speaking to an unnamed Frenchman, and the subject
@@ -648,11 +565,12 @@ ___
   not to the extent that they cannot exchange thoughts. Neither party is a solid
   monolith, and discord and difference also occur within.
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <u id="turchin">Trouble: Turchin</u><br>
+
   Even though I agree with Currid-Halkett that the popular image of the red-blue
   polarization is misleading, there remains a very real problem of inequality
   that sits behind the current turmoil. We now turn to
@@ -826,7 +744,7 @@ ___
   resolved—by a civil war, by reforms, or by some combination of the two?
   </blockquote>
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -2329,11 +2247,14 @@ ___
   —#80, TAO TE CHING, tr. J.H. McDonald
   </span>
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <u id="merit">Merit</u><br>
+
+  In this section and the next, we draw the distinction between merit and
+  meritocracy.
   <a href="https://www.nybooks.com/contributors/anthony-quinton/">Anthony Quinton</a>
   defended merit-based inequality in a 1976
   <a href="https://www.jstor.org/stable/41207363">article</a>
@@ -2644,11 +2565,12 @@ ___
   dependent on it from remediating their own situations. However, in the general
   case, it should be that merit should be prioritized.
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <u id="meritocracy">Meritocracy</u><br>
+
   It is hard to fault merit, to deny that those who work harder, longer, are more
   responsible for their actions, take initiative and risk, push for innovation,
   that those with greater ability and willingness to apply themselves should
@@ -3069,6 +2991,7 @@ ___
 
 
 <u id="liberal-hypocrisy">Liberal Hypocrisy</u><br>
+
   My fellow liberals, my fellow intellectual, cultured, cosmopolitan,
   sophisticated, well-traveled, well-read, well-credentialed dignitaries, all of
   us immersed in a splendid diversity of cultures and cuisines, my fellow
@@ -3549,15 +3472,17 @@ ___
   <br>
 
   <blockquote>
-  Our civilization cannot afford to let the censor-moron loose. The censor-moron
-  does not really hate anything but the living and growing human consciousness.
-  It is our developing and extending consciousness that he threatens—and our
-  consciousness in its newest, most sensitive activity, its vital growth. To
-  arrest or circumscribe the vital consciousness is to produce morons, and
-  nothing but a moron would do it.
+  [T]hanks to coeducation, the august mystery of Man would have no occasion to
+  arise: it would be killed by everyday familiarity and open competition.
+  Objections to this system always imply respect for sexual taboos; but it is
+  useless to try to inhibit curiosity and pleasure in children; this only results
+  in creating repression, obsessions, neuroses; exalted sentimentality,
+  homosexual fervor, and the platonic passions of adolescent girls along with the
+  whole procession of nonsense and dissipation far more harmful than a few
+  childish games and actual experiences.
   </blockquote>
   <span class="quoter">
-  —D.H. Lawrence, LETTER TO MORRIS ERNST
+  —Beauvoir, THE SECOND SEX
   </span>
 
   <br>
@@ -3571,17 +3496,15 @@ ___
   <br>
 
   <blockquote>
-  [T]hanks to coeducation, the august mystery of Man would have no occasion to
-  arise: it would be killed by everyday familiarity and open competition.
-  Objections to this system always imply respect for sexual taboos; but it is
-  useless to try to inhibit curiosity and pleasure in children; this only results
-  in creating repression, obsessions, neuroses; exalted sentimentality,
-  homosexual fervor, and the platonic passions of adolescent girls along with the
-  whole procession of nonsense and dissipation far more harmful than a few
-  childish games and actual experiences.
+  Our civilization cannot afford to let the censor-moron loose. The censor-moron
+  does not really hate anything but the living and growing human consciousness.
+  It is our developing and extending consciousness that he threatens—and our
+  consciousness in its newest, most sensitive activity, its vital growth. To
+  arrest or circumscribe the vital consciousness is to produce morons, and
+  nothing but a moron would do it.
   </blockquote>
   <span class="quoter">
-  —Beauvoir, THE SECOND SEX
+  —D.H. Lawrence, LETTER TO MORRIS ERNST
   </span>
 
   <br>
@@ -3606,16 +3529,19 @@ ___
   ebb.
   </blockquote>
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <u id="inequality">Inequality: Rousseau</u><br>
-  Rousseau informs this discussion on inequality, as he described society in its
-  thrall, explained its causes and consequences, and suggested a solution. Let us
-  start with his first major work, where he established his fundamental principle
-  upon which his subsequent writings would further develop—Rousseau contended
-  that man in nature is good but is corrupted by society. In DISCOURSE ON THE
+
+  Inequality is currently a mounting issue in the country. It should come as no
+  surprise that it has also been a recurring element in past societies. Rousseau
+  informs this discussion on inequality, as he described society in its thrall,
+  explained its causes and consequences, and suggested a solution. Let us start
+  with his first major work, where he established his fundamental principle upon
+  which his subsequent writings would further develop—Rousseau contended that man
+  in nature is good but has been corrupted by society. In DISCOURSE ON THE
   SCIENCES AND ARTS, his First Discourse, he made the daring inversion that,
   contrary to Enlightenment values, in stark opposition to the common assumption
   that innovation drives mankind forward, it is civilized man who is degraded and
@@ -3738,10 +3664,10 @@ ___
   naturally and without any effort, then, even if he does nothing more, he shows
   himself to be perfectly accomplished in that exercise.
   </blockquote>
-  Quite the honorable knight we have there, effortlessly and thoughtlessly posing
-  with his sword in front of the mirror! Surely he lacks every bit of
-  affectation! Thorstein Veblen would surely agree, having seriously examined the
-  very important issue in THE THEORY OF THE LEISURE CLASS:
+  Quite the honorable knight we have here, thoughtlessly posing with his sword in
+  front of the mirror! Surely he lacks every bit of affectation! Thorstein Veblen
+  would surely agree, having seriously examined the very important issue in THE
+  THEORY OF THE LEISURE CLASS:
   <blockquote>
   In persons of delicate sensibility, who have long been habituated to gentle
   manners, the sense of the shamefulness of manual labour may become so strong
@@ -4094,6 +4020,7 @@ ___
 
 
 <u id="race-gender-class">Race and Gender as Secondary to Class, and the Material View</u><br>
+
   I will in this section argue that race and gender inequalities are not, on their
   own, the essential sources of conflict, but are surface distinctions which
   serve as groupings for an underlying disparity: race and gender are instances
@@ -5281,8 +5208,9 @@ ___
 
   <br>
 
-  In an ideal and equal society, the fact of becoming a woman is a difference, but
-  not one that warrants undue, raucous weight. And, in such an ideal society, the
+  Much work remains to be done to reach racial and gender equality. However, in an
+  ideal and equal society, the fact of becoming a woman is a difference, but not
+  one that warrants undue, raucous weight. And, in such an ideal society, the
   propositions of gender theory having prevailed, the dominant social norm has
   embraced the idea that gender is a performative, fluid construct, where any
   gender can be adopted with impunity and inconsequence. In this society, what,
@@ -5366,6 +5294,7 @@ ___
 
 
 <u id="first-field">First Field</u><br>
+
   The writer was lounging in a coffee shop one afternoon nursing his thoughts to
   tune of his whims when on the television, news broke of O.J. Simpson's death,
   and out came a whole pouring of footage of the highly publicized events of his
@@ -5672,11 +5601,12 @@ ___
   —Horace
   </span>
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <u id="kant-schopenhauer">Confinement: Kant, and Desire: Schopenhauer</u><br>
+
   We saw in the meritocracy section how advantage passes down over generations. It
   is worth asking: why does the upper middle class continue to hoard privilege?
 
@@ -5826,12 +5756,14 @@ ___
 
   <br>
 
-  We are now ready to encounter Schopenhauer. I want to divide this discussion of
-  his ideas into two sections: his metaphysics (which I will explain briefly,
-  though I'm not so sure on how valid it is) and the psychological consequences
-  (which are very real and poignant; this is the point of this topic). First,
-  metaphysics: Schopenhauer writes in THE WORLD AS WILL AND REPRESENTATION, in
-  the Payne translation:
+  We are now ready to encounter Schopenhauer. He has a reputation for pessimism,
+  so I don't want to linger on him for long, but his idea on desire, in my view,
+  stands on firm ground and motivates some of the later ideas in this post. I
+  want to divide this discussion of his ideas into two sections: his metaphysics
+  (which I will explain briefly, though I'm not so sure on how valid it is) and
+  the psychological consequences(which are very real and poignant; this is the
+  point of this topic). First, metaphysics: Schopenhauer writes in THE WORLD AS
+  WILL AND REPRESENTATION, in the Payne translation:
   <blockquote>
   We have learnt from the great Kant that time, space, and causality are present
   in our consciousness according to their whole conformity to rule and the
@@ -5862,7 +5794,7 @@ ___
   Each individual desires and fights for its survival and growth, yet the objects
   one desires—satisfaction, happiness, gratification—dissipate soon after one
   attains them, and they never last and are therefore only illusory.
-  Specifically, this one passage summarizes Schopenhauer's psychological view:
+  Specifically, this one passage summarizes Schopenhauer's psychological ideas:
   <blockquote>
   We have already seen in nature-without-knowledge her inner being as a constant
   striving without aim and without rest, and this stands out much more distinctly
@@ -5876,67 +5808,6 @@ ___
   are in fact its ultimate constituents. This has been expressed very quaintly by
   saying that, after man had placed all pains and torments in hell, there was
   nothing left for heaven but boredom.
-  </blockquote>
-
-  Let us understand more deeply Schopenhauer's psychology of the human condition
-  and human desire. Summaries are fine and well, but—
-
-  the writer, on reflection, realized he should explain his approach so as to
-  squeeze out any room for misunderstanding, as it may not come naturally to all
-  readers that history, serious texts, even philosophers can be read
-  half-jokingly, half-cynically, without compromising the truth. One can read
-  what follows solemnly, gravely, bearing the weight of the world, but the writer
-  prefers the jest of gliding over like a feather. As Epictetus muses in his
-  DISCOURSES: "That is the harbour for all, death; that is the refuge, and, for
-  that reason, there is nothing difficult in life." Or as Marcus Aurelius wrote
-  to himself in MEDITATIONS:
-  <blockquote>
-  If you remove your judgment of anything that seems painful, you yourself stand
-  quite immune to pain. "What self?" Reason. "But I am not just reason." Granted.
-  So let your reason cause itself no pain, and if some other part of you is in
-  trouble, it can form its own judgment for itself.
-  </blockquote>
-
-  —Schopenhauer's prose is such a pleasurable and exquisite read that it would be
-  negligent of me to deprive the reader of enjoying the experience of even a
-  glimpse at the joy. This quotation is from the same book but in the Haldane
-  and Kemp translation, whose rendition of these passages I find a fair bit more
-  delectable. In proportion to the observation that a joke is funny insofar as
-  it is true, the greater its comedic value if its liberating clarity penetrates
-  self-deception and self-protecting complacency, disabusing our minds' firm
-  grasp on fragile comforts and false facades. Schopenhauer is first and
-  foremost comedic and only secondarily tragic; Schopenhauer starts telling a
-  joke:
-  <blockquote>
-  All satisfaction, or what is commonly called happiness, is always really and
-  essentially only <i>negative</i>, and never positive. It is not an original
-  gratification coming to us of itself, but must always be the satisfaction of a
-  wish, for the wish, i.e., some want, is the condition which precedes every
-  pleasure, but with the satisfaction the wish and therefore the pleasure cease.
-  Thus the satisfaction or the pleasing can never be more than the deliverance
-  from a pain, from a want . . . It is, however, hard to attain or achieve
-  anything; difficulties and troubles without end are opposed to every purpose,
-  and at every step hindrances accumulate. But when finally everything is
-  overcome and attained, nothing can ever be gained but deliverance from some
-  sorrow or desire, so that we find ourselves in just the same position as we
-  occupied before this sorrow or desire appeared . . . The satisfaction and the
-  pleasure we can know only indirectly through the remembrance of the preceding
-  suffering and want, which cease with their appearance. Hence it arises that we
-  are not properly conscious of the blessings and advantages we actually possess,
-  nor do we prize them; but we think of them merely as a matter of course, for
-  they gratify us only negatively by restraining suffering . . . That all
-  happiness is only of a negative, not a positive, nature, that just on this
-  account it cannot furnish lasting satisfaction and gratification, but merely
-  delivers us from some pain or want which must be followed either by a new pain,
-  or by languor, empty longing, and <i>ennui</i>—this finds support in art, that
-  true mirror of the world and life . . . Every epic and dramatic poem can
-  represent only a struggle, an effort, a fight for happiness, but never enduring
-  and complete happiness itself. It conducts its heroes through a thousand
-  difficulties and dangers to the goal, yet, as soon as this is reached, it
-  hastens to let the curtain fall; for then there remains nothing for it to do
-  but show that the glittering goal in which the hero expected to find happiness
-  had only disappointed him, and that after its attainment he was no better off
-  than before.
   </blockquote>
 
   <br>
@@ -5961,31 +5832,8 @@ ___
 
   <br>
 
-  But wait! Schopenhauer is not done yet! Here's the punchline!:
-  <blockquote>
-  It really is incredible how meaningless and void of significance when looked at
-  from without, how dull and unenlightened by intellect when felt from within, it
-  is the course of the life of the great majority of men. It is a weary longing
-  and complaining, a dream-like staggering through the four ages of life to
-  death, accompanied by a series of trivial thoughts.
-  </blockquote>
-  What a wonderful portrait of mankind Schopenhauer has provided us! Always they
-  remain, in the back of one's mind, these observations routinely returning to
-  the fore as one endeavors through one's days and is reminded with frightful
-  clarity of the truth, but: one faces it with a smile—did I not promise we must
-  laugh? Schopenhauer admits as much (in the Payne translation, which is used for
-  the rest of this discussion):
-  <blockquote>
-  The life of every individual, if we survey it as a whole and in general and lay
-  stress only upon its most significant features, is really always a tragedy,
-  but, gone through in detail, it has the character of a comedy . . . [A]s if
-  fate would add derision to the misery of our existence, our life must contain
-  all the woes of tragedy, and yet we cannot even assert the dignity of tragic
-  characters, but in the broad detail of life we must inevitably be the foolish
-  characters of a comedy.
-  </blockquote>
-  How hilarious! We want more!—please illustrate for us, what is this tragicomedy
-  of our condition? Schopenhauer offers a concrete example of the will's
+  To the point of our discussion on desire: writing in a manner faithful to his
+  popular image, Schopenhauer offers a concrete example of the will's
   representation in the phenomenal world as the will-to-live:
   <blockquote>
   [C]onsider that indefatigable worker the mole; to dig strenuously with its
@@ -6020,13 +5868,10 @@ ___
   irrational impulse, which does not have its sufficient ground or reason in the
   external world.
   </blockquote>
-  All is well and good in jubilation and exultation! Gather the crowds to witness
-  this spectacle! What does this Schopenhauer offer as a solution to these
-  dazzling predicaments of ours? He suggests a firm and resolute denial: for all
-  the pessimism implied in the phrase "denial of the will-to-live",
-  Schopenhauer's intention in doing so was commendable: to return to unity, to
-  renounce individual striving, that through self-denial, one deplores one's
-  egotism:
+  What is Schopenhauer's solution to this desire? For all the pessimism implied in
+  the phrase "denial of the will-to-live", Schopenhauer's intention in doing so
+  was commendable: to return to unity, to renounce individual striving, that
+  through self-denial, one deplores one's egotism:
   <blockquote>
   Man attains to the state of voluntary renunciation, resignation, true composure,
   and complete will-lessness . . . We would like to deprive desires of their
@@ -6040,201 +5885,38 @@ ___
   The phenomenon by which this becomes manifest is the transition from virtue to
   <i>asceticism</i>.
   </blockquote>
-  That asceticism, self-renunciation, is a sustainable way of life was also
-  discovered elsewhere. Bryan Magee writes in THE PHILOSOPHY OF SCHOPENHAUER:
-  <blockquote>
-  What happened was that, working entirely within the central tradition of Western
-  philosophy—before all else continuing and completing, as he believed, the work
-  of Kant—he arrived at positions which <i>he then almost immediately
-  discovered</i> were similar to some of the doctrines central to Hinduism and
-  Buddhism . . . Indeed in his mind the most important point lay in the fact that
-  there was no influence: the profoundest thinkers of East and West, working
-  unknown to each other in virtually unrelated traditions and languages—evolved
-  quite separately over huge stretches of time, indeed in different historical
-  epochs and completely different kinds of society—had been led to the same
-  fundamental conclusions about the nature of the world.
-  </blockquote>
-  The answers unknown, Wittgenstein, influenced by Schopenhauer, believed they
-  are unknowable. Magee writes:
-  <blockquote>
-  He [Wittgenstein] insists that <i>everything to do with</i> those matters which
-  have the greatest import for us—the fact that the world (including us) exists
-  at all; the relationship of the willing subject to the phenomenal world; our
-  apprehension of the limits of our actual and possible experience; the nature of
-  our death; the possibility of any existence for us outside this world of
-  phenomena; the nature of morality; the nature of art; all those things, in
-  short, that are so often subsumed under some phrase as 'the significance of
-  life'—have their roots in a knowledgeless realm where language can have no
-  purchase or meaning. 'For an answer which cannot be expressed the question too
-  cannot be expressed. <i>The riddle</i> does not exist.' (<i>Tractatus</i> 6.5)
-  Any attempt to talk about them, however tentative, lands us straight into
-  nonsense . . . As Wittgenstein put it, referring to the <i>Tractatus</i> in a
-  private letter: 'My work consists of two parts: the one presented here plus all
-  that I have <i>not</i> written. And it is precisely this second part that is
-  the important one . . . I am convinced that this is the ONLY <i>rigorous</i>
-  way of drawing those limits. In short, I believe that where <i>many</i> others
-  today are just <i>gassing</i>, I have managed in my book to put everything
-  firmly into place by being silent about it.'
-  </blockquote>
-
-  <br><br>
-
-  <blockquote>
-  Sorrow is like a light that gleams in the heart,<br>
-  Darkness is a glow that searches our night.<br>
-  We need strike only the small, mournful flame<br>
-  To find our way home, like shadows, through the<br>
-  &nbsp; &nbsp; &nbsp; long, broad night.<br>
-  The woods, the city, the street, the tree are<br>
-  &nbsp; &nbsp; &nbsp; luminous.<br>
-  Lucky is he who has no home; he sees it still<br>
-  &nbsp; &nbsp; &nbsp; in his dreams.
-  </blockquote>
-  <span class="quoter">
-  —Hannah Arendt (1946)
-  </span>
 
   <br>
 
-  When Camus set out to declare his revolt against the absurd, his premise was the
-  problem of the silent, apathetic, meaningless universe—in a sense, a problem
-  posed by the absence of god, the lack of faith, the privation of religion and
-  comfort in a higher order, and his revolt was a spiteful, reactionary defiance
-  by a radical humanizing passion at the emptiness. Yet in this revolt, fervent,
-  intense, full of faithful struggle, we are so blinded by an overzealous flame
-  that we do not see we have not progressed beyond the fundamental problems of
-  material striving Schopenhauer detailed a century prior. However much we may
-  revolt, the ardor of the revolt does not endure the decades, and the adamance
-  of material reality reasserts itself at every waking moment: to desire, to
-  acquire, to seek joy and comfort—a hunger which again exposes us to happiness
-  in the Schopenhauerian negative, happiness only as a privation of suffering,
-  happiness as fleeting, always evasive, never persisting. Here I am not
-  confining myself to the limited scope of an armchair philosopher brooding over
-  a thick tome, but tangibly: how shall one respond to a child smiling with
-  unbounded joy, the working man toiling day by day to support his family, every
-  decent person, every ambitious youth, every fellow human who looks hopefully
-  towards the future? I am not one to erase joy or spread undue cynicism, but the
-  problem remains. I will be short in my response and with a degree of
-  resignation write: I do not have the solution. I make no promise of offering an
-  answer on how to find everlasting happiness or enduring peace. A caveat: this
-  problem, however, is one which afflicts only those know have spent too much
-  time consumed by books or who unhealthily collect examples and evidence of the
-  transient nature of things. Happiness exists; the problem is, as Schopenhauer
-  pointedly observed, it doesn't last. Against the toxin of knowledge, the
-  remediating courses of action are to turn away: escapist fantasy, ignorance,
-  and generational amnesia. This solution is reiterated in the observation that
-  for those who have not encountered this blight, it is not, at least
-  consciously, a problem at all.
-
-  I wish to emphasize that the Schopenhaurian pessimism is precisely the problem
-  of the overintellectualized, well-bred bourgeois to encounter, for those who
-  contemplate such notions as the nature of happiness to, in the course of the
-  contemplation, lose the capacity for actual happiness.
-  <a href="https://www.ashland.edu/faculty/robert-wyllie-phd">Robert Wyllie</a>
-  wrote a
-  <a href="https://www.jstor.org/stable/10.5325/cormmccaj.14.2.0186">paper</a>
-  interpretting Cormac McCarthy's play, SUNSET LIMITED, heavily based on dialogue,
-  as a discussion between a consoling, redemptive, religious Kierkegaardian and a
-  weary, despairing, atheist Schopenhaurian. It is the atheist professor, with
-  his privileges and educated sensibilities, who falls into the Schopenhauerian
-  despair and existential malaise, and it is the ex-convict coming from an
-  impoverished background and subject to the whips and lashes of life who
-  radiates hope and vigor, albeit with a religious conviction. The problem is
-  created by intellectuals who inflict on themselves the theoretical concerns
-  beyond the tangible scope of any person, topics which are entertaining to
-  consider in passing but toxic to brood and, worse, manifest. When it comes to
-  the meaning of things as important as happiness, art, religion, life, and
-  death, well, let us find solace in Wittgenstein's silence.
-
-  <br>
-
-  <blockquote>
-  The years have passed<br>
-  And age has come my way.<br>
-  Yet I need only look at this fair flower<br>
-  For all my cares to melt away.
-  </blockquote>
-  <span class="quoter">
-  —Sei Shōnagon, THE PILLOW BOOK, tr. Ivan Morris
-  </span>
-
-  <br>
-
-  <blockquote>
-  Oh, I drift like the waves of the sea,<br>
-  Without direction, like the restless wind.
-  </blockquote>
-  <span class="quoter">
-  —#20, TAO TE CHING, tr. Gia-fu Feng and Jane English
-  </span>
-
-  <br>
-
-  But I do want to end this thought on a separate note: woe to the self-respecting
-  atheist who must resort to what he considers false comforts and wishful
-  thinking to attain any light. The brightness of the sun and the merriment seen
-  and embodied as natural among the less brooding folk are present as they've
-  always been and will be, just as the original innocence and carefree, unbounded
-  shrieks of joy in the toddler jumping in the playground return afternoon after
-  afternoon. The gap between these scenes and the endless turmoil of the mind may
-  simply come down to a switch of perspective.
-
-  <br>
-
-  <blockquote>
-  These are the defects which, like a storm at sea, torment rich and poor alike,
-  that afflict the married as well as the unmarried; because of these men avoid
-  public life, then find their life of quiet unbearable; because of these men
-  seek advancement at court, by which, when they have gained it, they are
-  immediately bored . . . But later, when the disease is over and a sounder
-  disposition supervenes, health returns and makes everything pleasant and
-  agreeable: he that yesterday loathed eggs and delicate cakes and fine bread
-  to-day eats eagerly and willingly of a coarse loaf with olives and
-  water-cress.
-  </blockquote>
-  <span class="quoter">
-  —Plutarch, ON TRANQUILITY OF MIND, MORALIA, tr. W. C. Helmbold
-  </span>
-
-  <br>
-
-  Now that we've indulged in Schopenhauer's humor, I wish to qualify his claims.
+  Now that we've indulged in some Schopenhauer, I wish to qualify his claims.
   Schopenhauer says no happiness lasts; this is true, but it doesn't take much
   work to acquire small moments of happiness which suffice to get through the
   days. In reality, most people aren't plagued by the endless struggle and
-  fruitless labor Schopenhauer suggested but are rather content. People work and
-  have their fun; it is modest work and modest fun, not the tormenting, constant
-  striving Schopenhauer pictured. This observation, though, is rather on point
-  and worth emphasizing, to disabuse ourselves of some attainable state of
-  permanent peace and rest, that every image we know of others' seeming
-  contentment is either self-delusion or an outward lie: happiness does not
-  endure and requires continual replenishment by further appetite and more work:
-  this is humanity's relation to happiness. Whatever extent of deception, that
-  this is not readily apparent is due to the fact that this serial struggle
-  doesn't present so immense a problem unless one pursues the extremes of
-  happiness to the point of avarice, gluttony, excess. In most folks, this is not
-  the case. Yet how should one respond to these confinements of our condition? My
-  stance is that if there is any truth in Schopenhauer, it ought to be confronted
-  and answered, both theoretically and practically. From one vantage, the
-  Nietzschean: the positive affirmation of life. Yet considering the variety of
-  philosophical perspectives and broad range of human circumstances, it is not my
-  place to issue some unilateral decree of piety and correctness. However, I
-  doubt any stance on non-desire, self-denial, and renunciation will acquire any
-  substantial traction among any country's populace. Schopenhauer himself was a
-  hypocrite and didn't conform to his own philosophy (not all pessimist
-  philosophers are hypocrites; Emil Cioran, for whom words were not just words,
-  took his own medicine, bit his own bullet, remained faithful to his philosophy,
-  entertaining himself in THE TROUBLE WITH BEING BORN: "My faculty for
-  disappointment surpasses understanding. It is what lets me comprehend Buddha,
-  but also what keeps me from following him."); having been born into wealth and
-  then inheriting that wealth when he was young, Schopenhauer never quite did
-  renounce life so much as avail himself to worldly pleasures. The harsh
-  asceticism he proposes, then, loses practical credibility. As a consequence, we
-  must assume that the due course of action is to admit to desire, and that out
-  of that desire, people will endeavor and labor, a factor contributing to social
-  inequality. This is our view on human desire: people should be free to endeavor
-  and labor towards their aspired goals, the objects of their desire, and on the
-  whole this is not harmful; yet, as I discuss later, this same motivation at
+  fruitless labor Schopenhauer suggested but are rather content. This
+  observation, though, is rather on point and worth emphasizing, to disabuse
+  ourselves of some attainable state of permanent peace and rest: happiness from
+  any single attainment does not endure and requires continual replenishment by
+  further appetite and more work: this is humanity's relation to happiness. Yet
+  this serial struggle doesn't present so immense a problem unless one pursues
+  the extremes of happiness to the point of avarice, gluttony, excess. In most
+  folks, this is not the case. Yet how should one respond to these confinements
+  of our condition? My stance is that if there is any truth in Schopenhauer, it
+  ought to be confronted and answered, both theoretically and practically. From
+  one vantage, the Nietzschean: the positive affirmation of life. Yet considering
+  the variety of philosophical perspectives and broad range of human
+  circumstances, it is not my place to issue some unilateral decree of piety and
+  correctness. However, I doubt any stance on non-desire, self-denial, and
+  renunciation will acquire any substantial traction among any country's
+  populace. Schopenhauer himself was a hypocrite and didn't conform to his own
+  philosophy; having been born into wealth and then inheriting that wealth when
+  he was young, Schopenhauer never quite did renounce life so much as avail
+  himself to worldly pleasures. The harsh asceticism he proposes, then, loses
+  practical credibility. As a consequence, we must assume that the due course of
+  action is to admit to desire, and that out of that desire, people will endeavor
+  and labor, a factor contributing to social inequality. This is our view on
+  human desire: people should be free to endeavor and labor towards their aspired
+  goals, the objects of their desire, and on the whole this is not harmful; yet,
+  as I discuss later in the social capitalism section, this same motivation at
   extreme concentrations of wealth depraves society into vanity, privation, and
   endlessly unsatisfied appetites.
 
@@ -6254,11 +5936,12 @@ ___
   —Rousseau, DISCOURSE ON INEQUALITY
   </span>
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <u id="import-of-work">Import of Work</u><br>
+
   Charles Duhigg, in a 2019
   <a href="https://www.nytimes.com/interactive/2019/02/21/magazine/elite-professionals-jobs-happiness.html">article</a>
   in The New York Times Magazine, writes on the importance of work:
@@ -6421,11 +6104,12 @@ ___
   —Byron
   </span>
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <u id="second-field">Second Field</u><br>
+
   Another view of the field. In the field, everyone both perceives and signals.
   Each operation has two modes. Let us suppose each group* has two people.
 
@@ -6840,32 +6524,12 @@ ___
 
 
 
-<span id="Quote-Set:Notdesiring"></span>
+<span id="Quote-Set:Not-desiring"></span>
   The New York Times shared
   <a href="https://www.nytimes.com/video/world/americas/100000009494114/how-internet-access-is-transforming-life-in-this-amazon-tribe.html">footage</a>
   of the Marubo tribe, a formerly isolated group living in the Amazon rainforest,
   given access to the internet. Disrupting traditional life are scenes of
   modernity: villagers glued to their phones.
-
-  <br>
-
-  <blockquote>
-  Let's not approach capitalism as a psychological problem. The solution is not:
-  we should somehow overgrow or get rid of this addiction to money—I want more
-  and more and more—the problem is to see how this attitude is generated by what,
-  in the old-fashioned Marxist terminology, we once called an Objective Social
-  System, part of which are such attitudes. They are generated by the
-  system . . . The most we can do in these coordinates is to engage in charity,
-  to give money for the poor, but this for me is an obscene solution . . . The
-  poison is the cure to itself . . . Charities today, I claim, are part of the
-  system itself. It has a very specific function, the function of depoliticizing
-  the problems. The idea is that through charity, capitalism can redeem itself,
-  can be itself the medicine to the evil it causes.
-  </blockquote>
-  <span class="quoter">
-  —Slavoj Žižek, talking about his book, LIVING IN THE END TIMES. (This thought is
-  interesting, though I'm not a communist myself.)
-  </span>
 
   <br>
 
@@ -6914,7 +6578,8 @@ ___
 
 
 
-<u id="social-capitalism">Social Capitalism</u><br>
+<u id="social-capitalism">Towards Social Capitalism</u><br>
+
   Let us consider the current landscape of wealth ownership in the country. Based
   on the total population
   <a href="https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html">count</a>
@@ -7715,7 +7380,7 @@ ___
   knows no rest. The recognition of this fickleness of human nature, never
   satisfied, keen on appearances, unable on its own to be content but only in
   comparison to one's lack of contentment or to that of another—this fact should
-  not unsettle any more than the inevitability of death.
+  not unsettle any more than many other unpleasant inevitabilites.
 
   <br>
 
@@ -7859,14 +7524,15 @@ ___
 
   <br>
 
-  What makes us new arrivals think we can ascribe any purpose to the many
-  creatures around us or even to ourselves? And against the billions of years of
-  evolution, what is a momentary human joy or a little human anguish? Human
-  desire knows no bounds, even venturing to seek purpose for itself when all it
-  effects is self-flattery and delusion. But let us follow these arguments and
-  celebrate among the crowds with hurrah, fanfare, and confetti: it may well be
-  true, according to some old book, that it was for us that dinosaur bones have
-  waited beneath the earth for millions of years.
+  What convinces us new arrivals that we can ascribe any higher purpose to the
+  many creatures around us or even to ourselves? We float in a tiny capsule
+  amidst billions of years of evolution. Is the scope of our timespans and the
+  joys within its frame not sufficient? Human desire knows no bounds, even
+  venturing to seek purpose for itself when much of it effects only
+  self-flattery. But let us follow these arguments and celebrate among the crowds
+  with hurrah, fanfare, and confetti: it may well be true, according to some old
+  book, that it was for us that dinosaur bones have waited beneath the earth for
+  millions of years.
 
   <br>
 
@@ -7908,11 +7574,12 @@ ___
   —Li Bai, ZAZEN ON CHING-T'ING MOUNTAIN, tr. Sam Hamill
   </span>
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <u id="gender-studies">Gender Studies</u><br>
+
   A very important digression on the matter of the scope and impact of gender
   performance. Gender studies: A Schopenhauerian Approach. "The world is my
   idea"—the great Schopenhauer rightly opened his majestic book with this line.
@@ -8173,6 +7840,8 @@ ___
   —#81, TAO TE CHING, tr. Ron Hogan
   </span>
 
+  <br>
+
   <blockquote>
   There is no need to argue<br>
   When truth is shining through
@@ -8414,13 +8083,13 @@ ___
 
   <br>
 
-  This collective amnesia is beautiful because through all the struggle and
-  torment and pain and ambition and resentment and ego and vanity, in the end,
-  nothing has to do with us, petty and selfish and deceitful creatures—what a
-  relief it is to realize we have no significance, no crash or fire, no impact
-  reflecting the mass of groans we reply to every plight, no weight upon us
-  whatsoever, our measly noises eking out just one breath in the cosmic
-  landscape, a distraught cry born of dread and exasperation against the
+  Viewed another way, this collective amnesia is beautiful because through all the
+  struggle and torment and pain and ambition and resentment and ego and vanity,
+  in the end, nothing has to do with us, petty and selfish and deceitful
+  creatures—what a relief it is to realize we have no significance, no crash or
+  fire, no impact reflecting the mass of groans we reply to every plight, no
+  weight upon us whatsoever, our measly noises eking out just one breath in the
+  cosmic landscape, a distraught cry born of dread and exasperation against the
   infinite, drowned out in the nothingness—
 
   <br>
@@ -8447,51 +8116,26 @@ ___
   —Livia Soprano, THE SOPRANOS
   </span>
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-<span id="Meaningless-universe.Silence"></span>
-  The universe has always been so, and if we at last see with clarity its gaping
-  void and senseless opera, it is because the clouds in the mind have drifted
-  away. But why are we petulant enough to mutiny our posts when we realize our
-  roles have no higher purpose? Why throw tantrums and concede defeat when in the
-  short glimpse of our horizon we see that we were defeated even before the sun's
-  first dawn? Dearth of meaning? What's new? Why fall into dejection when
-  recognizing ourselves in the mirror is where we should begin?
-
   <br>
 
   <blockquote>
-  I prefer to leave the paintings to speak for themselves.
+  The years have passed<br>
+  And age has come my way.<br>
+  Yet I need only look at this fair flower<br>
+  For all my cares to melt away.
   </blockquote>
   <span class="quoter">
-  —Barnett Newman
+  —Sei Shōnagon, THE PILLOW BOOK, tr. Ivan Morris
   </span>
 
   <br>
 
   <blockquote>
-  The questions you've posed to me are, many of them, difficult questions, and
-  it's my habit of mind to reflect and revise and try to attain a certain
-  completion and perfection in my responses, and that is incompatible with the
-  interview medium. That's why I've been so extremely uncomfortable.
+  Oh, I drift like the waves of the sea,<br>
+  Without direction, like the restless wind.
   </blockquote>
   <span class="quoter">
-  —John Coetzee, interviewed (2000)
-  </span>
-
-  <br>
-
-  <blockquote>
-  I'm a very sociable person. The fact that I dislike interviews doesn't mean I'm
-  a recluse . . . People keep telling me how humble I am. I'm not humble . . . I
-  think I write about mortality because it was a terrible shock to me to discover
-  in childhood that you don't get this forever . . . Most of what I have to say
-  of any real urgency comes out in poems, and the rest is just entertainment.
-  </blockquote>
-  <span class="quoter">
-  —Louise Glück, New York Times interview (2020)
+  —#20, TAO TE CHING, tr. Gia-fu Feng and Jane English
   </span>
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -8499,6 +8143,7 @@ ___
 
 
 <u id="perceptions-media">Perceptions from Media, and Art: Serious vs Popular</u><br>
+
   With our realm of knowledge confined to our narrow perceptions and limited
   experiences which form our inner painting, and given the difficulty of knowing
   many and varied individuals, our reality is simply what we have come to know,
@@ -8841,6 +8486,7 @@ ___
 
 
 <u id="urban-rural-divide">Urbal-Rural Divide</u><br>
+
   I wish to draw a close to this post by returning to the urban-rural divide,
   viewing it through the difference between moderation and Schopenhauerian
   striving. City folks have the worldview which works within the meritocratic,
@@ -8974,11 +8620,12 @@ ___
   —William Blake, LONDON, SONGS OF EXPERIENCE
   </span>
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
 <u id="finis"><i>Finis</i></u><br>
+
   'Tis rambling all day finally returneth to me first aim: doth thou accusé moi,
   troppo serio? I caution thee: thou must forgivest the faults of mine old age!
   Please do consulteth thy internets to see the hair color of almost all whom
@@ -9216,9 +8863,7 @@ ___
   spinster who taught me English—'Good writing is learning what to leave in the
   inkwell, which is most of what you have written.'" Sí, señora.
 
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
