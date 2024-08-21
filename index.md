@@ -7738,15 +7738,15 @@ Man's Inner World, and Wandering.</b>
 
   <br>
 
-  Speaking plainly again and returning to the second point mentioned earlier, I
-  agree that gender is performative, but there is a limit. In our present
-  political climate, gender issues loom large and occupy a clamoring presence,
-  but academically and intellectually, the premise is rather mundane. That a
-  convention is constructed does not immediately imply it is false and trifling;
-  as true as gender is constructed and performative, so are personalities,
-  cultural inculcations, social conventions, linguistic norms, monetary exchange.
-  To reveal that gender is performative is scarcely innovative. Beauvoir herself
-  writes of the female role as a social construction in THE SECOND SEX:
+  Speaking plainly, I agree that gender is performative, but there is a limit. In
+  our present political climate, gender issues loom large and occupy a clamoring
+  presence, but academically and intellectually, the premise is rather mundane.
+  That a convention is constructed does not immediately imply it is false and
+  trifling; as true as gender is constructed and performative, so are
+  personalities, cultural inculcations, social conventions, linguistic norms,
+  monetary exchange. To reveal that gender is performative is scarcely
+  innovative. Beauvoir herself writes of the female role as a social construction
+  in THE SECOND SEX:
   <blockquote>
   One is not born, but rather becomes, woman. No biological, psychic, or economic
   destiny defines the figure that the human female takes on in society; it is
