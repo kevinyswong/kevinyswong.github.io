@@ -5757,13 +5757,13 @@ Man's Inner World, and Wandering.</b>
   <br>
 
   We are now ready to encounter Schopenhauer. He has a reputation for pessimism,
-  so I don't want to linger on him for long, but his idea on desire, in my view,
-  stands on firm ground and motivates some of the later ideas in this post. I
-  want to divide this discussion of his ideas into two sections: his metaphysics
-  (which I will explain briefly, though I'm not so sure on how valid it is) and
-  the psychological consequences(which are very real and poignant; this is the
-  point of this topic). First, metaphysics: Schopenhauer writes in THE WORLD AS
-  WILL AND REPRESENTATION, in the Payne translation:
+  so I don't want to linger on him for long, but his insights on desire, in my
+  view, stands on firm ground and motivates some of the later ideas in this post.
+  I want to divide this discussion of his ideas into two sections: his
+  metaphysics(which I will explain briefly, though I'm not so sure on how valid
+  it is) and the psychological consequences (which are very real and poignant;
+  this is the point of this topic). First, metaphysics: Schopenhauer writes in
+  THE WORLD AS WILL AND REPRESENTATION, in the Payne translation:
   <blockquote>
   We have learnt from the great Kant that time, space, and causality are present
   in our consciousness according to their whole conformity to rule and the
@@ -5793,8 +5793,8 @@ Man's Inner World, and Wandering.</b>
   recognize everything and everyone else is also oneself, all part of the will.
   Each individual desires and fights for its survival and growth, yet the objects
   one desires—satisfaction, happiness, gratification—dissipate soon after one
-  attains them, and they never last and are therefore only illusory.
-  Specifically, this one passage summarizes Schopenhauer's psychological ideas:
+  attains them, and they never last and are therefore only illusory. More
+  precisely, this passage summarizes Schopenhauer's psychological ideas:
   <blockquote>
   We have already seen in nature-without-knowledge her inner being as a constant
   striving without aim and without rest, and this stands out much more distinctly
@@ -5808,6 +5808,34 @@ Man's Inner World, and Wandering.</b>
   are in fact its ultimate constituents. This has been expressed very quaintly by
   saying that, after man had placed all pains and torments in hell, there was
   nothing left for heaven but boredom.
+  </blockquote>
+  Expanding further, Schopenhauer writes in a manner faithful to his popular
+  image:
+  <blockquote>
+  [T]he satisfaction or the pleasing can never be more than the deliverance from a
+  pain, from a want . . . It is, however, hard to attain or achieve anything;
+  difficulties and troubles without end are opposed to every purpose, and at
+  every step hindrances accumulate. But when finally everything is overcome and
+  attained, nothing can ever be gained but deliverance from some sorrow or
+  desire, so that we find ourselves in just the same position as we occupied
+  before this sorrow or desire appeared . . . The satisfaction and the pleasure
+  we can know only indirectly through the remembrance of the preceding suffering
+  and want, which cease with their appearance. Hence it arises that we are not
+  properly conscious of the blessings and advantages we actually possess, nor do
+  we prize them; but we think of them merely as a matter of course, for they
+  gratify us only negatively by restraining suffering . . . That all happiness is
+  only of a negative, not a positive, nature, that just on this account it cannot
+  furnish lasting satisfaction and gratification, but merely delivers us from
+  some pain or want which must be followed either by a new pain, or by languor,
+  empty longing, and <i>ennui</i>—this finds support in art, that true mirror of
+  the world and life . . . Every epic and dramatic poem can represent only a
+  struggle, an effort, a fight for happiness, but never enduring and complete
+  happiness itself. It conducts its heroes through a thousand difficulties and
+  dangers to the goal, yet, as soon as this is reached, it hastens to let the
+  curtain fall; for then there remains nothing for it to do but show that the
+  glittering goal in which the hero expected to find happiness had only
+  disappointed him, and that after its attainment he was no better off than
+  before.
   </blockquote>
 
   <br>
@@ -5832,9 +5860,8 @@ Man's Inner World, and Wandering.</b>
 
   <br>
 
-  To the point of our discussion on desire: writing in a manner faithful to his
-  popular image, Schopenhauer offers a concrete example of the will's
-  representation in the phenomenal world as the will-to-live:
+  To the point of our discussion on desire: Schopenhauer offers a concrete example
+  of the will's representation in the phenomenal world as the will-to-live:
   <blockquote>
   [C]onsider that indefatigable worker the mole; to dig strenuously with its
   enormous shovel-paws is the business of its whole life; permanent night
@@ -5868,10 +5895,10 @@ Man's Inner World, and Wandering.</b>
   irrational impulse, which does not have its sufficient ground or reason in the
   external world.
   </blockquote>
-  What is Schopenhauer's solution to this desire? For all the pessimism implied in
-  the phrase "denial of the will-to-live", Schopenhauer's intention in doing so
-  was commendable: to return to unity, to renounce individual striving, that
-  through self-denial, one deplores one's egotism:
+  What is Schopenhauer's solution to this consuming desire? For all the pessimism
+  implied in the phrase "denial of the will-to-live", Schopenhauer's intention in
+  doing so was commendable: to return to unity, to renounce individual striving,
+  that through self-denial, one negates one's egotism:
   <blockquote>
   Man attains to the state of voluntary renunciation, resignation, true composure,
   and complete will-lessness . . . We would like to deprive desires of their
@@ -5885,8 +5912,6 @@ Man's Inner World, and Wandering.</b>
   The phenomenon by which this becomes manifest is the transition from virtue to
   <i>asceticism</i>.
   </blockquote>
-
-  <br>
 
   Now that we've indulged in some Schopenhauer, I wish to qualify his claims.
   Schopenhauer says no happiness lasts; this is true, but it doesn't take much
@@ -8502,7 +8527,7 @@ Man's Inner World, and Wandering.</b>
   simply don't hunger for nearly as much. This is not to say that people, urban
   or rural, don't wish to succeed in the worldly economic system the cities
   represent, but that it is helpful to understand that many rural folks, in the
-  course of daily life and foreseeable horizons, don't desire so rapaciously as
+  course of daily life and foreseeable horizons, don't desire as rapaciously as
   city meritocrats and retain something of the uncorrupted simplicity of ordinary
   living.
 
@@ -8515,10 +8540,10 @@ Man's Inner World, and Wandering.</b>
   furnishings, and his wife attends without her gold and purple and dressed in
   plain attire. But when a banquet—that is, a spectacle and a show—is got up and
   the drama of wealth is brought on, "out of the ships he fetched the urns and
-  tripods," [Homer, ILLIAD] the repositories of the lamps are given no rest, the
-  cups are changed, the cup-bearers are made to put on new attire, nothing is
-  left undisturbed, gold, silver, or jewelled plate, the owners thus confessing
-  that their wealth is for others.
+  tripods," [from Homer's ILLIAD] the repositories of the lamps are given no
+  rest, the cups are changed, the cup-bearers are made to put on new attire,
+  nothing is left undisturbed, gold, silver, or jewelled plate, the owners thus
+  confessing that their wealth is for others.
   </blockquote>
   <span class="quoter">
   —Plutarch, ON LOVE OF WEALTH, MORALIA, tr. W. C. Helmbold
