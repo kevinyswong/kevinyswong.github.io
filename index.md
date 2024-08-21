@@ -15,12 +15,12 @@ layout: default
 
 Last year, someone shared with me an episode from the Poem-a-Day podcast. In it,
 Tiana Clark reads her poem, AFTER THE READING, which is about the moments after
-a poetry reading when part of the audience comes up to converse with the poet.
-I didn't make much of the poem at the time, as it wasn't the kind of poetry I
-tend to enjoy, but after the passing of some recent events, today I listened
-again, and how differently the poem hits. I recall something a writer—maybe
-Zadie Smith?—said in an interview to the effect of: "When I was young I was a
-know-it-all. Now that I'm older, I think I know very little."
+a poetry reading when a part of the audience comes up to converse with the
+poet. I didn't make much of the poem at the time, as it wasn't the kind of
+poetry I tend to enjoy, but after the passing of some recent events, today I
+listened again, and how differently the poem hits. I recall something a
+writer—maybe Zadie Smith?—said in an interview to the effect of: "When I was
+young I was a know-it-all. Now that I'm older, I think I know very little."
 
 <br>
 
@@ -690,7 +690,7 @@ Man's Inner World, and Wandering.</b>
   overproduction to a fire: how long has a drought been and how dense and
   overgrown are the trees? The surplus of elites is perhaps a constant, and at
   times it grows, and when only a small group of trees are in misery, only a
-  neglegible fire, easily put out, ensues. But when massive sections of the
+  negligible fire, easily put out, ensues. But when massive sections of the
   forest have been immiserated, easily swayed and influenced by
   anti-establishment alternatives of hope, the spark of a single fire expands
   outward as naturally as the wind blows: populism heralded by a potent
@@ -801,7 +801,7 @@ Man's Inner World, and Wandering.</b>
   invasion."
 
   But if we look elsewhere we find, contrary to Weinstein's fear-ridden portrayal,
-  that 60 minutes
+  that 60 MINUTES
   <a href="https://www.youtube.com/watch?v=M7TNP2OTY2g">covered</a>
   these new migrants when they are just coming into the country and
   <a href="https://www.youtube.com/watch?v=S2Gs0i3Ao34">examined</a>
@@ -828,7 +828,7 @@ Man's Inner World, and Wandering.</b>
   is decidedly not sarcastic or satirical, not at all reproachful of some faulty
   and malicious judgment. Seder's discerning sense of sight, his clarity of mind,
   combined with an absolutely precise detection of the ulterior motives of
-  mankind, help us understand what the 60 minutes video is showing us. Seder
+  mankind, help us understand what the 60 MINUTES video is showing us. Seder
   <a href="https://youtu.be/8wlTsUoXXCA?t=300">remarks</a>
   on a particularly enlightening moment in the video, with his natural X-ray
   vision, that someone who deceptively "appears to be an old lady" may actually
@@ -1045,13 +1045,14 @@ Man's Inner World, and Wandering.</b>
   the Romans, whose ancient heritage seems to have appeal only when it is far and
   long gone! And in another century, the originators of the Renaissance!
 
-  In this rapid swelling immigrants in the cities, how can it be that anyone could
-  harbor decidedly negative views towards them? It is not nativism and resistance
-  that amounts to the country's default position on immigrants! It is not that we
-  must hold a magnifying glass against a the needle in the haystack to convince
-  ourselves of any welcoming illusion! In fact, the needle has surfaced before
-  us: we find one sympathetic view in 1913, when Philander Claxton, then the
-  Commissioner of Education, wrote a letter to the Secretary of the Interior:
+  In this rapid swelling of immigrants in the cities, how can it be that anyone
+  could harbor decidedly negative views towards them? It is not nativism and
+  resistance that amounts to the country's default position on immigrants! It is
+  not that we must hold a magnifying glass against a the needle in the haystack
+  to convince ourselves of any welcoming illusion! In fact, the needle has
+  surfaced before us: we find one sympathetic view in 1913, when Philander
+  Claxton, then the Commissioner of Education, wrote a letter to the Secretary of
+  the Interior:
   <blockquote>
   To the people of no other country is the problem of the education of immigrants
   of so much importance as to the people of the United States. No other country
@@ -2124,7 +2125,7 @@ Man's Inner World, and Wandering.</b>
   <a href="https://trac.syr.edu/phptools/immigration/asylumbl/">backlog</a>,
   according to Syracuse University's TRAC, sits at about 150,000.
   <a href="https://bipartisanpolicy.org/person/theresa-cardinal-brown/">Theresa Cardinal Brown</a>
-  agrees that the asylum system is broken on a 60 Minutes
+  agrees that the asylum system is broken on a 60 MINUTES
   <a href="https://youtu.be/PwuMaKSrxiY?t=318">episode</a>,
   saying, "We just don't have the personnel, the resources, the infrastructure, or
   the right processes to manage what's happening there well." With large numbers
@@ -2154,7 +2155,7 @@ Man's Inner World, and Wandering.</b>
   prepare and send in applications for asylum, yet even with this assistance,
   "[T]he city expects the number of people currently eligible to apply for work
   authorization to be a relatively small percentage of those now in care." In
-  spite of Adam's attempt at a remedy, one may be forgiven to find fault with
+  spite of Adam's attempt at a remedy, one may be forgiven in finding fault with
   the city's approach that, in the face of this problem, Adams insists, "New
   York City needs significant and timely support from our state and federal
   partners to tackle this national issue"—as though asking someone else for help
@@ -2171,10 +2172,10 @@ Man's Inner World, and Wandering.</b>
   to the city comptroller. But the comptroller's report itself is a critical
   investigation of the new policy, complains that it is "haphazard", and
   recommends that the city should end it. For some reason the comptroller is more
-  sympathetic to migrants who, through by no fault of their own, are unable to
-  work and contribute than to the city's fiscal health. Contrast the current
-  situation with that of the Italian immigrants during the city's tenement days
-  around the early 1900s, who, as the Library of Congress
+  sympathetic to migrants who, by no fault of their own, are unauthorized to work
+  and contribute than to the city's fiscal health. Contrast the current situation
+  with that of the Italian immigrants during the city's tenement days around the
+  early 1900s, who, as the Library of Congress
   <a href="https://www.loc.gov/classroom-materials/immigration/italian/tenements-and-toil/">records</a>,
   were able to work, though struggling, but the current laws prohibit this new
   wave of migrants from doing the same. We must remember: Opportunities do not
@@ -3462,12 +3463,13 @@ Man's Inner World, and Wandering.</b>
   <a href="https://www.theatlantic.com/family/archive/2024/05/conservative-parent-activism-public-school/678309/">article</a>
   in The Atlantic about the current conservative push for public schools to censor
   many political issues, among them race and gender. Hixenbaugh observes how this
-  censorship is similar to the Reagan-era's religious censorship and backlash
-  against secular humanism. This censorship is perhaps more egregious on the
-  left, as liberals do not just pander to political correctness; they deceive by
-  virtue signaling. Moving forward, are social norms to remain bound by false
-  modesty and restraint, and is society to prescribe costumes for everyone in
-  this public theatre? I ask: why is everyone so afraid of the truth?
+  censorship is similar to the Reagan-era's religion-derived censorship and
+  backlash against a rising secular humanism. This censorship is perhaps more
+  egregious on the left, as liberals do not just pander to political correctness;
+  they deceive by virtue signaling. Moving forward, are social norms to remain
+  bound by false modesty and restraint, and is society to prescribe costumes for
+  everyone in this public theatre? I ask: why is everyone so afraid of the
+  truth?
 
   <br>
 
