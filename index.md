@@ -42,11 +42,11 @@ Man's Inner World, and Wandering.</b>
 
   <a href="#currid-halkett">Peace: Currid-Halkett</a><br>
   <a href="#turchin">Trouble: Turchin</a><br>
-  <a href="#immigration">Immigration</a><br>
   <a href="#merit">Merit</a><br>
   <a href="#meritocracy">Meritocracy</a><br>
   <a href="#liberal-hypocrisy">Liberal Hypocrisy</a><br>
   <a href="#inequality">Inequality: Rousseau</a><br>
+  <a href="#immigration">Immigration</a><br>
   <a href="#race-gender-class">Race and Gender as Secondary to Class, and the Material View</a><br>
   &nbsp; &nbsp; <a href="#first-field">First Field</a><br>
   <a href="#kant-schopenhauer">Confinement: Kant, and Desire: Schopenhauer</a><br>
@@ -127,6 +127,7 @@ Man's Inner World, and Wandering.</b>
   reality we have before our eyes while also keeping our wits about us.
 
   <br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 <u id="currid-halkett">Peace: Currid-Halkett</u><br>
@@ -623,8 +624,38 @@ Man's Inner World, and Wandering.</b>
   This means that the ability to move from the less educated to the more educated
   class has dramatically eroded in just a few decades.
   </blockquote>
-  Encapsulating these dire economic inequalities with a dismal prospect, Turchin
-  warns:
+
+  <a href="https://coe.arizona.edu/person/regina-j-deil-amen">Regina Deil-Amen</a>
+  points out in a 2012
+  <a href="https://cepa.stanford.edu/sites/default/files/e_Regina%20Deil-Amen.pdf">paper</a>,
+  that community college students have, based on data from the 2008-2009 academic
+  year, grown to be as numerous as four-year college students, even though they
+  are not represented in the image of the typical college student, calling them
+  the "marginalized majority":
+  <blockquote>
+  Our conceptions of the typical idealized college student are based on
+  traditional notions and an imagined norm of someone who begins college
+  immediately after high school, enrolls full-time, lives on campus, and is ready
+  to begin college-level classes . . . [F]ocusing attention on the traditional
+  four-year sector as the norm is quite dismissive of a clear majority of our
+  nation's students and the institutions that serve them. They are the relatively
+  neglected <i>other half</i> of U.S. higher education . . . For too long, it has
+  been assumed that what works for the dominant and more elite groups can work in
+  underresourced contexts with differing challenges. This is simply a hypothesis
+  that thus far has not been born out in reality. Resource rich school with great
+  pools of upper middle class parental capital and assistance function very well
+  for those students. The same structure has not been shown to function very well
+  in the absence of such parental support. In fact, I would argue that our public
+  schools are structured to succeed dependent upon parental resources. It makes
+  litle sense to expect the same schol structures to operate effectively for
+  families in low SES circumstances and their children.
+  </blockquote>
+  But what about those who haven't gone to college? Oliver Anthony's song,
+  <a href="https://www.youtube.com/watch?v=sqSA-SY5Hro">RICH MEN NORTH OF RICHMOND</a>
+  struck a particular chord with large swaths of the country last summer, and
+  based on the song's popularity, it would be neglectful not to take popular
+  immiseration seriously. Encapsulating these dire economic inequalities with a
+  dismal prospect, Turchin warns:
   <blockquote>
   [T]he declining well-being of the working class is a bad thing—because it
   fundamentally undermines the stability of our society. Most obviously, when
@@ -743,1510 +774,6 @@ Man's Inner World, and Wandering.</b>
   Deal periods. Today, we are in a third revolutionary situation. How will it be
   resolved—by a civil war, by reforms, or by some combination of the two?
   </blockquote>
-
-  <br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-<u id="immigration">Immigration</u><br>
-  <blockquote>
-  Every generation writes its own history, for the reason that it sees the past in
-  the foreshortened perspective of its own experience. This has certainly been
-  true of the writing of American history. The practical aim of our
-  historiography is to offer us a more certain sense of where we are going by
-  helping us understand the road we took in getting where we are. If the
-  substance and nature of our historical writing is changing, it is precisely
-  because our own generation is redefining its direction, much as the generations
-  that preceded us redefined theirs.
-  </blockquote>
-  <span class="quoter">
-  —<a href="https://law.duke.edu/history/faculty/franklin">John Hope Franklin</a>
-  and
-  <a href="https://www.historians.org/perspectives-article/abraham-s-eisenstadt-1920-2007-march-2008/">Abraham Eisenstadt</a>,
-  Editor's Foreword to THE AMERICAN HISTORY SERIES
-  </span>
-
-  <br>
-
-  In the current political climate, immigration is a fraught issue. This section
-  is long, and it clarifies the facts relating to immigration on the southern
-  border: the quantities, criminality, economic impact, and how the current
-  immigration surge compares to the country's immigration history. This section
-  removes the fog of mystery and dread that circulate in Republican circles from
-  exaggerated claims of disorder and violence.
-
-  I will start by saying that I support legal, not illegal, immigration. As it
-  happens, Biden recently
-  <a href="https://www.dhs.gov/news/2024/06/04/fact-sheet-presidential-proclamation-suspend-and-limit-entry-and-joint-dhs-doj">passed</a>
-  legislation that limits the entry of illegal immigrants. I explain the reasons
-  behind this legislation in greater detail later in this section, but this is
-  the right decision when considering resource constraints, the high volumes of
-  migrants, and outdated laws that prevent them from obtaining work
-  authorizations—not because of the Republican narrative of criminals freely
-  entering the country, a claim which relies more on an uninformed paranoia than
-  evidence, bearing close resemblance to a loud exclamation: Look! Green aliens
-  from the sky are landing in the neighbor's backyard! Or: Behold, the Loch Ness
-  monster! And with it comes a whole backstory and details we did not surely
-  invent ourselves!
-
-  But let us first address one part of the pressing issue: the popular image of
-  illegal immigrants threatening to topple the country. Bret Weinstein recently
-  <a href="https://youtu.be/M7dAm5HAJmM?t=246">spoke</a>
-  on the Joe Rogan podcast about what the migrants he saw on his trip to Panama.
-  He talks about a sudden new wave of immigrants: the Chinese immigrants, who
-  Weinstein describes as being "composed of mostly young, military-aged men", who
-  Weinstein further found to be "broadcasting hostility". Weinstein paints a
-  picture of mystery and secret scheming, questioning what could be the
-  reasons behind this new migration, even saying that it "could well be an
-  invasion."
-
-  But if we look elsewhere we find, contrary to Weinstein's fear-ridden portrayal,
-  that 60 MINUTES
-  <a href="https://www.youtube.com/watch?v=M7TNP2OTY2g">covered</a>
-  these new migrants when they are just coming into the country and
-  <a href="https://www.youtube.com/watch?v=S2Gs0i3Ao34">examined</a>
-  the gap in the wall where they come through. We must be clear: before the
-  legislation halting the inflow of migrants, this was a problem. But the
-  situation was not part of some cultish agenda. The issue may have seemed like a
-  hidden scheme to someone like Weinstein who positions himself as a purveyor of
-  rare and valuable knowledge unavailable to plain sight, who for some reason
-  hasn't consulted a search engine, but to the public, it's actually not a
-  secret. An
-  <a href="https://apnews.com/article/chinese-emigration-us-mexico-border-darien-381c215ff30f0f2349c2ea118aa280c6">article</a>
-  in the Associated Press covered the issue. The Washington Office on Latin
-  America
-  <a href="https://www.wola.org/2023/12/weekly-u-s-mexico-border-update-congress-negotiations-increased-arrivals-migration-from-china/">published</a>
-  a weekly update that provides facts and specific numbers on the migration. The
-  New York Times has shared multiple articles,
-  <a href="https://www.nytimes.com/2023/11/24/us/politics/china-migrants-us-border.html">here</a>,
-  <a href="https://www.nytimes.com/2023/12/03/business/darien-gap-china-immigration.html">here</a>,
-  and
-  <a href="https://www.nytimes.com/2024/03/06/nyregion/chinese-immigrants-new-york-city.html">here</a>.
-  But more specific to Weinstein and, I should add, in a manner more befitting his
-  approach—on the admittedly left-leaning talk show, THE MAJORITY REPORT, Sam
-  Seder and colleagues comment on Weinstein's characterizations in a manner that
-  is decidedly not sarcastic or satirical, not at all reproachful of some faulty
-  and malicious judgment. Seder's discerning sense of sight, his clarity of mind,
-  combined with an absolutely precise detection of the ulterior motives of
-  mankind, help us understand what the 60 MINUTES video is showing us. Seder
-  <a href="https://youtu.be/8wlTsUoXXCA?t=300">remarks</a>
-  on a particularly enlightening moment in the video, with his natural X-ray
-  vision, that someone who deceptively "appears to be an old lady" may actually
-  be "exactly the disguise you would use if you were a military-aged man."
-  Evidently, we have now entered the realm of rigorous science, informed by
-  someone's highly trained observational prowess with decades of experience in
-  such obscure matters. If the viewer were so keen to watch more of Seder, he
-  goes on to make more incredibly illuminating revelations that match Weinstein's
-  wide-eyed paranoia that some might mistake for unhinged fright.
-
-  Let us return to facts and contextualize these oversimplifying images of
-  immigrants and the alarming narrative of military-aged men currently entering
-  the country.
-  <a href="https://www.american.edu/cas/faculty/akraut.cfm">Alan Kraut</a>
-  writes in his 1982 book, THE HUDDLED MASSES: THE IMMIGRANT IN AMERICAN SOCIETY
-  1880-1921,
-  <blockquote>
-  Increasingly, historians have come to reject any simplistic, monolithic pattern
-  of race and ethnicity. No longer do scholars treat all immigrants collectively
-  as history's dissatisfied masses who hoped to escape their problems by flight.
-  Nor do they insist that members of each racial or religious group all shared
-  like motives for emigration . . . Too often, still, historians fail adequately
-  to ackowledge that it was the single individual who decided to go or stay . . .
-  The [popular image of] "the huddled masses" exist only until the morning mist
-  blows clear to reveal individuals and families standing separately and
-  resolutely . . . Who actually emigrated to America in the years between 1880
-  and 1921? Until the turn of the century, most were young males in their teens
-  or early adulthood, who had left their parents or young wives and children
-  behind as they pursued opportunity abroad. Immigration officials estimated that
-  78 percent of the Italian and 95 percent of the Greek immigrants were men.
-  Asian emigrants in the period also tended to be young males. However, after
-  1900, the character of migration changed among some groups. By 1920, 48 percent
-  of southern Italian arrivals were female. Among Poles the proportion of men to
-  women was almost evenly divided. And among Slovaks, female immigrants
-  outnumbered males 65 percent to 35 percent. In other groups, however, the
-  newcomers continued to be mostly male. Almost 80 percent of the Greek arrivals
-  were men and boys in 1920.
-  </blockquote>
-  If Weinstein accuses the current migrants as consisting of mostly military-aged
-  males, why does he limit himself to these modern migrants and not go back
-  further into the country's history to also indict the many prior ones? One may
-  even ask, when have migrants not often consisted mostly of military-aged men?
-  Kraut writes further:
-  <blockquote>
-  The majority of immigrants were either Catholic or Jewish, especially
-  frightening to a predominantly Protestant America . . . The physical appearance
-  of the newcomers, over which they had little control, was perhaps most
-  frightening to the native-born . . . Just as the ragged Irish of an earlier era
-  had made proper Bostonians cringe, so the new immigrants of every hue and body
-  type met anxious glances as they tramped down gangplanks into a New World long
-  dominated by Anglo-Saxons. With each successive boatload, Americans worried
-  about the influence of foreign blood on the vitality of the American
-  population . . . Immigrants were denounced in articles and books most newcomers
-  could not yet read and derided in sermons from church pulputs and university
-  lecterns most never heard . . . The immigrants, then, were under attack for
-  reasons that can be isolated for analytical purposes, though many Americans had
-  multiple reasons for despising the newcomers. John Higham, in his now classic
-  study of nativism, <i>Strangers in the Land</i> (1955), identified three
-  strains of anti-immigrant venom: racial nativism, anti-Catholicism, and
-  antiradical nativism. However, anti-Semitism, its origins buried deep in the
-  culture of Western civilization, might well be treated as a fourth strain.
-  Then, too, immigrants encountered the hatred of those who blamed the newcomers
-  for unemployment, low wages, or urban problems such as violent crime and vice.
-  </blockquote>
-  With Weinstein, we see an example of a blend of fact and fiction, and perhaps
-  this is the accurate picture of any masked knight, that his statements are
-  neither completely true nor completely false, but that deceivers couch their
-  lies within the adjacency of verifiable facts.
-  <a href="https://scholar.google.com/citations?user=-GBU6qkAAAAJ&hl=en">Daniel Markovits</a>,
-  collating research in deception studies, suggests in a
-  <a href="https://doi.org/10.1016/j.newideapsych.2020.100816">paper</a>
-  the metaphor of a faucet as a mix of deception and truth, a blend of hot and
-  cold water. It may be that someone is quite fond of faucets.
-
-  <br>
-
-  <blockquote>
-  A rhetorician of times past said that his trade was to make little things appear
-  and be thought great. That's a shoemaker who can make big shoes for a small
-  foot . . . Those who mask and make up women do less harm, for it is a matter of
-  small loss not to see them in their natural state; whereas the other men make a
-  profession of deceiving not our eyes but our judgment, and of adulterating and
-  corrupting the essence of things.
-  </blockquote>
-  <span class="quoter">
-  —Montaigne, OF THE VANITY OF WORDS, ESSAYS
-  </span>
-
-  <br>
-
-  Likewise, Ben Carson recently made
-  <a href="https://www.youtube.com/watch?v=TrUSLyiYHR0">made</a>
-  similar claims at the Conservative Political Action Conference, saying:
-  "An estimated ten million illegal aliens have invaded our country since Biden
-  took over", consisting of "mostly military-aged males." I can agree with
-  Carson when he mentions the widespread condemnation and censorship of
-  conservatives, but he, like Weinstein, spreads false claims about doom and
-  terror, promoting blind fear, xenophobia, and paranoia. Among his claims,
-  Carson describes the January 6 rioters as "peaceful pro-life protestors and
-  patriotic grandmothers". NBC has provided raw
-  <a href="https://www.youtube.com/watch?v=DXnHIJkZZAs">footage</a>
-  of the scene that day. And what do we find there? Without a doubt, we see lots
-  of peace! And we surely see plenty of "patriotic grandmothers"!
-
-  In our abiding support for these grandmothers, we must consult immigration
-  history! Francesco Cordasco's IMMIGRANT CHILDREN IN AMERICAN SCHOOLS, published
-  in 1976, is a bibliography of textbooks, academic papers, file cards, reading
-  lists, notebook volumes, surveys, and all manner of exciting reading material
-  sure to keep anyone awake at night wondering what joys lay within. Ah, how the
-  mention of a bibliography makes me long for the good old days when one could
-  slide out an obscure hardcover with its dust jacket removed some decades ago by
-  a pedantic librarian and along with it the friendly colors and pictures which
-  resemble the book's face, courteously absent, when one could flip to the
-  library card in the back cover to discern its popularity with the people, when
-  one could frolic freely in the stacks without rickety feet or fragile legs or
-  failing eyesight, when one's hands could leaf through a pile of Dewey Decimal
-  cards, still lukewarm from the previous user, without some maddening reminder
-  of arthritis—oh, my old bones!—when one has not, with great resistance,
-  succumbed to the ailments of old age, when in the 1970s I was only just
-  entering the promising years of my middle age—how I recall those years with the
-  fondness of one's old memories. Oh, please do forgive this nostalgic excursion
-  of mine. Great joy from recalling how things used to be makes me beside myself!
-  What this old mind of mine wanted to mention: Cordasco provides a background to
-  the subject matter of his bibliography:
-  <blockquote>
-  Since the keeping of records which were begun in 1819, it has been estimated
-  that some 43 million humans made their way into the United States of America,
-  truly one of the greatest peaceful human migrations in the whole history of
-  mankind. Of these, at least 40 million were of European origin and the
-  remainder of widely scattered origins. The bulk of the migration in the period
-  before 1819 (<i>i.e.</i>, 1607-1819) came from Northern and Western Europe, and
-  of this a preponderance came from the British Isles; the remainder was from
-  other parts of Europe, and also included an estimated 300 thousand blacks,
-  mostly brought in as slaves. The period between 1819-1882 is often referred to
-  as the era of the "old migration" in which some 10 million immigrants arrived,
-  with the majority again originating in Northern and Western Europe. Between
-  1882-1921 ("the new migration"), the period of the greatest sustained
-  migration, the migrants were largely of southern and eastern European origin
-  (some 20 million) out of an estimated 23.5 million.
-  </blockquote>
-  Of these immigrants, Humbert Nelli describes their scope in an essay entitled,
-  EUROPEAN IMMIGRANTS AND URBAN AMERICA (in the 1973 essay collection, THE URBAN
-  EXPERIENCE, edited by Raymond Mohl and James Richardson):
-  <blockquote>
-  During the century that followed the Napoleonic wars and ended with World War I,
-  approximately 35 million European immigrants entered the United States. Some
-  left their homeland because of religious persecution, some to evade military
-  service or prison sentences, and others to escape the death penalty. For most
-  newcomers, however, economic factors ranked first in importance . . . Whatever
-  their origin, newcomers tended to settle in American cities, where they formed
-  a highly visible segment of the population . . . Newcomers from northern and
-  western Europe—the so-called old immigrants—arrived in the decades between 1815
-  and the 1880s. Their pattern of settlement was followed later by "new"
-  immigrants from southern and eastern Europe, who arrived during the thirty-five
-  years prior to World War I. On the eve of the Civil War, foreign-born residents
-  formed approximately half (and in some cases more) of the populations of
-  Chicago, Detroit, Milwaukee, St. Louis, Cincinnat, and New York City. For
-  example, along with its other nationalities, New York City was more than
-  one-fourth Irish and one-eighth German. In 1910, when the federal census showed
-  that fewer than half the country's native Americans lived in cities, 68.3
-  percent of the "old" and 78.3 percent of the "new" immigration resided in urban
-  areas.
-  </blockquote>
-  Such high rates of immigrants! And their kids! How our public school surely knew
-  how to cater to their needs! Cordasco writes:
-  <blockquote>
-  By 1911, 57.5 percent of the children in the public schools of 37 of the largest
-  American cities were of foreign-born parentage; in the parochial schools of 24
-  of these 37 cities, the children of foreign-born parents constituted 63.5
-  percent of the total registration . . . And by 1911 almost 50 percent of the
-  students in secondary schools were of foreign-born parentage. The situation in
-  New York City was not atypical. Serious deficiencies existed in the adequacy of
-  available school facilities. In 1890, it was estimated that in New York City
-  some 10,000 children, who were within the legal ages for school attendance,
-  were without actual school accommodations, and this figure was undoubtedly
-  conservative. The passage of the Compulsory Education Act in 1895, stipulating
-  that all children attend school between the ages of eight and sixteen
-  years . . . exacerbated the situation in New York City, and because of the lack
-  of accommodations, the Compulsory Education Act was to all intents
-  inoperative . . . That the public schools in New York City were unable, or
-  unwilling to meet the challenge of immigrant children is readily apparent in
-  the paucity of the concepts and programs which were fashioned . . . If New York
-  City was typical, the urban schools provided no system-wide policy which dealt
-  with the educational needs to immigrant children; and where programs were
-  fashioned to meet these needs, there was no attempt made to differentiate
-  between immigrant groups (<i>e.g.</i> the experience of Italians and Jewish
-  children in New York City strongly documents this failure); instead children
-  were lumped under the rubrics "native-born" or "foreign-born." If one discounts
-  the multiplicity of disfunctional [sic] programs, rampant discrimination,
-  authoritarian prejudice, it is still difficult to attribute the general
-  patterns of failure to immigrant children or to their parents. The blame for
-  the failure lies almost wholly within the school and the dominant society which
-  shaped its programs and articulated its cultural ideals.
-  </blockquote>
-  Cordasco, himself an Italian American born to immigrant parents, quotes from THE
-  SOCIAL BACKGROUND OF THE ITALO-AMERICAN CHILD by Leonardo Covello, also an
-  Italian American:
-  <blockquote>
-  Of no little importance was the fact that the Americanization programs were
-  directed only toward people of foreign stock, without giving any consideration
-  to the necessity of involving <i>all</i> Americans, regardless of the time of
-  their arrival in the United States. But, above all, the early Americanization
-  policies, by and large, denied or neglected the strength of, and the values in,
-  the foreign culture of immigrant groups. The concept of Americanization was
-  based upon the assumption that foreigners and foreign ideas and ways were a
-  threat to American political, economic, social stability and security. The
-  infiltration of foreign culture, it was feared, would eventually bring about a
-  deterioration of the American "way of life." Programs were designed, therefore,
-  to suppress or eliminate all that was conceived of as "foreign" and to impose
-  upon the immigrant a cultural uniformity with an American pattern.
-  </blockquote>
-  What a great struggle for these Italian American children to find some decent
-  education, these fine folks who in a different century would have been known as
-  the Romans, whose ancient heritage seems to have appeal only when it is far and
-  long gone! And in another century, the originators of the Renaissance!
-
-  In this rapid swelling of immigrants in the cities, how can it be that anyone
-  could harbor decidedly negative views towards them? It is not nativism and
-  resistance that amounts to the country's default position on immigrants! It is
-  not that we must hold a magnifying glass against a the needle in the haystack
-  to convince ourselves of any welcoming illusion! In fact, the needle has
-  surfaced before us: we find one sympathetic view in 1913, when Philander
-  Claxton, then the Commissioner of Education, wrote a letter to the Secretary of
-  the Interior:
-  <blockquote>
-  To the people of no other country is the problem of the education of immigrants
-  of so much importance as to the people of the United States. No other country
-  has so many men, women, and children coming to its shores every year from all
-  parts of the world . . . It is reported that the immigrants stopping in New
-  York City last year were from 98 different countries and provinces and spoke 66
-  different languages . . . Most of the immigrants in recent years have little
-  kinship with the older stocks of our population, either in blood, language,
-  methods of thought, traditions, manners, or customs; they know little of our
-  political and civic life and are unused to our social ideals; their environment
-  here is wholly different from that to which they have been accustomed.
-  Strangers to each other, frequently from countries hostile to each other by
-  tradition, of different speech and creeds, they are thrown together, strangers
-  among strangers, in a strange country, and are thought of by us only as a
-  conglomerate mass of foreigners. With little attention to their specific needs,
-  they are crowded into factories, mines, and dirty tenement quarters, too often
-  the prey of the exploiter in business and the demagogue in politics . . . But
-  it is not alone the question of the school education of children. The millions
-  of adult men and women, and of children older than the upper limit of the
-  compulsory school-attendance age, must be looked after; they must be prepared
-  for American citizenship and for participation in our democratic industrial,
-  social, and religious life . . . For the enrichment of our national life as
-  well as for the happiness and welfare of individuals we must respect their
-  ideals and preserve and strengthen all of the best of their Old World life they
-  bring with them. We must not attempt to destroy and remake—we can only
-  transform.
-  </blockquote>
-  Can we discover more shiny needles in the annals of American immigration
-  history? Well, let us consult the facts. With the cities teeming with
-  immigrants, Nelli writes:
-  <blockquote>
-  In 1819, a report of the Society for the Prevention of Pauperism in the City of
-  New York complained that immigrants arriving in the United States were
-  poverty-stricken, ignorant, incapable of self-support, and criminally inclined,
-  placing an intolerable burden on the community and forcing better elements to
-  despair of coping successfully with the whole immigrant problem . . . A report
-  prepared in 1857 commented on tenement areas conditions of New York
-  City: "These immigrants . . . are destitute, sick, ignorant, abject . . . They
-  swarm in filthy localities, engendering disease, and enduring every species of
-  suffering . . . They are often habitual sots, diseased and reckless, living
-  precariously, considering themselves outcasts, and careless of any change in
-  their condition." This report referred to "old" immigrants, principally Irish
-  and German; later reports used similar (sometimes identical) wording to
-  describe conditions among "new" immigrant groups before World War I. In 1922,
-  John Palmer Gavit . . . described the repeating pattern: "Each phase of
-  immigration has been 'the new immigration' at its time; each has been viewed
-  with alarm; each has been described as certain to deteriorate the physical
-  quality of our people and destroy the standards of living and of citizenship."
-  </blockquote>
-  Whenever I wish to relive some dear old memories of mine, I visit the images
-  that the New York Public Library has graciously
-  <a href="https://www.nypl.org/blog/2018/06/07/tenement-homes-new-york-history-cramped-apartments">provided</a>
-  the public of the city's olden days. How charming were the tenement years! How I
-  absolutely adore them! Oh, I miss them with a great nagging nostalgia! As I
-  recall them now, a block of anger surges to my heart! How the government has
-  changed all that was good about the city! The History Collection has
-  <a href="https://historycollection.com/living-hell-new-yorks-tenements-were-nightmares-in-the-early-1900s/">provided</a>
-  photos for all to see how spectacular the good old days were! These are some of
-  the highest quality images I've seen. Oh, how gorgeous! But the haughty city
-  mayor and regulators thought they were doing the public a service when they
-  wanted to pass some laws! Surely, the landlords had their tenants' best
-  interests in mind! How can anyone blame them for not installing windows or
-  toilets in the apartments! How tenderly I remember those days when we knew not
-  the word "toilet" but "chamber pot" and "outhouse"! How times have changed, oh,
-  believe me! Believe me too when I say I did my best to resist any change! I
-  myself was in front of the picket line, holding out the biggest sign of the
-  bunch, protesting against the city's proposed regulations. What an outrage that
-  the city's council thought it knew the tenants' desires and comforts better
-  than the landlords out to make a buck! Just imagine how many young immigrant
-  lads and gals, rushing out in the evening to answer nature's call, met while on
-  the long line to use the one and only outhouse supplied for the overcrowded
-  tenements! Under the full moon, surrounded by tense neighbors, in front of the
-  distinct smell of rotting orchids, is the prime cinematic image of a meet-cute!
-  Why hasn't anyone thought of this before? What a hit it'll surely be! Call it:
-  Romance of the Fragrant Outhouse! And the sequel: Dream of the Spent Chamber
-  Pot!
-
-  It wouldn't be until the
-  <a href="https://rarehistoricalphotos.com/new-york-photos-1970s-vergara/">1970s</a>
-  (photos from Rare Historical Photos) and
-  <a href="https://www.blind-magazine.com/stories/roaming-the-wild-streets-of-new-york-in-the-1980s/">1980s</a>
-  (photos from Blind Magazine) that my doleful, forsaken spirits were revived when
-  the sights and sounds and people reminded me of the golden days! How I held my
-  breath until then! How I savored every moment surrounded by the graffiti in the
-  subway! How I long for those days still! What great joy I had back then! As a
-  matter of fact, if you look carefully, you might find me in one of the
-  snapshots enjoying myself! To this day, I still have one of those glamorous
-  photos framed in my bedroom, for nostalgia's sake! Woody Allen portrayed a
-  corrupt, degraded New York in his 1979 movie, MANHATTAN, but his abomination
-  does little to deter me from my memories of the city's former glory, its
-  littered and poorly lit streets full of shade, sketch, and graphite on the
-  walls! I am still holding my breath!
-
-  But we are speaking of immigration! Was it a problem? Considering the massive
-  influx of immigrations, how could the federal government not get involved with
-  a whole commission on the matter?
-  <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014TvDjAAK/katherine-bentoncohen">Katherine Benton-Cohen</a>
-  writes in her 2018 book, INVENTING THE IMMIGRANT PROBLEM: THE DILLINGHAM
-  COMMISSION AND ITS LEGACY:
-  <blockquote>
-  Along with seven other men, [Henry Cabot] Lodge and [William P.] Dillingham
-  would oversee the largest study of immigrants ever conducted in the United
-  States—the so-called Dillingham Commission. The Dillingham Commission's work
-  has shaped immigration policy ever since. It produced forty-one volumes of
-  reports, summarized in a brief but potent set of recommendations that was far
-  more restrictive than its own evidence supported. Within a decade, almost all
-  of these policy initiatives were implemented into law. They included a literacy
-  test, a quota system that varied by nationality, the continued exclusion of
-  Asians, and a panoply of new immigration rules. The commission's reforms
-  effectively ended mass immigration from 1924 until the passage of the
-  Hart-Celler Act of 1965 . . . [E]ven the commission's assertions of objectivity
-  produced inconsistent interpretations and contradictory data. The men and women
-  of the Dillingham Commission were not of one voice. But its final
-  recommendations were so brief, decisive, and restrictive—and so quickly
-  successful—that the behind-the-scenes debates about the nature and impact of
-  immigration . . . were swiftly obscured . . . The Dillingham Commission's
-  paradigm of "old immigrants" versus "new immigrants" has shaped the study of
-  immigration ever since. Both categories referred to Europeans: "old immigrants"
-  had come mostly from Ireland, Germany, and Scandinavia in the mid-nineteenth
-  century. In contrast, the commission assumed the mostly Jewish, Italian and
-  Slavic "new immigrants" to be less assimilable and more "alien." . . . For
-  decades, this so-called hoary distinction between old and new was axiomatic in
-  histories of immigration. But the dichotomous model implicitly defined Asian
-  and Mexican immigrants as "other" in ways that have continued to structure
-  immigration policy and to produce a racial subtext about "illegal aliens" to
-  the present day . . . It was not inevitable that the commissioners would
-  recommend these restrictions. The evidence presented in their own volumes did
-  not support the weight of their conclusions. There were places in the text
-  where they admitted as much. But the pressure to recommend decisive action was
-  strong. A mandate by Congress to solve the "immigration problem" necessitated a
-  clear response . . . Many of the Dillingham Commission's volumes were like
-  other government reports, easily ignored or forgotten. Even the
-  commisioner-general of the Bureau of Immigration, Charles Nagel, read only the
-  abstracts, not the reports. "As to the forty volumes," he told Simon Wolf, "I
-  feel constrained to consider my limited time and my obligations to my family."
-  Indeed, the commission's brief list of recommendations in the first volume had
-  remarkable influence.
-  </blockquote>
-  But Mr. Nagel, the volumes number only to the forty! This limited time of which
-  you speak—is not time itself unlimited? And however we spend our time, is the
-  end not all the same? Wouldn't you agree? Oh my, I am taken aback—what loud
-  protests I hear! On this note, it is with immense pleasure that I am afforded
-  an opportunity to mention one of my great joys in life because, as it happens,
-  Benton-Cohen
-  <a href="https://www.c-span.org/video/?452933-1/1911-congressional-report-immigration">appeared</a>
-  on my favorite television channel, C-SPAN. I must tell you I am an avid follower
-  of this astonishing news outlet. I have a daily regimen: every night, after
-  returning from church service, I consult the Bible, because church is not
-  enough, and then with great excitement I catch up on some C-SPAN. Nonetheless,
-  all joys come to an end, and I willfully put my elation aside for now, as it
-  has caught my attention that the Smithsonian Magazine published a 2018
-  <a href="https://www.smithsonianmag.com/history/1911-report-set-america-on-path-screening-out-undesirable-immigrants-180969636/">article</a>
-  that, concurring with Benton-Cohen, notes similar discrepancies in the
-  best-selling and well-read Dillingham Reports:
-  <blockquote>
-  Throughout its inquiry, the commission's investigators sought to maintain
-  objectivity; to collect the facts, let them speak for themselves, and make
-  recommendations absent of bias. Throughout the <i>Reports</i>, the commission
-  described immigrants positively, including the vilified "new" arrivals. Even
-  the verbiage immediately preceding the recommendation of the literacy test
-  spoke of them positively. Yet, a social climate of fear and bigotry hijacked
-  the investigation, and the commissioners themselves, ignoring facts in their
-  own reports, endorsed restriction, largely to exclude the most recent types of
-  immigrants. Critics, to no avail, would argue that socioeconomic conditions did
-  not warrant more extensive exclusion, based on the commission's own standards
-  for such action. But the commission's identification of the literacy test as
-  the most "feasible method" trumped any such assertions.
-  </blockquote>
-  The nativist resistance against immigration stems partly from the notion that
-  newcomers compete for employment. Nelli writes:
-  <blockquote>
-  Popular opinion held that newcomers, both "old" and "new," displaced native
-  American workingmen and depreciated wage rates. This argument appeared as early
-  as the 1850s against new arrivals from Ireland, England, and Germany. Its
-  foremost proponent, Francis A. Walker, superintendent of the census in 1870 and
-  later president of Massachusetts Institute of Technology, maintained that
-  immigration held down the native-born population because immigrants accepted
-  lower wages and worse living conditions than did Americans . . . Dillingham
-  researchers "showed" that new groups were in the process of forcing out older
-  elements from industrial jobs, especially in the eastern portions of the
-  nation. The commission concluded that such displacement adversely affected both
-  workers and the country. However, this conclusion had only a tenuous connection
-  with the commission's evidence. Facts collected by researchers indicated that
-  immigrants neither underbid nor competed with their predecessors; furthermore,
-  the increased economic activity permitted by a larger labor force enabled
-  earlier groups to improve their economic levels. Displacement indeed occurred,
-  but the movement was generally upward or outward, as earlier groups and native
-  Americans became foremen, executives, partners, owners, and the like or moved
-  to higher-paying jobs in other states. Examining the coal industry, the
-  commission found that the native-born and "old" immigrant workers moved to the
-  Midwest or Southwest and brought about a tremendous expansion in mining
-  operations.
-  </blockquote>
-  More recently, Aviva Chomsky explains in her 2007 book, "THEY TAKE OUR JOBS!"
-  AND 20 OTHER MYTHS ABOUT IMMIGRATION:
-  <blockquote>
-  [T]he relationship between population size and the number of jobs available is
-  not quite as simple as it might seem. In the fact, the number of jobs is
-  <i>not</i> finite, it is elastic, and affected by many factors. Population
-  growth creates jobs at the same time that it provides more people to fill jobs,
-  and population decline decreases the number of jobs at the same time as it
-  provides fewer people to work at them. Population growth creates jobs because
-  people consume as well as produce: they buy things, they go to movies, they
-  send their children to school, they build houses, they fill their cars with
-  gasoline, they go to the dentist, they buy food at stores and restaurants. When
-  the population declines, stores, schools, and hospitals close, and jobs are
-  lost.
-  </blockquote>
-  No doubt this Chomsky is getting at something! But fear we must!
-  <a href="https://scholar.google.com/citations?user=p-YA2mIAAAAJ&hl=en">Ariane Chebel d'Appollonia</a>
-  writes in her 2012 book, FRONTIERS OF FEAR:
-  <blockquote>
-  [I]t is worth noting that the U.S. and European public always overestimate the
-  size of the foreign-born population. Two-thirds of Americans give inaccurate
-  responses to questions about the proportion of the population of foreign born,
-  and about how racial and ethnic groups are distributed in the national
-  population. When asked in 2006 what proportion of the U.S. population was born
-  outside the United States, most people tended to choose a figure much higher
-  than the Census Bureau figure of 12 percent. Only 34 percent selected the
-  correct answer ("closer to 10 percent"); 25 percent said the number was "closer
-  to 25 percent"; and 28 percent believed it exceeded 25 percent of the total
-  population.
-  </blockquote>
-  These numbers don't include the undocumented migrants though! Aren't those the
-  dangerous types? The ones we see as treacherous illegals whom we do not permit
-  any other image than as dubious and immoral, and therefore, within the category
-  we place them, must be so?
-  <a href="https://politicalscience.sdsu.edu/people/gonzalez-obrien">Benjamin Gonzalez O'Brien</a>,
-  <a href="http://polisci.unm.edu/people/faculty/profile/loren-collingwood.html">Loren Collingwood</a>,
-  and
-  <a href="https://scholar.google.com/citations?user=UlXRyOoAAAAJ&hl=en">Stephen Omar El-Khatib</a>
-  published a 2017
-  <a href="https://doi.org/10.1177/1078087417704974">paper</a>
-  on the relation between sanctuary cities and crime, writing that:
-  <blockquote>
-  The idea that sanctuary policies drive up crime rates is premised to a large
-  extent on the notion that undocumented immigrants tend to offend at higher
-  rates, something that has been disproven time and again. In fact, many studies
-  find an inverse relationship between immigration, undocumented or otherwise,
-  and crime rates . . . Despite these findings . . . criminalization has been the
-  default response of the federal government to the "problem" of undocumented
-  immigration . . . Indeed, if anything, undocumented immigrants may be more
-  likely to be victims of crime, rather than perpetrators of crime . . . Our
-  findings suggest that sanctuary policies themselves do not affect crime rates,
-  which contradicts the primary narrative for their repeal . . . Sanctuary cities
-  were initially designed to provide aid to and then incorporate people into
-  American life from war-torn Central American countries. The policies have a
-  strong basis in empathy, often with the backing of churches and local aid
-  organizations. Thus, the policies are designed to assist people in extremely
-  vulnerable positions in the United States in navigating their way to a life
-  that is as safe and healthy as possible. However, in recent years, a few
-  high-profile incidents where undocumented immigrants have committed horrific
-  crimes have led some political candidates—generally on the right—and other
-  actors to make sweeping negative claims about the deleterious effects of
-  sanctuary cities . . . We found these claims highly dubious on their face given
-  evidence beginning in the 1930s and continuing until today that immigrant
-  populations tend to produce less crime because these populations are more
-  concerned with deportation and running afoul of the law relative to the
-  native-born population.
-  </blockquote>
-  In this context, the researchers conducted their own analysis to evaluate these
-  claims, finding that:
-  <blockquote>
-  [T]he difference between our sanctuary cities and nonsanctuary cities on the
-  matching variables reduced to essentially zero. The result indicates that there
-  is no discernible difference on each type of crime we measured between
-  sanctuary and nonsanctuary cities. Thus, when it comes to crime, we conclude
-  that sanctuary cities have essentially no impact one way or the other.
-  </blockquote>
-  More concretely,
-  <a href="https://crim.sas.upenn.edu/people/aaron-j-chalfin">Aaron Chalfin</a>
-  <a href="https://crim.sas.upenn.edu/fact-check/do-mexican-immigrants-cause-crime">points</a>
-  out the example of one city in Texas right along the Mexico border:
-  <blockquote>
-  More than 80% of El Paso's residents are Hispanic and the vast majority of these
-  individuals are of Mexican origin. A large population of El Paso's Hispanic
-  population are immigrants. In fact, El Paso has one of the highest proportions
-  of immigrants among U.S. cities. Many of these migrants are undocumented. If
-  those who fear Mexican immigration are right, then El Paso should be a hotbed
-  of violence. As it turns out, El Paso is one of the safest cities in the United
-  States with a homicide rate of 2.4 per 100,000 residents.
-  </blockquote>
-  How can this be, we ask? We serious folks certainly do not receive the news
-  from
-  <a href="https://scholar.google.com/citations?user=lr8aD-wAAAAJ&hl=en">Michael Light</a>
-  et al. lightly when they turned the joke around and
-  <a href="https://nij.ojp.gov/library/publications/comparing-crime-rates-between-undocumented-immigrants-legal-immigrants-and">claimed</a>
-  in 2020:
-  <blockquote>
-  Contrary to public perception, we observe considerably lower felony arrest rates
-  among undocumented immigrants compared to legal immigrants and native-born US
-  citizens and find no evidence that undocumented criminality has increased in
-  recent years . . . Our findings are also consistent with research on the
-  selective nature of migration, which suggests that immigrants tend to fare
-  better on multiple social indicators than would be expected by their level of
-  socioeconomic disadvantages . . . In addition, many undocumented immigrants are
-  driven by economic and educational opportunities for themselves and their
-  families, and the decision to migrate necessarily requires a considerable
-  amount of motivation and planning. As such, undocumented immigrants may be
-  selected on qualities such as motivation to work and ambition to achieve,
-  attributes that are unlikely to predispose them toward criminality.
-  </blockquote>
-  Light et al. used data between 2012 and 2018, but
-  <a href="https://immigrationlab.org/our-team/ran-abramitzky/">Ran Abramitzky</a>
-  et al. were surely not serious when they
-  <a href="https://www.nber.org/system/files/working_papers/w31440/w31440.pdf">expanded</a>
-  the range, studying the incarceration data between 1850 and 2020! They
-  don't distinguish between illegal and legal in his count, but they write:
-  <blockquote>
-  [W]e document that, as a group, immigrant men have had a lower incarceration
-  rate than US-born men for the last 150 years of American history . . . Today,
-  immigrants are 60% less likely to be incarcerated than all US-born men, and 30%
-  less likely to be incarcerated relative to white US-born men.
-  </blockquote>
-  To the great feminists who feel neglected, the authors dutifully kept
-  inclusivity in mind! They focused on men "because men constitute the vast
-  majority of the incarcerated population both today and in the past", observing
-  that, "Our takeaways are unchanged if we include women". Over such a long time
-  period: is this joke in fact true? Even the conservative Cato joins the
-  merriment! Much to our chagrin, it was only earlier this year that
-  <a href="https://www.cato.org/people/alex-nowrasteh">Alex Nowrasteh</a>
-  <a href="https://www.cato.org/blog/illegal-immigrants-have-low-homicide-conviction-rate-setting-record-straight-illegal-immigrant">admitted</a>
-  as much, specifically on homicide conviction rates. After jumping through a few
-  hoops in data inconsistencies, lack of transparency, and confusion, he arrived
-  at the same conclusion that the joke is on us! Yet, the researchers of the
-  sanctuary city paper published a follow-up 2019 book, SANCTUARY CITIES, which
-  expanded on the original paper with more research supporting the conclusions,
-  in response to a misuse of the paper:
-  <blockquote>
-  Unbeknownst to them [the authors], conservative media outlets like Fox and
-  others were using their research to justify banning sanctuary cities based on a
-  misinterpretation of a figure they had included in the paper.
-  </blockquote>
-  As a matter of fact, criminal activity in general, not only from illegal
-  immigrants, has been benting towards a certain direction for a number of years.
-  Crime
-  <a href="https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend">data</a>
-  from the FBI (because if the FBI doesn't come to you, you go to the FBI!) with
-  incident rates back until 1985 shows a distinctly downward trend on all crimes
-  nationally since 1992 that some with keen eyes may characterize as a consistent
-  decline. Confirming the wisdom of these perceptive onlookers, a Pew study
-  <a href="https://www.pewresearch.org/short-reads/2024/04/24/what-the-data-says-about-crime-in-the-us/">combined</a>
-  the crime data from the FBI and Bureau of Justice Statistics, each with a
-  different data collection method, going so far to even describe the type of
-  decline: "[D]ata show dramatic declines in U.S. violent and property crime
-  rates since the early 1990s". And yet the Pew study points out that most
-  Americans, 77% in 2023, up from 47% in 2000, believe that crime has risen
-  nationally. Why this large discrepancy? Could it be that a particular party is
-  spreading lies about the country's imminent ruin and disaster from caravans of
-  dangerous, nameless, faceless criminals entering the country? The authors of
-  SANCTUARY CITIES, after reviewing the media's portrayal of sanctuary cities,
-  write in the book:
-  <blockquote>
-  This [crime] narrative is fed by a highly negative and stereotypical portrayal
-  of immigrants by the media . . . [T]he media persistently frame immigrants as
-  undocumented, imply criminality by drawing attention primarily to imigrant
-  arrests and detention, and focus on the border . . . Given the scholarship
-  reviewed . . . there is little doubt that this framing drives many Americans to
-  conflate immigration with crime, and to think of the issue in highly episodic
-  ways.
-  </blockquote>
-  The authors continue:
-  <blockquote>
-  The potential benefits of sanctuary policies in the city from increasing
-  cooperation between immigrant communities and police has been more and more
-  drowned out, particularly in broadcast media and television news, by
-  politicians like Donald Trump who seek to use the issue for electoral advantage
-  and to tap into the nativism and racism that still make fear-mongering so
-  effective in the United States.
-  </blockquote>
-  Wherefore this fear-mongering if not horror and panic, terror and fright, nerves
-  shaking in the night? My reader, we are serious folks here!
-  <a href="https://scholars.duke.edu/person/nancy.maclean">Nancy MacLean</a>
-  writes in BEHIND THE MASK OF CHIVALRY: THE MAKING OF THE SECOND KU KLUX KLAN
-  about the second Klan in the wake of the surge of immigration in the early
-  1900s, focusing on the Athens, Georgia chapter of the Klan, near the birthplace
-  of its second incarnation. Although the well-known 1915 movie, D.W. Griffith's
-  BIRTH OF A NATION, depicts the KKK primarily as a white supremacy group, in
-  reality they also crusaded against Jews and Catholics. MacLean describes how
-  the Klan exploited economic fears and put the blame on religious and ethnic
-  others:
-  <blockquote>
-  Local Klan lecturers on "Americanism," for their part, blamed Jews and Catholics
-  for the chain-store peril . . . If present trends continued, Imperial Wizard
-  [William Joseph] Simmons warned, immigrants from Southern and Eastern Europe
-  and their children would soon crowd native-born whites out of "the business
-  class." Such charges struck a chord with local members, several of whom
-  operated in competition with Jews and immigrants from Italy and Greece . . .
-  The campaign against chain stores illustrates how impossible it is to
-  understand the Klan if one conceives of it as a simple conservative force. The
-  Klan was indeed conservative, fiercely so, as the anti-Semitism and nativism of
-  the chain-store struggle make clear. Yet the order's politics were different
-  from those of the usual standard-bearers of conservatism . . . The Klan put
-  forward a populist critique of American society suited to the middling men who
-  made up the core of its following. They resented, sometimes vociferously, "the
-  silk hat crowd" and the social transformation their reign had wrought . . .
-  While it gave voice to middle-class fears of economic concentration and
-  political empowerment, it also put up ferocious opposition to social
-  reconstruction from the left. In this dualism lay the appeal of the Klan's
-  class politics to the lower-middle-class men who flocked to the order in such
-  numbers. It articulated the animosity petit-bourgeois whites felt toward
-  <i>both</i> capital and labor—and it spoke in idioms at the core of American
-  culture.
-  </blockquote>
-  MacLean concludes that the composite partly of classical liberalism,
-  republicanism, and evangelical Protestantism "is best described as reactionary
-  populism." It is the second Klan that MacLean is discussing, which was active
-  during the early 1900s when immigration was a major issue. MacLean writes:
-  <blockquote>
-  Simmons believed that "real Americans" simply could not survive factory
-  discipline or urban life; farm life was an essential component of American
-  manhood . . . Such open hostility toward workers was rare, however; more
-  commonly it was packaged as racism. Klansmen blamed virtually all labor trouble
-  on immigrants and "foreign agitators"—those its publications depicted as "the
-  riff-raff and outcasts of Europe." Simmons maintained that already, in the
-  cities of the North and East, ethnic lines had become class lines. The urban
-  working class was split between skilled tradesmen from Britain, Germany, and
-  Scandinavia, whom he respected as the modern heirs of artisans, and unskilled
-  workers from Southern and Eastern Europe, whom he detested. The new immigrants
-  lacked the capacity to appreciate republican institutions.
-  </blockquote>
-  The KKK's visual symbols of the robe and mask, of a group rallied around a
-  burning cross in the night, are images of dread and power operating under the
-  guise of secrecy. Yet I want to touch on this issue because I believe knowledge
-  is power, negligence to history leaves us susceptible to where it may repeat
-  itself, and what becomes visible no longer holds the foreboding potency of the
-  dark, shrouded in mystery and the unknown. MacLean describes the people who
-  joined the Klan:
-  <blockquote>
-  The portrait that emerges from Klan membership rosters at mid-decade indicates
-  that the vast majority of men in the Athens Klan stood between capital and
-  unskilled labor. In their occupations, as their assets, local Klansmen hovered
-  at the midpoint of the spectrum. The greatest proportions clustered in the
-  three categories of lower white-collar employees; petty proprietors, managers,
-  and officials; and unskilled tradesmen. Klansmen's patterns of affiliation also
-  indicated their relative status: middle-class, not "society." . . . To explain
-  the order's appeal, however, the profile of Klan members needs refinement. The
-  typical Klansman was not simply petit-bourgeois; he appeared less economically
-  secure than the norm for his class. When the proprietor, he was often a
-  newcomer, and the value of his holdings was less than the average among owners
-  at large . . . They were especially anxious to distinguish
-  themselves—particularly through their moral codes—from the ordinary workers
-  they viewed as beneath them . . . In short, while the typical Klansmen was
-  better off than the vast majority of blacks and a large proportion of whites,
-  he was vulnerable. His standing was unstable, and he knew it . . . Many
-  national Klan leaders, Simmons and Evans [early leaders of the second Klan]
-  included, were themselves "self-made men" and self-consciously so. They had
-  risen from much effort from humble beginnings . . . and they sympathized with
-  other humble men on the make. The organization clearly aimed at upward-striving
-  men, moreover.
-  </blockquote>
-  I wish to add a point of emphasis that country's history of racial and religious
-  intolerance should not be eagerly exaggerated into a backlash, especially by
-  contemporary progressives, who too easily commit the same lapse of judgment
-  found in historical intolerances, which is to broadly generalize. Reality
-  consists of many factors and may in fact be more complex than our minds can
-  readily handle. The economic insecurity, class precarity, and personal
-  interests of a certain group in a moment in time, morphed by populists into
-  racial and religious intolerance and turned into a criminal organization,
-  should not be extended to others who superficially bear demographic
-  similarities to that group. I do not doubt racial and religious intolerances
-  remain in the country, but any facile anti-white argument citing the Klan as an
-  example is untenable when the fact of the matter is that it was also a
-  predominantly white country that pressured Klan members to remain anonymous and
-  which also led to its decline. Any such argument will also have to contend with
-  the fact of the Civil War. If we position the Klan within Turchin's framework
-  of counter-elites mobilizing the masses—certainly the petit-bourgeois, afraid
-  of losing their status, were not immiserated masses, but that difference may be
-  only one of degree, as the Klan was only a marginal, not a predominant,
-  group—then we have what may be a more holistic view: that such a phenomenon
-  recurs over history, among any group. By extension, I wish to suggest a
-  consequence of this fact: just as everyone has the capacity to do good, so too
-  does everyone has sinister potential, and it is the circumstances which funnel
-  people into actions sensible to them.
-
-  It is perhaps a cliché disclaimer I am adding, but it is important to prioritize
-  individuals and reality, which is more often than not multifaceted and complex,
-  that is it sometimes not easy to piece together data points, that each episode
-  and narrative has not one but multiple sides and perspectives, to not make
-  blanket statements about whole groups of people. For instance,
-  <a href="https://scholar.google.com/citations?user=lw-z-p8AAAAJ&hl=en">Alexandra Horowitz</a>
-  wrote a book called ON LOOKING: ELEVEN WALKS WITH EXPERT EYES, describing, on
-  walks in the same neighborhood, how experts in different fields notice very
-  different things, and from each of their vantages, even an identical space
-  doesn't quite look the same. Perhaps it's true that a significant component in
-  how a person turns out is the person's environment which enables certain
-  pursuits and interests, enforces some of them over time, discourages others,
-  brings exposure to certain kinds of people, are materially wealthy or deprived,
-  all of which weigh on the individual's life trajectory which could very have
-  turned out quite different under other scenarios. I think it's true, as
-  Nietzsche proposed, that there are no inherently good or evil people, but only
-  shades of nuance, that every person possesses both good and evil impulses and
-  tendencies, but some combination of the individual and the environment
-  ultimately resolve in the outcome of the person. It may be that the person's
-  environment informs many opportunities or privations which enable more good
-  than evil, or the other way around. One maxim from La Rochefoucauld, who
-  meditated on the man's deceptions to others and also to himself, can perhaps
-  be applied through a hopeful angle: "Circumstances reveal our virtues and our
-  vices, like light reveals objects."
-
-  <br>
-
-  <blockquote>
-  Travel is useful, it exercises the imagination. All the rest is disappointment
-  and fatigue. Our journey is entirely imaginary. That is its strength.<br>
-  <br>
-  It goes from life to death. People, animals, cities, things, all are imagined.
-  It's a novel, just a fictitious narrative. Littré says so, and he's never
-  wrong.<br>
-  <br>
-  And besides, in the first place, anyone can do as much. You just have to close
-  your eyes.<br>
-  <br>
-  It's on the other side of life.
-  </blockquote>
-  <span class="quoter">
-  —Louis-Ferdinand Céline, JOURNEY TO THE END OF THE NIGHT
-  </span>
-
-  <br>
-
-  It is most relevant here! to mention that Carl Jung writes in his large and
-  unwieldy RED BOOK:
-  <blockquote>
-  At that time, in the fortieth year of my life, I had achieved everything that I
-  had wished for myself. I had achieved honor, power, wealth, knowledge, and
-  every human happiness. Then my desire for the increase of these trappings
-  ceased, the desire ebbed from me and horror came over me. The vision of the
-  flood seized me and I felt the spirit of the depths, but I did not understand
-  him. Yet he drove me on with unbearable inner longing and I said: "My soul,
-  where are you? Do you hear me? I speak, I call you—are you there? I have
-  returned, I am here again. I have shaken the dust of all the lands from my
-  feet, and I have come to you. I am with you. After long years of wandering, I
-  have come to you again." . . . Life does not come from events, but from us.
-  Everything that happens outside has already been.
-  <br><br>
-  <i>Therefore whoever considers the event from outside always sees only that it
-  already was, and that it is always the same. But whoever looks from inside,
-  knows that everything is new. The events that happen are always the same. But
-  the creative depths of man are not always the same. Events signify nothing,
-  they signify only in us. We create the meaning of events. The meaning is and
-  always was artificial. We make it.</i>
-  </blockquote>
-  In the latter half of this quote, Jung touches on Nietzsche's eternal
-  recurrence, having explicitly mentioned in a lecture at ETH Zurich in 1935 a
-  turning point at a certain life phase as a parallel:
-  <blockquote>
-  A point exists at about the thirty-fifth year when things begin to change, it is
-  the first moment of the shadow side of life, of the going down to death. It is
-  clear that Dante found this point and those who have read <i>Zarathustra</i>
-  will know that Nietzsche also discovered it.
-  </blockquote>
-  Yes! Having encountered that point many, many decades ago, I can personally
-  attest to such a phenomenon. Specifically in THUS SPOKE ZARATHUSTRA, this may
-  be what Jung was referring to, as this was exactly what announced for me
-  (too!) the shadow side of life:
-  <blockquote>
-  When Zarathustra was thirty years old, he left his home and the lake of his
-  home, and went into the mountains. There he enjoyed his spirit and his
-  solitude, and for ten years did not weary of it. But at last his heart
-  changed,—and rising one morning with the rosy dawn, he went before the sun, and
-  spake thus unto it:
-  <br>
-  Thou great star! What would be thy happiness if thou hadst not those for whom
-  thou shinest!
-  </blockquote>
-  Mein Zarathustra, for whom but thee doth I shine, and doth nicht exist mein
-  happiness wert nicht for thee! Speak, mein Zarathustra! Teach mich der Über!
-  Let no unscrupulous atheist tell his good fellow Christians that God did not
-  rest on the seventh day, as the big book proclaims! But what did He do the day
-  before? He doth maketh the beautiful animals! He doth granteth his own image in
-  you! And me! He doth maketh among them Christians, Jews, Muslims, Hindus, and
-  those pagans too, so that they may quibble away! What an important task! While
-  they bickered away, there roameth in the background the many dinosaurs that
-  were created on the same day! But what did Jung do on the sixth? We learn from
-  within the covers of the red tome:
-  <blockquote>
-  Sixth night. My soul leads me into the desert, into the desert of my own self. I
-  did not think that my soul is a desert, a barren, hot desert, dusty and without
-  drink. The journey leads through hot sand, slowly wading without a visible goal
-  to hope for? How eerie is this wasteland. It seems to me that the way leads so
-  far away from mankind. I take my way step by step, and do not know how long my
-  journey will last.
-  </blockquote>
-  Doth Jung's journey not sound like a great time? Some mighty fun? I say it is
-  certainly so! But caught in Jung's desert, I spot in the yonder, through some
-  rippling hot air, some shining blue puddles! Here, my dear reader, I find
-  myself finally on familiar, recognizable grounds! It was in 1948 that the
-  sociologist Oliver Cox published his book, CASTE, CLASS, RACE, just one year
-  after my birth! If the appearance of the digits in that year strikes some
-  readers with the unmoored, unrelatable distance of a past too long ago, those
-  very digits evoke in me the immense fondness of attachment and nostalgia, like
-  discovering an oasis after weeks of fruitless trekking in the desert. Aye! How
-  the soul longs for the comforting airs of yesteryear! Although more popular
-  back in my day, Cox's work and reputation have waned in the interceding years,
-  compelling one to think it is high time someone resurrects if not the man
-  himself then surely his words! Just as we do with ours, Cox called his era
-  the "modern times":
-  <blockquote>
-  Probably one of the most persistent social illusions of modern times is that we
-  have race prejudice against other people because they are physically
-  different—that race prejudice is instinctive. From the point of view of
-  Anglo-Saxon, gentile, well-to-do people, we may hate peoples of other
-  nationalities, hate Jews, hate all colored peoples, and hate union workers. Yet
-  we can safely say that these are not all an identical social attitude. Our
-  feeling against, say, the Italians may vanish if they become our allies in war;
-  feeling against the Jews may subside as we begin to discount the importance of
-  religion in determining social phenomena; if Negroes do our work contentedly
-  and help to break strikes for us, we may defend and even treat them amicably;
-  we may see considerable virtue in union workers if they insist that the company
-  union has more merit than the outside organization. Human beings have the
-  capacity for "social hatred" or antagonism; yet in any given social situation
-  of inter-group antagonism, we do not seek an explanation by referring to this
-  capacity. The social antagonism is as stable and as different as the inciting
-  cause—the interest—behind the antagonism. Human nature itself is probably the
-  most plastic and malleable of all animal nature . . . The common practice, in
-  analyses of race relations, is to assume that race prejudice and intolerance
-  are identical social facts.
-  </blockquote>
-  Cox quotes from Ruth Benedict's PATTERNS OF CULTURE:
-  <blockquote>
-  Traditional Anglo-Saxon intolerance is a local and temporal culture-trait like
-  any other. . . . In this country it is obviously not an intolerance directed
-  against a mixture of blood of biologically far-separated races, for upon
-  occasion excitement mounts as high against the Irish Catholic in Boston, or the
-  Italian in New England mill towns, as against the Oriental in California.
-  </blockquote>
-  Cox continues:
-  <blockquote>
-  The conclusion here is explicit: there is no difference between anti-Semitism
-  and race prejudice—and this is the question before us. Anti-Semitism, to begin
-  with, is clearly a form of social intolerance, which attitude may be defined as
-  an unwillingness on the part of a dominant group to tolerate the beliefs or
-  practices of a subordinate group because it considers these beliefs and
-  practices to be either inimical to group solidarity or a threat to the
-  continuity of the status quo. Race prejudice, on the other hand, is a social
-  attitude propagated among the public by an exploiting class for the purpose of
-  stigmatizing some group as inferior so that the exploitation of either the
-  group itself or its resources or both may be justified.
-  </blockquote>
-  But more to my point: Cox's central idea is that race prejudice is not separate
-  from class exploitation by capitalists but are outgrowths of capitalist
-  interests:
-  <blockquote>
-  [The] reaction of labor, however, is not peculiarly a racial phenomenon; the
-  conflict is essentially between employer and worker. Indeed, workers will react
-  to inanimate objects, to machinery, in a characteristic way if that latter is
-  introduced suddenly as a significant substitute for labor. Workers have been
-  known to riot and attack machines in a way not unlike their attacks upon other
-  workers who, because of lower standards, are favored by employers . . . It
-  should be noted that this [racial] attitude is not an exploitative attitude; it
-  is a conflict between two exploited groups generated by the desire of one group
-  of workers to keep the value of its labor power by maintaining its scarcity. In
-  Trinidad, British West Indies, Negro workers, in almost identical terms, fought
-  against the continued introduction of indentured East Indian laborers; and
-  between 1930 and 1932 Negroes on the South Side of Chicago demonstrated against
-  the employment of white "foreigners" by certain public utilities . . . We may
-  cite, of course, many illustrations of this attitude among whites in the United
-  States—beginning, perhaps, with the early anti-Irish attitude in the East.
-  Every conflict between strikers and "scabs" produces similar attitudes among
-  the strikers . . . This apparent racial conflict, then, is in fact an extension
-  of the modern political-class conflict. The employer needs labor, cheap labor;
-  he finds this in Asiatic workers and displaces white, more expensive labor with
-  them. White workers then react violently against the Asiatics, indeed, not
-  unlike the way in which early handicraft workers reacted against the machine.
-  On this point Eliot Grinnell Mears observes [in the book RESIDENT ORIENTALS ON
-  THE AMERICAN PACIFIC COAST]: "The organized-labor attitude . . . while
-  strenuously opposed in its public utterances to Oriental immigration, is
-  actually interested in racial questions in so far [sic] as they affect
-  competitive conditions in industry. . . . The issue is capital and labor, not
-  race and labor."
-  </blockquote>
-
-  We now turn to the distinction between legal and illegal immigration. Legal
-  immigrants are not the focus of this piece, and I shall mention them only by
-  reference to the Migration Policy Institute, sorted by origin:
-  <a href="https://www.migrationpolicy.org/article/immigrants-asia-united-states-2020">Asia</a>,
-  <a href="https://www.migrationpolicy.org/article/central-american-immigrants-united-states-2019">Central America</a>,
-  <a href="https://www.migrationpolicy.org/article/european-immigrants-united-states">Europe</a>,
-  <a href="https://www.migrationpolicy.org/article/mexican-immigrants-united-states">Mexico</a>,
-  <a href="https://www.migrationpolicy.org/article/middle-eastern-and-north-african-immigrants-united-states">Middle Eastern and North African</a>,
-  <a href="https://www.migrationpolicy.org/article/south-american-immigrants-united-states">South America</a>,
-  and
-  <a href="https://www.migrationpolicy.org/article/sub-saharan-african-immigrants-united-states-2019">Sub-saharan African</a>.
-  As for illegal immigrants, Customs and Border Protection
-  <a href="https://www.cbp.gov/newsroom/stats/nationwide-encounters">shares</a>
-  data and visualizations on the number of known migrant entries. CBP seems to
-  favor not discovering, finding, or locating, but encountering, giving their
-  statistics the daring name of Nationwide Encounters, evoking the mystery and
-  thrall of a movie name like Alien Encounter: First Contact. Although these are
-  by no means first contacts, encountering for sure remains preferable to any
-  from among confronting, engaging, tracking, and capturing. The visualization
-  offers a convenient citizenship filter for those who wish to delineate migrants
-  by origin, including of course South American countries but also the places one
-  suspects are a wee bit further away, behind a pond or some mountains like
-  China, Russia, India, Romania, Burma, Turkey, and the Philippines. Pew provided
-  a few
-  <a href="https://www.pewresearch.org/short-reads/2024/02/15/migrant-encounters-at-the-us-mexico-border-hit-a-record-high-at-the-end-of-2023/">visualizations</a>
-  on the growing numbers of migrants on the southern border, the greater portion
-  traveling in families, and the origin countries with the most migrants.
-
-  Who are these migrants from the south? The approach to use is not to begin with
-  outlook anticipating crime, drugs, immorality, and violence, and then to see
-  whether what we encounter confirms or denies our criminal expectations, but to
-  have an open eye towards what are people like any other, and it may be that
-  crime plays only a small part of the whole story. Migrants come from various
-  locations, but one difficult stretch for South Americans traveling north is the
-  crossing into Central America, the Darién Gap. Last year, CNN
-  <a href="https://www.youtube.com/watch?v=MOWthjWmS2s">covered</a>
-  the story of this part of the migrant trail in five parts, providing first-hand
-  footage of the people and journey. I think these are ordinary people making the
-  perilous trek for better opportunity, quite separate from the disturbing
-  narrative among conservatives of criminal hordes slipping into the homeland
-  under the cover of night. In spite of this, I am against illegal immigration
-  out of practical concern.
-
-  <a href="https://www.migrationpolicy.org/about/staff/kathleen-bush-joseph">Kathleen Bush-Joseph</a>
-  provides informative information in a Migration Policy Institute
-  <a href="https://www.migrationpolicy.org/research/outmatched-us-asylum-system">report</a>
-  on migrants, the asylum situation, the government's response, and the generally
-  insufficient resources in funding and personnel to handle the rapid rise in
-  migrant arrivals in the past few years. She writes:
-  <blockquote>
-  To improve border management, the United States needs a functioning asylum
-  system so that people eligible for protection can receive it, and those who are
-  ineligible can be quickly removed after fair review of their claim . . .
-  Presently, the arrival of record numbers of asylum seekers at the U.S.-Mexico
-  border, the outdated legal framework for adjudicating their claims, and
-  resource allocations that do not prioritize adjudications mean that the asylum
-  system faces unprecedented strain. Since border officials are unable to quickly
-  remove most border arrivals, nearly 2.5 million were released into the country
-  to await immigration court proceedings between January 2021 and March 2023 and
-  had no confirmed departure . . . The immigration court process typically takes
-  years; some 2023 arrivals to New York City have been scheduled for initial
-  hearings in 2027 . . . By most measures, the U.S. asylum system does not meet
-  its objectives. Those eligible for asylum do not receive it in a timely manner,
-  and migrants deemed ineligible are not returned to their countries of origin.
-  Increasing arrivals at the U.S.-Mexico border continue to overwhelm enforcement
-  and protection screening capacity, and asylum adjudications cannot keep up with
-  new filings . . . A new era of global displacement is underway that includes
-  major movements within the Western Hemisphere. Insufficient resources and
-  litigation largely dictate policy on the ground, and the pressures on
-  destination cities that are receiving tens of thousands of migrants for which
-  they have not been prepared has shifted public opinion even among strongly
-  pro-immigration elected leaders, who are calling for more effective border
-  enforcement measures, reduced numbers of asylum seekers, and increased federal
-  funding to support migrant services.
-  </blockquote>
-  Curiously enough, Bush-Joseph notes that:
-  <blockquote>
-  President Barack Obama inherited a better resourced immigration enforcement
-  regime than his predecessors and focused on removing from the U.S. interior
-  noncitizens who had been convicted of serious crimes and recent arrivals,
-  earning the nickname "deporter in chief." His administration conducted a
-  record number of removals, averaging 344,000 per year.
-  </blockquote>
-  <a href="https://www.brookings.edu/people/elaine-kamarck/">Elaine Kamarck</a>,
-  in Brookings,
-  <a href="https://www.brookings.edu/articles/fixing-the-border-four-reasons-the-immigration-crisis-isnt-going-away/">poses</a>
-  the migrant crisis as a surge management problem, calculating that the the
-  number of border patrol staff has remained nearly constant between 2018 and
-  2023, at just over 16,000, even as the number of migrants grew from hundreds of
-  thousands to millions. Kamarck cites a Syracuse University TRAC
-  <a href="https://trac.syr.edu/phptools/immigration/backlog/">dashboard</a>
-  on the number of pending cases in the immigration backlog, which as of May 2024
-  comes to just over 3.5 million. The solution Kamarck recommends is to close the
-  border temporarily:
-  <blockquote>
-  There are many people out there with legitimate claims to be in the United
-  States. Their cases should be settled, and those who don't qualify should be
-  sent home. Biden should close down the border temporarily so that those who are
-  already here can be fairly evaluated. Some will meet the criteria and many more
-  will be sent home.
-  </blockquote>
-
-  Pew
-  <a href="https://www.pewresearch.org/short-reads/2022/09/08/republicans-and-democrats-have-different-top-priorities-for-u-s-immigration-policy/">finds</a>
-  that Republicans favor deporting illegal migrants and securing the southern
-  border, and Democrats prefer giving migrants a legal pathway to staying in the
-  country. However the immigration judges decide each case, they reach a
-  conclusion on whether a migrant can stay, but the current situation for
-  millions of migrants is a lengthy limbo of waiting for a court to consider
-  their case—the migrant crisis itself presents a problem of scale along with the
-  lack of adequate resources. On top of the massive backlog, an additional issue
-  surfaces. Of the migrants already in the country, what is the cost of keeping
-  them here while they wait several years on the backlog? It is worth the
-  reminder here that resources do not manifest from thin air, and government
-  spending comes from either taxpayers or taking on debt. Let us consider a view
-  on finances, and then I will put forth my view on the matter, but let me begin
-  by saying that I agree with the statement that everyone deserves adequate
-  access to resources, opportunities—I am not against this, but how do we convert
-  this ideal into reality?
-
-  We must talk about the federal government's debt. A Senate
-  <a href="https://www.budget.senate.gov/hearings/the-rich-get-richer-deficits-get-bigger-how-tax-cuts-for-the-wealthy-and-corporations-drive-the-national-debt-">hearing</a>
-  was held last year with the admittedly provocative title from the Democrats in
-  the majority, THE RICH GET RICHER, DEFICITS GET BIGGER: HOW TAX CUTS FOR THE
-  WEALTHY AND CORPORATIONS DRIVE THE NATIONAL DEBT. The slate of witnesses
-  provide a fair overview of liberal, conservative, and non-partisan stances,
-  predicated on statistics, modeling, projections, and various outcomes of past
-  policies. I'm not going to comment on their testimonies because I have nothing
-  further to add, but a very brief summary of the issue is this:
-
-  <pre style="padding:0; border:0; background-color:white;">
-  balance = revenue - spending
-  </pre>
-
-  Because spending is greater than revenue, the budget balance is in deficit. This
-  fact is not contentious, and that it is a growing problem is perhaps one of the
-  few points of agreement between the parties. However, Democrats wish to remedy
-  this with higher taxes on the wealthy to bolster revenue, while Republicans
-  want to curtail spending through fewer programs and a smaller government. The
-  writer himself is partial to the Democrat view, but agrees that spending must
-  also decline.
-
-  The writer must mention a most enlightening moment in the hearing! Senator John
-  Kennedy, a Republican, first confirming that one of the witnesses, Bruce
-  Bartlett, was attending the hearing on the side of Democrats, commences
-  (at 1:42:39) his approach which runs at all odds against every other senator's
-  reliance on decent sense, contrary to everyone else's facts and figures, rhyme
-  and reason: he divines his victim's convictions through the victim's old
-  tweets. Senator Kennedy, we see, adheres to the motto: "By thy tweets shall ye
-  be known!" He proceeds to read out a series of Bartlett's openly political
-  tweets, and after reciting each tweet with a barely conceiled contempt, he
-  looks up at Bartlett with an innocent disbelief, asking if he read the tweet
-  correctly. And once Senator Kennedy finishes going through the tweets, he
-  calmly concludes his inquiry with a sharp retort: "Mr. Bartlett, I appreciate
-  you answering my questions. It helps me to determine the credence or
-  credibility to give to your testimony." Though the writer doesn't think Senator
-  Kennedy's approach yields much in the way of clarity, the writer admits he
-  likes the senator's style. Of course, later, Senator Tim Kaine sets right the
-  context of some of the tweets.
-
-  It is no exaggeration that the national debt is a growing problem. Federal debt
-  held by the public has been rising rapidly, according to
-  <a href="https://fred.stlouisfed.org/graph/?g=1jhVT">data</a>
-  from the Federal Reserve; as a percent of GDP, it stood at 36.8% in Q1 2000 but
-  has risen to 96.4% in Q4 2023 (all percentages mentioned below in this topic
-  are in proportion to the GDP; this measure indicates the country's ability to
-  pay its debt). In particular, this debt increase means that the interest the
-  government pays is also rising. The Congressional Budget Office
-  <a href="https://www.cbo.gov/publication/59727">showed</a>
-  that in fiscal year 2023, the net interest was 2.4%, about half of the cost of
-  Social Security, the largest government expenditure, which came in at 5%. The
-  Committee for a Responsible Federal Budget
-  <a href="https://www.crfb.org/blogs/2023-interest-costs-reach-659-billion">declared</a>
-  last year, "Interest is now the <i>fourth-largest government program</i>, behind
-  only Social Security, Medicare, and defense." CBO in 2020
-  <a href="https://www.cbo.gov/publication/56910">projected</a>
-  that by 2050, net interest would grow to 8%, and earlier this year
-  <a href="https://www.cbo.gov/publication/60127">provided</a>
-  a broader budget projection over the next thirty years; in this new projection,
-  net interest grows to 6.3% in 2054, overtaking Social Security's 5.9%. CBO
-  warns about the rising debt:
-  <blockquote>
-  From 2024 to 2054, growing deficits would push federal debt held by the public
-  far beyond any previously recorded level . . . Such large and growing debt
-  would have significant economic and financial consequences. Among its other
-  effects, it would slow economic growth, drive up interest payments to foreign
-  holders of U.S. debt, heighten the risk of a fiscal crisis, increase the
-  likelihood of other adverse outcomes, and make the nation's fiscal position
-  more vulnerable to an increase in interest rates.
-  </blockquote>
-  This projection is predicated on "the assumption that current laws governing
-  taxes and spending will generally remain unchanged"—this is the default course
-  if the country remains on its current track.
-  CBO also
-  <a href="https://www.cbo.gov/publication/56783">shared</a>
-  options for reducing the deficit, considering many areas of reducing spending
-  and raising revenue. And how high can the country's debt go? According an
-  ominous
-  <a href="https://budgetmodel.wharton.upenn.edu/issues/2023/10/6/when-does-federal-debt-reach-unsustainable-levels">article</a>
-  last year from the Penn Wharton Budget Model:
-  <blockquote>
-  We estimate that the U.S. debt held by the public cannot exceed about 200
-  percent of GDP even under today's generally favorable market conditions . . .
-  Under current policy, the United States has about 20 years for corrective
-  action after which no amount of future tax increases or spending cuts could
-  avoid the government defaulting on its debt whether explicitly or implicitly.
-  </blockquote>
-  Some perspective is needed: this is only one model's estimate, and we should not
-  easily succumb to fatalist portents. Another Senate
-  <a href="https://www.budget.senate.gov/hearings/fairness-and-fiscal-responsibility-cracking-down-on-wealthy-tax-cheats">hearing</a>
-  last year, also with a politically charged title, was called FAIRNESS AND FISCAL
-  RESPONSIBILITY: CRACKING DOWN ON WEALTHY TAX CHEATS. Senator Sheldon Whitehouse
-  describes (at 0:53:05) a visual illustration of how complicated a corporate
-  entity can be structured to avoid taxes. Senator Mitt Romney attempts
-  (1:08:03) to justify such complexity, saying that sometimes businesses are by
-  nature that complicated, not out of design to evade taxes, but he also
-  acknowledges that corporations do try to minimize taxes, with the qualifier
-  that they do so within the bounds of the law. However,
-  <a href="https://www.cato.org/people/chris-edwards">Chris Edwards</a>
-  from Cato, making a gesture of honesty, acknowledges (1:19:00) from his
-  experience that, "A lot of what drives that chart, frankly, is corporations
-  making extremely sophisticated structures to avoid tax. They don't try to do
-  things that are illegal. It's just that the tax code is so grey, they push the
-  limits." But more importantly!—sure enough, Senator Kennedy recourses
-  (1:36:52) to his signature move: calling up someone's old tweet—thy tweet comes
-  back for vengeance! It's too bad that this is a senate committee where words
-  are held accountable, and Senator Kaine once again stepped in at the very end
-  to situate the tweet's in its original circumstance. But we've gotten ahead of
-  ourselves! In the heat of the moment, Senator Kennedy was commencing his
-  profound investigation! This time, though, he loses some of his charm from
-  indulging too long on a combative exchange with his victim,
-  <a href="https://scholar.google.com/citations?user=Ili51ooAAAAJ&hl=en">Natasha Sarin</a>.
-  The tweet in question this time: "The House Republican stance is, I kid you not,
-  support for Israel as long as we make it easier for people to cheat on their
-  taxes." As if personally offended, Senator Kennedy says he found
-  Sarin "appalling", positively "appalling", because Sarin "didn't talk to any
-  of 'em [House Republicans]." His astute verdict this time—"I'm going to remind
-  you: you can only be young once, but you can always be immature." This was a
-  very mature comment from the senator, if the writer must say so himself!
-  Immediately afterwards, Senator Kennedy found himself needing to stand his
-  ground against the rebuff of the committee's chairman, Senator Whitehouse, who
-  said, "I think that the treatment of the witnesses is beginning to degrade a
-  bit here"; but Senator Kennedy insisted on his insightful analysis of her
-  revealing tweet, saying, "I'm entitled to test their credibility, and I think
-  one of our witnesses just got tested." A tweet, indeed! One mighty fine test
-  there! Quite astonishing!
-
-  We were discussing illegal immigration. With the federal debt growing at the
-  current rate, I am rather against the government recklessly expanding spending.
-  USAFacts
-  <a href="https://usafacts.org/state-of-the-union/immigration/">calculated</a>
-  that, "The government spent $22.4 billion . . . on immigration and border
-  security last year [fiscal year 2023]." This would be 0.08% of GDP, a fairly
-  low number, but considering the current trajectory, when the government should
-  aim to reduce spending, it would be a mistake to let spending run loose. Since
-  we have lingered on the debt issue for longer than the writer intended, we
-  shall consider only briefly the issue of state and local debt, because states
-  and cities are also in debt, though not at the drastic levels of the federal
-  government. In particular, we shall consider the debt-y New York: the state
-  comptroller
-  <a href="https://www.osc.ny.gov/reports/finance/2023-fcr/debt">projects</a>
-  rising state debt, as
-  <a href="https://comptroller.nyc.gov/wp-content/uploads/documents/Annual-Report-on-Capital-Debt-and-Obligations-Fiscal-Year-2024-FINAL_Revised-_3_26_2024.pdf">does</a>
-  the city comptroller for the city. It is rather interesting to note that the
-  state limits its self-justifying vanity to a single bold heading, "New York
-  State Ranks Second Highest in Outstanding Debt Nationwide", while the city's
-  report dedicated an entire section to note that despite a high debt burden, the
-  city's debt, when viewed in context, compares favorably to those of other large
-  cities which it calls the "Peer Group". This is the rough total of the city's
-  debt, as of June 30, 2023, in billions of dollars:
-
-  <pre style="padding:0; border:0; background-color:white;">
-  Gross Debt Outstanding                         $98
-  New York Water Finance Authority (NYW)         $32.2
-  Metropolitan Transportation Authority (MTA)    $49.1
-  Health and Hospitals (H+H)                     $ 0.48
-
-  Total                                         $179.8
-  </pre>
-
-  But the city does not regard this total as its debt load. Only the first line
-  item is relevant to the city's official debt number, or what the city
-  calls "indebtedness", which is then measured against the city's debt limit; the
-  three other entities issue their own debt and are separate from the gross debt.
-  Further, not all of the $98 billion counts towards the debt limit, as some
-  components are excluded from the city's definition of indebtedness; the total
-  indebtedness at the end of FY 2023 was computed to be $96.9 billion. It may be
-  worth noting that the city comptroller's report makes no attempt at suggesting
-  a reduction to the city's debt; rather, the entire report orients itself around
-  how much more debt the city can take on until it reaches the limit, and,
-  because the report anticipates that debt will continue to rise and that the
-  remaining gap to the limit, which is called "debt-incurring power", will
-  consequently diminish from $30.5 billion in FY 2023 to $15.9 billion in FY
-  2027 (end-of-year numbers), the city
-  <a href="https://cbcny.org/research/setting-right-ceiling">requested</a>,
-  according to the Citizens Budget Commission, that the state raise the city's
-  debt limit. As stated in the city comptroller's report, according to New York
-  State law, the general debt limit for local governments is pegged against the
-  jurisdiction's real estate value, so it doesn't seem like the debt limit can be
-  arbitrary raised. Governor Kathy Hochul, instead, raised the Transitional
-  Finance Authority (TFA) debt limit from $13.5 billion to $25.5 billion—this is
-  debt exempt from the general debt limit, and anything above this exemption,
-  referred to as "incremental TFA", counts towards the general limit. Due to its
-  high debt, the city, of course, had already maxed out the old exemption
-  allocation and at the end of FY 2023 had an incremental TFA of $31.9 billion, a
-  high enough number that rendered the higher exemption a record-keeping trick—in
-  other words, the state's increasing the TFA exemption by $12 billion merely
-  adjusted the accounting on debt that already existed, shifting the incremental
-  TFA (retroactively in this example of 2023 numbers) down to $19.9 billion and
-  the total indebtedness from $96.9 billion down to $84.9 billion. In short, it
-  seems that the city is content with only servicing the debt and paying
-  interest, not seeking to reduce the principal; the comptroller report confirms
-  that its objective is to remain below the "the 15 percent [of tax revenue]
-  ceiling used to evaluate affordability as articulated in the City's debt
-  management policy." The report even goes further to poke at the definition of
-  the state's definition of the debt limit, as though it unduly restricts the
-  city's borrowing power: "[B]ecause the debt limit does not take into account
-  the City's significantly more diversified tax revenue structure [as opposed to
-  other jurisdictions in the state, which rely primary on property taxes], the
-  debt limit does not fully reflect the City's ability to assume and service debt
-  to finance infrastructure." I am not suggesting that the city's objective is a
-  problem, as tax revenue grows alongside debt, or that the city is under an
-  unsustainable debt burden, as the comptroller's report reassures us otherwise,
-  but I wish to underscore the fact that the city's debt is considerable and will
-  continue to grow.
-
-  In light of this debt, what is the cost of supporting asylum seekers in the
-  city? The city comptroller shares a
-  <a href="https://comptroller.nyc.gov/services/for-the-public/accounting-for-asylum-seeker-services/asylum-seeker-census/">census</a>
-  for the asylum seekers in city-funded shelters, writing that, "As of March 10,
-  2024, the City had approximately 64,600 people seeking asylum in City funded
-  shelter". As Mayor Eric Adams
-  <a href="https://www.nyc.gov/office-of-the-mayor/news/583-23/as-city-nears-arrival-100-000-asylum-seekers-since-last-spring-mayor-adams-lays-out-updated#/0">said</a>
-  last summer, "Our compassion may be limitless, but our resources are not." At
-  the time, an updated budgetary forecast showed that the cost of supporting
-  asylum seekers "is projected to cost our city $12 billion over the course of
-  three fiscal years without policy changes and further support from the state
-  and federal governments." I think it is easy to ask for money from elsewhere,
-  but the state and the federal government are also both in debt. In December,
-  the city comptroller released a
-  <a href="https://comptroller.nyc.gov/wp-content/uploads/2023/12/Funding-for-New-York-Citys-Services-for-People-Seeking-Asylum.pdf">report</a>
-  on the cost of funding asylum seekers: $4.7 billion in FY 2024 and $6.1 billion
-  in FY 2025. To be sure, it is true that this funding may be viewed as the
-  initial cost of investment to expand a labor force that will generate
-  additional tax revenue over time. But how much do they generate? The
-  comptroller's office released a fact
-  <a href="https://comptroller.nyc.gov/reports/facts-not-fear-how-welcoming-immigrants-benefits-new-york-city/">list</a>
-  about immigration's benefits to the city, which I do not have an issue with.
-  However, again, we must be careful not to conflate legal and illegal
-  immigrants. We are here considering specifically illegal immigrants, and, in
-  particular, the asylum seekers the city is funding. The fact list cites
-  an American Immigration Council
-  <a href="https://map.americanimmigrationcouncil.org/locations/new-york/">infographic</a>
-  on the tax contributions from immigrants in 2021, in which, again, we should not
-  be misled by the high revenue and spending power of immigrants in general, but
-  only of illegal immigrants. The infographic doesn't isolate asylum seekers, and
-  the closest approximation we have is in the "undocumented immigrants" section,
-  which shows that they contributed $3 billion in total revenue: $1.8B for
-  federal and $1.2B for state and local. Assuming the best case, that these
-  contributions are entirely from asylum seekers, the city receives a only
-  portion of the $1.2B, which, when measured against the projected FY 2024 and FY
-  2025 costs to fund asylum seekers, nets in a loss. It may be contested that
-  these are ongoing contributions as opposed to the one-time cost of funding, and
-  that the contributions accumulated over several years may flip the net into a
-  gain: true, but the funding should be compared to the opportunity cost of not
-  paying down the existing debt, which will lower interest payments over time. As
-  we saw in the city's debt composition above, who knew that water could be so
-  expensive? Or that maintaining and running subways and keeping them from
-  falling into disrepair could come at such a massive deficit? The state
-  comptroller laments in a
-  <a href="https://www.osc.ny.gov/files/reports/osdc/pdf/report-3-2025.pdf">report</a>
-  on the MTA's debt:
-  <blockquote>
-  Budgeted debt service . . .  is projected to reach nearly $5 billion by 2031,
-  which is 83 percent ($2.3 billion) more than in 2023 . . . Continued
-  backloading of debt to achieve short-term savings . . . will also result in
-  higher costs to the MTA's riders, toll payers and taxpayers in the long-term.
-  If the MTA has to issue more debt for investments in the system amid potential
-  funding gaps from its funding partners, then this unadvisable, costly practice
-  is likely not only to continue, but potentially grow as it attempts to manage
-  the operating budget impact.
-  </blockquote>
-  The city released a
-  <a href="https://council.nyc.gov/budget/wp-content/uploads/sites/54/2024/03/MTA.pdf">report</a>
-  on the MTA's budget, and in Figure 3, we see that debt service, at $2.8 billion,
-  costs more than running the Long Island Rail Road and the Metro North Railroad
-  (yes, Long Island's rail road is not spelled the same way as the Metro North's
-  railroad).
-
-  In reasoning from the infographic above, we have assumed that asylum seekers
-  have legal authorization to work, but what warrants this assumption? According
-  to U.S. Citizenship and Immigration Services, to even
-  <a href="https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum">apply</a>
-  for an Employment Authorization Document (EAD), an asylum seeker must first
-  apply for asylum and then wait 180 days. On paper, this is how long it will
-  take, but as of May 2024, the city's immigration
-  <a href="https://trac.syr.edu/phptools/immigration/asylumbl/">backlog</a>,
-  according to Syracuse University's TRAC, sits at about 150,000.
-  <a href="https://bipartisanpolicy.org/person/theresa-cardinal-brown/">Theresa Cardinal Brown</a>
-  agrees that the asylum system is broken on a 60 MINUTES
-  <a href="https://youtu.be/PwuMaKSrxiY?t=318">episode</a>,
-  saying, "We just don't have the personnel, the resources, the infrastructure, or
-  the right processes to manage what's happening there well." With large numbers
-  of asylum seekers, Brown reiterates what we saw earlier at the federal level,
-  that it may take years of waiting on the backlog; Brown says, "On average,
-  people [asylum seekers] . . . might wait three to five years" to get an asylum
-  hearing, and that "It could be four years, four and a half years, before you
-  [an asylum seeker] can ask for work authorization." As shown in the episode,
-  many migrants have come to work and earn their keep, but the current laws
-  simply don't permit them to do so without protracted waiting. Proposals have
-  been suggested to reduce the wait time. Last year, Senator Susan Collins
-  (a Republican)
-  <a href="https://www.congress.gov/bill/118th-congress/senate-bill/255">introduced</a>
-  the Asylum Seeker Work Authorization Act of 2023 to the Senate, which, the
-  National Immigration Forum
-  <a href="https://immigrationforum.org/article/asylum-seeker-work-authorization-act-of-2023-bill-summary/">describes</a>
-  as reducing the wait period of 180 days to 30 for asylum seekers who entered the
-  country through an official port of entry. Similarly, according to the
-  Immigration Forum article, Representative Chellie Pingree (a Democrat) proposed
-  to the House a bill with the same reduction, only without the port of entry
-  qualification. Neither of these proposals has been passed yet, but even if
-  either does and the wait period were shortened, we must not forget the backlog
-  and the preliminary wait time of "three to five years" that Brown estimated to
-  reach an asylum hearing. Last September, Mayor Eric Adams made an
-  <a href="https://www.nyc.gov/office-of-the-mayor/news/660-23/mayor-adams-expedited-sprint-identify-asylum-seekers-eligible-apply-work-permits">effort</a>
-  to hasten this first step by opening a help center to aid asylum seekers to
-  prepare and send in applications for asylum, yet even with this assistance,
-  "[T]he city expects the number of people currently eligible to apply for work
-  authorization to be a relatively small percentage of those now in care." In
-  spite of Adam's attempt at a remedy, one may be forgiven in finding fault with
-  the city's approach that, in the face of this problem, Adams insists, "New
-  York City needs significant and timely support from our state and federal
-  partners to tackle this national issue"—as though asking someone else for help
-  should be the city's default solution rather than a self-determined,
-  self-prescribed, self-sufficient path to financial sustainability, because,
-  after all, this has become the city's problem, and looking elsewhere for
-  charity resembles irresponsible complaining.
-
-  One month after setting up the aslyum assistance center, Adams' administration,
-  perhaps with an newfound eye towards fiscal responsibility,
-  eventually "announced that it would implement a new policy limiting shelter
-  stays for newly arrived families with children to 60 days",
-  <a href="https://comptroller.nyc.gov/reports/report-on-the-investigation-of-the-implementation-of-the-60-day-rule-for-asylum-seeker-families/">according</a>
-  to the city comptroller. But the comptroller's report itself is a critical
-  investigation of the new policy, complains that it is "haphazard", and
-  recommends that the city should end it. For some reason the comptroller is more
-  sympathetic to migrants who, by no fault of their own, are unauthorized to work
-  and contribute than to the city's fiscal health. Contrast the current situation
-  with that of the Italian immigrants during the city's tenement days around the
-  early 1900s, who, as the Library of Congress
-  <a href="https://www.loc.gov/classroom-materials/immigration/italian/tenements-and-toil/">records</a>,
-  were able to work, though struggling, but the current laws prohibit this new
-  wave of migrants from doing the same. We must remember: Opportunities do not
-  grow on trees, money doesn't fall from the sky, and funding for asylum seekers
-  comes from either tax revenue or incurring more debt—which adds to the current
-  burden and diminishes the city's resources for everyone else—while this cost
-  simultaneously does not entail a corresponding prospect for a positive return.
-  Without a foreseeable path to quickly enable large portions of migrants to work
-  and finance their own housing, under the current surge in migrants and the
-  present laws preventing them from working, I am quite against accepting more
-  migrants from entering the city and, by extention, states like Texas that are
-  <a href="https://gov.texas.gov/news/post/texas-transports-over-100000-migrants-to-sanctuary-cities">busing</a>
-  them across the country. My contention on illegal immigration is not about race,
-  culture, religion, or crime, but an inadequate and incapable asylum system
-  entrenched in a wave of divided politics, amplified by the confluence of
-  polarized news, massive economic inequality, elite overproduction, and popular
-  immiseration, situated against a backdrop of growing government debt. For legal
-  immigrants who have a pathway to employment, promising and authorized, and who
-  can contribute to the economy, I say: "Come one, come all! Come help us pay our
-  debts!" To everyone else, I'm afraid the country at this time has its own
-  problems and cannot handle the expense to subsidize everyone's well-being.
-
-  For those liberals among us who still habor visionary longings for a utopic
-  fantasy, perhaps the better course of action is to stop generating so much
-  grating noise in public and complain about the mistreatment of migrants and
-  expect some magical intervention to drop from the sky but to put our money
-  where our mouth is and take it upon ourselves to financially support one or two
-  (maybe three! or why not four?) migrants from our own hard-earned paycheck! To
-  thee I say: you live up to your proclaimed beliefs, and Uncle Sam (and his
-  wallet) thanks you for your services to your country! And to thee someone else
-  has said,
-  <blockquote>
-  In the long history of the world, only a few generations have been granted the
-  role of defending freedom in its hour of maximum danger. I do not shrink from
-  this responsibility—I welcome it . . . And so, my fellow Americans: ask not
-  what your country can do for you—ask what you can do for your country.
-  </blockquote>
-
-  Had Emma Lazarus lived in our age and were commissioned to write the
-  generation-defining poem for the migrants of the world arriving along the great
-  southern border, perhaps she would have called it, THE NEW WALL:
-
-  <br>
-
-  Not like the golden country of opportunity,<br>
-  With dollar mountains from sea to shining sea;<br>
-  Here at our desert-beaten, sunset gates shall stand<br>
-  A mighty barricade with steel grates, whose metal<br>
-  Is a soaring thirty feet, and its name<br>
-  Wall For The Exiled. From the sun's heat too hot to touch<br>
-  Glows a country with its own problems; its mild eyes renounced<br>
-  The campus protests that twin parties frame.<br>
-  <br>
-  "Keep, travel's momentum, elsewhere welcomes!" bellows the steel<br>
-  With silent grates. "We can't help, our tired, our poor,<br>
-  Our huddled tribes yearning for a better shore,<br>
-  The wretched sums of our teeming debt.<br>
-  Send these, mercy from populists,<br>
-  I lift my interest rates beside some outdated laws!"
-
-  <br>
-
-  <blockquote>
-  Although the next country is close enough<br>
-  that they can hear their roosters crowing and dogs barking,<br>
-  they are content never to visit each other<br>
-  all of the days of their lives.
-  </blockquote>
-  <span class="quoter">
-  —#80, TAO TE CHING, tr. J.H. McDonald
-  </span>
 
   <br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -3474,30 +2001,6 @@ Man's Inner World, and Wandering.</b>
   <br>
 
   <blockquote>
-  [T]hanks to coeducation, the august mystery of Man would have no occasion to
-  arise: it would be killed by everyday familiarity and open competition.
-  Objections to this system always imply respect for sexual taboos; but it is
-  useless to try to inhibit curiosity and pleasure in children; this only results
-  in creating repression, obsessions, neuroses; exalted sentimentality,
-  homosexual fervor, and the platonic passions of adolescent girls along with the
-  whole procession of nonsense and dissipation far more harmful than a few
-  childish games and actual experiences.
-  </blockquote>
-  <span class="quoter">
-  —Beauvoir, THE SECOND SEX
-  </span>
-
-  <br>
-
-  Are we convinced of the principles we have, or are they merely performative? Can
-  we defend our convictions from multiple vantages, against repeated, sustained
-  assault from some malicious nemesis, and can these convictions stand the test
-  of time, or are they only skin-deep, aligning with virtue insofar as they
-  procur benefit from the prevailing attitudes of the times?
-
-  <br>
-
-  <blockquote>
   Our civilization cannot afford to let the censor-moron loose. The censor-moron
   does not really hate anything but the living and growing human consciousness.
   It is our developing and extending consciousness that he threatens—and our
@@ -3510,6 +2013,12 @@ Man's Inner World, and Wandering.</b>
   </span>
 
   <br>
+
+  Are we convinced of the principles we have, or are they merely performative? Can
+  we defend our convictions from multiple vantages, against repeated, sustained
+  assault from some malicious nemesis, and can these convictions stand the test
+  of time, or are they only skin-deep, aligning with virtue insofar as they
+  procur benefit from the prevailing attitudes of the times?
 
   I wish to emphasize that actions leading to effective social change may not
   evoke good feelings. Whether it is affirmative action or another social policy
@@ -3553,22 +2062,21 @@ Man's Inner World, and Wandering.</b>
   decline, duplicity, conformity, and obligatory surface charm over actual
   virtue:
   <blockquote>
-  The needs of the body constitute the foundation of society, those of the mind
-  its ornamentation. While government and law provide for the security and
-  well-being of people in their collective life, the sciences, letters, and
-  arts—less despotic though perhaps more powerful—wrap garlands of flowers around
-  the chains that weight people down. They stifle the sense of freedom that
-  people once had and for which they sensed that they were born, making them love
-  their own servitude, and turning them into what is called a civilized people.
-  Need erected thrones; the sciences and arts consolidated them. Let the Powers
-  that rule the earth cherish all talents and protect those who practice them!
-  Civilized peoples, cultivate your talents! Happy slaves, you are indebted to
-  them for the delicate, exquisite tastes you are so proud of, that sweetness of
-  disposition and urbanity of manners that make social relations so easy and
-  pleasant—in short, the appearance of virtues without the possession of a single
-  one . . . Certain excesses will be condemned, certain vices abhorred, but
-  others will be honored in the name of virtue, and people will be obliged either
-  to have them or to pretend to have them.
+  While government and law provide for the security and well-being of people in
+  their collective life, the sciences, letters, and arts—less despotic though
+  perhaps more powerful—wrap garlands of flowers around the chains that weight
+  people down. They stifle the sense of freedom that people once had and for
+  which they sensed that they were born, making them love their own servitude,
+  and turning them into what is called a civilized people. Need erected thrones;
+  the sciences and arts consolidated them. Let the Powers that rule the earth
+  cherish all talents and protect those who practice them! Civilized peoples,
+  cultivate your talents! Happy slaves, you are indebted to them for the
+  delicate, exquisite tastes you are so proud of, that sweetness of disposition
+  and urbanity of manners that make social relations so easy and pleasant—in
+  short, the appearance of virtues without the possession of a single one . . .
+  Certain excesses will be condemned, certain vices abhorred, but others will be
+  honored in the name of virtue, and people will be obliged either to have them
+  or to pretend to have them.
   </blockquote>
   We now return to a text we previously mentioned, Rousseau's Second Discourse, in
   which he traces, through his hypothetical historical development of
@@ -4018,6 +2526,1277 @@ Man's Inner World, and Wandering.</b>
   energy, what shall <i>l'aventurier</i> do?
 
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<u id="immigration">Immigration</u><br>
+  <blockquote>
+  Every generation writes its own history, for the reason that it sees the past in
+  the foreshortened perspective of its own experience. This has certainly been
+  true of the writing of American history. The practical aim of our
+  historiography is to offer us a more certain sense of where we are going by
+  helping us understand the road we took in getting where we are. If the
+  substance and nature of our historical writing is changing, it is precisely
+  because our own generation is redefining its direction, much as the generations
+  that preceded us redefined theirs.
+  </blockquote>
+  <span class="quoter">
+  —<a href="https://law.duke.edu/history/faculty/franklin">John Hope Franklin</a>
+  and
+  <a href="https://www.historians.org/perspectives-article/abraham-s-eisenstadt-1920-2007-march-2008/">Abraham Eisenstadt</a>,
+  Editor's Foreword to THE AMERICAN HISTORY SERIES
+  </span>
+
+  <br>
+
+  In the current political climate, immigration is a fraught issue. This section
+  is long, and it clarifies the facts relating to immigration on the southern
+  border: the quantities, criminality, economic impact, and how the current
+  immigration surge compares to the country's immigration history. This section
+  removes the fog of mystery and dread that circulate in Republican circles from
+  exaggerated claims of disorder and violence.
+
+  I will start by saying that I support legal, not illegal, immigration. As it
+  happens, Biden recently
+  <a href="https://www.dhs.gov/news/2024/06/04/fact-sheet-presidential-proclamation-suspend-and-limit-entry-and-joint-dhs-doj">passed</a>
+  legislation that limits the entry of illegal immigrants. I explain the reasons
+  behind this legislation in greater detail later in this section, but this is
+  the right decision when considering resource constraints, the high volumes of
+  migrants, and outdated laws that prevent them from obtaining work
+  authorizations—not because of the Republican narrative of criminals freely
+  entering the country, a claim which relies more on an uninformed paranoia than
+  evidence, bearing close resemblance to a loud exclamation: Look! Green aliens
+  from the sky are landing in the neighbor's backyard! Or: Behold, the Loch Ness
+  monster! And with it comes a whole backstory and details we did not surely
+  invent ourselves!
+
+  Let us first turn our attention to the most pressing part of the issue: the
+  popular image of illegal hordes threatening to topple the country. Bret
+  Weinstein recently
+  <a href="https://youtu.be/M7dAm5HAJmM?t=246">spoke</a>
+  on the Joe Rogan podcast about what the migrants he saw on his trip to Panama.
+  He talks about a sudden new wave of immigrants: the Chinese immigrants, who
+  Weinstein describes as being "composed of mostly young, military-aged men", who
+  Weinstein further found to be "broadcasting hostility". Weinstein paints a
+  picture of mystery and secret scheming, questioning what could be the
+  reasons behind this new migration, even saying that it "could well be an
+  invasion."
+
+  But if we look elsewhere we find, contrary to Weinstein's fear-ridden portrayal,
+  that 60 MINUTES
+  <a href="https://www.youtube.com/watch?v=M7TNP2OTY2g">covered</a>
+  these new migrants when they are just coming into the country and
+  <a href="https://www.youtube.com/watch?v=S2Gs0i3Ao34">examined</a>
+  the gap in the wall where they come through. We must be clear: before the
+  legislation halting the inflow of migrants, this was a problem. But the
+  situation was not part of some cultish agenda. The issue may have seemed like a
+  hidden scheme to someone like Weinstein who positions himself as a purveyor of
+  rare and valuable knowledge unavailable to plain sight, who for some reason
+  hasn't consulted a search engine, but to the public, it's actually not a
+  secret. An
+  <a href="https://apnews.com/article/chinese-emigration-us-mexico-border-darien-381c215ff30f0f2349c2ea118aa280c6">article</a>
+  in the Associated Press covered the issue. The Washington Office on Latin
+  America
+  <a href="https://www.wola.org/2023/12/weekly-u-s-mexico-border-update-congress-negotiations-increased-arrivals-migration-from-china/">published</a>
+  a weekly update that provides facts and specific numbers on the migration. The
+  New York Times has shared multiple articles,
+  <a href="https://www.nytimes.com/2023/11/24/us/politics/china-migrants-us-border.html">here</a>,
+  <a href="https://www.nytimes.com/2023/12/03/business/darien-gap-china-immigration.html">here</a>,
+  and
+  <a href="https://www.nytimes.com/2024/03/06/nyregion/chinese-immigrants-new-york-city.html">here</a>.
+  But more specific to Weinstein and, I should add, in a manner more befitting his
+  approach—on the admittedly left-leaning talk show, THE MAJORITY REPORT, Sam
+  Seder and colleagues comment on Weinstein's characterizations in a manner that
+  is decidedly not sarcastic or satirical, not at all reproachful of some faulty
+  and malicious judgment. Seder's discerning sense of sight, his clarity of mind,
+  combined with an absolutely precise detection of the ulterior motives of
+  mankind, help us understand what the 60 MINUTES video is showing us. Seder
+  <a href="https://youtu.be/8wlTsUoXXCA?t=300">remarks</a>
+  on a particularly enlightening moment in the video, with his natural X-ray
+  vision, that someone who deceptively "appears to be an old lady" may actually
+  be "exactly the disguise you would use if you were a military-aged man."
+  Evidently, we have now entered the realm of rigorous science, informed by
+  someone's highly trained observational prowess with decades of experience in
+  such obscure matters. If the viewer were so keen to watch more of Seder, he
+  goes on to make more incredibly illuminating revelations that match Weinstein's
+  wide-eyed paranoia that some might mistake for unhinged fright.
+
+  Let us return to facts and contextualize these oversimplifying images of
+  immigrants and the alarming narrative of military-aged men currently entering
+  the country.
+  <a href="https://www.american.edu/cas/faculty/akraut.cfm">Alan Kraut</a>
+  writes in his 1982 book, THE HUDDLED MASSES: THE IMMIGRANT IN AMERICAN SOCIETY
+  1880-1921,
+  <blockquote>
+  Who actually emigrated to America in the years between 1880 and 1921? Until the
+  turn of the century, most were young males in their teens or early adulthood,
+  who had left their parents or young wives and children behind as they pursued
+  opportunity abroad. Immigration officials estimated that 78 percent of the
+  Italian and 95 percent of the Greek immigrants were men. Asian emigrants in the
+  period also tended to be young males. However, after 1900, the character of
+  migration changed among some groups. By 1920, 48 percent of southern Italian
+  arrivals were female. Among Poles the proportion of men to women was almost
+  evenly divided. And among Slovaks, female immigrants outnumbered males 65
+  percent to 35 percent. In other groups, however, the newcomers continued to be
+  mostly male. Almost 80 percent of the Greek arrivals were men and boys in
+  1920.
+  </blockquote>
+  If Weinstein accuses the current migrants as consisting of mostly military-aged
+  males, why does he limit himself to these modern migrants and not go back
+  further into the country's history to also indict the many prior ones? One may
+  even ask, when have migrants not often consisted mostly of military-aged men?
+  Kraut writes further:
+  <blockquote>
+  The majority of immigrants were either Catholic or Jewish, especially
+  frightening to a predominantly Protestant America . . . The physical appearance
+  of the newcomers, over which they had little control, was perhaps most
+  frightening to the native-born . . . Just as the ragged Irish of an earlier era
+  had made proper Bostonians cringe, so the new immigrants of every hue and body
+  type met anxious glances as they tramped down gangplanks into a New World long
+  dominated by Anglo-Saxons. With each successive boatload, Americans worried
+  about the influence of foreign blood on the vitality of the American
+  population . . . Immigrants were denounced in articles and books most newcomers
+  could not yet read and derided in sermons from church pulputs and university
+  lecterns most never heard . . . The immigrants, then, were under attack for
+  reasons that can be isolated for analytical purposes, though many Americans had
+  multiple reasons for despising the newcomers. John Higham, in his now classic
+  study of nativism, <i>Strangers in the Land</i> (1955), identified three
+  strains of anti-immigrant venom: racial nativism, anti-Catholicism, and
+  antiradical nativism. However, anti-Semitism, its origins buried deep in the
+  culture of Western civilization, might well be treated as a fourth strain.
+  Then, too, immigrants encountered the hatred of those who blamed the newcomers
+  for unemployment, low wages, or urban problems such as violent crime and vice.
+  </blockquote>
+  With Weinstein, we see an example of a blend of fact and fiction, and perhaps
+  this is the accurate picture of any masked knight, that his statements are
+  neither completely true nor completely false, but that deceivers couch their
+  lies within the adjacency of verifiable facts.
+  <a href="https://scholar.google.com/citations?user=-GBU6qkAAAAJ&hl=en">Daniel Markovits</a>,
+  collating research in deception studies, suggests in a
+  <a href="https://doi.org/10.1016/j.newideapsych.2020.100816">paper</a>
+  the metaphor of a faucet as a mix of deception and truth, a blend of hot and
+  cold water. It may be that someone is quite fond of faucets.
+
+  <br>
+
+  <blockquote>
+  A rhetorician of times past said that his trade was to make little things appear
+  and be thought great. That's a shoemaker who can make big shoes for a small
+  foot . . . Those who mask and make up women do less harm, for it is a matter of
+  small loss not to see them in their natural state; whereas the other men make a
+  profession of deceiving not our eyes but our judgment, and of adulterating and
+  corrupting the essence of things.
+  </blockquote>
+  <span class="quoter">
+  —Montaigne, OF THE VANITY OF WORDS, ESSAYS
+  </span>
+
+  <br>
+
+  Likewise, Ben Carson recently made
+  <a href="https://www.youtube.com/watch?v=TrUSLyiYHR0">made</a>
+  similar claims at the Conservative Political Action Conference, saying:
+  "An estimated ten million illegal aliens have invaded our country since Biden
+  took over", consisting of "mostly military-aged males." I can agree with
+  Carson when he mentions the widespread condemnation and censorship of
+  conservatives, but he, like Weinstein, spreads false claims about doom and
+  terror, promoting blind fear, xenophobia, and paranoia. Among his claims,
+  Carson describes the January 6 rioters as "peaceful pro-life protestors and
+  patriotic grandmothers". NBC has provided raw
+  <a href="https://www.youtube.com/watch?v=DXnHIJkZZAs">footage</a>
+  of the scene that day. And what do we find there? Without a doubt, we see lots
+  of peace! And we surely see plenty of "patriotic grandmothers"!
+
+  We now step back from hysteria and consult immigration history. Francesco
+  Cordasco presented the scale of immigration in his 1976 book, IMMIGRANT
+  CHILDREN IN AMERICAN SCHOOLS:
+  <blockquote>
+  Since the keeping of records which were begun in 1819, it has been estimated
+  that some 43 million humans made their way into the United States of America,
+  truly one of the greatest peaceful human migrations in the whole history of
+  mankind. Of these, at least 40 million were of European origin and the
+  remainder of widely scattered origins. The bulk of the migration in the period
+  before 1819 (<i>i.e.</i>, 1607-1819) came from Northern and Western Europe, and
+  of this a preponderance came from the British Isles; the remainder was from
+  other parts of Europe, and also included an estimated 300 thousand blacks,
+  mostly brought in as slaves. The period between 1819-1882 is often referred to
+  as the era of the "old migration" in which some 10 million immigrants arrived,
+  with the majority again originating in Northern and Western Europe. Between
+  1882-1921 ("the new migration"), the period of the greatest sustained
+  migration, the migrants were largely of southern and eastern European origin
+  (some 20 million) out of an estimated 23.5 million.
+  </blockquote>
+  In a similar accounting, Humbert Nelli describes the scope of immigration in an
+  essay entitled, EUROPEAN IMMIGRANTS AND URBAN AMERICA (from the 1973 essay
+  collection, THE URBAN EXPERIENCE, edited by Raymond Mohl and James
+  Richardson):
+  <blockquote>
+  During the century that followed the Napoleonic wars and ended with World War I,
+  approximately 35 million European immigrants entered the United States. Some
+  left their homeland because of religious persecution, some to evade military
+  service or prison sentences, and others to escape the death penalty. For most
+  newcomers, however, economic factors ranked first in importance . . . Whatever
+  their origin, newcomers tended to settle in American cities, where they formed
+  a highly visible segment of the population . . . Newcomers from northern and
+  western Europe—the so-called old immigrants—arrived in the decades between 1815
+  and the 1880s. Their pattern of settlement was followed later by "new"
+  immigrants from southern and eastern Europe, who arrived during the thirty-five
+  years prior to World War I. On the eve of the Civil War, foreign-born residents
+  formed approximately half (and in some cases more) of the populations of
+  Chicago, Detroit, Milwaukee, St. Louis, Cincinnat, and New York City. For
+  example, along with its other nationalities, New York City was more than
+  one-fourth Irish and one-eighth German. In 1910, when the federal census showed
+  that fewer than half the country's native Americans lived in cities, 68.3
+  percent of the "old" and 78.3 percent of the "new" immigration resided in urban
+  areas.
+  </blockquote>
+  Such high rates of immigrants! And their kids! How our public school surely knew
+  how to cater to their needs! Cordasco writes:
+  <blockquote>
+  By 1911, 57.5 percent of the children in the public schools of 37 of the largest
+  American cities were of foreign-born parentage; in the parochial schools of 24
+  of these 37 cities, the children of foreign-born parents constituted 63.5
+  percent of the total registration . . . And by 1911 almost 50 percent of the
+  students in secondary schools were of foreign-born parentage. The situation in
+  New York City was not atypical. Serious deficiencies existed in the adequacy of
+  available school facilities. In 1890, it was estimated that in New York City
+  some 10,000 children, who were within the legal ages for school attendance,
+  were without actual school accommodations, and this figure was undoubtedly
+  conservative. The passage of the Compulsory Education Act in 1895, stipulating
+  that all children attend school between the ages of eight and sixteen
+  years . . . exacerbated the situation in New York City, and because of the lack
+  of accommodations, the Compulsory Education Act was to all intents
+  inoperative . . . That the public schools in New York City were unable, or
+  unwilling to meet the challenge of immigrant children is readily apparent in
+  the paucity of the concepts and programs which were fashioned . . . If New York
+  City was typical, the urban schools provided no system-wide policy which dealt
+  with the educational needs to immigrant children; and where programs were
+  fashioned to meet these needs, there was no attempt made to differentiate
+  between immigrant groups (<i>e.g.</i> the experience of Italians and Jewish
+  children in New York City strongly documents this failure); instead children
+  were lumped under the rubrics "native-born" or "foreign-born." If one discounts
+  the multiplicity of disfunctional [sic] programs, rampant discrimination,
+  authoritarian prejudice, it is still difficult to attribute the general
+  patterns of failure to immigrant children or to their parents. The blame for
+  the failure lies almost wholly within the school and the dominant society which
+  shaped its programs and articulated its cultural ideals.
+  </blockquote>
+  Cordasco, himself an Italian American born to immigrant parents, quotes from THE
+  SOCIAL BACKGROUND OF THE ITALO-AMERICAN CHILD by Leonardo Covello, also an
+  Italian American:
+  <blockquote>
+  Of no little importance was the fact that the Americanization programs were
+  directed only toward people of foreign stock, without giving any consideration
+  to the necessity of involving <i>all</i> Americans, regardless of the time of
+  their arrival in the United States. But, above all, the early Americanization
+  policies, by and large, denied or neglected the strength of, and the values in,
+  the foreign culture of immigrant groups. The concept of Americanization was
+  based upon the assumption that foreigners and foreign ideas and ways were a
+  threat to American political, economic, social stability and security. The
+  infiltration of foreign culture, it was feared, would eventually bring about a
+  deterioration of the American "way of life." Programs were designed, therefore,
+  to suppress or eliminate all that was conceived of as "foreign" and to impose
+  upon the immigrant a cultural uniformity with an American pattern.
+  </blockquote>
+  What a great struggle for these Italian American children to find some decent
+  education, these fine folks who in a different century would have been known as
+  the Romans, whose ancient heritage seems to have appeal only when it is far and
+  long gone! And in another century, the originators of the Renaissance!
+
+  In this rapid swelling of immigrants in the cities, how can it be that anyone
+  could harbor decidedly negative views towards them? It is not nativism and
+  resistance that amounts to the country's default position on immigrants! It is
+  not that we must hold a magnifying glass against a the needle in the haystack
+  to convince ourselves of any welcoming illusion! In fact, the needle has
+  surfaced before us: we find one sympathetic view in 1913, when Philander
+  Claxton, then the Commissioner of Education, wrote a letter to the Secretary of
+  the Interior:
+  <blockquote>
+  To the people of no other country is the problem of the education of immigrants
+  of so much importance as to the people of the United States. No other country
+  has so many men, women, and children coming to its shores every year from all
+  parts of the world . . . It is reported that the immigrants stopping in New
+  York City last year were from 98 different countries and provinces and spoke 66
+  different languages . . . Most of the immigrants in recent years have little
+  kinship with the older stocks of our population, either in blood, language,
+  methods of thought, traditions, manners, or customs; they know little of our
+  political and civic life and are unused to our social ideals; their environment
+  here is wholly different from that to which they have been accustomed.
+  Strangers to each other, frequently from countries hostile to each other by
+  tradition, of different speech and creeds, they are thrown together, strangers
+  among strangers, in a strange country, and are thought of by us only as a
+  conglomerate mass of foreigners. With little attention to their specific needs,
+  they are crowded into factories, mines, and dirty tenement quarters, too often
+  the prey of the exploiter in business and the demagogue in politics . . . But
+  it is not alone the question of the school education of children. The millions
+  of adult men and women, and of children older than the upper limit of the
+  compulsory school-attendance age, must be looked after; they must be prepared
+  for American citizenship and for participation in our democratic industrial,
+  social, and religious life . . . For the enrichment of our national life as
+  well as for the happiness and welfare of individuals we must respect their
+  ideals and preserve and strengthen all of the best of their Old World life they
+  bring with them. We must not attempt to destroy and remake—we can only
+  transform.
+  </blockquote>
+  Can we discover more shiny needles in the annals of American immigration
+  history? Well, let us consult the facts. With the cities teeming with
+  immigrants, Nelli writes:
+  <blockquote>
+  In 1819, a report of the Society for the Prevention of Pauperism in the City of
+  New York complained that immigrants arriving in the United States were
+  poverty-stricken, ignorant, incapable of self-support, and criminally inclined,
+  placing an intolerable burden on the community and forcing better elements to
+  despair of coping successfully with the whole immigrant problem . . . A report
+  prepared in 1857 commented on tenement areas conditions of New York
+  City: "These immigrants . . . are destitute, sick, ignorant, abject . . . They
+  swarm in filthy localities, engendering disease, and enduring every species of
+  suffering . . . They are often habitual sots, diseased and reckless, living
+  precariously, considering themselves outcasts, and careless of any change in
+  their condition." This report referred to "old" immigrants, principally Irish
+  and German; later reports used similar (sometimes identical) wording to
+  describe conditions among "new" immigrant groups before World War I. In 1922,
+  John Palmer Gavit . . . described the repeating pattern: "Each phase of
+  immigration has been 'the new immigration' at its time; each has been viewed
+  with alarm; each has been described as certain to deteriorate the physical
+  quality of our people and destroy the standards of living and of citizenship."
+  </blockquote>
+  Whenever I wish to relive some dear old memories of mine, I visit the images
+  that the New York Public Library has graciously
+  <a href="https://www.nypl.org/blog/2018/06/07/tenement-homes-new-york-history-cramped-apartments">provided</a>
+  the public of the city's olden days. How charming were the tenement years! How I
+  absolutely adore them! Oh, I miss them with a great nagging nostalgia! As I
+  recall them now, a block of anger surges to my heart! How the government has
+  changed all that was good about the city! The History Collection has
+  <a href="https://historycollection.com/living-hell-new-yorks-tenements-were-nightmares-in-the-early-1900s/">provided</a>
+  photos for all to see how spectacular the good old days were! These are some of
+  the highest quality images I've seen. Oh, how gorgeous! But the haughty city
+  mayor and regulators thought they were doing the public a service when they
+  wanted to pass some laws! Surely, the landlords had their tenants' best
+  interests in mind! How can anyone blame them for not installing windows or
+  toilets in the apartments! How tenderly I remember those days when we knew not
+  the word "toilet" but "chamber pot" and "outhouse"! How times have changed, oh,
+  believe me! Believe me too when I say I did my best to resist any change! I
+  myself was in front of the picket line, holding out the biggest sign of the
+  bunch, protesting against the city's proposed regulations. What an outrage that
+  the city's council thought it knew the tenants' desires and comforts better
+  than the landlords out to make a buck! Just imagine how many young immigrant
+  lads and gals, rushing out in the evening to answer nature's call, met while on
+  the long line to use the one and only outhouse supplied for the overcrowded
+  tenements! Under the full moon, surrounded by tense neighbors, in front of the
+  distinct smell of rotting orchids, is the prime cinematic image of a meet-cute!
+  Why hasn't anyone thought of this before? What a hit it'll surely be! Call it:
+  Romance of the Fragrant Outhouse! And the sequel: Dream of the Spent Chamber
+  Pot!
+
+  It wouldn't be until the
+  <a href="https://rarehistoricalphotos.com/new-york-photos-1970s-vergara/">1970s</a>
+  (photos from Rare Historical Photos) and
+  <a href="https://www.blind-magazine.com/stories/roaming-the-wild-streets-of-new-york-in-the-1980s/">1980s</a>
+  (photos from Blind Magazine) that my doleful, forsaken spirits were revived when
+  the sights and sounds and people reminded me of the golden days! How I held my
+  breath until then! How I savored every moment surrounded by the graffiti in the
+  subway! How I long for those days still! What great joy I had back then! As a
+  matter of fact, if you look carefully, you might find me in one of the
+  snapshots enjoying myself! To this day, I still have one of those glamorous
+  photos framed in my bedroom, for nostalgia's sake! Woody Allen portrayed a
+  corrupt, degraded New York in his 1979 movie, MANHATTAN, but his abomination
+  does little to deter me from my memories of the city's former glory, its
+  littered and poorly lit streets full of shade, sketch, and graphite on the
+  walls! I am still holding my breath!
+
+  But we are speaking of immigration! Was it a problem? Considering the massive
+  influx of immigrations, how could the federal government not invoke a whole
+  commission to research the matter and decide on a course of action?
+  <a href="https://gufaculty360.georgetown.edu/s/contact/00336000014TvDjAAK/katherine-bentoncohen">Katherine Benton-Cohen</a>
+  writes in her 2018 book, INVENTING THE IMMIGRANT PROBLEM: THE DILLINGHAM
+  COMMISSION AND ITS LEGACY:
+  <blockquote>
+  Along with seven other men, [Henry Cabot] Lodge and [William P.] Dillingham
+  would oversee the largest study of immigrants ever conducted in the United
+  States—the so-called Dillingham Commission. The Dillingham Commission's work
+  has shaped immigration policy ever since. It produced forty-one volumes of
+  reports, summarized in a brief but potent set of recommendations that was far
+  more restrictive than its own evidence supported. Within a decade, almost all
+  of these policy initiatives were implemented into law. They included a literacy
+  test, a quota system that varied by nationality, the continued exclusion of
+  Asians, and a panoply of new immigration rules. The commission's reforms
+  effectively ended mass immigration from 1924 until the passage of the
+  Hart-Celler Act of 1965.
+  </blockquote>
+  Benton-Cohen draws a contrast between the factual results in the reports and the
+  commission's conclusive recommendation to limit immigration:
+  <blockquote>
+  [E]ven the commission's assertions of objectivity produced inconsistent
+  interpretations and contradictory data. The men and women of the Dillingham
+  Commission were not of one voice. But its final recommendations were so brief,
+  decisive, and restrictive—and so quickly successful—that the behind-the-scenes
+  debates about the nature and impact of immigration . . . were swiftly
+  obscured . . . The Dillingham Commission's paradigm of "old immigrants"
+  versus "new immigrants" has shaped the study of immigration ever since. Both
+  categories referred to Europeans: "old immigrants" had come mostly from
+  Ireland, Germany, and Scandinavia in the mid-nineteenth century. In contrast,
+  the commission assumed the mostly Jewish, Italian and Slavic "new immigrants"
+  to be less assimilable and more "alien." . . . For decades, this so-called
+  hoary distinction between old and new was axiomatic in histories of
+  immigration. But the dichotomous model implicitly defined Asian and Mexican
+  immigrants as "other" in ways that have continued to structure immigration
+  policy and to produce a racial subtext about "illegal aliens" to the present
+  day . . . It was not inevitable that the commissioners would recommend these
+  restrictions. The evidence presented in their own volumes did not support the
+  weight of their conclusions. There were places in the text where they admitted
+  as much. But the pressure to recommend decisive action was strong. A mandate by
+  Congress to solve the "immigration problem" necessitated a clear response . . .
+  Many of the Dillingham Commission's volumes were like other government reports,
+  easily ignored or forgotten. Even the commisioner-general of the Bureau of
+  Immigration, Charles Nagel, read only the abstracts, not the reports. "As to
+  the forty volumes," he told Simon Wolf, "I feel constrained to consider my
+  limited time and my obligations to my family." Indeed, the commission's brief
+  list of recommendations in the first volume had remarkable influence.
+  </blockquote>
+  But Mr. Nagel, the volumes number only to forty-one! This limited time of which
+  you speak—is not time itself unlimited? And however we spend our time, is the
+  end not all the same? Wouldn't you agree? Oh my, I am taken aback—what loud
+  protests I hear! On this note, it is with immense pleasure that I am afforded
+  an opportunity to mention one of my great joys in life because, as it happens,
+  Benton-Cohen
+  <a href="https://www.c-span.org/video/?452933-1/1911-congressional-report-immigration">appeared</a>
+  on my favorite television channel, C-SPAN. I must tell you I am an avid follower
+  of this astonishing news outlet. I have a daily regimen: every night, after
+  returning from church service, I consult the Bible, because church is not
+  enough, and then with great excitement I catch up on some C-SPAN. Nonetheless,
+  all joys come to an end, and I willfully put my elation aside for now, becaues
+  the Smithsonian Magazine published a 2018
+  <a href="https://www.smithsonianmag.com/history/1911-report-set-america-on-path-screening-out-undesirable-immigrants-180969636/">article</a>
+  that, concurring with Benton-Cohen, notes similar discrepancies in the
+  Dillingham Reports, which for sure were best-selling and widely read:
+  <blockquote>
+  Throughout its inquiry, the commission's investigators sought to maintain
+  objectivity; to collect the facts, let them speak for themselves, and make
+  recommendations absent of bias. Throughout the <i>Reports</i>, the commission
+  described immigrants positively, including the vilified "new" arrivals. Even
+  the verbiage immediately preceding the recommendation of the literacy test
+  spoke of them positively. Yet, a social climate of fear and bigotry hijacked
+  the investigation, and the commissioners themselves, ignoring facts in their
+  own reports, endorsed restriction, largely to exclude the most recent types of
+  immigrants. Critics, to no avail, would argue that socioeconomic conditions did
+  not warrant more extensive exclusion, based on the commission's own standards
+  for such action. But the commission's identification of the literacy test as
+  the most "feasible method" trumped any such assertions.
+  </blockquote>
+  One may wonder whether history tends to repeat itself! Could it be that back
+  then, as now, nativist resistance against immigration stemmed from the notion
+  that the newcomers take jobs from natives? Nelli responds to our inquiry:
+  <blockquote>
+  Popular opinion held that newcomers, both "old" and "new," displaced native
+  American workingmen and depreciated wage rates. This argument appeared as early
+  as the 1850s against new arrivals from Ireland, England, and Germany. Its
+  foremost proponent, Francis A. Walker, superintendent of the census in 1870 and
+  later president of Massachusetts Institute of Technology, maintained that
+  immigration held down the native-born population because immigrants accepted
+  lower wages and worse living conditions than did Americans . . . Dillingham
+  researchers "showed" that new groups were in the process of forcing out older
+  elements from industrial jobs, especially in the eastern portions of the
+  nation. The commission concluded that such displacement adversely affected both
+  workers and the country. However, this conclusion had only a tenuous connection
+  with the commission's evidence. Facts collected by researchers indicated that
+  immigrants neither underbid nor competed with their predecessors; furthermore,
+  the increased economic activity permitted by a larger labor force enabled
+  earlier groups to improve their economic levels. Displacement indeed occurred,
+  but the movement was generally upward or outward, as earlier groups and native
+  Americans became foremen, executives, partners, owners, and the like or moved
+  to higher-paying jobs in other states. Examining the coal industry, the
+  commission found that the native-born and "old" immigrant workers moved to the
+  Midwest or Southwest and brought about a tremendous expansion in mining
+  operations.
+  </blockquote>
+  Elaborating on this question, Aviva Chomsky explains in her 2007 book, "THEY
+  TAKE OUR JOBS!" AND 20 OTHER MYTHS ABOUT IMMIGRATION:
+  <blockquote>
+  [T]he relationship between population size and the number of jobs available is
+  not quite as simple as it might seem. In the fact, the number of jobs is
+  <i>not</i> finite, it is elastic, and affected by many factors. Population
+  growth creates jobs at the same time that it provides more people to fill jobs,
+  and population decline decreases the number of jobs at the same time as it
+  provides fewer people to work at them. Population growth creates jobs because
+  people consume as well as produce: they buy things, they go to movies, they
+  send their children to school, they build houses, they fill their cars with
+  gasoline, they go to the dentist, they buy food at stores and restaurants. When
+  the population declines, stores, schools, and hospitals close, and jobs are
+  lost.
+  </blockquote>
+  No doubt this Chomsky is getting at something! But fear we must!
+  <a href="https://scholar.google.com/citations?user=p-YA2mIAAAAJ&hl=en">Ariane Chebel d'Appollonia</a>
+  writes in her 2012 book, FRONTIERS OF FEAR:
+  <blockquote>
+  [I]t is worth noting that the U.S. and European public always overestimate the
+  size of the foreign-born population. Two-thirds of Americans give inaccurate
+  responses to questions about the proportion of the population of foreign born,
+  and about how racial and ethnic groups are distributed in the national
+  population. When asked in 2006 what proportion of the U.S. population was born
+  outside the United States, most people tended to choose a figure much higher
+  than the Census Bureau figure of 12 percent. Only 34 percent selected the
+  correct answer ("closer to 10 percent"); 25 percent said the number was "closer
+  to 25 percent"; and 28 percent believed it exceeded 25 percent of the total
+  population.
+  </blockquote>
+  These numbers don't include the undocumented migrants though! Aren't those the
+  dangerous types? The ones we see as treacherous illegals whom we do not permit
+  any other image than as dubious and immoral, and therefore, within the category
+  we place them, must be so?
+  <a href="https://politicalscience.sdsu.edu/people/gonzalez-obrien">Benjamin Gonzalez O'Brien</a>,
+  <a href="http://polisci.unm.edu/people/faculty/profile/loren-collingwood.html">Loren Collingwood</a>,
+  and
+  <a href="https://scholar.google.com/citations?user=UlXRyOoAAAAJ&hl=en">Stephen Omar El-Khatib</a>
+  published a 2017
+  <a href="https://doi.org/10.1177/1078087417704974">paper</a>
+  on the relation between sanctuary cities and crime, writing that:
+  <blockquote>
+  The idea that sanctuary policies drive up crime rates is premised to a large
+  extent on the notion that undocumented immigrants tend to offend at higher
+  rates, something that has been disproven time and again. In fact, many studies
+  find an inverse relationship between immigration, undocumented or otherwise,
+  and crime rates . . . Despite these findings . . . criminalization has been the
+  default response of the federal government to the "problem" of undocumented
+  immigration . . . Indeed, if anything, undocumented immigrants may be more
+  likely to be victims of crime, rather than perpetrators of crime . . . Our
+  findings suggest that sanctuary policies themselves do not affect crime rates,
+  which contradicts the primary narrative for their repeal . . . Sanctuary cities
+  were initially designed to provide aid to and then incorporate people into
+  American life from war-torn Central American countries. The policies have a
+  strong basis in empathy, often with the backing of churches and local aid
+  organizations. Thus, the policies are designed to assist people in extremely
+  vulnerable positions in the United States in navigating their way to a life
+  that is as safe and healthy as possible. However, in recent years, a few
+  high-profile incidents where undocumented immigrants have committed horrific
+  crimes have led some political candidates—generally on the right—and other
+  actors to make sweeping negative claims about the deleterious effects of
+  sanctuary cities . . . We found these claims highly dubious on their face given
+  evidence beginning in the 1930s and continuing until today that immigrant
+  populations tend to produce less crime because these populations are more
+  concerned with deportation and running afoul of the law relative to the
+  native-born population.
+  </blockquote>
+  In this context, the researchers conducted their own analysis to evaluate these
+  claims, finding that:
+  <blockquote>
+  [T]he difference between our sanctuary cities and nonsanctuary cities on the
+  matching variables reduced to essentially zero. The result indicates that there
+  is no discernible difference on each type of crime we measured between
+  sanctuary and nonsanctuary cities. Thus, when it comes to crime, we conclude
+  that sanctuary cities have essentially no impact one way or the other.
+  </blockquote>
+  More concretely,
+  <a href="https://crim.sas.upenn.edu/people/aaron-j-chalfin">Aaron Chalfin</a>
+  <a href="https://crim.sas.upenn.edu/fact-check/do-mexican-immigrants-cause-crime">points</a>
+  out the example of one city in Texas right along the Mexico border:
+  <blockquote>
+  More than 80% of El Paso's residents are Hispanic and the vast majority of these
+  individuals are of Mexican origin. A large population of El Paso's Hispanic
+  population are immigrants. In fact, El Paso has one of the highest proportions
+  of immigrants among U.S. cities. Many of these migrants are undocumented. If
+  those who fear Mexican immigration are right, then El Paso should be a hotbed
+  of violence. As it turns out, El Paso is one of the safest cities in the United
+  States with a homicide rate of 2.4 per 100,000 residents.
+  </blockquote>
+  How can this be, we ask? We serious folks certainly do not receive the news
+  from
+  <a href="https://scholar.google.com/citations?user=lr8aD-wAAAAJ&hl=en">Michael Light</a>
+  et al. lightly when they turned the joke around and
+  <a href="https://nij.ojp.gov/library/publications/comparing-crime-rates-between-undocumented-immigrants-legal-immigrants-and">claimed</a>
+  in 2020:
+  <blockquote>
+  Contrary to public perception, we observe considerably lower felony arrest rates
+  among undocumented immigrants compared to legal immigrants and native-born US
+  citizens and find no evidence that undocumented criminality has increased in
+  recent years . . . Our findings are also consistent with research on the
+  selective nature of migration, which suggests that immigrants tend to fare
+  better on multiple social indicators than would be expected by their level of
+  socioeconomic disadvantages . . . In addition, many undocumented immigrants are
+  driven by economic and educational opportunities for themselves and their
+  families, and the decision to migrate necessarily requires a considerable
+  amount of motivation and planning. As such, undocumented immigrants may be
+  selected on qualities such as motivation to work and ambition to achieve,
+  attributes that are unlikely to predispose them toward criminality.
+  </blockquote>
+  Light et al. used data between 2012 and 2018, but
+  <a href="https://immigrationlab.org/our-team/ran-abramitzky/">Ran Abramitzky</a>
+  et al. were surely not serious when they
+  <a href="https://www.nber.org/system/files/working_papers/w31440/w31440.pdf">expanded</a>
+  the time range, studying incarceration data between 1850 and 2020! They don't
+  distinguish between illegal and legal immigrants in their study, but they
+  write:
+  <blockquote>
+  [W]e document that, as a group, immigrant men have had a lower incarceration
+  rate than US-born men for the last 150 years of American history . . . Today,
+  immigrants are 60% less likely to be incarcerated than all US-born men, and 30%
+  less likely to be incarcerated relative to white US-born men.
+  </blockquote>
+  To the great feminists who feel neglected, the authors dutifully kept
+  inclusivity in mind! They focused on men "because men constitute the vast
+  majority of the incarcerated population both today and in the past", observing
+  that, "Our takeaways are unchanged if we include women". Over such a long time
+  period: is this joke in fact true? Even the conservative Cato joins the
+  merriment! Much to our chagrin, it was only earlier this year that
+  <a href="https://www.cato.org/people/alex-nowrasteh">Alex Nowrasteh</a>
+  <a href="https://www.cato.org/blog/illegal-immigrants-have-low-homicide-conviction-rate-setting-record-straight-illegal-immigrant">admitted</a>
+  as much, specifically on homicide conviction rates. After jumping through a few
+  hoops in data inconsistencies, lack of transparency, and confusion, he arrived
+  at the same conclusion that the joke is on us! Yet, the researchers of the
+  sanctuary city paper published a follow-up 2019 book, SANCTUARY CITIES, which
+  expanded on the original paper with more research supporting the conclusions,
+  in response to a misuse of the paper:
+  <blockquote>
+  Unbeknownst to them [the authors], conservative media outlets like Fox and
+  others were using their research to justify banning sanctuary cities based on a
+  misinterpretation of a figure they had included in the paper.
+  </blockquote>
+  As a matter of fact, criminal activity in general, not only from illegal
+  immigrants, has been benting towards a certain direction for a number of years.
+  Crime
+  <a href="https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend">data</a>
+  from the FBI (because if the FBI doesn't come to you, you go to the FBI!) with
+  incident rates back until 1985 shows a distinctly downward trend on all crimes
+  nationally since 1992 that some with keen eyes may characterize as a consistent
+  decline. Confirming the wisdom of these perceptive onlookers, a Pew study
+  <a href="https://www.pewresearch.org/short-reads/2024/04/24/what-the-data-says-about-crime-in-the-us/">combined</a>
+  the crime data from the FBI and Bureau of Justice Statistics, each with a
+  different data collection method, going so far to even describe the type of
+  decline: "[D]ata show dramatic declines in U.S. violent and property crime
+  rates since the early 1990s". And yet the Pew study points out that most
+  Americans, 77% in 2023, up from 47% in 2000, believe that crime has risen
+  nationally. Why this large discrepancy? Could it be that a particular party is
+  spreading lies about the country's imminent ruin and disaster from caravans of
+  dangerous, nameless, faceless criminals entering the country? The authors of
+  SANCTUARY CITIES, after reviewing the media's portrayal of sanctuary cities,
+  write in the book:
+  <blockquote>
+  This [crime] narrative is fed by a highly negative and stereotypical portrayal
+  of immigrants by the media . . . [T]he media persistently frame immigrants as
+  undocumented, imply criminality by drawing attention primarily to imigrant
+  arrests and detention, and focus on the border . . . Given the scholarship
+  reviewed . . . there is little doubt that this framing drives many Americans to
+  conflate immigration with crime, and to think of the issue in highly episodic
+  ways.
+  </blockquote>
+  The authors continue:
+  <blockquote>
+  The potential benefits of sanctuary policies in the city from increasing
+  cooperation between immigrant communities and police has been more and more
+  drowned out, particularly in broadcast media and television news, by
+  politicians like Donald Trump who seek to use the issue for electoral advantage
+  and to tap into the nativism and racism that still make fear-mongering so
+  effective in the United States.
+  </blockquote>
+  Wherefore this fear-mongering if not horror and panic, terror and fright, nerves
+  shaking in the night?
+
+  <br>
+
+  <blockquote>
+  Travel is useful, it exercises the imagination. All the rest is disappointment
+  and fatigue. Our journey is entirely imaginary. That is its strength.<br>
+  <br>
+  It goes from life to death. People, animals, cities, things, all are imagined.
+  It's a novel, just a fictitious narrative. Littré says so, and he's never
+  wrong.<br>
+  <br>
+  And besides, in the first place, anyone can do as much. You just have to close
+  your eyes.<br>
+  <br>
+  It's on the other side of life.
+  </blockquote>
+  <span class="quoter">
+  —Louis-Ferdinand Céline, JOURNEY TO THE END OF THE NIGHT
+  </span>
+
+  <br>
+
+  It is most relevant here! to mention that Carl Jung writes in his large and
+  unwieldy RED BOOK:
+  <blockquote>
+  At that time, in the fortieth year of my life, I had achieved everything that I
+  had wished for myself. I had achieved honor, power, wealth, knowledge, and
+  every human happiness. Then my desire for the increase of these trappings
+  ceased, the desire ebbed from me and horror came over me. The vision of the
+  flood seized me and I felt the spirit of the depths, but I did not understand
+  him. Yet he drove me on with unbearable inner longing and I said: "My soul,
+  where are you? Do you hear me? I speak, I call you—are you there? I have
+  returned, I am here again. I have shaken the dust of all the lands from my
+  feet, and I have come to you. I am with you. After long years of wandering, I
+  have come to you again." . . . Life does not come from events, but from us.
+  Everything that happens outside has already been.
+  <br><br>
+  <i>Therefore whoever considers the event from outside always sees only that it
+  already was, and that it is always the same. But whoever looks from inside,
+  knows that everything is new. The events that happen are always the same. But
+  the creative depths of man are not always the same. Events signify nothing,
+  they signify only in us. We create the meaning of events. The meaning is and
+  always was artificial. We make it.</i>
+  </blockquote>
+  In the latter half of this quote, Jung touches on Nietzsche's eternal
+  recurrence, having explicitly mentioned in a lecture at ETH Zurich in 1935 a
+  turning point at a certain life phase as a parallel:
+  <blockquote>
+  A point exists at about the thirty-fifth year when things begin to change, it is
+  the first moment of the shadow side of life, of the going down to death. It is
+  clear that Dante found this point and those who have read <i>Zarathustra</i>
+  will know that Nietzsche also discovered it.
+  </blockquote>
+  Yes! Having encountered that point many, many decades ago, I can personally
+  attest to such a phenomenon. Specifically in THUS SPOKE ZARATHUSTRA, this may
+  be what Jung was referring to, as this was exactly what announced for me
+  (too!) the shadow side of life:
+  <blockquote>
+  When Zarathustra was thirty years old, he left his home and the lake of his
+  home, and went into the mountains. There he enjoyed his spirit and his
+  solitude, and for ten years did not weary of it. But at last his heart
+  changed,—and rising one morning with the rosy dawn, he went before the sun, and
+  spake thus unto it:
+  <br>
+  Thou great star! What would be thy happiness if thou hadst not those for whom
+  thou shinest!
+  </blockquote>
+  Mein Zarathustra, for whom but thee doth I shine, and doth nicht exist mein
+  happiness wert nicht for thee! Speak, mein Zarathustra! Teach mich der Über!
+  Let no unscrupulous atheist tell his good fellow Christians that God did not
+  rest on the seventh day, as the big book proclaims! But what did He do the day
+  before? He doth maketh the beautiful animals! He doth granteth his own image in
+  you! And me! He doth maketh among them Christians, Jews, Muslims, Hindus, and
+  those pagans too, so that they may quibble away! What an important task! While
+  they bickered away, there roameth in the background the many dinosaurs that
+  were created on the same day! But what did Jung do on the sixth? We learn from
+  within the covers of the red tome:
+  <blockquote>
+  Sixth night. My soul leads me into the desert, into the desert of my own self. I
+  did not think that my soul is a desert, a barren, hot desert, dusty and without
+  drink. The journey leads through hot sand, slowly wading without a visible goal
+  to hope for? How eerie is this wasteland. It seems to me that the way leads so
+  far away from mankind. I take my way step by step, and do not know how long my
+  journey will last.
+  </blockquote>
+  Doth Jung's journey not sound like a great time? Some mighty fun? I say it is
+  certainly so! But caught in Jung's desert, I spot in the yonder, through some
+  rippling hot air, some shining blue puddles! Here, my dear reader, I find
+  myself finally on familiar, recognizable grounds! It was in 1948 that the
+  sociologist Oliver Cox published his book, CASTE, CLASS, RACE, just one year
+  after my birth! If the appearance of the digits in that year strikes some
+  readers with the unmoored, unrelatable distance of a past too long ago, those
+  very digits evoke in me the immense fondness of attachment and nostalgia, like
+  discovering an oasis after weeks of fruitless trekking in the desert. Aye! How
+  the soul longs for the comforting airs of yesteryear! Although more popular
+  back in my day, Cox's work and reputation have waned in the intervening years,
+  compelling one to think it is high time someone resurrects if not the man
+  himself then surely his words! Just as we do with ours, Cox called his era
+  the "modern times" as he observes the flexible nature of prejudice:
+  <blockquote>
+  Probably one of the most persistent social illusions of modern times is that we
+  have race prejudice against other people because they are physically
+  different—that race prejudice is instinctive. From the point of view of
+  Anglo-Saxon, gentile, well-to-do people, we may hate peoples of other
+  nationalities, hate Jews, hate all colored peoples, and hate union workers. Yet
+  we can safely say that these are not all an identical social attitude. Our
+  feeling against, say, the Italians may vanish if they become our allies in war;
+  feeling against the Jews may subside as we begin to discount the importance of
+  religion in determining social phenomena; if Negroes do our work contentedly
+  and help to break strikes for us, we may defend and even treat them amicably;
+  we may see considerable virtue in union workers if they insist that the company
+  union has more merit than the outside organization. Human beings have the
+  capacity for "social hatred" or antagonism; yet in any given social situation
+  of inter-group antagonism, we do not seek an explanation by referring to this
+  capacity. The social antagonism is as stable and as different as the inciting
+  cause—the interest—behind the antagonism. Human nature itself is probably the
+  most plastic and malleable of all animal nature.
+  </blockquote>
+  Resulting from this malleability, Cox's central idea is that race prejudice is
+  not separate from class exploitation but are outgrowths of capitalist
+  interests:
+  <blockquote>
+  [The] reaction of labor, however, is not peculiarly a racial phenomenon; the
+  conflict is essentially between employer and worker. Indeed, workers will react
+  to inanimate objects, to machinery, in a characteristic way if that latter is
+  introduced suddenly as a significant substitute for labor. Workers have been
+  known to riot and attack machines in a way not unlike their attacks upon other
+  workers who, because of lower standards, are favored by employers . . . It
+  should be noted that this [racial] attitude is not an exploitative attitude; it
+  is a conflict between two exploited groups generated by the desire of one group
+  of workers to keep the value of its labor power by maintaining its scarcity. In
+  Trinidad, British West Indies, Negro workers, in almost identical terms, fought
+  against the continued introduction of indentured East Indian laborers; and
+  between 1930 and 1932 Negroes on the South Side of Chicago demonstrated against
+  the employment of white "foreigners" by certain public utilities . . . We may
+  cite, of course, many illustrations of this attitude among whites in the United
+  States—beginning, perhaps, with the early anti-Irish attitude in the East.
+  Every conflict between strikers and "scabs" produces similar attitudes among
+  the strikers . . . This apparent racial conflict, then, is in fact an extension
+  of the modern political-class conflict. The employer needs labor, cheap labor;
+  he finds this in Asiatic workers and displaces white, more expensive labor with
+  them. White workers then react violently against the Asiatics, indeed, not
+  unlike the way in which early handicraft workers reacted against the machine.
+  On this point Eliot Grinnell Mears observes [in the book RESIDENT ORIENTALS ON
+  THE AMERICAN PACIFIC COAST]: "The organized-labor attitude . . . while
+  strenuously opposed in its public utterances to Oriental immigration, is
+  actually interested in racial questions in so far [sic] as they affect
+  competitive conditions in industry. . . . The issue is capital and labor, not
+  race and labor."
+  </blockquote>
+
+  We now turn to the distinction between legal and illegal immigration. Legal
+  immigrants are not the focus of this piece, and I shall mention them only by
+  reference to the Migration Policy Institute, with groups sorted alphabetically
+  by origin:
+  <a href="https://www.migrationpolicy.org/article/immigrants-asia-united-states-2020">Asia</a>,
+  <a href="https://www.migrationpolicy.org/article/central-american-immigrants-united-states-2019">Central America</a>,
+  <a href="https://www.migrationpolicy.org/article/european-immigrants-united-states">Europe</a>,
+  <a href="https://www.migrationpolicy.org/article/mexican-immigrants-united-states">Mexico</a>,
+  <a href="https://www.migrationpolicy.org/article/middle-eastern-and-north-african-immigrants-united-states">Middle Eastern and North African</a>,
+  <a href="https://www.migrationpolicy.org/article/south-american-immigrants-united-states">South America</a>,
+  and
+  <a href="https://www.migrationpolicy.org/article/sub-saharan-african-immigrants-united-states-2019">Sub-saharan African</a>.
+  As for illegal immigrants, Customs and Border Protection
+  <a href="https://www.cbp.gov/newsroom/stats/nationwide-encounters">shares</a>
+  data and visualizations on the number of known migrant entries. CBP seems to
+  favor not discovering, finding, or locating, but encountering, giving their
+  statistics the daring name of Nationwide Encounters, evoking the mystery and
+  thrall of a movie name like Alien Encounter: First Contact. Although these are
+  by no means first contacts, encountering for sure remains preferable to any
+  from among confronting, engaging, tracking, and capturing. The visualization
+  offers a convenient citizenship filter for those who wish to delineate migrants
+  by origin, including of course South American countries but also the places one
+  suspects are a wee bit further away, behind a pond or some mountains like
+  China, Russia, India, Romania, Burma, Turkey, and the Philippines. Pew provided
+  a few
+  <a href="https://www.pewresearch.org/short-reads/2024/02/15/migrant-encounters-at-the-us-mexico-border-hit-a-record-high-at-the-end-of-2023/">visualizations</a>
+  on the growing numbers of migrants on the southern border, the greater portion
+  traveling in families, and the origin countries with the most migrants.
+
+  Who are these migrants from the south? The approach to use is not to begin with
+  outlook anticipating crime, drugs, immorality, and violence, and then to see
+  whether what we encounter confirms or denies our criminal expectations, but to
+  have an open eye towards what are people like any other, and it may be that
+  crime plays only a small part of the whole story. Migrants come from various
+  locations, but one difficult stretch for South Americans traveling north is the
+  crossing into Central America, the Darién Gap. Last year, CNN
+  <a href="https://www.youtube.com/watch?v=MOWthjWmS2s">covered</a>
+  the story of this part of the migrant trail in five parts, providing first-hand
+  footage of the people and journey. I think these are ordinary people making the
+  perilous trek for better opportunity, quite separate from the disturbing
+  narrative among conservatives of criminal hordes slipping into the homeland
+  under the cover of night. In spite of this, I am against illegal immigration
+  out of practical concern.
+
+  <a href="https://www.migrationpolicy.org/about/staff/kathleen-bush-joseph">Kathleen Bush-Joseph</a>
+  provides informative information in a Migration Policy Institute
+  <a href="https://www.migrationpolicy.org/research/outmatched-us-asylum-system">report</a>
+  on migrants, the asylum situation, the government's response, and the generally
+  insufficient resources in funding and personnel to handle the rapid rise in
+  migrant arrivals in the past few years. She writes:
+  <blockquote>
+  To improve border management, the United States needs a functioning asylum
+  system so that people eligible for protection can receive it, and those who are
+  ineligible can be quickly removed after fair review of their claim . . .
+  Presently, the arrival of record numbers of asylum seekers at the U.S.-Mexico
+  border, the outdated legal framework for adjudicating their claims, and
+  resource allocations that do not prioritize adjudications mean that the asylum
+  system faces unprecedented strain. Since border officials are unable to quickly
+  remove most border arrivals, nearly 2.5 million were released into the country
+  to await immigration court proceedings between January 2021 and March 2023 and
+  had no confirmed departure . . . The immigration court process typically takes
+  years; some 2023 arrivals to New York City have been scheduled for initial
+  hearings in 2027 . . . By most measures, the U.S. asylum system does not meet
+  its objectives. Those eligible for asylum do not receive it in a timely manner,
+  and migrants deemed ineligible are not returned to their countries of origin.
+  Increasing arrivals at the U.S.-Mexico border continue to overwhelm enforcement
+  and protection screening capacity, and asylum adjudications cannot keep up with
+  new filings . . . A new era of global displacement is underway that includes
+  major movements within the Western Hemisphere. Insufficient resources and
+  litigation largely dictate policy on the ground, and the pressures on
+  destination cities that are receiving tens of thousands of migrants for which
+  they have not been prepared has shifted public opinion even among strongly
+  pro-immigration elected leaders, who are calling for more effective border
+  enforcement measures, reduced numbers of asylum seekers, and increased federal
+  funding to support migrant services.
+  </blockquote>
+  Curiously enough, Bush-Joseph notes that:
+  <blockquote>
+  President Barack Obama inherited a better resourced immigration enforcement
+  regime than his predecessors and focused on removing from the U.S. interior
+  noncitizens who had been convicted of serious crimes and recent arrivals,
+  earning the nickname "deporter in chief." His administration conducted a
+  record number of removals, averaging 344,000 per year.
+  </blockquote>
+  <a href="https://www.brookings.edu/people/elaine-kamarck/">Elaine Kamarck</a>,
+  in Brookings,
+  <a href="https://www.brookings.edu/articles/fixing-the-border-four-reasons-the-immigration-crisis-isnt-going-away/">poses</a>
+  the migrant crisis as a surge management problem, calculating that the the
+  number of border patrol staff has remained nearly constant between 2018 and
+  2023, at just over 16,000, even as the number of migrants grew from hundreds of
+  thousands to millions. Kamarck cites a Syracuse University TRAC
+  <a href="https://trac.syr.edu/phptools/immigration/backlog/">dashboard</a>
+  on the number of pending cases in the immigration backlog, which as of May 2024
+  comes to just over 3.5 million. The solution Kamarck recommends is to close the
+  border temporarily:
+  <blockquote>
+  There are many people out there with legitimate claims to be in the United
+  States. Their cases should be settled, and those who don't qualify should be
+  sent home. Biden should close down the border temporarily so that those who are
+  already here can be fairly evaluated. Some will meet the criteria and many more
+  will be sent home.
+  </blockquote>
+
+  Pew
+  <a href="https://www.pewresearch.org/short-reads/2022/09/08/republicans-and-democrats-have-different-top-priorities-for-u-s-immigration-policy/">finds</a>
+  that Republicans favor deporting illegal migrants and securing the southern
+  border, and Democrats prefer giving migrants a legal pathway to staying in the
+  country. However the immigration judges decide each case, they reach a
+  conclusion on whether a migrant can stay, but the current situation for
+  millions of migrants is a lengthy limbo of waiting for a court to consider
+  their case—the migrant crisis itself presents a problem of scale along with the
+  lack of adequate resources. On top of the massive backlog, an additional issue
+  surfaces. Of the migrants already in the country, what is the cost of keeping
+  them here while they wait several years on the backlog? It is worth the
+  reminder here that resources do not manifest from thin air, and government
+  spending comes from either taxpayers or taking on debt. Let us consider a view
+  on finances, and then I will put forth my view on the matter, but let me begin
+  by saying that I agree with the statement that everyone deserves adequate
+  access to resources, opportunities—I am not against this, but how do we convert
+  this ideal into reality?
+
+  It costs resources to process this influx of migrants, but we shall see that the
+  costs mount further when the government subsidizes their housing while they
+  wait for an asylum hearing. But first we must reflect on the state of the
+  government's finances—it is no exaggeration that the federal debt is rapidly
+  becoming a serious problem. Federal debt held by the public has been rising
+  rapidly, according to
+  <a href="https://fred.stlouisfed.org/graph/?g=1jhVT">data</a>
+  from the Federal Reserve; as a percent of GDP, it stood at 36.8% in Q1 2000 but
+  has risen to 96.4% in Q4 2023 (all percentages mentioned below in this topic
+  are in proportion to the GDP; this measure indicates the country's ability to
+  pay its debt). In particular, this debt increase means that the interest the
+  government pays is also rising. The Congressional Budget Office
+  <a href="https://www.cbo.gov/publication/59727">showed</a>
+  that in fiscal year 2023, the net interest was 2.4%, about half of the cost of
+  Social Security, the largest government expenditure, which came in at 5%. The
+  Committee for a Responsible Federal Budget
+  <a href="https://www.crfb.org/blogs/2023-interest-costs-reach-659-billion">declared</a>
+  last year, "Interest is now the <i>fourth-largest government program</i>, behind
+  only Social Security, Medicare, and defense." CBO in 2020
+  <a href="https://www.cbo.gov/publication/56910">projected</a>
+  that by 2050, net interest would grow to 8%, and earlier this year
+  <a href="https://www.cbo.gov/publication/60127">provided</a>
+  a broader budget projection over the next thirty years; in this new projection,
+  net interest grows to 6.3% in 2054, overtaking Social Security's 5.9%. CBO
+  warns about the rising debt:
+  <blockquote>
+  From 2024 to 2054, growing deficits would push federal debt held by the public
+  far beyond any previously recorded level . . . Such large and growing debt
+  would have significant economic and financial consequences. Among its other
+  effects, it would slow economic growth, drive up interest payments to foreign
+  holders of U.S. debt, heighten the risk of a fiscal crisis, increase the
+  likelihood of other adverse outcomes, and make the nation's fiscal position
+  more vulnerable to an increase in interest rates.
+  </blockquote>
+  This projection is predicated on "the assumption that current laws governing
+  taxes and spending will generally remain unchanged"—this is the default course
+  if the country remains on its current track.
+  CBO also
+  <a href="https://www.cbo.gov/publication/56783">shared</a>
+  options for reducing the deficit, considering many areas of reducing spending
+  and raising revenue. And how high can the country's debt go? According an
+  ominous
+  <a href="https://budgetmodel.wharton.upenn.edu/issues/2023/10/6/when-does-federal-debt-reach-unsustainable-levels">article</a>
+  last year from the Penn Wharton Budget Model:
+  <blockquote>
+  We estimate that the U.S. debt held by the public cannot exceed about 200
+  percent of GDP even under today's generally favorable market conditions . . .
+  Under current policy, the United States has about 20 years for corrective
+  action after which no amount of future tax increases or spending cuts could
+  avoid the government defaulting on its debt whether explicitly or implicitly.
+  </blockquote>
+  Some perspective is needed: this is only one model's estimate, and we should not
+  easily succumb to fatalist portents.
+
+  With an eye towards this growing debt, a Senate
+  <a href="https://www.budget.senate.gov/hearings/the-rich-get-richer-deficits-get-bigger-how-tax-cuts-for-the-wealthy-and-corporations-drive-the-national-debt-">hearing</a>
+  was held last year with the admittedly provocative title from the Democrats in
+  the majority, THE RICH GET RICHER, DEFICITS GET BIGGER: HOW TAX CUTS FOR THE
+  WEALTHY AND CORPORATIONS DRIVE THE NATIONAL DEBT. The slate of witnesses
+  provide a fair overview of liberal, conservative, and non-partisan stances,
+  predicated on statistics, modeling, projections, and various outcomes of past
+  policies. I'm not going to comment on their testimonies because I have nothing
+  further to add, but a very brief summary of the issue is this:
+
+  <pre style="padding:0; border:0; background-color:white;">
+  balance = revenue - spending
+  </pre>
+
+  Because spending is greater than revenue, the budget balance is in deficit. This
+  fact is not contentious, and that it is a growing problem is perhaps one of the
+  few points of agreement between the parties. However, Democrats wish to remedy
+  this with higher taxes on the wealthy to bolster revenue, while Republicans
+  want to curtail spending through fewer programs and a smaller government. The
+  writer himself is partial to the Democrat view, but agrees that spending must
+  also decline.
+
+  The writer must mention a most enlightening moment in the hearing! Senator John
+  Kennedy, a Republican, first confirming that one of the witnesses, Bruce
+  Bartlett, was attending the hearing on the side of Democrats, commences
+  (at 1:42:39) his approach which runs at all odds against every other senator's
+  reliance on decent sense, contrary to everyone else's facts and figures, rhyme
+  and reason: he divines his victim's convictions through the victim's old
+  tweets. Senator Kennedy, we see, adheres to the motto: "By thy tweets shall ye
+  be known!" He proceeds to read out a series of Bartlett's openly political
+  tweets, and after reciting each tweet with a barely conceiled contempt, he
+  looks up at Bartlett with an innocent disbelief, asking if he read the tweet
+  correctly. And once Senator Kennedy finishes going through the tweets, he
+  calmly concludes his inquiry with a sharp retort: "Mr. Bartlett, I appreciate
+  you answering my questions. It helps me to determine the credence or
+  credibility to give to your testimony." Though the writer doesn't think Senator
+  Kennedy's approach yields much in the way of clarity, the writer admits he
+  likes the senator's style. Of course, later, Senator Tim Kaine sets right the
+  context of some of the tweets.
+
+  We were discussing the cost of this wave of migrants. With the federal debt
+  growing at the current rate, I am rather against the government recklessly
+  expanding its spending. USAFacts
+  <a href="https://usafacts.org/state-of-the-union/immigration/">calculated</a>
+  that, "The government spent $22.4 billion . . . on immigration and border
+  security last year [fiscal year 2023]." This would be 0.08% of GDP, a fairly
+  low number, but considering the current trajectory, when the government should
+  aim to reduce spending, it would be a mistake to let spending run loose. Since
+  we have lingered on the debt issue for longer than the writer intended, we
+  shall consider only briefly the issue of state and local debt, because states
+  and cities are also in debt, though not as drastically as the federal
+  government. In particular, we shall consider the debt-y New York: the state
+  comptroller
+  <a href="https://www.osc.ny.gov/reports/finance/2023-fcr/debt">projects</a>
+  rising state debt, as
+  <a href="https://comptroller.nyc.gov/wp-content/uploads/documents/Annual-Report-on-Capital-Debt-and-Obligations-Fiscal-Year-2024-FINAL_Revised-_3_26_2024.pdf">does</a>
+  the city comptroller for the city. It is rather interesting to note that the
+  state limits its self-justifying vanity to a single bold heading, "New York
+  State Ranks Second Highest in Outstanding Debt Nationwide", while the city's
+  report dedicated an entire section to note that despite a high debt burden, the
+  city's debt, when viewed in context, compares favorably to those of other large
+  cities which it calls the "Peer Group". This is the rough breakdown of the
+  city's debt, as of June 30, 2023, in billions of dollars:
+
+  <pre style="padding:0; border:0; background-color:white;">
+  Gross Debt Outstanding                         $98
+  New York Water Finance Authority (NYW)         $32.2
+  Metropolitan Transportation Authority (MTA)    $49.1
+  Health and Hospitals (H+H)                     $ 0.48
+
+  Total                                         $179.8
+  </pre>
+
+  But in its official accounting, the city does not regard this total as its debt
+  load. Only the first line item is relevant to the city's official debt number,
+  or what the city calls "indebtedness", which is then measured against the
+  city's debt limit; the three other entities issue their own debt and are
+  separate from the gross debt. Further, not all of the $98 billion counts
+  towards the debt limit, as some costs are excluded from the city's definition
+  of indebtedness; the total indebtedness at the end of FY 2023 was computed to
+  be $96.9 billion (though this number is brought down further in the accounting
+  through an exemption called the Transitional Finance Authority).
+
+  In light of this debt, what is the cost of supporting asylum seekers in the
+  city? We now trace the city's resource burden to support migrants. The city
+  comptroller shares a
+  <a href="https://comptroller.nyc.gov/services/for-the-public/accounting-for-asylum-seeker-services/asylum-seeker-census/">census</a>
+  for the asylum seekers in city-funded shelters, writing that, "As of March 10,
+  2024, the City had approximately 64,600 people seeking asylum in City funded
+  shelter". As Mayor Eric Adams
+  <a href="https://www.nyc.gov/office-of-the-mayor/news/583-23/as-city-nears-arrival-100-000-asylum-seekers-since-last-spring-mayor-adams-lays-out-updated#/0">said</a>
+  last summer, "Our compassion may be limitless, but our resources are not." At
+  the time, an updated budgetary forecast showed that the cost of supporting
+  asylum seekers "is projected to cost our city $12 billion over the course of
+  three fiscal years without policy changes and further support from the state
+  and federal governments." I think it is easy to ask for money from elsewhere,
+  but the state and the federal government are also both in debt. In December,
+  the city comptroller released a
+  <a href="https://comptroller.nyc.gov/wp-content/uploads/2023/12/Funding-for-New-York-Citys-Services-for-People-Seeking-Asylum.pdf">report</a>
+  on the cost of funding asylum seekers: $4.7 billion in FY 2024 and $6.1 billion
+  in FY 2025. To be sure, it is true that this funding may be viewed as the
+  initial cost of investment to expand a labor force that will generate
+  additional tax revenue over time. But how much do they generate? The
+  comptroller's office released a fact
+  <a href="https://comptroller.nyc.gov/reports/facts-not-fear-how-welcoming-immigrants-benefits-new-york-city/">list</a>
+  about immigration's benefits to the city, which I do not have an issue with.
+  However, again, we must be careful not to conflate legal and illegal
+  immigrants. We are here considering specifically illegal immigrants, and, in
+  particular, the asylum seekers the city is funding. The fact list cites
+  an American Immigration Council
+  <a href="https://map.americanimmigrationcouncil.org/locations/new-york/">infographic</a>
+  on the tax contributions from immigrants in 2021, in which, again, we should not
+  be misled by the high revenue and spending power of immigrants in general, but
+  only of illegal immigrants. The infographic doesn't isolate asylum seekers, and
+  the closest approximation we have is in the "undocumented immigrants" section,
+  which shows that they contributed $3 billion in total revenue: $1.8B for
+  federal and $1.2B for state and local. Assuming the best case, that these
+  contributions are entirely from asylum seekers, the city receives a only
+  portion of the $1.2B, which, when measured against the projected FY 2024 and FY
+  2025 costs to fund asylum seekers, nets in a loss. It may be contested that
+  these are ongoing contributions as opposed to the one-time cost of funding, and
+  that the contributions accumulated over several years may flip the net into a
+  gain: true, but the funding should be compared to the opportunity cost of not
+  paying down the existing debt, which will lower interest payments over time. As
+  we saw in the city's debt composition above, who knew that water could be so
+  expensive? Or that maintaining and running subways and keeping them from
+  falling into disrepair could come at such a massive deficit? The state
+  comptroller laments in a
+  <a href="https://www.osc.ny.gov/files/reports/osdc/pdf/report-3-2025.pdf">report</a>
+  on the MTA's debt:
+  <blockquote>
+  Budgeted debt service . . .  is projected to reach nearly $5 billion by 2031,
+  which is 83 percent ($2.3 billion) more than in 2023 . . . Continued
+  backloading of debt to achieve short-term savings . . . will also result in
+  higher costs to the MTA's riders, toll payers and taxpayers in the long-term.
+  If the MTA has to issue more debt for investments in the system amid potential
+  funding gaps from its funding partners, then this unadvisable, costly practice
+  is likely not only to continue, but potentially grow as it attempts to manage
+  the operating budget impact.
+  </blockquote>
+  The city released a
+  <a href="https://council.nyc.gov/budget/wp-content/uploads/sites/54/2024/03/MTA.pdf">report</a>
+  on the MTA's budget, and in Figure 3, we see that debt service, at $2.8 billion,
+  costs more than running the Long Island Rail Road and the Metro-North Railroad
+  (yes, the two railroads are not spelled the same way).
+
+  In reasoning from the infographic above, we have assumed that asylum seekers
+  have legal authorization to work, but what warrants this assumption? According
+  to U.S. Citizenship and Immigration Services, to even
+  <a href="https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum">apply</a>
+  for an Employment Authorization Document (EAD), an asylum seeker must first
+  apply for asylum and then wait 180 days. On paper, this is how long it will
+  take, but as of May 2024, the city's immigration
+  <a href="https://trac.syr.edu/phptools/immigration/asylumbl/">backlog</a>,
+  according to Syracuse University's TRAC, sits at about 150,000.
+  <a href="https://bipartisanpolicy.org/person/theresa-cardinal-brown/">Theresa Cardinal Brown</a>
+  agrees that the asylum system is broken on a 60 MINUTES
+  <a href="https://youtu.be/PwuMaKSrxiY?t=318">episode</a>,
+  saying, "We just don't have the personnel, the resources, the infrastructure, or
+  the right processes to manage what's happening there well." With large numbers
+  of asylum seekers, Brown reiterates what we saw earlier at the federal level,
+  that it may take years of waiting on the backlog; Brown says, "On average,
+  people [asylum seekers] . . . might wait three to five years" to get an asylum
+  hearing, and that "It could be four years, four and a half years, before you
+  [an asylum seeker] can ask for work authorization." As shown in the episode,
+  many migrants have come to work and earn their keep, but the current laws
+  simply don't permit them to do so without protracted waiting. Proposals have
+  been suggested to reduce the wait time. Last year, Senator Susan Collins
+  (a Republican)
+  <a href="https://www.congress.gov/bill/118th-congress/senate-bill/255/text">introduced</a>
+  the Asylum Seeker Work Authorization Act of 2023 to the Senate, which, the
+  National Immigration Forum
+  <a href="https://immigrationforum.org/article/asylum-seeker-work-authorization-act-of-2023-bill-summary/">describes</a>
+  as reducing the wait period of 180 days to 30 for asylum seekers who entered the
+  country through an official port of entry. Similarly, according to the
+  Immigration Forum article, Representative Chellie Pingree (a Democrat)
+  <a href="https://www.congress.gov/bill/118th-congress/house-bill/1325/text">proposed</a>
+  to the House a bill with the same reduction, only without the port of entry
+  qualification. Neither of these proposals has been passed yet, but even if
+  either does and the wait period were shortened, we must not forget the backlog
+  and the preliminary wait time of "three to five years" that Brown estimated to
+  reach an asylum hearing. Last September, Mayor Eric Adams made an
+  <a href="https://www.nyc.gov/office-of-the-mayor/news/660-23/mayor-adams-expedited-sprint-identify-asylum-seekers-eligible-apply-work-permits">effort</a>
+  to hasten this first step by opening a help center to aid asylum seekers to
+  prepare and send in applications for asylum, yet even with this assistance,
+  "[T]he city expects the number of people currently eligible to apply for work
+  authorization to be a relatively small percentage of those now in care." In
+  spite of Adam's attempt at a remedy, one may be forgiven in finding fault with
+  the city's approach that, in the face of this problem, Adams insists, "New
+  York City needs significant and timely support from our state and federal
+  partners to tackle this national issue"—as though asking someone else for help
+  should be the city's default solution rather than a self-determined,
+  self-prescribed, self-sufficient path to financial sustainability, because,
+  after all, this has become the city's problem, and looking elsewhere for
+  charity resembles irresponsible complaining.
+
+  One month after setting up the aslyum assistance center, Adams' administration,
+  perhaps with an newfound eye towards fiscal responsibility,
+  eventually "announced that it would implement a new policy limiting shelter
+  stays for newly arrived families with children to 60 days",
+  <a href="https://comptroller.nyc.gov/reports/report-on-the-investigation-of-the-implementation-of-the-60-day-rule-for-asylum-seeker-families/">according</a>
+  to the city comptroller. But the comptroller's report itself is a critical
+  investigation of the new policy, complains that it is "haphazard", and
+  recommends that the city should end it. For some reason the comptroller is more
+  sympathetic to migrants who, by no fault of their own, are unauthorized to work
+  and contribute than to the city's fiscal health. Contrast the current situation
+  with that of the Italian immigrants during the city's tenement days around the
+  early 1900s, who, as the Library of Congress
+  <a href="https://www.loc.gov/classroom-materials/immigration/italian/tenements-and-toil/">records</a>,
+  were able to work, though struggling, but the current laws prohibit this new
+  wave of migrants from doing the same. We must remember: Opportunities do not
+  grow on trees, money doesn't fall from the sky, and funding for asylum seekers
+  comes from either tax revenue or incurring more debt—which adds to the current
+  burden and diminishes the city's resources for everyone else—while this cost
+  simultaneously does not entail a corresponding prospect for a positive return.
+
+  Without a foreseeable path to quickly enable large portions of migrants to work
+  and finance their own housing, under the current surge in migrants and the
+  present laws preventing them from working, I am quite against accepting more
+  migrants from entering the city and, by extention, states like Texas that are
+  <a href="https://gov.texas.gov/news/post/texas-transports-over-100000-migrants-to-sanctuary-cities">busing</a>
+  them across the country. My contention on illegal immigration is not about race,
+  culture, religion, or crime, but an inadequate and incapable asylum system
+  entrenched in a wave of divided politics, amplified by the confluence of
+  polarized news, massive economic inequality, elite overproduction, and popular
+  immiseration, situated against a backdrop of growing government debt. For legal
+  immigrants who have a pathway to employment, promising and authorized, and who
+  can contribute to the economy, I say: "Come one, come all! Come help us pay our
+  debts!" To everyone else, I'm afraid the country at this time has its own
+  problems and cannot handle the expense to subsidize everyone's well-being.
+
+  For those liberals among us who still habor visionary longings for a utopic
+  fantasy, perhaps the better course of action is to stop generating so much
+  grating noise in public and complain about the mistreatment of migrants and
+  expect some magical intervention to drop from the sky but to put our money
+  where our mouth is and take it upon ourselves to financially support one or two
+  (maybe three! or why not four?) migrants from our own hard-earned paycheck! To
+  thee I say: you live up to your proclaimed beliefs, and Uncle Sam (and his
+  wallet) thanks you for your services to your country! And to thee someone else
+  has said,
+  <blockquote>
+  In the long history of the world, only a few generations have been granted the
+  role of defending freedom in its hour of maximum danger. I do not shrink from
+  this responsibility—I welcome it . . . And so, my fellow Americans: ask not
+  what your country can do for you—ask what you can do for your country.
+  </blockquote>
+
+  Had Emma Lazarus lived in our age and were commissioned to write the
+  generation-defining poem for the migrants of the world arriving along the great
+  southern border, perhaps she would have called it, THE NEW WALL:
+
+  <br>
+
+  Not like the golden country of opportunity,<br>
+  With dollar mountains from sea to shining sea;<br>
+  Here at our desert-beaten, sunset gates shall stand<br>
+  A mighty barricade with steel grates, whose metal<br>
+  Is a soaring thirty feet, and its name<br>
+  Wall For The Exiled. From the sun's heat too hot to touch<br>
+  Glows a country with its own problems; its mild eyes renounced<br>
+  The campus protests that twin parties frame.<br>
+  <br>
+  "Keep, travel's momentum, elsewhere welcomes!" bellows the steel<br>
+  With silent grates. "We can't help, our tired, our poor,<br>
+  Our huddled tribes yearning for a better shore,<br>
+  The wretched sums of our teeming debt.<br>
+  Send these, mercy from populists,<br>
+  I lift my interest rates beside some outdated laws!"
+
+  <br>
+
+  <blockquote>
+  Although the next country is close enough<br>
+  that they can hear their roosters crowing and dogs barking,<br>
+  they are content never to visit each other<br>
+  all of the days of their lives.
+  </blockquote>
+  <span class="quoter">
+  —#80, TAO TE CHING, tr. J.H. McDonald
+  </span>
+
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -5923,7 +5702,7 @@ Man's Inner World, and Wandering.</b>
   observation, though, is rather on point and worth emphasizing, to disabuse
   ourselves of some attainable state of permanent peace and rest: happiness from
   any single attainment does not endure and requires continual replenishment by
-  further appetite and more work: this is humanity's relation to happiness. Yet
+  further appetite and more work: this is mankind's relation to happiness. Yet
   this serial struggle doesn't present so immense a problem unless one pursues
   the extremes of happiness to the point of avarice, gluttony, excess. In most
   folks, this is not the case. Yet how should one respond to these confinements
@@ -8730,16 +8509,9 @@ Man's Inner World, and Wandering.</b>
   deareth reader, thou must understandst how meplexed when the shadow doth harden
   his heart! Shadow, thou art punk! Announceth Thorough:
   <blockquote>
-  With a little more deliberation in the choice of their pursuits, all men would
-  perhaps become essentially students and observers, for certainly their nature
-  and destiny are interesting to all alike. In accumulating property for
-  ourselves or our posterity, in founding a family or a state, or acquiring fame
-  even, we are mortal; but in dealing with truth we are immortal, and need fear
-  no change nor accident . . . Men sometimes speak as if the study of the
-  classics would at length make way for more modern and practical studies; but
-  the adventurous student will always study classics, in whatever language they
-  may be written and however ancient they may be. For what are the classics but
-  the noblest thoughts of man?
+  In accumulating property for ourselves or our posterity, in founding a family or
+  a state, or acquiring fame even, we are mortal; but in dealing with truth we
+  are immortal, and need fear no change nor accident.
   </blockquote>
   Away, shattow! Thou hast maketh too much noise in diese crowded cabin! Me hath
   forgotten when mine head turneth away from the rambling, but when I gazeth

@@ -17,7 +17,10 @@ older sections here are exact copies of what remain in index.md.
 
 In the second case above, the paragraphs within some snippets here should not be
 read as contiguous blocks of text, as I may have moved snippets that were
-originally interspersed in the original.
+originally interspersed in the original. Further complicating matters, I have
+also put back into index.md some passages or quotes that I initially moved
+here, since the re-inserted text remained informative in another part of
+index.md.
 
 This file should not be interpreted as a comprehensive archive whose sections
 can simply be re-inserted into the original to recreate my original writing. In
@@ -197,6 +200,221 @@ Man's Inner World, and Wandering.</h4>
   gracefully pass over the following random words whose informative shape is an
   arrow pointing downwards. Out of the corner of our eyes, we see in the
   bothersome yonder a trail map no one suffers the trouble to stop and look at:
+
+
+
+<u id="immigration">Immigration</u><br>
+
+  My reader, we are serious folks here!
+  <a href="https://scholars.duke.edu/person/nancy.maclean">Nancy MacLean</a>
+  writes in BEHIND THE MASK OF CHIVALRY: THE MAKING OF THE SECOND KU KLUX KLAN
+  about the second Klan in the wake of the surge of immigration in the early
+  1900s, focusing on the Athens, Georgia chapter of the Klan, near the birthplace
+  of its second incarnation. Although the well-known 1915 movie, D.W. Griffith's
+  BIRTH OF A NATION, depicts the KKK primarily as a white supremacy group, in
+  reality they also crusaded against Jews and Catholics. MacLean describes how
+  the Klan exploited economic fears and put the blame on religious and ethnic
+  others:
+  <blockquote>
+  Local Klan lecturers on "Americanism," for their part, blamed Jews and Catholics
+  for the chain-store peril . . . If present trends continued, Imperial Wizard
+  [William Joseph] Simmons warned, immigrants from Southern and Eastern Europe
+  and their children would soon crowd native-born whites out of "the business
+  class." Such charges struck a chord with local members, several of whom
+  operated in competition with Jews and immigrants from Italy and Greece . . .
+  The campaign against chain stores illustrates how impossible it is to
+  understand the Klan if one conceives of it as a simple conservative force. The
+  Klan was indeed conservative, fiercely so, as the anti-Semitism and nativism of
+  the chain-store struggle make clear. Yet the order's politics were different
+  from those of the usual standard-bearers of conservatism . . . The Klan put
+  forward a populist critique of American society suited to the middling men who
+  made up the core of its following. They resented, sometimes vociferously, "the
+  silk hat crowd" and the social transformation their reign had wrought . . .
+  While it gave voice to middle-class fears of economic concentration and
+  political empowerment, it also put up ferocious opposition to social
+  reconstruction from the left. In this dualism lay the appeal of the Klan's
+  class politics to the lower-middle-class men who flocked to the order in such
+  numbers. It articulated the animosity petit-bourgeois whites felt toward
+  <i>both</i> capital and labor—and it spoke in idioms at the core of American
+  culture.
+  </blockquote>
+  MacLean concludes that the composite partly of classical liberalism,
+  republicanism, and evangelical Protestantism "is best described as reactionary
+  populism." It is the second Klan that MacLean is discussing, which was active
+  during the early 1900s when immigration was a major issue. MacLean writes:
+  <blockquote>
+  Simmons believed that "real Americans" simply could not survive factory
+  discipline or urban life; farm life was an essential component of American
+  manhood . . . Such open hostility toward workers was rare, however; more
+  commonly it was packaged as racism. Klansmen blamed virtually all labor trouble
+  on immigrants and "foreign agitators"—those its publications depicted as "the
+  riff-raff and outcasts of Europe." Simmons maintained that already, in the
+  cities of the North and East, ethnic lines had become class lines. The urban
+  working class was split between skilled tradesmen from Britain, Germany, and
+  Scandinavia, whom he respected as the modern heirs of artisans, and unskilled
+  workers from Southern and Eastern Europe, whom he detested. The new immigrants
+  lacked the capacity to appreciate republican institutions.
+  </blockquote>
+  The KKK's visual symbols of the robe and mask, of a group rallied around a
+  burning cross in the night, are images of dread and power operating under the
+  guise of secrecy. Yet I want to touch on this issue because I believe knowledge
+  is power, negligence to history leaves us susceptible to where it may repeat
+  itself, and what becomes visible no longer holds the foreboding potency of the
+  dark, shrouded in mystery and the unknown. MacLean describes the people who
+  joined the Klan:
+  <blockquote>
+  The portrait that emerges from Klan membership rosters at mid-decade indicates
+  that the vast majority of men in the Athens Klan stood between capital and
+  unskilled labor. In their occupations, as their assets, local Klansmen hovered
+  at the midpoint of the spectrum. The greatest proportions clustered in the
+  three categories of lower white-collar employees; petty proprietors, managers,
+  and officials; and unskilled tradesmen. Klansmen's patterns of affiliation also
+  indicated their relative status: middle-class, not "society." . . . To explain
+  the order's appeal, however, the profile of Klan members needs refinement. The
+  typical Klansman was not simply petit-bourgeois; he appeared less economically
+  secure than the norm for his class. When the proprietor, he was often a
+  newcomer, and the value of his holdings was less than the average among owners
+  at large . . . They were especially anxious to distinguish
+  themselves—particularly through their moral codes—from the ordinary workers
+  they viewed as beneath them . . . In short, while the typical Klansmen was
+  better off than the vast majority of blacks and a large proportion of whites,
+  he was vulnerable. His standing was unstable, and he knew it . . . Many
+  national Klan leaders, Simmons and Evans [early leaders of the second Klan]
+  included, were themselves "self-made men" and self-consciously so. They had
+  risen from much effort from humble beginnings . . . and they sympathized with
+  other humble men on the make. The organization clearly aimed at upward-striving
+  men, moreover.
+  </blockquote>
+  I wish to add a point of emphasis that country's history of racial and religious
+  intolerance should not be eagerly exaggerated into a backlash, especially by
+  contemporary progressives, who too easily commit the same lapse of judgment
+  found in historical intolerances, which is to broadly generalize. Reality
+  consists of many factors and may in fact be more complex than our minds can
+  readily handle. The economic insecurity, class precarity, and personal
+  interests of a certain group in a moment in time, morphed by populists into
+  racial and religious intolerance and turned into a criminal organization,
+  should not be extended to others who superficially bear demographic
+  similarities to that group. I do not doubt racial and religious intolerances
+  remain in the country, but any facile anti-white argument citing the Klan as an
+  example is untenable when the fact of the matter is that it was also a
+  predominantly white country that pressured Klan members to remain anonymous and
+  which also led to its decline. Any such argument will also have to contend with
+  the fact of the Civil War. If we position the Klan within Turchin's framework
+  of counter-elites mobilizing the masses—certainly the petit-bourgeois, afraid
+  of losing their status, were not immiserated masses, but that difference may be
+  only one of degree, as the Klan was only a marginal, not a predominant,
+  group—then we have what may be a more holistic view: that such a phenomenon
+  recurs over history, among any group. By extension, I wish to suggest a
+  consequence of this fact: just as everyone has the capacity to do good, so too
+  does everyone has sinister potential, and it is the circumstances which funnel
+  people into actions sensible to them.
+
+  It is perhaps a cliché disclaimer I am adding, but it is important to prioritize
+  individuals and reality, which is more often than not multifaceted and complex,
+  that is it sometimes not easy to piece together data points, that each episode
+  and narrative has not one but multiple sides and perspectives, to not make
+  blanket statements about whole groups of people. For instance,
+  <a href="https://scholar.google.com/citations?user=lw-z-p8AAAAJ&hl=en">Alexandra Horowitz</a>
+  wrote a book called ON LOOKING: ELEVEN WALKS WITH EXPERT EYES, describing, on
+  walks in the same neighborhood, how experts in different fields notice very
+  different things, and from each of their vantages, even an identical space
+  doesn't quite look the same. Perhaps it's true that a significant component in
+  how a person turns out is the person's environment which enables certain
+  pursuits and interests, enforces some of them over time, discourages others,
+  brings exposure to certain kinds of people, are materially wealthy or deprived,
+  all of which weigh on the individual's life trajectory which could very have
+  turned out quite different under other scenarios. I think it's true, as
+  Nietzsche proposed, that there are no inherently good or evil people, but only
+  shades of nuance, that every person possesses both good and evil impulses and
+  tendencies, but some combination of the individual and the environment
+  ultimately resolve in the outcome of the person. It may be that the person's
+  environment informs many opportunities or privations which enable more good
+  than evil, or the other way around. One maxim from La Rochefoucauld, who
+  meditated on the man's deceptions to others and also to himself, can perhaps
+  be applied through a hopeful angle: "Circumstances reveal our virtues and our
+  vices, like light reveals objects."
+
+  . . .
+
+  Another Senate
+  <a href="https://www.budget.senate.gov/hearings/fairness-and-fiscal-responsibility-cracking-down-on-wealthy-tax-cheats">hearing</a>
+  last year, also with a politically charged title, was called FAIRNESS AND FISCAL
+  RESPONSIBILITY: CRACKING DOWN ON WEALTHY TAX CHEATS. Senator Sheldon Whitehouse
+  describes (at 0:53:05) a visual illustration of how complicated a corporate
+  entity can be structured to avoid taxes. Senator Mitt Romney attempts
+  (1:08:03) to justify such complexity, saying that sometimes businesses are by
+  nature that complicated, not out of design to evade taxes, but he also
+  acknowledges that corporations do try to minimize taxes, with the qualifier
+  that they do so within the bounds of the law. However,
+  <a href="https://www.cato.org/people/chris-edwards">Chris Edwards</a>
+  from Cato, making a gesture of honesty, acknowledges (1:19:00) from his
+  experience that, "A lot of what drives that chart, frankly, is corporations
+  making extremely sophisticated structures to avoid tax. They don't try to do
+  things that are illegal. It's just that the tax code is so grey, they push the
+  limits." But more importantly!—sure enough, Senator Kennedy recourses
+  (1:36:52) to his signature move: calling up someone's old tweet—thy tweet comes
+  back for vengeance! It's too bad that this is a senate committee where words
+  are held accountable, and Senator Kaine once again stepped in at the very end
+  to situate the tweet's in its original circumstance. But we've gotten ahead of
+  ourselves! In the heat of the moment, Senator Kennedy was commencing his
+  profound investigation! This time, though, he loses some of his charm from
+  indulging too long on a combative exchange with his victim,
+  <a href="https://scholar.google.com/citations?user=Ili51ooAAAAJ&hl=en">Natasha Sarin</a>.
+  The tweet in question this time: "The House Republican stance is, I kid you not,
+  support for Israel as long as we make it easier for people to cheat on their
+  taxes." As if personally offended, Senator Kennedy says he found
+  Sarin "appalling", positively "appalling", because Sarin "didn't talk to any
+  of 'em [House Republicans]." His astute verdict this time—"I'm going to remind
+  you: you can only be young once, but you can always be immature." This was a
+  very mature comment from the senator, if the writer must say so himself!
+  Immediately afterwards, Senator Kennedy found himself needing to stand his
+  ground against the rebuff of the committee's chairman, Senator Whitehouse, who
+  said, "I think that the treatment of the witnesses is beginning to degrade a
+  bit here"; but Senator Kennedy insisted on his insightful analysis of her
+  revealing tweet, saying, "I'm entitled to test their credibility, and I think
+  one of our witnesses just got tested." A tweet, indeed! One mighty fine test
+  there! Quite astonishing!
+
+  . . .
+
+  It may be worth noting that the city comptroller's report makes no attempt at
+  suggesting a reduction to the city's debt; rather, the entire report orients
+  itself around how much more debt the city can take on until it reaches the
+  limit, and, because the report anticipates that debt will continue to rise and
+  that the remaining gap to the limit, which is called "debt-incurring power",
+  will consequently diminish from $30.5 billion in FY 2023 to $15.9 billion in FY
+  2027 (end-of-year numbers), the cit
+  <a href="https://cbcny.org/research/setting-right-ceiling">requested</a>,
+  according to the Citizens Budget Commission, that the state raise the city's
+  debt limit. As stated in the city comptroller's report, according to New York
+  State law, the general debt limit for local governments is pegged against the
+  jurisdiction's real estate value, so it doesn't seem like the debt limit can be
+  arbitrary raised. Governor Kathy Hochul, instead, raised the Transitional
+  Finance Authority (TFA) debt limit from $13.5 billion to $25.5 billion—this is
+  debt exempt from the general debt limit, and anything above this exemption,
+  referred to as "incremental TFA", counts towards the general limit. Due to its
+  high debt, the city, of course, had already maxed out the old exemption
+  allocation and at the end of FY 2023 had an incremental TFA of $31.9 billion, a
+  high enough number that rendered the higher exemption a record-keeping trick—in
+  other words, the state's increasing the TFA exemption by $12 billion merely
+  adjusted the accounting on debt that already existed, shifting the incremental
+  TFA (retroactively in this example of 2023 numbers) down to $19.9 billion and
+  the total indebtedness from $96.9 billion down to $84.9 billion. In short, it
+  seems that the city is content with only servicing the debt and paying
+  interest, not seeking to reduce the principal; the comptroller report confirms
+  that its objective is to remain below the "the 15 percent [of tax revenue]
+  ceiling used to evaluate affordability as articulated in the City's debt
+  management policy." The report even goes further to poke at the definition of
+  the state's definition of the debt limit, as though it unduly restricts the
+  city's borrowing power: "[B]ecause the debt limit does not take into account
+  the City's significantly more diversified tax revenue structure [as opposed to
+  other jurisdictions in the state, which rely primary on property taxes], the
+  debt limit does not fully reflect the City's ability to assume and service debt
+  to finance infrastructure." I am not suggesting that the city's objective is a
+  problem, as tax revenue grows alongside debt, or that the city is under an
+  unsustainable debt burden, as the comptroller's report reassures us otherwise,
+  but I wish to underscore the fact that the city's debt is considerable and will
+  continue to grow.
 
 
 
