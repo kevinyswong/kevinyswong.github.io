@@ -10,7 +10,40 @@ layout: default
 
 <h2>Ruminations</h2>
 
-<a href="#2024-08-07">&darr;</a>
+<a href="#2024-08-18">&darr;</a>
+<b id="2024-08-29">2024-08-29, 四.</b>
+
+I found myself on a college campus last night, sitting on a bench overlooking a
+small stream and a foot bridge crossing over towards the dorms. An evening in
+late summer, still humid and balmy, the skies dark, the scenery illuminated by
+the light from the buildings on the other side—the first week of classes,
+before students settle into coursework and routines. In the midst of an
+atmosphere of anticipation and eagerness for the semester ahead, I was sitting
+and reflecting on the passing of time, on the growing distance between me and
+the next generation, how I have less and less in common with these new faces
+who are just starting their lives. A group of friends walked by, and a young
+lass asked if I was okay. Of course I was, I responded, reacting with a glowing
+smile. After they passed, I mused: why the question? Did I look morose, just
+entertaining my thoughts as is my custom? But at least she didn't call me a
+darling, as I have been in the past by folks who must have mistaken my
+starry-eyed, demure, and slightly off-kilter demeanor for a tame youth's
+innocence.
+
+<br>
+
+<blockquote>
+In this hush profound,<br>
+Into the very rocks it seeps:<br>
+The cicada sound.
+</blockquote>
+<span class="quoter">
+—Matsuo Bashō, THE NARROW ROAD TO THE FAR NORTH, tr. Dorothy Britton
+</span>
+
+
+<br>
+
+<a href="#2024-08-29">&uarr;</a> <a href="#2024-08-07">&darr;</a>
 <b id="2024-08-18">2024-08-18, 日.</b>
 
 Last year, someone shared with me an episode from the Poem-a-Day podcast. In it,
@@ -5895,7 +5928,7 @@ Man's Inner World, and Wandering.</b>
   the first winter rain
   </blockquote>
   <span class="quoter">
-  —Matsuo Bashō, NARROW ROAD TO THE INTERIOR, tr. Sam Hamill
+  —Matsuo Bashō, KNAPSACK NOTEBOOK, tr. Sam Hamill
   </span>
 
   <br>
