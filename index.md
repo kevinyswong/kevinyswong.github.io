@@ -7032,7 +7032,7 @@ Man's Inner World, and Wandering.</b>
 
   <a href="https://scholar.google.com/citations?user=pL_245QAAAAJ&hl=en">Kathryn M. Neckerman</a>
   and
-  <a href="https://scholar.google.com/citations?user=jeabV8gAAAAJ&hl=en">Florencia Torche</a>,
+  <a href="https://scholar.google.com/citations?user=jeabV8gAAAAJ&hl=en">Florencia Torche</a>
   responded in 2007 to the country's growing inequality in the prior few decades
   by
   <a href="https://www.jstor.org/stable/29737766">surveying</a>
@@ -7301,22 +7301,22 @@ Man's Inner World, and Wandering.</b>
   that group of penguins straddling so clumsily over this immense space, how they
   lurch with their tiny feet, how they glide on their bellies, how they stay
   close to others for warmth, how beautiful they seem, several hundred living
-  creatures in this inhospital home of barren ice, how precarious their lives are
-  in this desolate landscape as spectacular as it is grim, eternally silent to
-  their cries. In spite of all this, does the penguin derange itself, disturb the
-  small moments of beauty, by bewailing its situation? Does it feel entitled to
-  some beneficial end, some land of redemption graced by divine spirits? Trapped
-  in an identically grueling situation, what could be the purpose of meritocrats
-  continually struggling to maintain their position and passing on their
-  privileges to the next generation so they can socially reproduce their status?
-  Why do frenzied capitalists chasing blind profit create myriad desires and
-  mislead the public into thinking such fabricated necessities provide any
-  satiety? Why all this comparison and conceit? Why all this roving, jostling,
-  all these ordeals and labors and strife to acquire things that never quench the
-  thirst? Why the many pomps and excitements and frictions of human motions, all
-  sassy and abuzz? So echoes Schopenhauer: "[H]e does not see the why and the
-  wherefore, the reward for this, but has accepted the value of that pledge in
-  good faith and on trust without looking into it."
+  creatures in this inhospitable home of barren ice, how precarious their lives
+  are in this desolate landscape as spectacular as it is grim, magisterially
+  silent to their cries. In spite of all this, does the penguin derange itself,
+  disturb the small moments of beauty, by bewailing its situation? Does it feel
+  entitled to some beneficial end, some land of redemption graced by divine
+  spirits? Trapped in an identically grueling situation, what could be the
+  purpose of meritocrats continually struggling to maintain their position and
+  passing on their privileges to the next generation so they can socially
+  reproduce their status? Why do frenzied capitalists chasing blind profit create
+  myriad desires and mislead the public into thinking such fabricated necessities
+  provide any satiety? Why all this comparison and conceit? Why all this roving,
+  jostling, all these ordeals and labors and strife to acquire things that never
+  quench the thirst? Why the many pomps and excitements and frictions of human
+  motions, all sassy and abuzz? So echoes Schopenhauer: "[H]e does not see the
+  why and the wherefore, the reward for this, but has accepted the value of that
+  pledge in good faith and on trust without looking into it."
 
   <br>
 
@@ -7432,7 +7432,7 @@ Man's Inner World, and Wandering.</b>
   will—Schopenhauer was right in identifying the will as the central driver of
   the life force, but we gender theorists do him one better: we clarify that the
   will, evil and terrible, residing in the dark, is undeniably masculine: what
-  Schopenhauer labored to describe has always been the blind masculine will. All
+  Schopenhauer labored to describe had always been the blind masculine will. All
   creatures are propelled by this vile, unyielding will: the will-to-masc that
   surrounds us all. Only within the confines of our limited cognition of the
   masculine will do the electromagnetic laws, the force of gravity, the fabric of
@@ -7441,7 +7441,7 @@ Man's Inner World, and Wandering.</b>
   and unhindered by sympathy: the unitary thing-in-itself is the black heart of
   masculine will! All phenomena we perceive, all thoughts we entertain, all
   sensible stimuli, are only objectifications of the will, which within the cage
-  of our humanity are mere representations of the insatiable masculine will.
+  of our humanity are mere representations of an insatiable masculinity.
 
   <br>
 
