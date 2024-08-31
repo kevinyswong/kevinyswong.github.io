@@ -14,15 +14,16 @@ layout: default
 <b id="2024-08-29">2024-08-29, 四.</b>
 
 I found myself on a college campus last night, sitting on a bench overlooking a
-small stream and a foot bridge crossing over towards the dorms. An evening in
-late summer, still humid and balmy, the skies dark, the scenery illuminated by
-the light from the buildings on the other side—the first week of classes,
-before students settle into coursework and routines. In the midst of an
-atmosphere of anticipation and eagerness for the semester ahead, I was sitting
-and reflecting on the passing of time, on the growing distance between me and
-the next generation, how I have less and less in common with these new faces
-who are just starting their lives. A group of friends walked by, and a young
-lass asked if I was okay. Of course I was, I responded, reacting with a glowing
+small stream and a footbridge crossing over towards the dorms. It was an
+evening in late summer, still humid and balmy, the skies dark, the scenery
+illuminated by the light from the buildings on the other side—the first week of
+classes, before students settle into coursework and routines. Around me was a
+palpable atmosphere of anticipation and eagerness for the semester ahead.
+Gazing at the comings and goings of the students, I was sitting and reflecting
+on the passing of time, on the growing distance between me and the next
+generation, how I am having less and less in common with these new faces who
+are just starting their lives. A group of friends walked by, and a young lass
+asked if I was okay. Of course I was, I responded, springing up with a glowing
 smile. After they passed, I mused: why the question? Did I look morose, just
 entertaining my thoughts as is my custom? But at least she didn't call me a
 darling, as I have been in the past by folks who must have mistaken my
@@ -41,7 +42,7 @@ The cicada sound.
 </span>
 
 
-<br>
+<br><br><br><br><br>
 
 <a href="#2024-08-29">&uarr;</a> <a href="#2024-08-07">&darr;</a>
 <b id="2024-08-18">2024-08-18, 日.</b>
@@ -55,11 +56,11 @@ listened again, and how differently the poem hits. I recall something a
 writer—maybe Zadie Smith?—said in an interview to the effect of: "When I was
 young I was a know-it-all. Now that I'm older, I think I know very little."
 
-<br>
+<br><br><br><br><br>
 
 <a href="#2024-08-18">&uarr;</a> <a href="#2023-06-22">&darr;</a>
-<b id="2024-08-07">2024-08-07, 三. On the Political Divide, the Migrant Crisis,
-Immigration, Meritocracy, Liberal Hypocrisy, Inequality, Social Capitalism,
+<b id="2024-08-07">2024-08-07, 三. On the Political Divide, Meritocracy, Liberal
+Hypocrisy, Inequality, Immigration and the Migrant Crisis, Social Capitalism,
 Man's Inner World, and Wandering.</b>
 
 <span id="Introduction"></span>
@@ -273,12 +274,12 @@ Man's Inner World, and Wandering.</b>
   cost of living, that $10,642 advantage dwindles down to nothing.
   </blockquote>
   Yet, how has such an important equivalence been unknown to most people to now
-  suddenly be discovered by Currid-Halkett? Has the data all along been covering
+  suddenly be discovered by Currid-Halkett? Have the data all along been covering
   up this hidden reality? Her analysis uses median household income but according
   to the book END TIMES by
   <a href="https://scholar.google.com/citations?user=W0C05zIAAAAJ&hl=en">Peter Turchin</a>,
-  which I discuss later, suggests that this metric can be misleading, describing
-  the scenario of a hypothetical family:
+  which I discuss in the next section, suggests that this metric can be
+  misleading, describing the scenario of a hypothetical family:
   <blockquote>
   [A]lthough the combined income of Steve and his mom in 2016 was greater than
   what his dad earned back in 1976, this was due to both members of the household
@@ -340,10 +341,10 @@ Man's Inner World, and Wandering.</b>
   chipped away in the search for truth. With such an income analysis as
   Currid-Halkett's, we ought to make the attempt.
 
-  As a further note of my critique, my comments here perhaps tempting towards
-  pedantry, Currid-Halkett inaccurately writes, "Rousseau argued that the root of
-  inequality was not "natural inequality" (for example, physical strength) but
-  rather "moral inequality" as a result of human decisions made in a civil
+  As a further note of my critique, my comments here perhaps verging on pedantry,
+  Currid-Halkett inaccurately writes, "Rousseau argued that the root of
+  inequality was not 'natural inequality' (for example, physical strength) but
+  rather 'moral inequality' as a result of human decisions made in a civil
   society." This statement of hers doesn't seem to be the correct interpretation.
   Rousseau in DISCOURSE ON THE ORIGIN AND FOUNDATIONS OF INEQUALITY AMONG
   MANKIND, his Second Discourse, claims it was with the invention of private
@@ -358,7 +359,7 @@ Man's Inner World, and Wandering.</b>
   earth belong equally to us all, and the earth itself to nobody!
   </blockquote>
   In the text itself, Rousseau writes that it is both natural and moral
-  inequality, not just the natural inequality that Currid-Halkett ascribes to his
+  inequality, not just the moral inequality that Currid-Halkett ascribes to his
   claim, that contribute to social inequality among men, his argument set upon a
   hypothetical origin of civilization:
   <blockquote>
@@ -387,7 +388,7 @@ Man's Inner World, and Wandering.</b>
   their effects, and begin to influence in the same proportion the condition of
   individuals.
   </blockquote>
-  Sensibly, Rousseau goes on to lament the regrettable outcome of inequality:
+  Prudently, Rousseau goes on to lament the regrettable outcome of inequality:
   <blockquote>
   From the vast inequality of conditions and fortunes, from the great variety of
   passions and of talents, of useless arts, of pernicious arts, of frivolous
@@ -478,12 +479,12 @@ Man's Inner World, and Wandering.</b>
   intelligent people have, which is not being serious or solemn. They <i>know</i>
   what they are talking about so they have no need to be earnest about it.
   </blockquote>
-  We must humor ourselves with a historic name whose life ran afoul with
+  We must humor ourselves with a historic name whose life and fortune ran afoul in
   incredible jest! Currid-Halkett writes, "In the Enlightenment, Voltaire and
   Rousseau had equal footing." But this is the sort of false perception caused by
   a retrospective rose-tinted lenses along the lines of: "Rousseau's ideas have
   proved influential; therefore he must have been popular and well-received in
-  his time." This is not true. Voltaire, an aristocrat, was hostile and
+  his time." This was not true. Voltaire, an aristocrat, was hostile and
   antagonistic to Rousseau and his upstart ideas. Rousseau, though well-known
   then and now, was for the most part infamous during his lifetime. It was with
   the French Revolution, nearly a decade after Roussea's death, a radical
@@ -547,11 +548,11 @@ Man's Inner World, and Wandering.</b>
   forsee anything, worry about anything; he has nothing to expend his mind on; he
   is himself and on his own all day every day.
   </blockquote>
-  Is this the Rousseau of whom Currid-Halkett speaks? Is she referring to
-  Rousseau, or is she nodding towards the defiant champion of himself, the
-  Jean-Jacques, the great J.J. who insists that "he is himself and on his own all
-  day every day"? For clarity, Rousseau writes in his last work, REVERIES OF THE
-  SOLITARY WALKER, unfinished at the time of his death:
+  Is this the Rousseau of whom Currid-Halkett speaks? Is she referring to the
+  popularly revered Rousseau, or is she nodding towards the defiant champion of
+  himself, the Jean-Jacques, the great J.J. who insists that "he is himself and
+  on his own all day every day"? For clarity, Rousseau writes in his last work,
+  REVERIES OF THE SOLITARY WALKER, unfinished at the time of his death:
   <blockquote>
   These hours of solitude and meditation are the only ones in the day when I am
   completely myself and my own master, with nothing to distract or hinder me, the
@@ -685,7 +686,7 @@ Man's Inner World, and Wandering.</b>
   </blockquote>
   But what about those who haven't gone to college? Oliver Anthony's song,
   <a href="https://www.youtube.com/watch?v=sqSA-SY5Hro">RICH MEN NORTH OF RICHMOND</a>
-  struck a particular chord with large swaths of the country last summer, and
+  struck a particular chord with great portions of the country last summer, and
   based on the song's popularity, it would be neglectful not to take popular
   immiseration seriously. Encapsulating these dire economic inequalities with a
   dismal prospect, Turchin warns:
@@ -2997,7 +2998,7 @@ Man's Inner World, and Wandering.</b>
   of this astonishing news outlet. I have a daily regimen: every night, after
   returning from church service, I consult the Bible, because church is not
   enough, and then with great excitement I catch up on some C-SPAN. Nonetheless,
-  all joys come to an end, and I willfully put my elation aside for now, becaues
+  all joys come to an end, and I willfully put my elation aside for now, because
   the Smithsonian Magazine published a 2018
   <a href="https://www.smithsonianmag.com/history/1911-report-set-america-on-path-screening-out-undesirable-immigrants-180969636/">article</a>
   that, concurring with Benton-Cohen, notes similar discrepancies in the
@@ -5438,7 +5439,7 @@ Man's Inner World, and Wandering.</b>
   The writer bids the reader have patience, for we must entertain two philosophers
   because—who knew?—they remain relevant. This section delves into some of their
   ideas and builds up to the question we have posed. Kant writes in CRITIQUE OF
-  PURE REASON, among its ensuing concepts, the dense philosophical derivation of
+  PURE REASON, among its ensuing concepts, the dense philosophical treatment of
   an idea, of which the following example is a consequence. A snake looking at a
   red apple doesn't see what we understand to be red. We can, with our
   technology, map a snake's visual system onto ours so we can see what the snake
@@ -5574,7 +5575,7 @@ Man's Inner World, and Wandering.</b>
   so I don't want to linger on him for long, but his insights on desire, in my
   view, stands on firm ground and motivates some of the later ideas in this post.
   I want to divide this discussion of his ideas into two sections: his
-  metaphysics(which I will explain briefly, though I'm not so sure on how valid
+  metaphysics (which I will explain briefly, though I'm not so sure on how valid
   it is) and the psychological consequences (which are very real and poignant;
   this is the point of this topic). First, metaphysics: Schopenhauer writes in
   THE WORLD AS WILL AND REPRESENTATION, in the Payne translation:
@@ -5600,15 +5601,15 @@ Man's Inner World, and Wandering.</b>
   undifferentiated unity of will, the unknowable thing-in-itself, which we cannot
   possibly perceive because it does not reside in space or time, and on the other
   is our representation of this will, which is all the phenomena in this world we
-  do perceive. But further: space and time in the phenomena of the world fragment
-  the will into pluralities—and here begins the psychological section—all forces
-  and living creatures are instances of the will, everything striving and
-  struggling in its will to live, competing against one another, failing to
-  recognize everything and everyone else is also oneself, all part of the will.
-  Each individual desires and fights for its survival and growth, yet the objects
-  one desires—satisfaction, happiness, gratification—dissipate soon after one
-  attains them, and they never last and are therefore only illusory. More
-  precisely, this passage summarizes Schopenhauer's psychological ideas:
+  do perceive. But further: space and time in the phenomenal world fragment the
+  will into pluralities—and here begins the psychological section—all forces and
+  living creatures are instances of the will, everything striving and struggling
+  in its will to live, competing against one another, failing to recognize
+  everything and everyone else is also oneself, all part of the will. Each
+  individual desires and fights for its survival and growth, yet the objects one
+  desires—satisfaction, happiness, gratification—dissipate soon after one attains
+  them, and they never last and are therefore only illusory. More precisely, this
+  passage summarizes Schopenhauer's psychological ideas:
   <blockquote>
   We have already seen in nature-without-knowledge her inner being as a constant
   striving without aim and without rest, and this stands out much more distinctly
@@ -5781,7 +5782,8 @@ Man's Inner World, and Wandering.</b>
 
 <u id="import-of-work">Import of Work</u><br>
 
-  Charles Duhigg, in a 2019
+  We emphasize in this section the crucial significance of working. That's
+  right—working itself confers benefits. Charles Duhigg, in a 2019
   <a href="https://www.nytimes.com/interactive/2019/02/21/magazine/elite-professionals-jobs-happiness.html">article</a>
   in The New York Times Magazine, writes on the importance of work:
   <blockquote>
@@ -5898,27 +5900,27 @@ Man's Inner World, and Wandering.</b>
   <br>
 
   Moderation in all endeavors may well be a noble aspiration, but we are concerned
-  less with facades and public preaching, less with virtuous signaling and
-  conforming principles, less with lofty words that we promote but do not
-  ourselves believe, less with inhibitions and guilt and hypocrisy, and ask
+  less with facades and public preaching, less with virtue signaling and
+  conformist principles, less with lofty words that we promote but do not
+  ourselves enact, less with inhibitions and guilt and hypocrisy, and ask
   directly: what do we want out of life? How do we reconcile moderation with our
   corrupt impulses, our mortal preoccupations, our base self-interest? One
   desires and wishes, one longs and searches, one travails and attains, yet we
   find no contentment or satisfaction, all our effort and struggle gone in vain,
   the grass on the other side always greener. How should we resolve this dilemma,
-  then? I ask: what if this is not a binary choice? Let us suggest an alternative
-  approach: instead of choosing one to the exclusion of the other, what if we
-  assert that we desire everything? What if we acknowledge that we can here
-  engage in frenzy and energy and there partake in peace and serenity? What if we
-  accept our fickle human nature and embrace our myriad cravings? What if we
-  desire to be everywhere at the same time? The food, the people, the journey,
-  the intellectual sublime, the musical variations, the cathartic sways, the
-  scorching fire and excitement, the roaring seas on the high tide, and then
-  desert, camel, the still sand; people come and go as do we, but for a time a
-  wanderer can blend in with the multi-generational locals of a remote town, to
-  return to the bustling crowds of sensory multitudes, culture, coincidence. What
-  if fulfillment lies not in stillness with any one choice but in a continual
-  movement through all choices?
+  then? I ask: what if this is not a binary choice between wanting and its
+  negation? Let us suggest an alternative approach: instead of choosing one to
+  the exclusion of the other, what if we assert that we desire everything? What
+  if we acknowledge that we can here engage in frenzy and energy and there
+  partake in peace and serenity? What if we accept our fickle human nature and
+  embrace our myriad cravings? What if we desire to be everywhere at the same
+  time? The food, the people, the journey, the intellectual sublime, the musical
+  variations, the cathartic sways, the scorching fire and excitement, the roaring
+  seas on the high tide, and then desert, camel, the still sand; people come and
+  go as do we, but for a time a wanderer can blend in with the multi-generational
+  locals of a remote town, to return to the bustling crowds of sensory
+  multitudes, culture, coincidence. What if fulfillment lies not in stillness
+  with any one choice but in a continual movement through all choices?
 
   <br>
 
@@ -6419,8 +6421,9 @@ Man's Inner World, and Wandering.</b>
 
 <u id="social-capitalism">Towards Social Capitalism</u><br>
 
-  Let us consider the current landscape of wealth ownership in the country. Based
-  on the total population
+  We consider here the country's present state of inequality and then reason
+  towards a more sustainable economic form. Let us consider the current landscape
+  of wealth ownership in the country. Based on the total population
   <a href="https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html">count</a>
   from the 2020 census and the total net worth
   <a href="https://fred.stlouisfed.org/graph/?g=1kDFV">data</a>
@@ -6474,12 +6477,13 @@ Man's Inner World, and Wandering.</b>
   Redistribute net worth of top 10%: $295,711
   </pre>
 
-  Such a scheme, however, seems to me quite undesirable, and among the many
-  conceivable reasons is the foremost: a sudden cash infusion into the economy
-  will likely have similar inflationary effects as the three stimulus plans
-  enacted during the pandemic, even if the last of which was admirably called the
-  American Rescue Plan Act. These plans offered cash aid in the thousands of
-  dollars, as the Pandemic Response Committee has
+  These are considerable sums, but not quite enough on their own to fund
+  retirement. Such a scheme, however, seems to me quite undesirable, and among
+  the many conceivable reasons is the foremost: a sudden cash infusion into the
+  economy will likely have similar inflationary effects as the three stimulus
+  plans enacted during the pandemic, even if the last of which was admirably
+  called the American Rescue Plan Act. These plans offered cash aid in the
+  thousands of dollars, as the Pandemic Response Committee has
   <a href="https://www.pandemicoversight.gov/data-interactive-tools/data-stories/update-three-rounds-stimulus-checks-see-how-many-went-out-and">documented</a>,
   in three rounds, at $1,200, $600, and $1,400, per person. Considering how
   extensively the Fed has had to, in the aftermath,
