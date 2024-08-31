@@ -3648,9 +3648,9 @@ Man's Inner World, and Wandering.</b>
   but the state and the federal government are also both in debt. In December,
   the city comptroller released a
   <a href="https://comptroller.nyc.gov/wp-content/uploads/2023/12/Funding-for-New-York-Citys-Services-for-People-Seeking-Asylum.pdf">report</a>
-  on the cost of funding asylum seekers: $4.7 billion in FY 2024 and $6.1 billion
-  in FY 2025. To be sure, it is true that this funding may be viewed as the
-  initial cost of investment to expand a labor force that will generate
+  on the cost of funding asylum seekers: $4.26 billion in FY 2024 and $4.49
+  billion in FY 2025. To be sure, it is true that this funding may be viewed as
+  the initial cost of investment to expand a labor force that will generate
   additional tax revenue over time. But how much do they generate? The
   comptroller's office released a fact
   <a href="https://comptroller.nyc.gov/reports/facts-not-fear-how-welcoming-immigrants-benefits-new-york-city/">list</a>
@@ -3659,7 +3659,7 @@ Man's Inner World, and Wandering.</b>
   immigrants. We are here considering specifically illegal immigrants, and, in
   particular, the asylum seekers the city is funding. The fact list cites
   an American Immigration Council
-  <a href="https://map.americanimmigrationcouncil.org/locations/new-york/">infographic</a>
+  <a href="https://web.archive.org/web/20240529184521/https://map.americanimmigrationcouncil.org/locations/new-york/">infographic</a>
   on the tax contributions from immigrants in 2021, in which, again, we should not
   be misled by the high revenue and spending power of immigrants in general, but
   only of illegal immigrants. The infographic doesn't isolate asylum seekers, and
@@ -3668,15 +3668,15 @@ Man's Inner World, and Wandering.</b>
   federal and $1.2B for state and local. Assuming the best case, that these
   contributions are entirely from asylum seekers, the city receives a only
   portion of the $1.2B, which, when measured against the projected FY 2024 and FY
-  2025 costs to fund asylum seekers, nets in a loss. It may be contested that
-  these are ongoing contributions as opposed to the one-time cost of funding, and
-  that the contributions accumulated over several years may flip the net into a
-  gain: true, but the funding should be compared to the opportunity cost of not
-  paying down the existing debt, which will lower interest payments over time. As
-  we saw in the city's debt composition above, who knew that water could be so
-  expensive? Or that maintaining and running subways and keeping them from
-  falling into disrepair could come at such a massive deficit? The state
-  comptroller laments in a
+  2025 costs ($4.26B and $4.49B, as indicated above) to fund asylum seekers, nets
+  in a loss. It may be contested that these are ongoing tax contributions as
+  opposed to the one-time cost of funding, and that the contributions accumulated
+  over several years may flip the net into a gain: true, but the funding should
+  be compared to the opportunity cost of not paying down the existing debt, which
+  will lower interest payments over time. As we saw in the city's debt
+  composition above, who knew that water could be so expensive? Or that
+  maintaining and running subways and keeping them from falling into disrepair
+  could come at such a massive deficit? The state comptroller laments in a
   <a href="https://www.osc.ny.gov/files/reports/osdc/pdf/report-3-2025.pdf">report</a>
   on the MTA's debt:
   <blockquote>
