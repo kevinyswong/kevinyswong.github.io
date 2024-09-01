@@ -14,21 +14,20 @@ layout: default
 <b id="2024-08-29">2024-08-29, 四.</b>
 
 I found myself on a college campus last night, sitting on a bench overlooking a
-small stream and a footbridge crossing over towards the dorms. It was an
-evening in late summer, still humid and balmy, the skies dark, the scenery
-illuminated by the light from the buildings on the other side—the first week of
-classes, before students settle into coursework and routines. Around me was a
-palpable atmosphere of anticipation and eagerness for the semester ahead.
-Gazing at the comings and goings of the students, I was sitting and reflecting
-on the passing of time, on the growing distance between me and the next
-generation, how I am having less and less in common with these new faces who
-are just starting their lives. A group of friends walked by, and a young lass
-asked if I was okay. Of course I was, I responded, springing up with a glowing
-smile. After they passed, I mused: why the question? Did I look morose, just
-entertaining my thoughts as is my custom? But at least she didn't call me a
-darling, as I have been in the past by folks who must have mistaken my
-starry-eyed, demure, and slightly off-kilter demeanor for a tame youth's
-innocence.
+small stream and a footbridge crossing over to the dorms. It was an evening in
+late summer, still humid and balmy, the skies dark, the scenery illuminated by
+the light from the buildings on the other side—the first week of classes,
+before students settle into coursework and routines. Around me was a palpable
+atmosphere of anticipation and eagerness for the semester ahead. Gazing at the
+comings and goings of the students, I was sitting and reflecting on the passing
+of time, on the growing distance between me and the next generation, how I am
+having less and less in common with these new faces who are just starting their
+lives. A group of friends walked by, and a young lass asked if I was okay. Of
+course I was, I responded, springing up with a glowing smile. After they
+passed, I mused: why the question? Did I look morose, just entertaining my
+thoughts as is my custom? But at least she didn't call me a darling, as I have
+been in the past by folks who must have mistaken my starry-eyed, demure, and
+slightly off-kilter demeanor for a tame youth's innocence.
 
 <br>
 
@@ -5165,13 +5164,12 @@ Man's Inner World, and Wandering.</b>
   Though they may be stored on a library shelf, on an internet page, in the
   archives of a magazine or broadcasting network, how many these records are, so
   vast and unyielding, impossible to consume even any meaningful portion, so many
-  falling trees in the forest when no one's around, that they, sitting in their
-  eternal silence, may as well not exist, unknown and fading, unless they also
-  live in someone's mind. It may be that we do not accumulate upon an ever
-  growing pile of expertise in a continual forward movement of progress, because
-  the pile sits on drain grates over a void, and only that which is most recent
-  and seemingly relevant to the present eyes survives. Is there a carrying
-  capacity of known knowledge?
+  that they, sitting in their timeless chambers, may as well not exist, unknown
+  and fading, unless they also live in someone's mind. It may be that we do not
+  accumulate upon an ever growing pile of expertise in a continual forward
+  movement of progress, because the pile sits on drain grates over a void, and
+  only that which is most recent and seemingly relevant to the present eyes
+  survives. Is there a carrying capacity of known knowledge?
 
   <br>
 
@@ -5227,8 +5225,8 @@ Man's Inner World, and Wandering.</b>
   attentional bandwidth, bound by locale, and within these same parameters they,
   too, are confronted with the same problem: how to operate within this field?
 
-  Fortunately, an individual is not presented the overwhelming magnitude of the
-  task and the infinitude of options but is confined by pressures: social and
+  Fortunately, an individual is not presented with the overwhelming magnitude of
+  the task and the infinitude of options but is confined by pressures: social and
   familial ties, linguistic restrictions, societal expectations, educational and
   work demands, and so the scope of the problem diminishes so drastically as to
   fit into an individually manageable scale. Still, within these confines, there
@@ -6301,10 +6299,10 @@ Man's Inner World, and Wandering.</b>
   was surprised because I didn't know they had such an aisle, but it's tucked
   away in the back. I walked through, and one book on the top shelf caught my
   eye. It was the green book, THE GIVING TREE, which I hadn't read since it came
-  out as I was entering my luminous fourth decade. It was the copy with the
-  author Shel Silverstein's handsome face at the back. I suppose he was trying to
-  mimic my facial expression that stuck out to him in his photographic memory
-  after we met, and how successful he was! Studies show that flashing that
+  out in 1964, just as I was entering my luminous fourth decade. It was the copy
+  with the author Shel Silverstein's handsome face at the back. I suppose he was
+  trying to mimic my facial expression that stuck out to him in his photographic
+  memory after we met, and how successful he was! Studies show that flashing that
   particular kind of friendly smile is guaranteed to keep the children coming
   back, scientifically proven with 98% accuracy! Like the tree in the book, I
   give generously. Surely, had they flipped the book around so that the back
@@ -6313,7 +6311,7 @@ Man's Inner World, and Wandering.</b>
   straight beeline, hopping over merchandise racks and fences and trenches and
   definitely over the land mines to catch a glimpse of what my once-facial
   expression had inspired. I admire that photo as if it were my own face, so vain
-  am I, only one connection removed. Well, there was actually one occasion when I
+  am I, only one degree separated. Well, there was actually one occasion when I
   was almost photographed. My birth year is closer in time to the Civil War than
   the Great Depression; don't get me started on how many struggles I've seen in
   my lifetime or about being drafted twice, but Dorothea Lange almost caught me
