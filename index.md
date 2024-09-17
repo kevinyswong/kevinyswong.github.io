@@ -680,7 +680,7 @@ Man's Inner World, and Wandering.</b>
   for those students. The same structure has not been shown to function very well
   in the absence of such parental support. In fact, I would argue that our public
   schools are structured to succeed dependent upon parental resources. It makes
-  litle sense to expect the same schol structures to operate effectively for
+  little sense to expect the same school structures to operate effectively for
   families in low SES circumstances and their children.
   </blockquote>
   But what about those who haven't gone to college? Oliver Anthony's song,
@@ -836,9 +836,9 @@ Man's Inner World, and Wandering.</b>
   point stands: merit, greater ability, and industry should be encouraged and
   rewarded properly.
 
-  We start by evaluating the circumstance which dilutes individual performance and
-  accountability. Bibb Latané, Kipling Williams, and Stephen Harkins reported in
-  a 1979
+  We start by evaluating the opposing circumstance, which diminishes merit and
+  dilutes individual performance and accountability. Bibb Latané, Kipling
+  Williams, and Stephen Harkins reported in a 1979
   <a href="https://doi.org/10.1037/0022-3514.37.6.822">paper</a>
   that in group tasks in which individual efforts are unidentifiable, individual
   performance decreases in a group, as a result of social loafing. The more
@@ -846,11 +846,12 @@ Man's Inner World, and Wandering.</b>
   theory suggests that the amount of effort expended on group tasks should
   decrease as an inverse power function of the number of people in the group."
 
-  As a caveat, it is worth clarifying that
+  Before continuing further on the issue of loafing, it is worth briefly
+  delineating some cultural factors.
   <a href="https://scholar.google.com/citations?user=AYZm8asAAAAJ&hl=en">P. Christopher Earley</a>
   has
   <a href="https://doi.org/10.2307/2393567">observed</a>
-  that cultural factors affect the impact of social loafing: individualist
+  that cultural perspective affects the impact of social loafing: individualist
   cultures are more susceptible to social loafing than collectivist cultures.
   Earley writes:
   <blockquote>
@@ -863,21 +864,21 @@ Man's Inner World, and Wandering.</b>
   Earley, in a later
   <a href="https://www.jstor.org/stable/256525">paper</a>,
   finds further support that individualists work better on their own as opposed to
-  in a group, and that collectivists work better in a group, specifically in an
-  ingroup (which Earley defined as "an aggregate of people sharing similar trait
-  and background characteristics") as opposed to an outgroup or alone. Earley
-  attributes the effects of these advantaged performance settings for
-  individualists and collectivists to an enhanced perceived self-efficacy in that
-  setting, whether working individually or in an ingroup. America, for all its
-  diverse groups, has a predominantly individualist culture, and it is in this
-  context that I predicate my views.
+  in a group, while collectivists, on the other hand, work better as part of a
+  group, specifically in an ingroup (which Earley defined as "an aggregate of
+  people sharing similar trait and background characteristics") as opposed to an
+  outgroup or alone. Earley attributes the effects of these advantaged
+  performance settings for individualists and collectivists to an enhanced
+  perceived self-efficacy in their preferred setting. To be specific: America,
+  for all its diverse groups, has a predominantly individualist culture, and it
+  is in this context that I predicate my views.
 
   Social loafing: more recently,
   <a href="https://scholar.google.com/citations?user=N63d3yQAAAAJ&hl=en">Jennifer Mueller</a>
   in a 2012
   <a href="https://doi.org/10.1016/j.obhdp.2011.08.004">found</a>
   that two previously known factors of an individual's productivity loss when
-  working in a team, coordination loss and motivation loss, are not sufficient to
+  working in a team—coordination loss and motivation loss—are not sufficient to
   account for all the losses incurred when working with others—as if it is not
   enough that teamwork is beginning to sound like a train of loss, a colossal
   loss, a land of loss, a continual loss, what else could be missing but another
@@ -1119,12 +1120,13 @@ Man's Inner World, and Wandering.</b>
   form thereby creates an idle and lazy class, living at the expense of the
   industrial and working class.
   </blockquote>
-  I am not completely against welfare or some form of government influence on the
-  market, for the reason we shall see in the next section, and while Tocqueville
-  writes harshly of what he calls "legal charity", there is some truth to his
-  claim that a system which provides free sustenance will demotivate those
-  dependent on it from remediating their own situations. However, in the general
-  case, it should be that merit should be prioritized.
+  In spite of this aversion to state charity, I am not completely against welfare
+  or some form of government influence on the market, for the reasons we shall
+  see in the next section, and while Tocqueville writes harshly of what he
+  calls "legal charity", there is some truth to his claim that a system which
+  provides free sustenance will demotivate those dependent on it from remediating
+  their own situations. However, in the general case, it should be that merit
+  should be prioritized.
 
   <br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -1214,7 +1216,7 @@ Man's Inner World, and Wandering.</b>
   institutions and schools, leveraging their familiarity to obtain help and
   advantage, and this knowledge is passed on to their children.
 
-  Of the upper middle class:
+  On the upper middle class:
   <a href="https://scholar.google.com/citations?user=ZWZ98swAAAAJ&hl=en">Richard Reeves</a>,
   writes in his 2017 book, DREAM HOARDERS:
   <blockquote>
@@ -1305,10 +1307,10 @@ Man's Inner World, and Wandering.</b>
   who, within their privileged quarters, must endeavor and compete among
   themselves.
   <a href="https://law.yale.edu/daniel-markovits">Daniel Markovits</a>
-  explains in MERITOCRACY TRAP how inequality grows as elite meritocrats invest in
-  their children, sending them to exclusive schools early on, and when the
-  children earn their privileged positions, they repeat the process with their
-  own children, leading to accumulating inequality. He writes:
+  explains in THE MERITOCRACY TRAP how inequality grows as elite meritocrats
+  invest in their children, sending them to exclusive schools early on, and when
+  the children earn their privileged positions, they repeat the process with
+  their own children, leading to accumulating inequality. He writes:
   <blockquote>
   Meritocratic inequality grows—and meritocracy builds and then reinforces its
   trap—through a series of feedback loops. The most important connects
@@ -4328,7 +4330,7 @@ Man's Inner World, and Wandering.</b>
   of human commonality.
   </blockquote>
   <span class="quoter">
-  —<a href="https://philosophy.uchicago.edu/faculty/nussbaum">Martha Nussbaum</a>, SEX AND SOCIAL JUSTICE:
+  —<a href="https://philosophy.uchicago.edu/faculty/nussbaum">Martha Nussbaum</a>, SEX AND SOCIAL JUSTICE
   </span>
 
   <br>
@@ -6425,11 +6427,11 @@ Man's Inner World, and Wandering.</b>
   <a href="https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html">count</a>
   from the 2020 census and the total net worth
   <a href="https://fred.stlouisfed.org/graph/?g=1kDFV">data</a>
-  segmented by percentile grouping (the top 1%, because of extreme internal wealth
-  disparity, is additionally partitioned into the top 0.1% and the remainder of
-  the 1%. Their total net worths are displayed in the dotted lines) from the
-  Federal Reserve, we compute the per capita net worth for each percentile
-  segment.
+  segmented by percentile grouping from the Federal Reserve, we compute the per
+  capita net worth for each percentile segment (the top 1%, because of extreme
+  internal wealth disparity, is additionally partitioned into the top 0.1% and
+  the remainder of the 1%. Their total net worths are displayed in the dotted
+  lines):
 
   <pre style="padding:0; border:0; background-color:white;">
                 2020 population  Q4 2023 Group Net Worth  Per Capita Net Worth
@@ -6512,7 +6514,7 @@ Man's Inner World, and Wandering.</b>
 
   <br>
 
-  A 2015
+  More indications of the growing inequality: a 2015
   <a href="https://www.ft.com/content/98ce14ee-99a6-11e5-95c7-d47aa298f769">article</a>
   in the Financial Times reported the decline of the middle class since 1971 and
   the expansion of the poorest and wealthiest ends. The Economic Policy Institute
@@ -6536,18 +6538,19 @@ Man's Inner World, and Wandering.</b>
   <a href="https://fred.stlouisfed.org/graph/?g=1kEms">income (before taxes) by quintile</a>
   since 1984: economic output measured through GDP per capita has steadily risen,
   yet the income (before tax) of the top 20% has continued to distance itself
-  from everyone else's. (More of the Fed's data that may be of interest:
+  from everyone else's (more of the Fed's data that may be of interest:
   <a href="https://fred.stlouisfed.org/graph/?g=1kEn0">income by decile</a>,
   more granular, although on a shorter time scale, from 2014 to 2022. And
-  <a href="https://fred.stlouisfed.org/graph/?g=1kEnB">income by education</a>)
+  <a href="https://fred.stlouisfed.org/graph/?g=1kEnB">income by education</a>).
   Simultaneously, a distinct and continuing rise in
   <a href="https://fred.stlouisfed.org/graph/?g=1kEoj">corporate profits</a>
   started around 1990, unabated by federal tax collection, which has remained
   relatively flat compared to the soaring profits, leading to the growing power
   of corporations.
 
-  How have the corporate tax rates faltered? We consult their historical brackets:
-  the IRS
+  With this sharp rise in corporate profits against stagnant corporate tax
+  receipts, have corporate tax rates faltered? We consult their historical
+  tax brackets: the IRS
   <a href="https://www.irs.gov/pub/irs-soi/02corate.pdf">documents</a>
   them from 1909 to 2002, with the Tax Foundation
   <a href="https://taxfoundation.org/data/all/federal/historical-corporate-tax-rates-brackets/">supplying</a>
