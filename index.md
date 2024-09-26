@@ -1555,6 +1555,26 @@ Man's Inner World, and Wandering.</b>
 
 <u id="liberal-hypocrisy">Liberal Hypocrisy</u><br>
 
+  <blockquote>
+  The preference that our individual ends up conveying to others is what I will
+  call his <i>public preference</i>. It is distinct from his <i>private
+  preference</i>, which is what he would express in the absence of social
+  pressures. By definition, preference falsification is the selection of a public
+  preference that differs from one's private preference . . . The distribution of
+  public preferences across individuals makes up <i>public opinion</i>, and that
+  of private preferences forms <i>private opinion</i>. The latter distribution is
+  hidden, so insofar as people's preferences determine which political programs
+  get implemented, it is the former distribution that pressure groups have the
+  most immediate stake in controlling. Likewise, it is public opinion, and not
+  private opinion, that determines the rewards and punishments individuals
+  receive for their public preferences.
+  </blockquote>
+  <span class="quoter">
+  —<a href="https://scholars.duke.edu/person/t.kuran">Timur Kuran</a>, PRIVATE TRUTHS, PUBLIC LIES
+  </span>
+
+  <br>
+
   My fellow liberals, my fellow intellectual, cultured, cosmopolitan,
   sophisticated, well-traveled, well-read, well-credentialed dignitaries, all of
   us immersed in a splendid diversity of cultures and cuisines, my fellow
@@ -2026,12 +2046,7 @@ Man's Inner World, and Wandering.</b>
   in The Atlantic about the current conservative push for public schools to censor
   many political issues, among them race and gender. Hixenbaugh observes how this
   censorship is similar to the Reagan-era's religion-derived censorship and
-  backlash against a rising secular humanism. This censorship is perhaps more
-  egregious on the left, as liberals do not just pander to political correctness;
-  they deceive by virtue signaling. Moving forward, are social norms to remain
-  bound by false modesty and restraint, and is society to prescribe costumes for
-  everyone in this public theatre? I ask: why is everyone so afraid of the
-  truth?
+  backlash against a rising secular humanism.
 
   <br>
 
@@ -2049,11 +2064,57 @@ Man's Inner World, and Wandering.</b>
 
   <br>
 
-  Are we convinced of the principles we have, or are they merely performative? Can
-  we defend our convictions from multiple vantages, against repeated, sustained
-  assault from some malicious nemesis, and can these convictions stand the test
-  of time, or are they only skin-deep, aligning with virtue insofar as they
-  procur benefit from the prevailing attitudes of the times?
+  This censorship is perhaps more egregious on the left, as liberals do not just
+  pander to political correctness; they deceive by virtue signaling. Moving
+  forward, are social norms to remain bound by false modesty and restraint, and
+  is society to prescribe costumes for everyone in this public theatre? I ask:
+  why is everyone so afraid of the truth?
+
+  <br>
+
+  <blockquote>
+  The manager of a fruit-and-vegetable shop [in a communist country] places in his
+  window, among the onions and carrots, the slogan: "Workers of the world,
+  unite!" Why does he do it? What is he trying to communicate to the world? Is he
+  genuinely enthusiastic about the idea of unity among the workers of the world?
+  Is his enthusiasm so great that he feels an irrepressible impulse to acquaint
+  the public with his ideals? Has he really given more than a moment's thought to
+  how such a unification might occur and what it would mean? . . . Let us now
+  imagine that one day something in our greengrocer snaps and he stops putting up
+  the slogans merely to ingratiate himself. He stops voting in elections he knows
+  are a farce. He begins to say what he really thinks at political meetings. And
+  he even finds the strength in himself to express solidarity with those whom his
+  conscience commands him to support. In this revolt the greengrocer steps out of
+  living within the lie. He rejects the ritual and breaks the rules of the game.
+  He discovers once more his suppressed identity and dignity. He gives his
+  freedom a concrete significance. His revolt is an attempt to live within the
+  truth. The bill is not long in coming. He will be relieved of his post as
+  manager of the shop and transferred to the warehouse. His pay will be reduced.
+  His hopes for a holiday in Bulgaria will evaporate. His children's access to
+  higher education will be threatened. His superiors will harass him and his
+  fellow workers will wonder about him. Most of those who apply these sanctions,
+  however, will not do so from any authentic inner conviction but simply under
+  pressure from conditions, the same conditions that once pressured the
+  greengrocer to display the official slogans. They will persecute the
+  greengrocer either because it is expected of them, or to demonstrate their
+  loyalty, or simply as part of the general panorama, to which belongs an
+  awareness that this is how situations of this sort are dealt with, that this,
+  in fact, is how things are always done, particularly if one is not to become
+  suspect oneself.
+  </blockquote>
+  <span class="quoter">
+  —Václav Havel, THE POWER OF THE POWERLESS, tr. Paul Wilson
+  </span>
+
+  <br>
+
+  These are formidable consequences, yet truth and an individual's integrity long
+  for open air. Are we convinced of the principles we have, or are they merely
+  performative? Can we defend our convictions from multiple vantages, against
+  repeated, sustained assault from some malicious nemesis, and can these
+  convictions stand the test of time, or are they only skin-deep, aligning with
+  virtue insofar as they procur benefit from the prevailing attitudes of the
+  times?
 
   I wish to emphasize that actions leading to effective social change may not
   evoke good feelings. Whether it is affirmative action or another social policy
@@ -2565,6 +2626,7 @@ Man's Inner World, and Wandering.</b>
 
 
 <u id="immigration">Immigration</u><br>
+
   <blockquote>
   Every generation writes its own history, for the reason that it sees the past in
   the foreshortened perspective of its own experience. This has certainly been
