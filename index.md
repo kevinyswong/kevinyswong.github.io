@@ -2258,7 +2258,7 @@ Man's Inner World, and Wandering.</b>
   I have found quite a universal rule which in this matter seems to me valid and
   above all others, and in all human affairs whether in word or deed: and that is
   to avoid affectation in every way possible . . .; to practice in all things
-  <i>sprezzatura</i> [non-chalance], so as to conceal all art and make whatever
+  <i>sprezzatura</i> [nonchalance], so as to conceal all art and make whatever
   is done or said appear to be without effort and almost without any thought
   about it . . . Thus, this excellence . . . brings with it another adornment
   which, when it accompanies any human action however small, not only reveals at
@@ -5285,7 +5285,7 @@ Man's Inner World, and Wandering.</b>
   It is impossible to know everyone<br>
   It is impossible to read everything
 
-  In this field, other individuals, like us, are constained by time, energy,
+  In this field, other individuals, like us, are constrained by time, energy,
   attentional bandwidth, bound by locale, and within these same parameters they,
   too, are confronted with the same problem: how to operate within this field?
 
@@ -8050,36 +8050,39 @@ Man's Inner World, and Wandering.</b>
 
 <u id="perceptions-media">Perceptions from Media, and Art: Serious vs Popular</u><br>
 
-  With our realm of knowledge confined to our narrow perceptions and limited
-  experiences which form our inner painting, and given the difficulty of knowing
-  many and varied individuals, our reality is simply what we have come to know,
-  one small fraction of the whole. Behind the painting is a window to the
-  outside: but how to know that our windows, or someone else's, accurately
-  captures the actual? In the daily crowds of society where strangers exchange
-  hardly a few words or, even if they do, remain behind idle pleasantries, what
-  is the scope of the relation among most people? Between one person and another,
-  what can each know of the other beyond the images created from one's own
-  coloration? Part of the significance of media representation is predicated on
-  our limitation of not knowing others, that instead of grappling with the
-  overwhelming complexity and drowning quantities of people in an attempt to know
-  individuals, we frame much of our interpretations of people, groups, and
-  reality through received presentations on the blockbuster screen: stock
-  characters, readily understood tropes, marketable motivations, simplified
-  portrayals, story arcs that within the short span of their alotted screentime
-  must resolve to some conventional satisfaction. Script writers by the pressure
-  of the market must conform to the audience's expectations for the usual
-  dichotomy between light and dark, good and evil, protagonist and antagonist, in
-  another iteration of the hero's journey with the same repeated excitement and
-  denouement, and the creative minds behind a project must, again due to market
-  and social pressure, inject some moralizing undertones, to abide by some
-  agreement that the audience is not critical or reflective enough to see that
-  the naive scheme does not represent the multifaceted layers of reality which
-  are usually informed by multiple vantages and competing interests. Yet, because
-  we are cloistered in the narrowness of our experiences and perceptions, after
-  finishing one of these shows or movies, our horizons do not so much as expand
-  as obtain further reinforcement of the same unquestioned assumptions, our minds
-  and outlook remaining inhabited by standard archetypes, manufactured images,
-  and cookie characters right from the stencil, invoked over and again.
+  We discussed in the Kant section how the images we have of the world are only
+  our mental representations, that the images we perceive of the outer are in
+  fact our internal interpretations created by our senses—our realm of knowledge
+  is confined to our narrow perceptions and limited experiences which form our
+  inner painting. Behind this painting is a window to the outside: but how to
+  know that our windows, or someone else's, accurately captures the actual? Given
+  the difficulty of getting to know many and varied individuals, our reality is
+  simply the version we have come to know, one small fraction of the whole. In
+  the daily crowds of society where strangers exchange hardly a few words or,
+  even if they do, remain behind idle pleasantries, what is the scope of the
+  relation among most people? Between one person and another, what can each know
+  of the other beyond the images created from one's own coloration? Part of the
+  significance of media representation is predicated on our limitation of not
+  knowing others, that instead of grappling with the overwhelming complexity and
+  drowning quantities of people in an attempt to know individuals, we frame much
+  of our interpretations of people and groups through received presentations on
+  the blockbuster screen: stock characters, readily understood tropes, marketable
+  motivations, simplified portrayals, story arcs that within the short span of
+  their alotted screentime must resolve to some conventional satisfaction. Script
+  writers by the pressure of the market must conform to the audience's
+  expectations for the usual dichotomy between light and dark, good and evil,
+  protagonist and antagonist, in another iteration of the hero's journey with the
+  same repeated excitement and denouement, and the creative minds behind a
+  project must, again due to market and social pressure, inject some moralizing
+  undertones, to abide by some agreement that the audience is not critical or
+  reflective enough to see that the naive scheme does not represent the
+  multifaceted layers of reality which are usually informed by multiple vantages
+  and competing interests. Yet, because we are cloistered in the narrowness of
+  our experiences and perceptions, after finishing one of these shows or movies,
+  our horizons do not so much as expand as obtain further reinforcement of the
+  same unquestioned assumptions, our minds and outlook remaining inhabited by
+  standard archetypes, manufactured images, and cookie characters right from the
+  stencil, invoked over and again.
 
   <br>
 
@@ -8306,7 +8309,7 @@ Man's Inner World, and Wandering.</b>
   the river.
   </blockquote>
   <span class="quoter">
-  —Brooks Atkinson, introduction (1937) to WALDEN:
+  —Brooks Atkinson, introduction (1937) to WALDEN
   </span>
 
   <br>
@@ -9896,7 +9899,7 @@ that income and status do not necessarily correspond to positive contributions
 to society—some occupations, prestigious or not, demanding or not,
 well-compensated or not, may well be effectively just taking up space, making
 some noise, and giving the impression that work is being done, as David Graeber
-describes in his undeniably subtle book BULLSHIT JOBS. Sally Rooney
+describes in his undeniably subtle book, BULLSHIT JOBS. Sally Rooney
 <a href="https://thedublinreview.com/article/even-if-you-beat-me/">writes</a>
 of her experience debating:
 <blockquote>
