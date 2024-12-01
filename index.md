@@ -10,7 +10,36 @@ layout: default
 
 <h2>Ruminations</h2>
 
-<a href="#2024-08-18">&darr;</a>
+<a href="#2024-08-29">&darr;</a>
+<b id="2024-12-01">2024-12-01, 六.</b>
+
+On a balmy Sunday afternoon when Kevin has decided to read, a perennial problem
+of his resurfaces as to where to plant himself down. Shall he take root under a
+calm, shady tree with the soft breeze against his cheeks, or sit by the window
+and enjoy the view of an expansive green lawn, the movement of people just
+beyond, or in the grand atrium exposed to multiple floors like an open office,
+any of these choices opting for a pleasant time which simultaneously suscepts
+him to distraction, no different from sitting in a busy coffee shop, subject to
+the encroaching dissolution from all sides: creaking chairs, crispy snacks
+crunching in mouths, the packaging ruffling, the room's oxygen depleting, and
+also the fragmented conversations of strangers, the footsteps that occasionally
+sound like stomps, and all other signs of life, or shall he choose himself over
+earthly pleasures, disappearing into the great unknown of the caverns beneath
+the earth where not another soul dare venture? Alas, Kevin's self-love too
+often wins the better of him, and off he goes, casting himself into the
+darkness, echoing some Byron:
+
+<br>
+
+There is a pleasure in the towering stacks,<br>
+There is a rapture in the browning pages,<br>
+There is humanity, where stale mold spores<br>
+By the forlorn tome, a dust storm rages:<br>
+I love not Man the less, but dead writers more
+
+<br><br><br><br><br>
+
+<a href="#2024-12-01">&uarr;</a> <a href="#2024-08-18">&darr;</a>
 <b id="2024-08-29">2024-08-29, 四.</b>
 
 I found myself on a college campus last night, sitting on a bench overlooking a
@@ -39,7 +68,6 @@ The cicada sound.
 <span class="quoter">
 —Matsuo Bashō, THE NARROW ROAD TO THE FAR NORTH, tr. Dorothy Britton
 </span>
-
 
 <br><br><br><br><br>
 
